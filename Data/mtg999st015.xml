@@ -1,0 +1,1389 @@
+<TEI.2 ID="mtg999st015">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Forum for International Educators Meeting </TITLE>
+         <TITLE> Rackham Div: NA </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 14910 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> MTG999ST015 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="102">             <DATE> May 6, 1998 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Eric Breck, Marianne Carduner, Janine Ovens, Rita Simpson </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Eric Breck </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Carrie Sue Sulzer, Rodney Pratt </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> John Swales </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Aaron Stark </NAME>
+               <RESP> Final Editing, 4/29/00 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">MTG</TERM>
+ <TERM TYPE="ACADDISC">999</TERM>
+ <TERM TYPE="PARTLEVEL">ST</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">NA</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="11"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="11"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="ST, Facilitator, (Amy)" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="ST, Participant, (Frank)" SEX="M" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S4" LANG="NRN" ROLE="ST, Participant, (Naomi)" SEX="F" RESTRICT="NONE" AGE="4">           <FIRSTLANG> TAG </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="ST, Participant, (Martha)" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="ST, Participant, (Diane)" SEX="F" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="ST, Participant, (Scott)" SEX="M" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="ST, Participant, (Kathleen)" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S10" LANG="NS" ROLE="ST, Participant, (Patricia)" SEX="F" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="S11" LANG="NS" ROLE="ST, Participant" SEX="M" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="R1" LANG="NS" ROLE="RE, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="SU-1" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-2" LANG="NS" ROLE="ST, Facilitator, (Amy)" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-3" LANG="NS" ROLE="ST, Participant, (Frank)" SEX="M" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-4" LANG="NRN" ROLE="ST, Participant, (Naomi)" SEX="F" RESTRICT="NONE" AGE="4">           <FIRSTLANG> TAG </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="SU-5" LANG="NS" ROLE="ST, Participant, (Martha)" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-6" LANG="NS" ROLE="ST, Participant, (Diane)" SEX="F" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="SU-7" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-8" LANG="NS" ROLE="ST, Participant, (Scott)" SEX="M" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-9" LANG="NS" ROLE="ST, Participant, (Kathleen)" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-10" LANG="NS" ROLE="ST, Participant, (Patricia)" SEX="F" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="SU-11" LANG="NS" ROLE="ST, Participant" SEX="M" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="ST, Participant" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="ST, Participant" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU" LANG="NS" ROLE="ST, Participant" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="ST, Participant" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Small Seminar Room, North University Building </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> (xx) bounced back to me.          <EVENT DESC="LAUGH"></EVENT>          this is my group at, at um, in advising          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> (people) </OVERLAP1>
+          who were interested in coming to these meetings          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          and i don't know why, it came back, but nobody, got the, the message. but Frank's here at least so. and Martha (has come,) so.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> she got it by telepathy not email right? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yes yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> you (xx) yesterday </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right i know, and that's but </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> but i didn't know if you were          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah, i i i just wish- </U2>
+          that Frank is (showing over here)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> that's right. it was a nice little (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> hi how are you? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> okay, i just talked to Johanna last night </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh did you? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> she thought_ she had said that she thought you had left Ann Arbor or som- </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well i am leaving Ann Arbor          <EVENT DESC="LAUGH"></EVENT>          actually pretty soon        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> when are_ yeah? when are you going? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> this summer, actually i'm leaving, so. so how's she doing? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> she is doing well.          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> she has uh tenure there now? </OVERLAP2>
+         </U2>
+         <OVERLAP1> she's_ she was on </OVERLAP1>
+          sabbatical this past year. she's going back to teaching in August.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh okay </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> wow gosh (it's) been so many years </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> so like when are you, leaving? like August? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> um, (probably in s-) July </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> but she may come before August </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah well tell her to email me </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah yeah (xx)          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> you taking any teaching time this summer Diane? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> um... yes uh, we've got a business trip coming up uh week after next um, Susan Williams and i are going to Greece,          <U2 WHO="SU-7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh </U2>
+       </U1>
+       <EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT 1:20"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> and then, the tail end of that will be, pleasure,          <U2 WHO="SU-7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and, um um my daughter's joining me in Greece at the end of that, um          <U2 WHO="SU-7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          (xx) somehow and somewhere.          <EVENT DESC="LAUGH"></EVENT>          and uh, then, at the end of the, toward the end of the summer (around) July or August, um, early August, um, we all, spend s- about (xx) or five days, or so in, Stratford          <EVENT DUR=":09" DESC="UNINTELLIGIBLE SPEECH"></EVENT>          join us, so that's fine, (xx) family (xx)        </U1>
+       <U1 WHO="SU-7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> it's a nice little town, too.          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah </U2>
+          there's more to do than, in between places (xx)        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah, before, we've always stayed in London because, it's a it's a real city you know, and Stratford is sort of,          <EVENT DESC="LAUGH"></EVENT>          corny, whatever          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          but um, you know this little country town that had things happen to it but this time we're gonna stay, you know some, a few days in Stratford and see (xx) if we can, take it or not          <EVENT DESC="LAUGH"></EVENT>          (xx)        </U1>
+       <U1 WHO="SU-7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> (xx) (last summer,) two summers ago i was up there, we only stayed for like (xx) (he's got a little) bed and breakfast place, you know? and it worked out just fine, it was kind of outside of the downtown area, very beautiful (xx) </U1>
+       <EVENT DESC="END CONVERSATION 1"></EVENT>       <EVENT DESC="CONVERSATION 2"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> so her brother lives here right? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah. you met you met her brother right? yeah. he's still around.          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          he bought a house over on (xx)          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> he did? </U2>
+          yeah.          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> wow. </U2>
+          so oh got mar- got married too.          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> he got married? wow </U2>
+          and got two kid- he's got two kids now        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> he has two kids?          <EVENT DESC="LAUGH"></EVENT>          well, i guess he was a pretty young guy (when i,) when i met him.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          he was only like in his twenties          <OVERLAP1> when he first came like </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> right right </OVERLAP1>
+          (he was) just starting as an engineer?        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm. yeah he's now.          <EVENT DESC="LAUGH"></EVENT>          family man.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Johanna's an aunt huh? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm. yeah. i'm trying to convince her to come. she said she will but, she's i mean, she was in uh Japan          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Japan? </U2>
+          she presented a paper in Japan.          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh wow. </U2>
+          and then, i think she presented a paper too in, in Boston, at an international conference          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah. </U2>
+          and then she's been, you know busy        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah sounds like it </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> (of course) she's got tenure now too </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i know </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> this um, oh you don't know, remember her boyfriend, Patrick </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh Pat? Pat Klein? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> what's his last name? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Pat Klein-Stark Doertier.          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh God </OVERLAP2>
+         </U2>
+         <OVERLAP1> can't believe </OVERLAP1>
+          i remember that, he has a really long name.        </U1>
+       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> how do you know Pat? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> you know Pat? </U1>
+       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> yeah he lives in my co-op </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> i think he's still there </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> yeah oh, he's there </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh, are you still in the co-op Rita?          <U2 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> yeah </U2>
+          oh        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> (i used to) live there for years that's why i know </U1>
+       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> oh really? that's how you know Pat? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Pat Klein was there, from eighty,          <U2 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> he's like the longest </U2>
+          (oh,) eighty-five          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh </U2>
+          he's been there, he's been there        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh my Lord </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no no no, i take it back eighty-six, i think eighty-six or, eighty-five.          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> he's been </OVERLAP1>
+          there he's been there          <OVERLAP1> the long- </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> he's still </OVERLAP1>
+          there i think, cuz          <OVERLAP1> when she comes, </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> why? </OVERLAP1>
+          i don't understand him          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> cuz when she comes, um, they see, each other, i think. um, but i think he's still there, as far as i know </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah that is amazing, that he still lives here </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> exactly          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> something's gotta be wrong with that man </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm. i know don't you think he would outgrow, you know,          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> but he must live </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> he's like the, </OVERLAP1>
+          perpetual teenager. he must be like in his forties now        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah. probably. no no no. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> and he has a good job, isn't he an engineer? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah. for the car company. i think he's in his late thirties,          <OVERLAP1> isn't he? </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> and his </OVERLAP2>
+            parents are          </U2>
+          and he's still there right? Pat?        </U1>
+       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> yeah. yeah. </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh i'm gonna have to tell Johanna. </U1>
+       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> how does Johanna know him? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> uh he think they had_ she would_          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> they were dating each other </OVERLAP2>
+         </U2>
+         <OVERLAP1> he he was her ex-boy- </OVERLAP1>
+          were yeah we_ boyfriend_ he was her boyfriend. i think no more right?          <OVERLAP1> no longer i think </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (last i talked to her) </OVERLAP1>
+          was a while ago.          <OVERLAP1> uh, i don't think so </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> uhuh, they weren't any, </OVERLAP1>
+          yeah yeah they're just friends, so when she comes here, they sort of, get together. can't believe        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i just can't believe he's still there          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> yeah,          <OVERLAP1> he's still there </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> but he was </OVERLAP1>
+          really getting into Scientology and        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yes, exactly, he is </U1>
+       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> oh yeah he gets those mails          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          i see them every now and then they come to the wrong door.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> what is this connection? how do          <OVERLAP1> you guys know each other? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> oh you see we </OVERLAP1>
+          we yeah we have a mutual friend        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> a mutual friend. isn't that amazing? Johanna lived there too. did you know her from there? </U1>
+       <U1 WHO="R1" NSS="NS" ROLE="RE" SEX="F" AGE="2" RESTRICT="NONE"> no, cuz i          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh </U2>
+          didn't live there until ninety-four (ninety-five)        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh okay. she was there in the eighties with Martha. right          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> the eighties </OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>         </U2>
+         <OVERLAP1> Martha? </OVERLAP1>
+          oh was it eighties          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> (xx) eighties            <EVENT DESC="LAUGH"></EVENT>         </U2>
+          yes right? yeah cuz Johanna graduated in eighty-nine. right.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i was there that time, yeah.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          it was the first place i lived when i came to Ann Arbor        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah and, b- Betsy lived there too right? Betsy Mullen? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yup Betsy lived there </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> and she's in Amherst </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> Betsy? oh no no          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no sh- no (xx) </U2>
+          North uh          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> North Carolina </U2>
+          Carolina right.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> cuz i used_ i w- i saw her actually (well not) recently,          <OVERLAP1> like a year ago </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> at a conference. </OVERLAP1>
+          Betsy? oh she was here?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no she's a friend of another friend of ours,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh really? oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> (Anthony) </OVERLAP1>
+          so when she comes she (always gets to see) to see him and then i don't see her. (xx)        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> all these mutual friends </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> a lot of traffic over there, these days? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> um, well we have a lot of traffic the last couple weeks because of all the students leaving, and, getting signatures and graduating and all that, so forms, certifications, advice.          <EVENT DESC="LAUGH"></EVENT>          but um, it's i don't know just to in- in- well i think you know that we're, spread out, um, over two offices it's now (we have a couple) (people) up at the North Campus office, the staff was really stretched          <U2 WHO="SU-m" NSS="NS" ROLE="ST" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U2>
+          i mean (it's) great to have that office but at the same time, we're kind of doing more than i think we really have the staff to do.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> any chances they          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> well </U2>
+          they'll add a position? or, no.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> but, well, it would be great i mean i don't (see any,) i mean the, impetus all seems to be towards trying to, cut rather than (xx) </U1>
+       <EVENT DUR=":43" DESC="UNINTELLIGIBLE SPEECH "></EVENT>       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> Naomi? do you wa- do you wanna run the meeting or do you want me to do it? um, i guess we better um, start now um, there might be a few more people, straggling in um, hav- i- since, </U1>
+       <EVENT DUR="4:25" DESC="MICASE-RELATED SPEECH"></EVENT>       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> um, i guess we could start by, introducing ourselves um, i'm uh Diane Parker and i work in the uh Testing Division, here at the English Language Institute, and i will, pass around a, list, of names, so, here we go... um... let's see, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> maybe we should just go around and          <OVERLAP1> let everybody, introduce themselves before we start, yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> we, just sort of go around, we introduce ourselves before we start, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> there might be            <OVERLAP2> some people who don't know </OVERLAP2>
+         </U2>
+         <OVERLAP1> saying what we're talking about </OVERLAP1>
+          okay        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> uh Rachel Ray Highte Biology um office Graduate Program Coordinator </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Amy Spencer International Center </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> Frank Jones Academic Advis- L-S-A Academic Advising </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> uh Scott Laing Office of International Programs </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Liz Gamine L-S-and-A Academic Advising </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Martha Lee Brennan L-S-and-A Academic Advising </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Kathleen Taylor Center for International Business Education or, just shorthand C-I-B-E in the Business School </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> Patricia Easton Housing </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> Naomi Rey E-L-I </U1>
+       <U1 WHO="SU-6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> okay, um, um, um, i guess usual- usually what we do at these meetings is just sort of go around and uh talk about what we've been doing, um,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> um </U2>
+          i have oops what?          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> um </U2>
+          did i? oh (it) um, i have a um notice here that you may have already seen and um, that i'll pass around, um our, MELAB uh testing program is undergoing some changes, um, first of all i should tell you what is not changing, um we will continue to administer individual and group MELABs in the United States and Canada. however after June thirtieth um we will not have any, um MELABs administered overseas uh there is one exception which might not affect, people here at the University of Michigan very much and that's um, Iran, we have been testing in Iran, and um actually most of those, students end up going to Canadian universities. um, the, the reason for this uh was that it was becoming more and more cost ineffective um to have these, make complicated arrangements for individual, tests uh overseas and it just wasn't worth the, the the time we were putting into it. and um, the other the other thing is the, the TOEFL test as you may know uh has, uh changed um, to a uh computer-delivered uh test i- in, uh most places in, i think with the exception of some, Asian countries the far east, um, the TOEFL uh will be, will be given um, uh via computer-delivered tests and uh people can take, those TOEFL tests uh, pretty much on demand they don't have to, the tests are not given like every six weeks, um i think initially they're having a few problems with uh, a waiting list of people signing up to take the test but that probably should eventually, that logjam should eventually um, break down. so that's, about, all i have to say. so um        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> do we go this way or that way? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i have a question for          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mhm mhm </U2>
+          you um somebody from E-L-I actually involved in the, um I-G-S-I, participants in the August workshop          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mm            <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> um, </OVERLAP1>
+          do you, facilitate the students finding housing for that, during the course throughout their course or are they expected to arrive          <U2 WHO="SU-6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> on            <OVERLAP2> their own </OVERLAP2>
+         </U2>
+         <OVERLAP1> a few days </OVERLAP1>
+          early, find their own housing          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> right </U2>
+          yeah, okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> (now the) early arrival housing will be, open during the whole, period of the course right Patricia? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> in the          <U2 WHO="SU-11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> no </U2>
+          month of August?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> it's </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> starts July thirtieth          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> goes till </OVERLAP1>
+          August twenty-seventh so it's not the full month of August        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> okay </U1>
+       <U1 WHO="SU-11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> if anyone needs a flier i have it          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> right </OVERLAP1>
+          here        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh i think i will need          <OVERLAP1> right </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> it goes </OVERLAP1>
+          until what time? do you know? (Patricia)        </U1>
+       <U1 WHO="SU-11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> August twenty-seventh </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> August twenty-seventh </U1>
+       <U1 WHO="SU-11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> noon </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> how long's the I- I- the I-G-S-I will be over by then uh, won't it? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> the August workshop is for uh three weeks          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> okay. </U2>
+          so it would be like first week of August to like third week of August.          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          oh wait a minute, isn't it end          <OVERLAP1> of July? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> isn't it </OVERLAP1>
+          the third to the twenty-first or          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> something? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U1>
+       <U1 WHO="SU-6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> so, uh do most of these, IGSIs Naomi then um come to the, in,          <OVERLAP1> (Ann Arbor or) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> no they're sort </OVERLAP1>
+          of like um, these people have          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> they find apartments? </U2>
+          yeah          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> or </U2>
+          they find it on their own          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mhm </U2>
+          and they've been here like a year so they're_ a lot of them are coming to_ from other universities, so, they've been here for at least a year so they are not like... i mean          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> they they </OVERLAP2>
+         </U2>
+         <OVERLAP1> some some </OVERLAP1>
+          are coming from, you know        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> i thought i thought the August workshop people were not,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> no but some of            <OVERLAP2> them </OVERLAP2>
+         </U2>
+         <OVERLAP1> coming from </OVERLAP1>
+          within the U-S i thought          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> some of them some of them </OVERLAP1>
+          not all.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> but some of them are going to be brand new aren't they? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right right some are brand new          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah </U2>
+          but we don't do any unless C-R-L-T, but E-L-I does not as far as i know,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no i don't i don't think so i mean some of them come to the International Center          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> (first) </OVERLAP1>
+          too but um        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> but you're saying in terms of housing we          <U2 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> don't, (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> no i don't </OVERLAP1>
+          think it's, facilitated but th- those um, i i i mean i think housing always makes sure that, early arrival housing is open early enough so that          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          they can stay there if they wanted to.        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mhm right. and um, i have had a couple inquiries from people, like that          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm yeah right </U2>
+          that're going to move in really early,        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> i'm just_ i'm gonna forward this to the coordinator of the IGSI program Michele Ruffe,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          and uh, Sara Lonsway who is the coordinator, overall coordinator, of the IGSI workshop, but Michele Ruffe is the one who'll coordinate this summer, so i will get          <OVERLAP1> this to her. </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> have they sent out the </OVERLAP1>
+          information packets?        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yes          <U2 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> they have? </OVERLAP2>
+         </U2>
+         <OVERLAP1> oh yeah. </OVERLAP1>
+          yeah quite early i think, they sent that.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> cuz, they          <OVERLAP1> just requested us </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> now i don't know if they </OVERLAP1>
+          have sent this i don't          <U2 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well </U2>
+          know        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> they just requested that we have by May eighth turned          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          in the names and addresses, and          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm </U2>
+          it's only May sixth today, so i'm thinking they may not have sent the information packages yet        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh, that i don't          <OVERLAP1> know </OVERLAP1>
+       </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> in which </OVERLAP1>
+          case you could slip these in,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          to to          <OVERLAP1> ma </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> i'll </OVERLAP1>
+          ask uh Sara        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> well we sent these uh um fliers out to many departments, uh that do have,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          early graduate students, and,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          early students coming,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          so that they could uh          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> forward </U2>
+          send this to the right        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> this is good information. </U1>
+       <EVENT DUR=":13" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> this is, this booklet is, is new it's the new um undergraduate,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> residence </OVERLAP1>
+          hall booklet. the other one we_ has been passed out it's for graduate housing we have passed that a couple times, so and then there's the uh, rate sheet for uh this, academic year        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> okay, great. thanks </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> any more, E-L-I stuff, or is that </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> i don't really have much to tell except that i have already distributed every, last month the uh E-L-I summer programs          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          so, you know? we are slowly admitting, students,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          and um, as usual we have the three, programs English for Business English for Academic Purposes and English for Legal Studies, starting June thirtieth, and ending August fourteenth. so, if any of you have not received the brochures i can get some, but, i think that's it.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay uh, w- i think most of you know Arthur Ward who's also from the International Student he's one of our foreign student advisors and, because we're a little bit um, short of advisors today he's probably gonna just stay for part of the meeting          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> alright </U2>
+          so if we could just um, jump in if anybody had any particular, immigration, related questions, issues,          <EVENT DESC="LAUGH"></EVENT>          (um) okay i think Liz? we can depend on you. uh, ask now or if you ask me i'm just gonna make it up as i go along. so, if          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well that'll work too </U2>
+          you want actual reliable information um, go ahead        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> first of all the burning question has I-N-S come out yet with any statement about, students from the five countries in crisis? nothing has come yet, okay. and still there's no other, word about what the University is going to be doing to,          <U2 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> not to my knowledge </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          help them Omar hasn't, okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well that's not exactly um, an um, an immigration question but you          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right right </OVERLAP2>
+         </U2>
+         <OVERLAP1> can ask it anyway </OVERLAP1>
+          um but uh, so let me um, uh uh jump in quickly um, my understanding is that it's still being discussed there are, some possible um, scholarships um which'd require the University to match funds          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          um i think that's tied up with the um Office of the General Counsel over the whole, issue of preferential dealings          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yes right </U2>
+          with um, you know for students from particular countries or ethnicities.          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          um and i think um, you know that's_ i haven't heard anything          <OVERLAP1> beyond that </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay so it's </OVERLAP1>
+          stuck there probably for a while?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> probably until the affirmative action s- case is settled.          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+         <EVENT DESC="LAUGH"></EVENT>          so        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay, um, but another another more direct um immigration issue uh for students who are, um, who are here now for the, they're doing half-term work, if they've done          <U2 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> in the spring </U2>
+          in the spring right. and they've done a fall term? is the the, combination of a full-time, f- uh sorry winter, full-time winter and f- and full-time spring half is that enough for the, f- for the, okay for them to come back in with the I-twenties is that?        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> okay. when you say okay for them to          <OVERLAP1> come back in with with </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> will will it it be signed </OVERLAP1>
+          if they go out?        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> with yeah okay let me, just make a comment. normally F-one students, are expected to attend school full-time, for the equivalent of an academic year,          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          in order to be eligible to take, a vacation term          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          however. spring-summer is an exception.          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          if a student came in, to start the program in January          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          and they attended full-time, in the winter term. they would still be eligible to take off the spring-summer if they          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> oh wou- would </OVERLAP2>
+         </U2>
+         <OVERLAP1> wanted, </OVERLAP1>
+          if they wanted to have their, spring-summer vacation,          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          time be the traditional time. but, if such a student, who came in the winter, also attended school full-time during the entire spring-summer          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay            <OVERLAP2> entire </OVERLAP2>
+         </U2>
+         <OVERLAP1> okay, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> spring-summer not            <OVERLAP2> a half-term, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> the entire </OVERLAP1>
+          spring-summer, then they would qualify to take off the fall term          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> oh            <OVERLAP2> i see </OVERLAP2>
+         </U2>
+         <OVERLAP1> if they </OVERLAP1>
+          wanted to          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          okay? or if they came, if they came in the summer, and attended full-time during the entire spring-summer and then attended in the fall,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> the fall they could take off winter </OVERLAP2>
+         </U2>
+         <OVERLAP1> they could then take off </OVERLAP1>
+          the winter term.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay. but if if she has done just a, f- winter term </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> she's fine </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> she could be          <OVERLAP1> she'll, be alright it's_ okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> she's fine </OVERLAP1>
+          we would sign the          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay, alright that's fine that's what i wasn't quite sure </OVERLAP2>
+         </U2>
+         <OVERLAP1> I-twenty and she could go home and come back </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> (when) i did, i tried calling in last week and i know you were, swamped so i, i held my question.          <U2 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> yeah            <OVERLAP2> (well i) </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          hoping that i'd get an answer here but that's great. okay. good.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> for F-one questions it's still Arthur? and um, who's the other one (xx) </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> well i- i- actually we are all,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> you are all, handling </U2>
+          there at the uh, out on the North Campus          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> uhuh </U2>
+          there are two people, only one can sign I-twenties but uh that's Mary Coppler and Terri Mancini. Terri signs the I-twenties and Mary signs the I-A-P-sixty-sixes. now uh,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> on </U2>
+          in the          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> Central Campus </OVERLAP2>
+         </U2>
+         <OVERLAP1> uh </OVERLAP1>
+          Central Campus, we've got three people advising,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          uh, w- i, uh i'm still there and, uh, Tori, and uh Feng, is signing I-twenties, and, Holly Cokigo,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          is signing I-A-P-sixty-sixes but we all talk to, uh, to everybody, so they're actually, uh          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh            <OVERLAP2> so (we we can ask) </OVERLAP2>
+         </U2>
+         <OVERLAP1> a variety, </OVERLAP1>
+         <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> (anyone) </U2>
+          right...?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> are there any restrictions or, anything of that sort for, internationals looking to do an internship? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> oh yeah,          <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          lots. but there're lots of possibilities too. there are a variety of ways to get, permission, to uh, to be employed. uh, it it's different, for the F-one student, compared to the, to the J-one student. uh basically there are two ways, um, the_ if, if a if an F-one student, has an offer of a specific internship, and, if, if they can, can document and we usually use a letter from their academic advisor or one of their professors, if they can document that this internship constitutes an integral part of, their established program if it's closely related to their research, then we can give them the permission on the spot. to, to take the, uh, to take the job. that's the fastest way. uh, uh to do it. if they have a specific internship lined up in advance, if they don't have something specific lined up in advance, or if they can't show, somehow, that it's an integral part of, uh, of their curriculum, they can still apply, f- for a carte blanche permit to go out and work anywhere they want in their field, without having a specific job lined up in advance, but, in order to get that kind of permit, they have to send an application and pay a small fee, to the immigration office, and, it takes a month or six weeks, uh to get the uh to get the permit um these two programs are, referred to as practical training programs          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> mm </U2>
+          and the one, the one that has to be based on a, on a specific uh, internship, is called curricular practical training, and the one that's just carte blanche, is called optional practical training. but we, w- we, we're constantly involved, in, uh in (xx) so we have, we have workshops throughout the, throughout the semester and, we have handouts and we use to, uh, mostly the students are, generally aware that...        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> uhuh </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> do they have to be enrolled at the time that they take the internship? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> i'm sorry? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> do they have to be enrolled at the time that they're doing? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> no. no. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> uh do they still have two, types of internships where there's the kind of, pre, bachelor's degree, and then there's the practical training which which is_ they're eligible for after receiving their          <OVERLAP1> degree </OVERLAP1>
+       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> okay they </OVERLAP1>
+          uh... the f- the first, kind, of internship that's based on a specific, uh uh job related to the to the field, the one that's called curricular practical training, can only be given, prior to graduation, okay? and can be given on a part-time basis or a full-time basis. if it's given on a f- if it's given on a part-time basis during the academic year, then the student must continue to be registered as a full-time student. okay? if it's given, on a full-time basis, during the academic year, then the student doesn't have to be registered at all, while they are doing the job, full-time. if it's given, for during the vacation term, then the student doesn't need to be registered, uh anyway, but they can be if they, uh if they if they wish. the other program called the optional practical training, oh i_ and i should say that the first one, the curricular practical training, is unlimited, there's no time limit, on how, many months a person could actually do this. theoretically over a, five year period, or a six year period a person might, s- spend two or three years, at different times, doing, curricular practical training. however, the other practical training program the optional practical training program, is restricted to a total of twelve months, you can borrow part of this before you graduate, or you can save up and wait and use it all, after you graduate. however, if a student, participates in, twelve months, or more, of the curricular practical training, if they participate on a full-time basis, then after they graduate they, they forfeit, using the optional practical training. however, if they sign up for curricular practical training on a part-time basis, before they graduate, then they don't lose anything, no matter how long they worked, on a part-time basis. now, a person who wants to get optional practical training, has a choice of borrowing before they graduate. and you can borrow on either part-time basis, or a full-time basis. if you borrow on a part-time basis, before you graduate, then you lose one month, of your, postcompletion practical training, for every two months that you work prior to completion on a part-time basis. if you borrow on a full-time basis, before you graduate then for every month that you work before you graduate, one month would be deducted from the twelve month total after you graduate. so, you know tha- i've i_ probably spent too much time on that you don't usually, uh        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> we've got your name and number. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> can we deal with it on a case by case basis? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> keeping you know, keeping track of it, and uh </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> seems everything can be an exception </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> oh sure </U1>
+       <U1 WHO="SU-10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mm yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> well it's so nice though to hear it uh spelled out          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> it is </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          clearly and unambiguously          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> (a little change) see (it'll be) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> even if it does change, is there any other, domain of immigration and naturalization business that's so clear-cut i mean          <EVENT DESC="LAUGH"></EVENT>          and do we know whether it is or not?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no it's nice to know that there's someone, who knows all this, information it's really, it's, yeah. it's amazing. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> and we do give um all through the um the academic year we give, workshops during the winter term we we give them like, every every week or every other week so that, students can come and and hear all of this um, at even greater length so um, that's um you know that's probably what you should refer students to          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> oh okay that's good </OVERLAP2>
+         </U2>
+         <OVERLAP1> also if they just wanna get an overview </OVERLAP1>
+          of what's um, um of what's going on anything else in the, in the immigration domain?        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> not right now          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          maybe in June        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> be tax time at the end of June </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh God. we just barely made it through tax season this year but,          <EVENT DESC="SIGH OF RELIEF"></EVENT>          but we made it through... okay then um, i guess we could continue i don't know what direction we're we're going in well actually should w-        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> listen i'm gonna go back i          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> (happen to) have </OVERLAP1>
+          some people          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (us lots of people) </OVERLAP2>
+         </U2>
+         <OVERLAP1> waiting for </OVERLAP1>
+          practical training        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> alright okay thanks a lot for coming Arthur.          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> thank you </U2>
+       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> yeah good to see you... </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> there are no          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay well you wanna go over and g- </OVERLAP1>
+          Patricia do you wanna do housing then?        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> okay, well i, just passed out the, booklets that, you might be interested in, um i just wanna update you on, reapplication in the residence halls, uh, you probably heard we were having a crunch, and that crunch didn't turn out to be s- such a crunch we we had less sign- um, returning students sign leases for next year, so that makes more spaces for new students hooray hooray, and um, also, this is the first year that students can uh fax back their, leases          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> mm </OVERLAP2>
+         </U2>
+         <OVERLAP1> as </OVERLAP1>
+          well as their applications, and we don't want to see the original.          <EVENT DESC="LAUGH"></EVENT>          it just gets too complicated. and um, uh i- i- i'll uh entertain any questions.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> so ca- oh can they apply too by fax? </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> well we- we're not online,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm,            <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> so we do </OVERLAP1>
+          have to s- mail, the information        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh so the application          <OVERLAP1> form (does not) fit </OVERLAP1>
+         <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> once they </OVERLAP2>
+            receive it,          </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> oh okay </U2>
+          then they fax back          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mhm </U2>
+          oh okay, but applications, w- l- do you think that w- will come?          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> yes. we're working on it </OVERLAP2>
+         </U2>
+         <OVERLAP1> the time will come when the </OVERLAP1>
+          applications will be online?        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> we're working on it </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah, cuz like for summer students are very very anxious </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> sure, sure </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> are there availabilities in most, uh buildings now or, (is it uh) </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> uh yes there will be, there's_ there were uh, you know certain halls that are reapplied for rather heavily, which been a custom for several years, Mosher-Jordan, and um, West Quad, and, and South a fair amount but_ and we're also um, by the way we're we're, placing um, transfer, sophomore students uh, before, i i mean they're kind of like, guaranteed housing if they get their application in, by a certain date, which was, the the uh drawing, March sixteenth i mean April sixteenth or something. which we've never done before we've turned um, we've had to turn sophomores away, and so many people complained because they're like, still freshmen, and um, so we are housing them, this year too and they'll probably, uh mostly be placed in those halls where, uh, there are still spaces, and the reapp, was high. </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> um, i have a couple questions um, what is the um, what is happening as far as short-term housing both this summer and then          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> yeah (that's) </OVERLAP2>
+         </U2>
+         <OVERLAP1> in the fall </OVERLAP1>
+          is any Baits gonna back to          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> no </OVERLAP2>
+         </U2>
+         <OVERLAP1> Mosher </OVERLAP1>
+          no okay.        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> Baits will not. we do have a freshman hall at Baits only one instead of two as,          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          we told you earlier,          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          we don't have any short-term housing summer, yes call Conference Services        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> so it's basically like Oxford and and that </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> well it's it's also- i think they have uh, spaces in a residence hall for the summer like they last year they had Bursley, (think) they do this year. by the way spring-summer this year, for students is at Alice Lloyd,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          cuz there's too much noise down at Markley.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> (do you f-) cuz of construction. um do you foresee any crunch in the summer, housing? </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> oh, uh- </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> no          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> not really </U2>
+          not it- i- it's in the past there's never          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> right </U2>
+          been a problem        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> right cuz there's so many sublets          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> okay </U2>
+          out there that are really cheap.          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U2>
+          for off-campus housing.        </U1>
+       <U1 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> who is um, who's doing the mediation services,          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> oh </U2>
+          now?        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> one time i'll i'll bring her along          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          some time. and uh her name is Renee Star.          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Renee Star okay. </U2>
+          she has had uh so this is mediation, and off- also off-campus housing advisor, she's new Rob went to another area in our office, which is um, our our computers, and online things          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh </U2>
+          so um, Renee just started but, she doesn't have to learn a whole lot because she's been, she had years and years of media- uh mediation oh i don't want her to sound old but, she's          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          (esp-) cuz she's not          <EVENT DESC="LAUGH"></EVENT>          not, uh, but uh she even taught mediation in California to to groups          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh            <OVERLAP2> great </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          um, she should be fabulous        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> that's sounds wonderful </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> what did you say her last name was? </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> Star </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> Star </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> just like </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> S T A R R </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> uh-oh </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh-oh          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> so um, i have a question though </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mhm? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> is it possible let's say for our students that have been admitted to our summer program, it is possible that you mail them um, leases applications? or? </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yes um, i- if they're online are they oh we don't put 'em          <OVERLAP1> online do we? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> no not yet </OVERLAP1>
+          yeah        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> you can you can send that stuff to me,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> and then we'll </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          we'll send that out but they're students that are, intending to be here in the fall is that correct?        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> some of them are.          <U2 WHO="SU-11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> oh well the- </U2>
+          this is just for the summer.        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> okay          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> no? </U2>
+          i think what we need to do is just ask 'em to come into the office          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah that's what i've been doing because            <OVERLAP2> (because some of them) </OVERLAP2>
+         </U2>
+         <OVERLAP1> won't </OVERLAP1>
+          have an I-D number either          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U2>
+          until um... (xx) put 'em online, yeah.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> no most of them have I-Ds already cuz the Rackham students, the I-Ds are already in          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> (would they be) </OVERLAP2>
+         </U2>
+         <OVERLAP1> their letters, and for undergraduate </OVERLAP1>
+          admissions their I-Ds are already        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> will they be online? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> that i don't know? </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> S-E-D-B? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah. most likely though. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> well          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> for Rackham? </OVERLAP2>
+         </U2>
+         <OVERLAP1> if that's the case </OVERLAP1>
+          we'll automatically send 'em out.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm, so i don't even need to send you </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> not really. um, you know send me, faculty members, and staff members and people that aren't caught by          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          S-E-D-B.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> will you accept uh fax leases from, overseas exchange students? </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> sure </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> that's okay too? good </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> so when do you think those application forms will be online are you working towards that? </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> oh yeah not this year. uh </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mkay, that would be (really help) </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah. i think Rackham, has their application online who else does? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Undergraduate Admissions </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> they they do... </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i think so </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah yeah. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> i think we're ahead of that right? everybody is... </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> but you've got all your off-campus housing those things on the web so </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> well not all not all tha- a- really what is out there is um, uh, off-campus housing, that's um available through independent landlords. we do not have the uh management company listings on the web          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh, okay </U2>
+          and they're, still, on fliers in our office. and that's the majority, of off-campus housing.          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm </U2>
+          so, you know        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> but you do have the management company contact information on the web i've noticed so, so, yeah </U1>
+       <U1 WHO="SU-11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE"> absolutely it's it's there a- yes we have um, a flier that we sent out with our off-campus packets telling all the management companies, names phone numbers dadada yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay. alright. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> uh, i'd just like a few things about the center and uh (we've) just gotten through with our internship funding, and we see an interesting trend in that we_ i think in the Business School there are fewer and fewer people applying for international internship funding, which is interesting          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> hm' </OVERLAP2>
+         </U2>
+         <OVERLAP1> so we've </OVERLAP1>
+          uh, we've been funding a lot of uh students from the School of Natural Resources, which is          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh that's interesting </U2>
+          yeah yeah yeah and they're they're working on these fascinating projects and most of them are (in) Eastern Europe and they're working (on, pollution) and what to do with it and so some of their, their internships sound, sound really fascinating we've also funded a number of people from the Law School, a number of undergraduates a lot of them from the uh, German Department, there's a woman there who's been really active, in finding internships for their students there          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> hm </U2>
+          so depends you know if there's a good contact, in any given department, trying to find internships we find that we get a lot, of of (wind-) uh applicants, and also we funded a number of students who've applied both to the International Institute and also applied to our center, for funding. the other thing we're offering right now is uh funding to obtain summer language programs          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and uh, so          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> this </OVERLAP1>
+          yeah and a lot of them is for our_ for the joint M-B-A and area studies uh students. but we'll consider anybody for instance in the M-B-A program who would be, taking a language at the expense of a very uh you know i mean (the) opportunity (cost is) an internship (paying) a lot of money so, uh we consider students who, you know prefer a language over their internships so we will consider funding it to study a language. uh currently we have, uh a study tour going on to uh, Japan, uh Singapore, and there are eighteen people on that trip a combination of PhD students, faculty and uh M-B-As. and, that's about it.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay, thanks </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> will you have any groups coming, to the University of Michigan, in the fall          <OVERLAP1> or </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yes, </OVERLAP1>
+          yes at a matter of_ good question          <EVENT DESC="LAUGH"></EVENT>          we have (we're s- we're having the) third iteration of the uh,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          Hong Kong program for the civil servants from, the Hong Kong government.          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mhm </U2>
+          but i think that, uh your question probably is related to housing          <EVENT WHO="S10" DESC="LAUGH"></EVENT>          and uh they'll still be at Oxford.          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> great </U2>
+          yeah          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> great. </U2>
+          and that works out really well, uh i think for the Oxford          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> and for everybody else </OVERLAP2>
+         </U2>
+         <OVERLAP1> people. (xx) </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> (good) </OVERLAP2>
+            for everybody          </U2>
+          and they often felt_ well this is an interesting thing uh they feel that, the people who come to this program although they like Oxford, they feel that they're really not integrated          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> mhm, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> into (the) campus life. </OVERLAP1>
+         <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          and but, they're only here for four months,          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> how integrated are they gonna get </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's an interesting pro- </OVERLAP1>
+          how integrated, can they get?          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          we tried to uh offer to um, give them all the programs that_ in which          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          they can integrate themselves          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and and seminars          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and all this, and uh_ but they don't take advantage of them          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh, i see </OVERLAP2>
+         </U2>
+          so i think it's a          <U2 WHO="SU-11" NSS="NS" ROLE="ST" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> mm </OVERLAP2>
+         </U2>
+         <OVERLAP1> moot </OVERLAP1>
+          issue when they          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> complain </OVERLAP1>
+          about uh being off-site at Oxford, because they really are          <OVERLAP1> not making any effort </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> how many, </OVERLAP1>
+          of them are there?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> it's it varies between sixteen and twenty, i think we'll have twenty          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          this year        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> okay so they're here for four months from what countries are they? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> they're all from Hong Kong          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> all from Hong Kong </OVERLAP2>
+         </U2>
+         <OVERLAP1> they're civil servants </OVERLAP1>
+          from the Hong Kong government.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> cuz there is i don't know, i may sound like an advertising, but there is a          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> go for it            <OVERLAP2> Naomi </OVERLAP2>
+         </U2>
+         <OVERLAP1> there </OVERLAP1>
+          is a um an apartment uh, apartment building Ecumenical Campus Center, (where in um upstate) there is a student          <U2 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and our visiting scholar stayed there for, a period of two to four months. they always have available space, you know. and, it's it's a very good uh community because it's because there's an exchange of culture, because they have programs, you know it's really international they have students from all over the world, and i think they have like two buildings, so they may be able to          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> (i know where those buildings are) </U2>
+          right. mhm, and it's really a lot of r- visiting scholars and students, have really enjoyed that program. so, so they are really you know you_ immersed into cam- they're just there on Church Street. it's right behind the Business School.          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          i've stayed there so, one time we had like, people from forty countries.          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U2>
+         <EVENT DESC="LAUGH"></EVENT>          well my husband is also, my husband's from Hong Kong          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> we don't (xx) </U2>
+          and so he also stayed there.          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah, okay </U2>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> (they all fit, they're) usually full for fall term though so that's something          <OVERLAP1> (you might wanna look) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) (other is that the) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> well, well you know um, you could really try </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i mean if you if you're gonna follow          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U2>
+          up on something like that you probably need to          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right. </U2>
+          check fairly early.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right i know the director there. her name is Sherry Martin. but i think this is her last year.          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah i was gonna sa- </OVERLAP2>
+         </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah she's been here for </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's two-six-eight_ </OVERLAP1>
+          she was there when i was a student.          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> really? </U2>
+         <EVENT DESC="LAUGH"></EVENT>          she was (already) associate director and she's like Arthur was already there when i was a student. and how old i am.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> how many peop- peop- uh, how many,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> two-six um </U2>
+          students, can they s- house?        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> two-six-eight seven-one-one-three i think. it's Ecumenical Campus          <U2 WHO="SU-10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> Center </OVERLAP1>
+          but again they have to remember that this is shared, shared apartments          <U2 WHO="SU-10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah yeah </U2>
+          it's not like having their own bathroom, stuff          <U2 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          but i think the important thing there is that, they are on campus, and there is an exchange of different cultures, and they also have different programs going on. they take field trips, they're brought to uh you know like, shopping, they are, taken to the grocery, they organize activities for them. they even have trips like to Washington D-C, stuff like that, so. going shopping to Birch Run        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> sounds like the (xx)          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> exactly yes, right right </OVERLAP2>
+         </U2>
+         <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> (xx) they're the same ones that are popular, (or) </OVERLAP2>
+         </U2>
+         				well as a matter of fact the first question          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> they asked </OVERLAP1>
+          once they get here is uh when_ how can we get to Birch Run          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh, see </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> and not Meijer's huh? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> it's world-famous </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yes </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well i can i can sell, you know tickets on the, (and run over again on that van          <OVERLAP1> to Birch Run xx) </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> it's just amazing </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> (they're having a) Birch Run passover (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah right right </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (xx) reside around here </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> yeah see yeah. </OVERLAP1>
+          do they all have to be together th- the_ let's say the sixteen or twenty people        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> not necessarily </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> so see some of them could be there and maybe some of them could be (up) it's really you know i recommend, and our, you know what's what's his name Madison? the Brazilian, he just stayed there recently yeah he was there for two months, he w- he really, only had nothing but good things to say about it.          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah yeah everybody i've known who's stayed there has (xx) too </OVERLAP2>
+         </U2>
+         <U2 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> so it might (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> right. well i i was there </OVERLAP1>
+          too for almost two years so, i can attest for that.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> even for short term it would be          <OVERLAP1> (good for some people) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yes (sometimes) they really do have available so, you need to talk_ just talk to Sherry </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> cuz i have someone coming in for a month in September          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U2>
+          so i might (xx) September        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well, again they're probably not for a month </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> they're not gonna wanna do it          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          because they like to, um, rent for at least at term and actually preferably the whole academic year for          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          the same reasons everybody else wants to do it        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> if (you work) for the summer </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i- in this_ in the winter sometimes, because sometimes          <U2 WHO="SS" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> yeah right </U2>
+          the scholar's just there for the          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> right right </OVERLAP2>
+         </U2>
+         <OVERLAP1> fall, (stay) </OVERLAP1>
+          in the winter and they might cut a deal with you or the summer, um fall is, fall is hard there as well        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> anywhere </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> uh yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> see that's why i come to these meetings i find out          <EVENT DESC="LAUGH"></EVENT>          something every time i come that's really (useful) for me        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> you know i always used to think that way. and then, just one time i just gave it a try, and like this person was          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> there, </OVERLAP1>
+          she_ he came like in uh March,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          uh n- n- no February. so he stayed there from February on to        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh yeah. yeah well especially winter term i think it's fall that's the tightest          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> oh yeah </U2>
+          it's always worth trying Sherry's very nice          <U2 WHO="SS" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> (xx) yeah </U2>
+          so she'll          <U2 WHO="SU-4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U2>
+          you know she'll let you know what's what's available        </U1>
+       <U1 WHO="SU-10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> and how many spaces are there? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> i really don't know but there's like two buildings.          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> two build- </U2>
+          you know i'm i'm sure it_ there the shared housing, so. and the people are really international like with Madison he had a Braz- he had a Portuguese, roommate and he had a, uh Tur- uh Turkish roommate. and what we did too is, uh i kind of describe to her to how old these people were gonna be, and you know, then she kind of matches them up. not mixing an eighteen-year-old          <OVERLAP1> with </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> are </OVERLAP1>
+          they mostly graduate students?          <OVERLAP1> or (is there a) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> yeah. there's a lotta graduate students </OVERLAP1>
+          right        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> and scholars </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah and scholars visiting scholars </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> could you just repeat your institution and your name cuz i, i don't </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> it's Kathleen Taylor, and i'm with the Center for International Business Education in the Business School. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> thank you... </U1>
+       <U1 WHO="SU-4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> are you with Ali- Alicia's not in the same          <OVERLAP1> office? </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> no </OVERLAP1>
+          Alicia is in admissions and so is John Cooper who usually, they're usually          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> yeah </OVERLAP1>
+          usually here        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah they emailed me to say that they were kind of swamped          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          so        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> seems we all are </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah... </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> do you want to (xx) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> Martha. oh yes Martha you can talk about the co-ops, Martha you can talk about the co-op </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> much to my dismay Martha is, leaving us which is why she's going to remain silent at this          <EVENT DESC="LAUGH"></EVENT>          but she's_ her husband got a job in Texas and so they're off to Texas, in a few months but she'll be leaving advising in the next, couple of weeks so.          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> hm </U2>
+          makes me very sad and then_ and she's getting out just at the right time          <EVENT WHO="S10" DESC="LAUGH"></EVENT>          because we are starting onto summer orientation um, and that's, at the the beginning of the summer we have, less to do with international students because they do tend to come in (for,) either the summer term or the, the fall and so, our big, big thing is gonna be, the uh week of, the end of of August. but we do get a handful in periodically and, and sometimes we even, have interesting, situations where they're here for E-L-I courses and they're also          <EVENT DESC="LAUGH"></EVENT>          supposed to be taking, L-S-and-A courses or something (else,) and so, we, talked with E-L-I about that but i_ really there's not a whole lot we we've been waiting to hear, um about the financial situation for, for uh some of these students from the five countries that've been hit financially, and, as, Amy has said it's, it's there somewhere this decision but i- or i- or the decision may not even be there, th- the issue is stuck somewhere so i'd thought that there was a, an a May eleventh deadline, do y- do you know          <OVERLAP1> about that? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> for those um </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> the matching things? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah but um, i've_ um i believe there is now i don't know how much flexibility, there would um, there would be with that but i just um, um i asked about that at the beginning of this week and that's what i was told          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          that legal counsel was still not um,          <OVERLAP1> (willing) to- </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> and i can </OVERLAP1>
+          imagine that because it's it's quite an interesting issue when you look at what, um i don't know how many of you, have have seen the details of this but NAFSA, put out um the the guidelines for this, this matching um, funding and, they were very clear about it was, the- what was the business council? which business council? I        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> I uh um was it          <OVERLAP1> I-E-E </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> I-E-E </OVERLAP1>
+          business council and NAFSA          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          working on this. and and they, very clearly said, these students, are eligible for this so, we have a real problem people studying, poli sci or or econ are eliminated from it it's computer science engineering business and, and hard sciences well you know, that just doesn't,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U2>
+          cut it for L-S-and-A anyway and i think um_ and then of course there's the issue of how many graduate students there are s- an- and and uh and undergraduates and, the whole pot needs to be looked at and it was very hard to coordinate (and) get all this information gathered, um so that they can figure out how,          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          they're gonna allocate funds        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> and and the other thing is that um, these um, it's it's not a huge amount of um, uh of money although of course every every bit helps um          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          and it's a limited number of          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          grants that each school          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> could get </OVERLAP1>
+          so, um but as i- wh- what i um_ i mean there's the uh, the the field of study thing but i guess the main the main thing is just that it's um it's only for students from those countries and if, if          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          they used university funds to match it as opposed to some of the,          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          endowed scholarships          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          some_ there's that one for Swiss students and Guatemalan          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          students so          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          uh, that's          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> (xx) </U2>
+          yeah        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah, well we_ so we're_ you know if we get in- inquiries, regular inquiries from students about the          <U2 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh            <OVERLAP2> so do we </OVERLAP2>
+         </U2>
+         <OVERLAP1> (this thing) </OVERLAP1>
+          s- yeah oh, i know you guys do. one thing that we did do, uh with_ for some of our students was um, we were able to, let them go ahead and, preregister for for fall even spring-summer even if they had a financial hold,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh </U2>
+          and they must pay up though by August.          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh </U2>
+          so, but, some of them may then be able to squeak in another term or two, if they're really not gonna be able to to afford to come back in the fall at least they can, and the- they've_ one group that's been very vocal, is the Indonesian group, they_ then they've really rallied and have been canvassing, for, for funds and, but we, it's all up in the air at the moment so, besides that um, we're also, waiting to find out whether we get bounced out of          <EVENT DESC="LAUGH"></EVENT>          Angell Hall or not        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh really? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> oh really (xx) know about that </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> where would you go? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well there's been talk about Elgin taking over, you know, so </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh if Elgin moves in, oh right of course </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (nothing what) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> they said about that,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> mm, ah </U2>
+          a little you know not no not a whole lot        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> you mean you'll be transferring from Fleming Building to          <OVERLAP1></OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah,          <OVERLAP1> well </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> well he </OVERLAP1>
+          wants to be or has said that he wants to be somewhere,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> more towards the </OVERLAP1>
+          heart of campus          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          so more access        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> (that is a nice location.) i think that was important for him, to be, building that was more appealing. </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> so then you probably move to the Fleming Building </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> where we're nice and accessible          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> to all </OVERLAP1>
+          the students. that's been an issue, but in any event those were the, hot, items that're going on, now.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i have a question how is, the that issue related to the affirmative action, you know the uh          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> oh uh the reason that i </OVERLAP1>
+          made that comment was that um, i um, and this is just just my assumption um, i'm assuming that um the Office of the General Counsel may be being especially um, careful about anything to do with preferences to a particular group because of the pending lawsuit that that's kind of brought all of that into focus        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> but you're just guessing          <U2 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh i'm just </U2>
+          that there's a connection, you weren't told that specifically        </U1>
+       <U1 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh no. no i'm sorry i didn't mean to (xx) i didn't mean to give that impression no i was just          <U2 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> for the record </U2>
+          yes for for the record.          <EVENT DESC="LAUGH"></EVENT>          this was just in my head, you know, so. but no i mean i i'm assuming that then they're kind of looking twice at anything that          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> sure </U2>
+          could be interpreted as a preference.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> with this funding for internships          <U2 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          um, it's something that, uh isn't available at all to undergraduates?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> uh, we have funded some undergraduates but mostly we have to fund graduate students. so, mostly, and it has to be a business          <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> related </OVERLAP2>
+         </U2>
+         <OVERLAP1> internship </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> right </U2>
+          so uh, but if there's, uh if the application is good and you know we will consider every applic- applicant          <U2 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> even L-S-and-A undergraduates </OVERLAP2>
+         </U2>
+         <OVERLAP1> that we receive </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm yeah, actually i had a student who,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          who did receive the money from        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> but it has to be a          <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> business (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> business </OVERLAP1>
+          internship and and you actually have to submit the letter from the uh future employer,          <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          along with it, so. no we look at every application we receive...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> one other thing that i, just wanted to (quickly) mention um, is that, we are trying, we will, continue to try to get particularly the Korean, group together, um in the fall, the, undergraduate students who have_ seem to have,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          a lot of trouble, um getting through their their first couple of years of, undergraduate college, and so uh, i will i'll keep you posted but i would also um, ask for some help probably in the fall that the, the undergraduate, association, of Korean students wants to do a series of, programs early in the fall i haven't even had a chance to talk to you about this cuz it, it just came to (xx) um, so peo- it'll be very helpful um, to, to get some of you involved in some of these presentations to help them, understand what the resources are around campus. and, i just thought i'd mention that cuz we've talked about the Korean student issue          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          many times before, and we haven't been able to        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well i think that's nice that the student association is um, is getting involved and doing that and whatever we can do to          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          support them          <U2 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          i think would be good        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> and the and the reason this is happening and i j- it just, so happened that i saw the the newly elected vice president who happens to be the uh, roommate of the fellow who, who committed suicide,          <U2 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh </U2>
+          um, in December and and          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> oh </U2>
+          so he and he's, he will finally i think do something to pull this group together whereas i- in the past, we've not gotten any response from that group's leaders. so i think that there's much more potential this time around. with especially with what happened          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          in the fall with the suicide i think and and as well the uh the numbers of s- Korean students who were, um asked not to register again were stopped,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh </U2>
+          after fall term because of of very poor academic performance, there's there's motivation to, actually do some of these programs in the fall so, i'm looking forward to, to doing that        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah and i know that um, that Counseling and Psychological Services is, um interested in reaching out more to the international student community um, you know making students more aware of what those services are and that might be something that          <OVERLAP1> could be fitted in you know i don't know </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah. it that </OVERLAP1>
+          that's a good thing i wanted to ask this before is there anybody from that group who gets these F-I-E,          <OVERLAP1> announcements </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> um </OVERLAP1>
+          there is not at this point_ what_ um the reason that kind of came right to my mind is um, i just_ they're they're interviewing now for a couple of new staff members and um, they've asked um, ah people from the International Center and then also from, SAPAC and Services for Students with Disabilities to ah, to spend about an hour talking with each of the candidates          <U2 WHO="SU-4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> great </OVERLAP2>
+         </U2>
+         <OVERLAP1> and um, </OVERLAP1>
+          which is great        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> wow </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> this is a this is a first </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah this is the, this is the first so in fact i've just come, from asking um, the person that was uh, in the hot seat today um, what what suggestion she, she would have for doing more outreach and um so that's kind of in the front of my mind          <U2 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE">           <OVERLAP2> great </OVERLAP2>
+         </U2>
+         <OVERLAP1> but uh, </OVERLAP1>
+          but no but i think that once that person is hired i think that i'll um ask them if they'd like to come to these meetings        </U1>
+       <U1 WHO="SU-4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="ST" SEX="M" AGE="0" RESTRICT="NONE"> good </U1>
+       <U1 WHO="SU-9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> great </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> oh that would be great </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="ST" SEX="M" AGE="0" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> good </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> that's it </U1>
+       <U1 WHO="SU-9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay, my turn. um, i i don't really have anything momentous to share with you. in part because i didn't really have any time to prepare and that was because uh, i h- i had jury duty this week          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          wasn't (even) sure i could get here today. um, but a funny thing          <OVERLAP1> happened </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> but it </OVERLAP1>
+          was the rush to justice after all huh?        </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well it was it was a uh, deferral of justice          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> uh oh okay            <EVENT DESC="LAUGH"></EVENT>         </U2>
+          they they'd selected the jury, and uh, th- the judge had called all the lawyers up to the bench for a private conversation          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U2>
+          but he forgot to turn the mike off so we heard this conversation so          <U2 WHO="SS" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> oh            <EVENT DESC="LAUGH"></EVENT>         </U2>
+          and so he had to call he had to declare a mistrial so          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> God </U2>
+          yeah        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> that's funny </U1>
+       <U1 WHO="SU-5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> (happened in mine and i was there for a whole week) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> well next time, you can... pay off the clerk not to do her job          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> but after, </OVERLAP1>
+          after a, a rather uh, hectic uh, last couple of months things are finally quieting down with the, International International Programs Office, uh, the one thing about working with students is that they, mostly clear out          <EVENT DESC="LAUGH"></EVENT>          by that last day of exams. and uh we can now catch up on a on a lot of things        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> not the ones that are in our halls </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> at least, the ones that we deal with. but many of them of course leave before they've, come to see you and pick up their orientation materials and so we'll we'll be playing a a game of chase uh, with quite a few of them, to make sure that uh, they get their payment schedules and, and other things. but uh things are a little quieter, uh... just a couple of things, uh, we've we had uh, a change in grading policy that might be of some interest um historically uh most grades that, students earn overseas come through and are posted to their academic record and the grades calculated into their grade point averages um, but um, the new the new rule is that the students who directly enroll in uh exchange partner universities, uh, will not have their grades, uh figured into their grade point averages and that's that's a decision by the_ made by the curriculum committee in, uh response to, the issue of grade, uh equivalency um, some some places of course will use different grading systems and some will, uh grade according to a different standard and, so it's just it's just real messy, uh, one nice uh bit of news, uh, we've had a very successful year with a, a scholarship that students apply for called the N-S-E-P the (xx) National Security Education Program Scholarship, which provides up to eight thousand dollars a semester in support (xx) we had fourteen applicants, which is uh, very high in comparison to what other universities will send in and of the fourteen, uh we had seven official winners, of the scholarship          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> wow </U2>
+          and another four, sitting very high on their respective waitlists so we potentially have eleven out of fourteen, recipients uh and this is uh, a a really remarkable uh performance um, so we're real pleased with that.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> um. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> that's great cuz those are fairly competitive </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> they're they're, they're very competitive, and uh the amount of money is is sizeable, it often makes the difference between whether a student is on study abroad or not. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> what_ why is this called National Security          <U2 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> Education Program, it's it's a </OVERLAP2>
+         </U2>
+         <OVERLAP1> Education Program is it the C- </OVERLAP1>
+          is it the C-I-A or something like that?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> yeah well </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> it does </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> the name sort of gives it away </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> there's a little work requirement afterwards </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> it's a controversial scholarship,          <U2 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> yeah </U2>
+          but i think decreasingly so, because uh, over time the the the kinds of problems that, people feared might happen, had not happened, um, it's money that originates with the Department of Defense          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm </U2>
+          and um, the money supports students who want to study in, countries uh, where, the U-S government feels we are lacking expertise, and f- and familiarity um and and it also uh s- particularly targets the study of, languages, languages which are not commonly studied, in American universities or not commonly taught, uh, so students who want to go to Russia          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> or China, </OVERLAP1>
+          uh, or um to various countries in in South America or Africa uh, are eligible and tend to win awards. the uh, one of the problems with the um, the whole uh uh scholarship program is that uh, it might compromise the student, when the student's in the field if uh, somebody finds out the student has, Department of Defense support uh the student might be, perceived as an agent of the government it it's_          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh            <EVENT DESC="LAUGH"></EVENT>         </U2>
+          the argument in itself is very problematic, and there are some universities which have refused to participate in the scholarship program Michigan takes a very neutral stance cuz it's, public money has to be made available um, uh, uh, there has not been a single incident, that i'm aware of, in which a student, uh          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          got into some kind of trouble, and was mistreated,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          because of N-S-E-P, uh support, in this past year however there has been a slight change in uh the scholarship arrangements, and, this almost actually was the uh s- uh, killed the scholarship program because uh, Congress imposed it and uh it was, uh, very uh, distasteful to a lot of people who have thrown their weight behind N-S-E-P, there is a, service obligation, uh          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> that's what i was going to ask </OVERLAP2>
+         </U2>
+         <OVERLAP1> which a_ the recipient has </OVERLAP1>
+          to meet after uh graduation and within an eight-year period following graduation, for a length of time equivalent to the time supported while on study abroad, uh        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> they have to serve you said? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> yeah, it's it it has to be an internship within a, government, uh office uh          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh, okay, do they choose            <OVERLAP2> or </OVERLAP2>
+         </U2>
+         <OVERLAP1> that has </OVERLAP1>
+          some, some uh linkage to uh national security          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> i see </U2>
+          but it's very broadly defined,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mhm </U2>
+          students, thi- this is the first year that students will have to fulfill this particular requirement so, uh, it's a uh, an arrangement, in process and uh, we don't know how, smoothly it will go.          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm </U2>
+          uh it's scared away i think a small number of students uh, but um, i think it's attractive          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> (while) there's money </U2>
+         <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> to an </OVERLAP1>
+          even greater number of students who see the interns- see the service as a kind of f- as a foot in the door for          <OVERLAP1> possible future (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> yeah well i can see if someone's </OVERLAP1>
+          interested in diplomatic services, right?          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right oh that would be </U2>
+          you know it would be perfect for them        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="ST" SEX="M" AGE="0" RESTRICT="NONE"> what are the countries that the seven are going to? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> mm, uh, th- Russia, uh, Brazil Argentina South Africa, uh          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> China (xx) </U2>
+          nobody from China this year.          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm </U2>
+          we have one, one in China, this current uh academic year, not for next year. uh we have a couple of students going to uh Hungary,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh </U2>
+          uh some going to the Czech Republic, i think that probably covers it. so        </U1>
+       <U1 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> and how much is the uh, what amount is the          <OVERLAP1> scholarship? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> up to </OVERLAP1>
+          eight thousand dollars a semester        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> and how long do they go to_ let's say if they are in Russia how long do they spend that time in Russia? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> the program is more likely to award you money if you're uh proposing to study a year an academic year          <U2 WHO="SU-6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah okay </U2>
+          it's no longer than a than a, calendar year          <U2 WHO="SU-4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          the awardees are mostly academic year. there are a few who get awards for for a semester, and only freshman, and sophomore applicants, uh, are ever awarded summer, study abroad support if you're an upperclass person they want you, going for a longer period of time because they they want it to pay off. students have to take a language, level, exam. uh, before they go and then they have to take an exam once they've finished, um their stay abroad. uh, it won't go into the student's record it's purely for uh, the purpose of observing the success of the N-S-E-P program the Congress wants to see so- some some language, progress          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh </U2>
+          students have to write occasional reports during the course of their stay, uh        </U1>
+       <U1 WHO="SU-6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> do they get full credit for this? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> if they yeah, uh assuming they go on a program that is accredited.          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> mhm </U2>
+          uh they can, take their N-S-E-P money on a U-of-M sponsored program or a non-U-of-M sponsored program.        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah that's kind of interesting </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> there's there's really so little money to support study abroad          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          that this was a welcome addition to uh, the choices that that students have. it's unfortunate that that it had such a controversial growth in its uh infancy. but it's now uh, into its fifth year, and it seems to have stabilized so...          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          that's about it.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay well other um nonimmigration international sort of things. uh we're still um we still have our North Campus office of course what's probably going to um, to happen with that is during the summer it's probably going to go to half-time and will just be um, open from eight to twelve and our assistant director Mary Coppler, will be up up there and then um the second advisor Terri Mancini will be, down on central campus um, in part helping with um, our overseas opportunities office because um, all the students that um are still around and that aren't haunting um, Scott's hallways are over um in the, International Center, finding out more information about, well this is the big travel season of course          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> traveling </OVERLAP1>
+          overseas um, or thinking ahead to um, to to work a possible future studies so that office tends to be um, tends to be quite busy and um        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> so is she getting paid to work down there? for the summer? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> um, well yes she'll be um, well she'll get a regular salary          <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> instead of um, </OVERLAP1>
+          she just will not,          <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          we're just shifting her location. so        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> well that's, well Dan must be very happy. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> um, oh yeah Dan is well Dan is uh, he looks increasingly stressed every time i go by there because uh, he's really just got students stacked up um, stacked up too so she'll be um, she'll be spending her um, at least her afternoons doing that and then her um, her mornings probably doing some work with international students um but on Central Campus because um, we'll have some people going away on vacation and etcetera so we're um we're trying to kind of even, even the staffing um up a little bit, but North Campus will stay open um all summer just um, just on, uh half-time basis and, instead of a full-time basis. the um i'm in the process of um, finalizing the renewal for the international student health insurance now i haven't um, well it's actually purchasing that signs on the dotted line um, um and we're, we're almost um, at the signing on the dotted line, point uh, so you i- i- nothing is definite until we actually finalize that but um, but (at that) at this point it's clear that um, that the cost of the insurance will not go up it'll stay at the thirty dollars a month for the single students and, we um, we've had pretty good um, experience with the insurance plan which means that um, the students have, the students have not had catastrophic illnesses thank goodness um, so um, we are able to um to actually add to the benefits a little bit and, again not final but some of the things that i think we're going to um, we're going to do uh up until now that insurance hasn't um, hasn't had any provision for um preventive care and, that's not so much of an issue for the students because enrolled students of course can get all of that at Health Service um, but for families it's more of an issue, we're we're going to be able to add a little bit for um for children and be able to cover um, well childcare and um, standard childhood immunizations for children up to age three and then, if we can um which is actually going to be because um of course children at that age have to um have quite a few checkups and so, that's actually going to be i think a help, to the international student families and then, if um you know that works alright and we still, you know have pretty good experience with the plan then, we'll slowly try and add, a few more things. the other things, we're um we're trying to improve are the, um the outpatient mental health coverage and um, since counseling again for people like visiting scholars or nonenrolled students they um, sometimes use that coverage and of course some uh, Counseling and Psychological Services is um, very committed to making sure that students don't have to wait a long period of time in order to be seen, but that means that, they're also doing more you know, brief work with students so if a student needs to be in in counseling for a longer period of time they sometimes need to be referred out and then again they, the mental health coverage is um, is is helpful, um, and then there are um, there are a couple of other um of other things we may, be able to do as well just to um, reduce the um, the amount that the student potentially would have to pay in a, in a serious illness um, and the um, the c- coverage for the medical evacuation and repatriation is also going to um, going to go up unfortunately we had to use that coverage several times um, last year and fortunately um, it um, no student went above the, the cap on that um, but you know it, could happen so, so we're we're kind of um you know, slowly, slowly improving it which is um, which is good i should have the final word on that um, you know probably by the end of this week or early next week and then um, i'll let you know and as usual we will as soon as we get the text of the um, of the brochure for next year we'll put it up on our website as well so that people can access it, um from our website, orientation um, we're still working with the Office of New Student Programs to um, get a final schedule for the international undergraduate orientation they're,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> mm </U2>
+          i don't know that always seems to take a lot longer than          <EVENT DESC="LAUGH"></EVENT>          i think it will but um, we're still trying to get all the pieces in place, i mean the days that are going to um, it's going to be held are are still the same, they're going to move in um, on that Wednesday the, twenty-sixth          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> i believe </OVERLAP1>
+          and it's going to be Thursday Friday Saturday Sunday.          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          uh from there but just as far as within those days exactly what's going happen when, now the A-E is still (fixed to) but the other          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> yeah, i was going to say when do you th- do you think you'll have it </OVERLAP2>
+         </U2>
+         <OVERLAP1> thing, we're we're yeah no no no no, no no we're </OVERLAP1>
+          no- not shuffling you around but the other things we're trying to um, we're trying to move around a little bit uh, our three-week orientation which is, primarily for graduate students and visiting scholars although early arriving undergraduate students sometimes, attend as well we do have a final schedule for that i was, hoping to bring you copies of that, but our Xerox machine was kind of in pieces on the floor with a,          <EVENT DESC="LAUGH"></EVENT>          a Xerox repairman in crouching over it so i couldn't um, i couldn't run those copies uh, it is up on our website now though so you who can look at it on the web, um and i will um, have copies available if anybody, particularly wants one before the next meeting um, just give me a call and i'll, i'll do that. i also um, at our, last meeting, or the meeting before? um i did pass out the um, our our statistical information finally came out um, and i don't know if um, if people who weren't at that meeting didn't get one again, let me know and i'll, i'll give that to you. so, just trying to think, oh um, one other um, one other thing, our um, our insurance advisor, the person who helps people,          <U2 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          uh sign up for insurance        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> what's her name? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Fumi Ishado, um, but she's um, don't write her name down too fast, um she'll be, she'll be leaving          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh dear </OVERLAP2>
+         </U2>
+         <OVERLAP1> um at the uh at the end of June </OVERLAP1>
+         <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <EVENT DESC="LAUGH"></EVENT>            forget it          </U2>
+         <EVENT DESC="LAUGH"></EVENT>          so i am, the other the other thing that i'm i'm hoping to do eventually is, is to, convert that job, uh right now it's a, university temporary, position          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh i see </U2>
+          um and convert that to into a permanent job so that, the person will actually, get benefits. um, and i i may be able to do that right now, that's still kind of in the works, but anyway she'll be leaving uh at the end of June so i will be looking for somebody else um        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> so for (our) summer program who can i refer to, for the health          <OVERLAP1> insurance to sign up </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> well you should still </OVERLAP1>
+          um, refer          <OVERLAP1> them- </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> go to Fumi? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well no i mean, um for the people that would be coming, um... your summer program will be coming at the end of June? </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> June 30th          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          is our first day that's usually the time that we want them to sign up for the health insurance          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm,            <OVERLAP2> mhm, well </OVERLAP2>
+         </U2>
+         <OVERLAP1> so that </OVERLAP1>
+          would still be Fumi?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no Fumi will be, will be on her way on out um, by then, but um, well you should just um uh, well wha- what we usually do is uh, is we usually have somebody come to um, to the first meeting of that class and have them          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> alright </OVERLAP2>
+         </U2>
+         <OVERLAP1> sign up </OVERLAP1>
+          there yeah that's what we've done for the past,          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U2>
+          two or three years, and if nobody, i mean i certainly hope someone will be in place          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yes </U2>
+          if they're not i'll come myself          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> alright, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> so, somebody will </OVERLAP1>
+          somebody will come        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> just for a point of clarification. this health insurance program does not include office visits, does it? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh sure </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> it includes office          <OVERLAP1> visits? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah yeah, </OVERLAP1>
+          the way that it, um, the way that it works is um, if um, uh, u- there are three, there are three, gatekeepers um, University Health Service, Family Health Services up          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> mhm, mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> on North Campus </OVERLAP1>
+          and for children um, the pediatric (part)          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> mhm, mhm, right </OVERLAP2>
+         </U2>
+         <OVERLAP1> of east Ann Arbor, um health </OVERLAP1>
+          center          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          and if um, if students, visit um one of those, three places          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> uhuh </U2>
+          for um, for health service there's there's no deductible for the other two places, there's just a, a ten-dollar deductible and that's          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> so o- o- okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> per cause, </OVERLAP1>
+          so it it covers, it covers that now if, if they're referred to someplace else and they've gone to one of the gatekeepers first then again, no deductible if they're referred from health service, um, ten dollars          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> so is this M-Care? </OVERLAP2>
+         </U2>
+         <OVERLAP1> if they're referred from the other places. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> can i ask, is this M-Care, this health insurance? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no no, no no no no          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> okay, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> no </OVERLAP1>
+          no, no,        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> so, i just want to clarify          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          so if y- they have this health insurance then, i would say there's no need for the health service, a separate (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well you're going to um, what you're, um, what you're going to do is, is you're going to          <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> because </OVERLAP1>
+          this, this insurance will allow them to go to the health service          <OVERLAP1> right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> it will </OVERLAP1>
+          it will allow them to go to health          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> service </OVERLAP1>
+          you'll lose um, the two things that might be different um, is          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> uhuh </U2>
+          is you'll lose any kind of um, any kind of preventive care, i mean except for the, the well child care, well actually that won't even start until          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> no, right </OVERLAP2>
+         </U2>
+         <OVERLAP1> September if we do </OVERLAP1>
+          it. you'll lose any kind of preventive care and um, this insurance does have a limitation on preexisting conditions. so if somebody um there's a waiting period for that so if somebody, comes um and again this is something that we're going to um, probably be able to change a little bit, starting in September but for this year, if somebody comes um, with some kind of condition that um, that they've had before some time          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> within the past </OVERLAP1>
+          twelve months, um there's going to be a twelve-month waiting period before that condition is covered so there are some there are some caps i mean for the most um, um, for the most complete coverage if i mean for the students we          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> kind of </OVERLAP1>
+          assume that, they're going to have the the          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> health service, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> health service and then </OVERLAP1>
+          this insurance is going to be, um, you know mainly if it's, if it's something health service cannot deal with        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> okay, so hospitalization stuff like (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> hospitalization um, the need for special referral out for more specialized          <OVERLAP1> tests </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> cuz i was just thinking          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> if, </OVERLAP1>
+          if it, has the same coverage as the um, health service then i would discontinue the health service fee that          <OVERLAP1> i charge the students </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay, well i think if </OVERLAP1>
+          you're really going to, i think it would be um, better for the students if          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> okay. alright </OVERLAP2>
+         </U2>
+         <OVERLAP1> you ha- still continue to have </OVERLAP1>
+          both, that's going to give them the most complete coverage          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> okay good </U2>
+          no if we had um, i mean it would be great to have something with um, as many benefits as, M-Care or Gradcare but the cost would be, prohibitive for the students. so        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> thank you </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay anything else um?          <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE">         <OVERLAP1> i wanted </OVERLAP1>
+          to ask Scott um when do you whe- when will your students be accepted        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> yeah. Carrie, i talked to Carrie Platt about this just last          <U2 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> week and </OVERLAP1>
+          um, she thinks possibly by the end of this week.        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> oh wow, that's          <OVERLAP1> good (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> they they've been so </OVERLAP1>
+          backed up over there, because they're all going through M-Pathways training. and uh, they of course had, uh staffing turnover and rehiring uh problems so, she said most of last week there was only one, full-time, professional admissions counselor on duty, at any one time        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh you mean they've all left? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> no well some some have left but they're_ or or they're in training          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> right </U2>
+          for M-Pathways and Carrie's initial by the way uh, review of M-Pathways is that it's,          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          it's not so good          <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> uh, (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> yeah </OVERLAP1>
+          i know we've- we've started already. yeah, L-S- L-S-and-A already has started, you know the Pathway's like we have had already the space module, then, the, we'll be, gradually. so we will also be on training for the accounts this July. and then we have so many modules,          <U2 WHO="SS" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> yeah, yeah </U2>
+          to study, for people in administration you know, more, more modules to        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> Carrie's initial complaint was that uh, she had to flip back and forth between a lot of          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> yeah. it's not gonna be as good, as they </OVERLAP2>
+         </U2>
+         <OVERLAP1> different screens </OVERLAP1>
+         <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> think it will be </U2>
+          (xx) yeah, so, we'll have that, list for you        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> (xx) so they should be going out probably at least applications for housing from these people should probably go out, (xx) end of May? or          <OVERLAP1> earlier? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> oh yeah </OVERLAP1>
+          Carrie did promise me it would be before NAFSA, before the the end of the last week of May, uh, and it's good news to hear that they can fax their, leases back          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah </U2>
+          yeah cuz that'll that'll cut a few days off of the pr-          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> and their apps </U2>
+          and their apps, so, that's great.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Amy are you recommending the um, participants that come for the, international graduate student instructor workshop, get this um          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> health insurance? </U2>
+          health insurance for that t- time period          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          for the month of August?        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah i have my students go </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well, we we they really should, i mean they're here um, the- they've entered on our student visa and they're here in this country          <U2 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          you know as, students so        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> when do you expect to have your, new brochures printed up, do you think? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh sometime in the mid summer but, for people um, um th- the insurance contract year runs from September one through August thirty-one so your um, um, your I-G-S-Is will actually be falling under the current contract so, you can have a bunch of brochures now, if if you want </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> so. even though it runs for that length of time, you have split payments of the premium, right? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well from the student's point of view it just runs continuously um, what we do um, is um, is we bill um, we bill the students for every term or part of a term uh, so, and we just, you know so they g- every term they're going to get a, a bill </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> so it's (one twentieth) terms          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right, mhm </U2>
+          some some of the exchange students have gotten these thirty-dollar charges, which we can't explain, could you        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> probably well they may have gotten them if they've um, if they're in the country into May, they would have had to pay for May, as well which would've been a thirty-dollar charge or if they started in August. so it's thirty dollars for the number of calen- thirty dollars a month, for the number of calendar months that you are in the country. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> um okay, so if you, if you're starting in August          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          you        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> you'd have thirty dollars for August, and a hundred and twenty dollars. and if it's falling_ if part of it, if part of it fell into the um, the spring-summer term, then they might have been billed, um, that for a summer term, thirty dollars for a summer term bill then a hundred and twenty for the fall term, a hundred and twenty for the winter </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> thirty would cover the entire, uh, summer? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no, it's </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> just that one month </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> just that one month </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah, yeah, just from the billing perspective um, what we do is um the person that that sends over those bills, just does the billing once a term um, i mean the- they, they actually are constantly sending things over because there are always corrections but, um, but what they're doing is they're looking at when the um, cuz there're always students saying no no, i'm not really staying that long, i'm staying longer blah blah blah, um but what they're doing is they're looking at how long the student is enrolled within that particular term, and if they're just enrolled for one month within a particular term then they're, then for that term's billing there'll just be that one month. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> just the one month, okay </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah we did run into a problem with our Hong Kong program          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and they're here for four months but          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          the uh, the bill came after they left        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah that shouldn't um, that_ that happened </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> so we had to cover their cost </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah that shouldn't happen again um, </OVERLAP1>
+          yeah, that happened because Financial Operations um, switched the person that was dealing with our health insurance charges, and what um, what that person did_ what happens with some of these scholars and again, i don't think that's going to happen again because we've we've changed the way we do the I-D numbers but um, what happened was he couldn't, those um didn't really spit out automatically out of the system which the scholars never have, for the past um you know four years that we've had the insurance, and he kind of didn't know what to do with those charges so he just piled them in a corner of his office, um, so when we finally um          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          um when we finally were reconciling, um our computer records with their accounts, we realized that this had fallen through so you know i- i'm sorry about that but it shouldn't, it should not happen again. now we know every week what we're goin- we're having that person, um confirm by email that he's loaded a charge and the dollar amount of the charge in to the system and we check that off and if, if we don't get that email then we say, huh, excuse me, is there anything in the corner          <OVERLAP1> of your office? you know </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> i think this </OVERLAP1>
+          might've triggered, this program might have triggered that what you're doing right now because        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah i think so, i think so and yeah i think yours were probably a... (a bunch of them that) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> we had some, thirty dollar charges (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah, yeah well all of yeah, um i, i'm knocking on on wood right now but uh, i think we have finally (xx) this, yeah. no i always say that i saw nowhere in my job description that a knowledge of Excel was going to          <EVENT WHO="SU" DESC="LAUGH"></EVENT>         <EVENT DESC="LAUGH"></EVENT>          be needed or necessary (by now)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> how long ago was that job description written? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well. actually i think when i was originally hired they were thinking more of um, setting up for programs because one line is be able to lift fifty pounds          <U2 WHO="SS" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE">           <OVERLAP2></OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>         </U2>
+         <OVERLAP1> and so (xx)  </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> really? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> really i'll show it to you          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh my gosh          <EVENT DESC="LAUGH"></EVENT>          oh        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i mean how long ago was that? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> that was in ninety-one </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> yeah, be able to lift, so did they really test whether you_ oh my gosh </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> so don't give me any excuses about not being able to set up the folding tables i guess was the </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> right right right </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oh well </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <EVENT DESC="LAUGH"></EVENT>          they definitely will be changing that, right        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> exactly </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> i've noticed that, a number of you have said, have mentioned um, a lot of office tur- staff turnover and we're experiencing the same thing and i know, at Rackham right now there's like a massive turnover, uh has anybody, uh, have any- anything to share about how to replace our valuable staff with,          <U2 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> yeah of course </U2>
+          finding new people because there are, very few applicants for, the jobs we have. this is support staff we have, um like, three full-time, jobs available and we had something like what was it did we say five applicants          <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> well also y- yeah </U2>
+          it's just a very poor, uh, response        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> well Ann Arbor is a, has a very low          <OVERLAP1> unemployment rate. yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> i know, i know, </OVERLAP1>
+          i know this is, you know, this is all through the United States actually, and Michigan you know, that there is,          <U2 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> although you would </U2>
+          this low unemployment and        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> you would probably attract if you, if you advertised outside of Michigan, did you? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> uh, no we just went through the uh, staff          <OVERLAP1> personnel office </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> cuz i imagine </OVERLAP1>
+          you would attract a, a fairly large, uh pool of applications from outside (xx)        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh if we advertise through, the you mean through the web? and um </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> have you          <OVERLAP1> advertised through newspapers </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> well it is on, in the web now. </OVERLAP1>
+          it's in the web. yeah. our postings are on the web. mhm, mhm excuse me...? no        </U1>
+       <EVENT DUR=":06" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh, right. no but our ours, but we're talking more here of secretarial support          <OVERLAP1> staff </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> secretarial support </OVERLAP1>
+          staff, yeah, academic services secretary three, or something          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> no, yeah </U2>
+          and the salaries here are          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah, well that's that's the problem. yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> so bad, it's difficult to retain people, yeah, yeah, to get them </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> i was talking to somebody wh- a nurse uh, who says now they've got a- a lot of nursing jobs open at the hospital          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> oh. yeah, yeah. i've heard that too </OVERLAP2>
+         </U2>
+         <OVERLAP1> they can't attract applicants because cuz in that that case </OVERLAP1>
+          there's no uh, job uh security no          <OVERLAP1> predictability </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> or last year </OVERLAP1>
+          they had uh          <OVERLAP1> there were no jobs, and then now there are many jobs so </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> (xx) having to lay people off </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> in general i don't, um we just um, we recently fairly recently hired a new, a new receptionist and a person um, in October i got the person who was, who's doing the insurance billing and um, and finding all of these, little problems uh, but um, but in both cases, i mean i think i think we just lucked out i can't really suggest any particular, strategy to, i mean our, our new receptionist had just, moved to town, and we kind of snapped him up before          <EVENT DESC="LAUGH"></EVENT>          he would realize that there were better-paying things that he's he's just doing an excellent job and i just um,          <U2 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> he is, he's really, yes. </U2>
+          isn't Joe nice?          <OVERLAP1> he's so nice. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> yeah, he is. </OVERLAP1>
+          he's the guy that answers the phone?          <OVERLAP1> yeah, he is </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> he's so, </OVERLAP1>
+          he's so helpful, to the students um and he really, he really tries to make sure that somebody          <OVERLAP1> gets the information they need </OVERLAP1>
+         <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> oh, that's good </OVERLAP2>
+         </U2>
+         <U2 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> mhm, yeah. yeah i like i like </OVERLAP2>
+            the service (xx)          </U2>
+          which is something we because we had, our our other, two previous ones were, were terrible        </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <EVENT DESC="LAUGH"></EVENT>          oh oop sorry          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> oop i'm sorry </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well that's_ actually (i...) i'm not sure i care. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <EVENT DESC="UNINTELLIGIBLE BACKGROUND CONVERSATION NEXT 3:46"></EVENT>       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> now Naomi's passing notes. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> right. oh Diane i had a question for you. you you mentioned that the TOEFL,          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> can </OVERLAP1>
+          be taken online, now,          <OVERLAP1> (it's in s- some places?) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> uh no, it's not it's not online, </OVERLAP1>
+          it's um, it's a computer-delivered,          <U2 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> ah delivered </U2>
+          um test, and it's also a computer-adaptive test which means, you know what test you get depends on your responses to, the computer's questions. um, and it i- but it's not online, um, the students, to take it they have to go, they um, TOEFL has contracted with Sylvan Language Centers, or Sylvan Learning Centers or whatever it is Sylvan anyway, and um, they're setting up, test sites with, half a dozen a dozen computers where, people will, register for the test and then go take it. and they've done this with the G-R-E, also the G-R-E is also, computerized now        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> so you wouldn't, you wouldn't download it into your, your own private desktop          <OVERLAP1> you would ha- okay, okay, i misunderstood. ('Cause I - )</OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> no, you cannot do that, no you cannot do that, yeah. </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> you still have to be at a site, right? </OVERLAP2>
+         </U2>
+          you have to go          <U2 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> you still have to go to a site. and, and this is - </OVERLAP2>
+         </U2>
+         <OVERLAP1> to a site, yeah. it is </OVERLAP1>
+          quite expensive it's like a hundred and twenty-five dollars.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> as compared to </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> uh, i think it used to be forty or fifty dollars for the paper and pencil test </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> it's a quantum leap          <OVERLAP1> whatever it is </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> it is it is, yeah, </OVERLAP1>
+          they've just about doubled their, their price        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> are they doing this in parallel with the uh, older way of doing it? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> um, they are, for a time um, they they are keeping the paper and pencil test in, uh certain_ the far east primarily it's um, Bangladesh Japan, Taiwan Korea, where actually, most of their tests are given, there, the largest number. um and the reason they're doing that, they said is because um, they, needed they need to prepare more forms, of these this item bank they need to enlarge their item bank for this computer-adaptive test, because th- just this_ sheer volume of people taking the tests there, mean that they couldn't really um, you know guarantee, that you know there might be so much change (of test) people might, become wise to all the item bank, a sh- relatively short period of time, so </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> yeah, yeah. do you have any literature on this, uh this setup          <U2 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> uh, we do </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          because we typically have students in Japan who have to retake the exam and, um,          <OVERLAP1> we we- </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> there will be </OVERLAP1>
+          a session at NAFSA called no more pencils um, and          <EVENT DESC="LAUGH"></EVENT>          you can_ um and i imagine you could you know s- go by and pick up the hand-outs if if nothing else        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah. if you want to stop by my office i can, or i can give you the, TOEFL web_ i have to look it up. or i can          <U2 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah or if you could just email it to me, that'd be great </OVERLAP2>
+         </U2>
+         <OVERLAP1> email </OVERLAP1>
+          you okay and it's R        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> R-H-C-P-T </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> R-H-C-P-T, okay at U-MICH okay </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> okay (sent...) </U1>
+       <U1 WHO="SU-1" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> the score reports are probably available much, more quickly as a result of the computerized testing, which is probably          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> one </OVERLAP1>
+          of the reasons          <OVERLAP1> they're trying to be more </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah,          <U2 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> yeah so they can get </OVERLAP1>
+          like it- yeah,          <U2 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> the G-R-E um, they give you results, </OVERLAP1>
+          immediately        </U1>
+       <U1 WHO="SU-5" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> they don't, with the G-R-E you don't get your percentage, but you get your raw score, and i'm          <U2 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> yeah </U2>
+          sure the, TOEFL will be          <U2 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> much faster </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> and some of </OVERLAP1>
+          those computer tests will stop after a while if you've answered, it won't be as long, if you've answered so many correct your test may be shorter than the next person's test        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="ST" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> they um_ th- there's a </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> that's very, </OVERLAP1>
+          interesting, how can they compare scores then?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> there there was a big article about it in the New York Times (xx) computerized tests it's interesting </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> what they, it's it's, the item like they have, they, supposedly know the item difficulty of each, problem in the test, and so they </OVERLAP1>
+          start you out, say at the middle level and if you answer those midlevel questions, correctly than they give you a more difficult question, and if you answer them incorrectly they give you an easier question and then they, gradually go, you know to whatever your level is narrowing and narrowing and narrowing it down until they sort of pinpoint you, and there is a time limit to it and i guess at the bottom of the screen you can see how much time you have left, um          <OVERLAP1> so you </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="ST" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> but the </OVERLAP1>
+          number scores just then don't make the same sense as          <OVERLAP1> if you've, completed the whole test </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> uh, yeah th- well they're, they're not </OVERLAP1>
+          they're not going to be, reporting, i don't know the number correct, i, they are, actually on this_ um, information what they have there's going to be s- there's some sort of concordancing information they're changing their sco- their scale too          <U2 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> efficiency scale rather than a grade </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's from like, zero to three hundred, </OVERLAP1>
+          instead of, whatever it was. the theoretical two hundred to eight hundred that it was...          <EVENT DESC="LAUGH"></EVENT>          no one ever scored two hundred no one ever scored eight hundred          <EVENT DESC="LAUGH"></EVENT>          theoretically        </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> but those were the boundaries anyway </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> but um. (well) we're back on the personnel issue if anyone knows someone who would like to be an insurance advisor          <EVENT DESC="LAUGH"></EVENT>          i'll um, actually          <OVERLAP1> i may cir- </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> is that </OVERLAP1>
+          part-time?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> it would be part-time, it would be part-time, um, the people that we've had um, in the um, in the past we've sometimes had um, had spouses of students we've had graduate students          <OVERLAP1> at the um, disserta- </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> yeah i was going to say if it's half-time </OVERLAP1>
+          you could have a student          <OVERLAP1> yeah, yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> and that would be fine um, </OVERLAP1>
+          yeah, we've had graduate students at the dissertation stage who want something um, you that they could just, do uh for um, for some support, and, n- it- it's basically half-time week during um, during the very busy times which would be, practically the entire month of August, and um early September we add hours to that position but that could we've done it both ways we've um, for the person who's had some flexibility and just wanted to get extra money, we've had that person add time or, we've hired a supplementary person who um, then we kind of divide things up and the supplementary person, simply helps the students to fill out the forms and doesn't deal with um, and the things you don't really i mean it would be great if somebody had some kind of um, prior knowledge of health insurance but uh, i- it's not required what i want is          <OVERLAP1> somebody </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> there'll be a </OVERLAP1>
+          training period, right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah well no i would um, and um and i- you know i'm there as a resource too and certainly there'd be a training period um, i want somebody who um, who does uh pay- pay good attention to t- d- de- uh bluh, i'm stuttering here, to detail but um and i- is also, kind of responsible enough to realize you have to be, a little bit careful what you say to students particularly when you're          <U2 WHO="SU-4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">           <OVERLAP2> oh right </OVERLAP2>
+         </U2>
+         <OVERLAP1> talking about </OVERLAP1>
+          coverage if you're not sure of something, obviously you don't want to tell somebody that oh yeah that'll be covered no problem          <EVENT DESC="LAUGH"></EVENT>          um, and that um, s- somebody who's just good at communicating with people from other countries and is willing to, you know, take the time to, explain a little bit about how to use the insurance and all of those          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG">         <OVERLAP1> so </OVERLAP1>
+          we'll just forward them to you, should we know of someone        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah that would be great, that would be great... but for the support staff issue i've no,          <EVENT DESC="LAUGH"></EVENT>          suggestions i guess prayer was, was my          <EVENT DESC="LAUGH"></EVENT>          um, only method        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> the next meeting uh i- </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> is Dearborn i think </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> Dearborn </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> yeah yeah, i'll send out the (xx) i believe so </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> thanks, okay. </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> thank you for the goodies </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> oh you're welcome </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> thank you all for coming </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> well we made a good dent in (xx) it's getting hot isn't it? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="ST" SEX="M" AGE="3" RESTRICT="NONE"> it's starting to feel like summer </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> it is starting to feel like summer </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> it sure does </U1>
+       <U1 WHO="S4" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="TAG"> Kathleen? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> i need to, get some stuff to her, you can tell her that she's, definitely on my mind, and i have to mail the package to her (xx) okay, i'm sure she is. is Peggy still there? </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> uh sh- Peggy just came back </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE"> oh wait (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="3" RESTRICT="NONE"> okay, she had surgery? </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="ST" SEX="U" AGE="0" RESTRICT="NONE"> no no she was working down in another position temporarily </U1>
+       <EVENT DUR=":10" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

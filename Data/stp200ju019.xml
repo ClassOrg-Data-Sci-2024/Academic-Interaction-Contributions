@@ -1,0 +1,491 @@
+<TEI.2 ID="stp200ju019">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Chemistry Discussion Section Student Presentations </TITLE>
+         <TITLE> Rackham Div: PS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 6575 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> STP200JU019 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="51">             <DATE> June 16, 1998 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones, video </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Bret Lucka, Janine Ovens </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Bret Lucka </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Eric Breck </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Rodney Pratt </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Aaron Stark </NAME>
+               <RESP> Final Editing, 02/22/00 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">STP</TERM>
+ <TERM TYPE="ACADDISC">200</TERM>
+ <TERM TYPE="PARTLEVEL">JU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">PS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+         <LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="40"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="18"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SG, Instructor" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="JG, Instructor" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, First Presenter" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NNS" ROLE="SU, First Presenter" SEX="M" RESTRICT="NONE" AGE="1">           <FIRSTLANG> IND </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="SU, Second Presenter" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S6" LANG="NNS" ROLE="JU, Second Presenter" SEX="M" RESTRICT="NONE" AGE="1">           <FIRSTLANG> CHI </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="SU, Third Presenter" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="JU, Third Presenter" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S10" LANG="NS" ROLE="JU, Third Presenter" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S11" LANG="NS" ROLE="JU, Third Presenter" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S12" LANG="NS" ROLE="JU, Fourth Presenter" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S13" LANG="NS" ROLE="SU, Fourth Presenter" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S14" LANG="NS" ROLE="JU, Fourth Presenter" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S15" LANG="NS" ROLE="JU, Fifth Presenter" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S16" LANG="NS" ROLE="JU, Fifth Presenter" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S17" LANG="NRN" ROLE="JU, Sixth Presenter" SEX="M" RESTRICT="NONE" AGE="1">           <FIRSTLANG> CHI </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S18" LANG="NS" ROLE="JU, Sixth Presenter" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-1" LANG="NS" ROLE="SG, Instructor" SEX="U" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-2" LANG="NS" ROLE="JG, Instructor" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-7" LANG="NS" ROLE="SU, Third Presenter" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-8" LANG="NS" ROLE="JU, Student" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-10" LANG="NS" ROLE="JU, Third Presenter" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-11" LANG="NS" ROLE="JU, Third Presenter" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Classroom, Chemistry Building </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> alright, who is doing number one? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (okay,) go. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> oh a reminder turn to page one hundred and twelve, your laboratory, discussion group presentation grading form. you will be assigning four points today. Lewis acids and bases... so, please get those ready... the group who's presenting number one will they please come up? and if you haven't already will you please pass in your labs?          <PAUSE DUR=":05" ></PAUSE>          (this) looks like a really short (pile up there.)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> very short. (xx) quite a number of people (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yep... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, we had number one, um the first part of our question, asked us to um, (xx) some (class data,) uh does (xx) acidity vary from family to family, on the periodic table, and so, basically made a, a print test out of we made a, a diagram of like, how um, you gotta show that from family one to heavy metals, the acidity increase, um with heavy metal_ family one being P-H of five-point-four-nine the average P-H. family two being five-point-seven, transition metals being five-point-one nine and, then the most acidic heavy metals being two-point-five-two. so we concluded that basically acidity increase is going to the right on the periodic table, and then um for the second part we were asked, um, N-A-plus or M-G-two-plus, which one would be more acidic and basically why and, looking on the periodic table, M-G-two-plus is more to the right, than N- N-A-plus so um, we said that M-G-two-plus would be more acidic. and then, the third part was asking um, would it be preferable to apply, um L-I and then (go over) to C-A sulfate to the solid ground. until the (solid) ground is acid (living) so, y- sa- um (that the) most acidic would be the best one which would be, and then since it's, also more to your right than (you would choose, aluminum.) (um) </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="IND"> uh... uh for the last one um (we spoke) (xx) about the, the formation of, the acid (mutually,) so basically what happened is like, as um (xx) uh as it moved to the right of the periodic table, it become more acidic, uh (and) it, also increases the electronegativity, as you can see from here that, as you move to the, right it will increase, there are some exceptions but, (xx) so uh, the main (xx) is (like) because like the more electronegativity, is (likely) to attract more electrons, so that (the) (proton) will be more positive, with respect to (xx) so, (you) tend to (lose) (xx) you tend to, get (out of the) molecules (and) form with a- with another, (xx) water molecules to form the (hydronium) (xx) (the) ions with the H- H-three-O-plus. (it) basically explain why, (we) increase the activity of the solution. and for the last one, we are asked to, to explain the relationship between the, charge density, with the acidity, so basically uh we defined, um, uh (okay) the density as um positive uh the positive charge divided by the ion radius, which is given here, zero-point-eight-one something like that, so (i-) as you can see that, as we move uh from left to right, the radius decreases. uh, i mean excluding the, (th-)          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (the ruse) </U2>
+          i mean excluding the halogens. so, the charge stays basically the same but uh as radius decreases so it will increase, so, (tentative) uh, explanation is the same as the electronegativity... any question?          <PAUSE DUR=":15" ></PAUSE>          (no)        </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> thank you.          <PAUSE DUR=":21" ></PAUSE>          um, oh (one and two,) uh, question two. please come forward.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> there is no question two. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yes there is.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (xx) oh that's right </OVERLAP1>
+          (xx)        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) (copy) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-2" NSS="NS" ROLE="JG" SEX="U" AGE="1" RESTRICT="NONE"> (here...) </U1>
+       <U1 WHO="SU-1" NSS="NS" ROLE="SG" SEX="U" AGE="3" RESTRICT="NONE"> (xx) (fold) (xx) </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright uh the first part of the question is uh what kinds of observation, or changes in properties allow you to infer that a complexation reaction has occurred. so uh, this first part          <PAUSE DUR=":07" ></PAUSE>          (i picked for) the one (that) i had the (orbit difference so) ignore the first word. so our color change is an indication of complexation for our transition metals, post-transition metals, um, excluding zinc, and a- aluminum. and (i have) an example down here, (xx) our copper reaction, um including complexation.        </U1>
+       <U1 WHO="S6" NSS="NNS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> yeah the reason that we excluded uh zinc from this uh (manipulous) (xx) zinc originally has a full_ the zinc two class originally has a two full E shells (no) it's uh (itself) it's colorless, so uh there won't be any color change even if we uh, have any (compact form) (xx) cuz there will be no shift of color or wavelength. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay (he's) actually talking about the second question here which is uh,          <SEG TYPE="READING"> Z-N-two plus exists in aqueous solution (of) uh, uh complex Z-N-H-zero-four. uh, zinc will complex with uh ammonia, based on your answer predict what changes would be observed if you performed procedure one with, Z-N-two-plus instead of uh (carbides which you have,) (xx) </SEG>
+          for zinc, (it's) the nitrate (at) base form precipitate, which (dis-) disappears upon adding more base, may be inferred that complexation has occurred. this is confirmed by a reappearance of precipitate when strong acid. uh then we would use a nitric acid (it's) uh added to the mixture...        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (question?) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (yeah...) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah um, so, don't go away yet. um, you said that, you can infer color change for post-transition also?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um </U2>
+          i think that's what you have written down?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah we had for our transition metals and, post-transition metals excluding,          <OVERLAP1> (xx) solution (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NNS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI">         <OVERLAP1> (xx) </OVERLAP1>
+          yeah but        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i thought post </OVERLAP1>
+          transition metals don't have color.        </U1>
+       <U1 WHO="S6" NSS="NNS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> i mean, our_ actually we are saying uh we are including those without color (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> like uh, aluminum zinc um </U1>
+       <U1 WHO="S6" NSS="NNS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> yeah. actually there are more, more than that more than those two. which are colored as ice. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah so how do you infer that (uh) what are the two ways you infer (that a) infer a complexation reaction with? post-transition metals if they're colorless? </U1>
+       <U1 WHO="S6" NSS="NNS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> um... if we add base to cations          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and it, goes to_ the charge go- goes to zero, and (xx) (then when we act- ax it back,) so, charge will come back the positive charge will come back. so i- it will, (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> that doesn't necessarily imply that it complexed (one) it means that you're just reversing the precipitation reaction, right?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          how do you, the way that you would infer the post-transition metal, from the complexes by the addition of excess base. in seeing it start with a precipitate, and then going to, the precipitate disappearing with the addition of the same base.          <OVERLAP1> okay? </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NNS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI">         <OVERLAP1> w- w- </OVERLAP1>
+          w- we know that about the zinc          <OVERLAP1> (which is) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah remember going over the charge </OVERLAP1>
+          (and since) charging the opposite way? we talked about that.          <U2 WHO="S6" NSS="NNS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          yeah. (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah but you wanna make it more general for the_ all post-transitions, um because they are colorless,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mhm </U2>
+          right. so, then the acid actually, is a way to test if something has already complexed. right? if you can put acid into it and see a precipitate come back it must have been complex, for that to occur, right?          <PAUSE DUR=":07" ></PAUSE>          yes.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (yes...) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> okay (xx) what? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how can you tell if N-H-three, complexes with transitions (isn't) the only way to like precipitate like (xx) O-H (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> what? i di- didn't          <OVERLAP1> understand your question. </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> how can you tell if </OVERLAP1>
+          how can you tell if it was through complex (xx) post-transitions if (xx) (is it just) (xx) at the O-H chemistry (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (you) haven't seen (xx) (in the way that they can)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> you haven't </OVERLAP1>
+          you haven't measured any way to do that.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay.          <OVERLAP1> so (where) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> don't be you_ you don't know </OVERLAP1>
+          how to, um, for the          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U2>
+          oh, for this, you, don't be concerned with N-H-three complexes and post-transition necessarily, um, especially about making inferences, um as to whether they complex or not, uh, because we haven't really tested that in lab, um, the post-transitions are very easy because you see or i'm sorry the transitions are very easy, because um you see a change in color, right? and if you remember from spectral analysis, of solutions that when you added N-H-three to any, um, any solution uh, that contains transition metals, you get a shift of the absorbance peak toward the the lower wavelengths and a corresponding, um, deeper color, of solution than beforehand or a complete change in color, of solution, alright? so, that's how you infer N-H-three complexation.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you (could) also if you added O-H, uh we've learned that O-H is a stronger, um, (xx) well i mean as as far as heavy metals dissolving          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh right </U2>
+          or (whatever) um you you could you could see if N-H-three, um complex with a heavy metal or a post-transition metal uh or, element if you had, a charged item, on_ in forming precipitate (you) add N-H-three and it dissolved again. that would prove it but you guys didn't systematically, study that kind of thing i mean you did some experiments like it but, you know if it doesn't dissolve it doesn't tell you whether or not it was complexed or not (areas,) so, don't worry about it. (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> part three, on this experiment was intended to specifically show you that certain things can and cannot complex, um but predicting whether a complex is formed with post-transitions we haven't done (xx)          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> okay. </U2>
+          so questions oh_          <OVERLAP1> sorry. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (i) (xx) (whether or not it complexes?) like for (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> oh, i i think i know what you're getting to. are you speaking in reference to like aluminum plus-three?          <OVERLAP1> (how you continuously) add base (to sue) precipitate then see a complex? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (xx) (talking about,) (xx) potassium (oxalate) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-8" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE">         <OVERLAP1> no i'm talking about </OVERLAP1>
+          the um potassium carbonate and (xx)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) potassium (oxalate.) </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U2>
+          she's talking about when we precipitate up and we added a complex (xx) (dissolve and you dissolve.)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah um actually, those two are really good precipitating agents (xx) (this) the first place. but Lewis base acidity, is dependant on the species and it doesn't necessarily imply that (it'll) (form a) precipitate, if it's a good Lewis base. so N-H-three is an extremely good Lewis base, so it can displace that precipitating agent, um pretty readily, for most things, um and as you, as we'll see further in this discussion of, you'll notice that, in part three actually there's a a preference for which, for which metals on the periodic table will show that tendency to precip- or uh to um complex with N-H-three or O-H. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> or O-H, right. </U1>
+       <U1 WHO="SU-8" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> so if like the the precipitating agent doesn't really affect, the results (or of the) (right) but it sorta does, like (we saw) the difference between          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> it's kinda like a marker. </OVERLAP1>
+          it's          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          kinda like it's kinda like a way for you to see what affects what metals.          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> right. </U2>
+          what will complex with what metals. for instance, you you b- you do a precipitate reaction you have a layer of precipitate there now in order to dissolve that precipitate, it has a charge of zero. in order to dissolve that precipitate you're gonna have to put something on there that's non-charged that's gonna, let the charge come back to the things so it can go back in the solution. so it'll displace the precipitating agent right? that thing that's going to displace it will be, whatever Lewis base is gonna be most favored for that metal, ion that's precipitated. whatever it wants to complex with, will will make it go back in solution.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah i think the best way to think about it is if you have a precipitate, and you pour base on it, and that precipitate disappears, then you know that whatever you poured on it was a better Lewis base. okay so if you were given a list of Lewis bases, um in_ from greatest to to weakest, uh you would you would say okay well the greatest one would dissolve a precipitate form with a a weaker one. right? um it's you probably won't see anything like that on a test right now, because it, that, concept's kinda vague, from this experiment but um, that's just the way it happens. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so should we have seen (different) results with the precipitating agents and the same metal and same um (make?) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> (uh) could you repeat that question          <OVERLAP1> (please?) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-8" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE">         <OVERLAP1> like </OVERLAP1>
+          if we have like aluminum three-plus and N-H-three and a different precipitating agent should we have seen a different result?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> probably not. unless the precipitating agent was, a stronger Lewis base than, uh what precipitated aluminum. do you see what i mean? yeah um N-H-three is actually one of the best Lewis bases. so. and O-H-minus actually if you recall from, i think procedure, one or two, from um, part two, y- you can infer that, N-H-three is a better Lewis base than (the) O-H-minus. for, the transition metals.          <OVERLAP1> (i believe) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> for </OVERLAP1>
+          the transition metals.          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yep. </U2>
+          right. that doesn't hold for every single bond (that appears to do that.)          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> right. </U2>
+          (xx) see (that) (xx) anyways. um does anyone else have a question? okay part three question three. (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> (what?) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i don't know. (xx) </U1>
+       <EVENT DUR=":13" WHO="SS" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay so the first part is um, is there a link between a cation's tendency to (complex) with O-H or N-H-three and the acidity of the cation? um and and basically what we've, what we think is that the more acidic or the lower the P-H, um the more likely it is to complex. um and what we did um for the for the charge for both of the charges we combined the precipitate to complex and the complex the_ we combined those two, um uh, um uh areas um and so you can kind of by doing that you can kind of see the trend, um since we, we ordered the um the areas that (xx) to be um least reactive to the more reactive. uh no reaction obviously no reaction precipitate there's somewhat of a reaction, and in the precipitate the complex on the complex, um, both of the the data was a little weird so we were having trouble finding the trends, and that's why we combined the two so you can kind of see the trends, um in both, um... now          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i guess it's heavy </U2>
+          uh the only thing that was that, the one to find out was that between the heavy and the transition, um just the way the data was laid out, um you can definitely say that that the conclusion is true for the N-A-O-H, however you can't necessarily say it for the N-H-three just because of the because of this one right here cuz_ (uh) this one actually did form a precipitate so it doesn't quite follow but that's more or less true.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i have a question.          <U2 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yep. </U2>
+          um, so, a- as a general rule could you say that uh heavy metals and transition metals together um complex more often than family one and two together?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh          <U2 WHO="SU-10" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> yes. </U2>
+          yes        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay. good. </U1>
+       <U1 WHO="SU-10" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          yeah. (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> um actually i would like to make a quick note. uh transition N-A-O-H. uh you see that some people reported it precipitates complex? only true for zinc. not true for any of the others that we tested. (it's) impossible it was (a) misinterpretation of the experiment that led to that, that data point. so bear that in mind. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i was, maybe if you, i don't know if (s- y- uh,) do you understand like what this chart is showing or not. (like) i don't know. cuz like with these X's are correspond to these two (here,) and that means transitions and family twos, for (recorded) precipitate and this is the transitions and heavies, were the only ones that formed complex (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah the X is just the (mo-) it's the most predominant          <OVERLAP1> (thing we saw) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> the predominant thing </OVERLAP1>
+          that we found on the chart (xx) the majority (xx) and so there's_ tends to be this general trend, increasing acidity        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (just quick) </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. the next part of the question, was um, based on your answer predict if palladium two-plus will complex, and, palladium, is, can you see that? </U1>
+       <U1 WHO="SU-1" NSS="NS" ROLE="SG" SEX="U" AGE="3" RESTRICT="NONE"> you might wanna lift it up a little higher. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay this </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ignore the stuff on the bottom </U1>
+       <U1 WHO="SU-11" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that can be dealt with. okay, palladium is a transition metal, it's number forty-six, there, so, we predicted that... </U1>
+       <U1 WHO="SU-10" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> read the other (two math problems) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (mhm...) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) (i guess you didn't do that one) </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh, (didn't) we do it? (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) got the (head) goal (xx) </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay well, um... if it follows the trend, then most likely in sodium hydroxide since it's (a) transition metal, it's gonna, um it's going to form a complexation reaction, and          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> or </U2>
+          (xx)          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U2>
+          (N-H-three someone said)        </U1>
+       <U1 WHO="SU-7" NSS="NS" ROLE="SU" SEX="U" AGE="1" RESTRICT="NONE"> it's either gonna form a precipitate or a precipitate to complex with N-A-O-H as you see there. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> and... we didn't get any results that it just formed a precipitate with ammonia so (xx) (complex before) (xx)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so (according to) the class data (xx) formed a complex (xx) </OVERLAP1>
+          (most)          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> want me to (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> with we </OVERLAP1>
+          combine those two in this category so it would we predict it would form complex from N-H-three and either precipitate only or precipitate complex (xx)          <PAUSE DUR=":06" ></PAUSE>       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> the last part of the question, uh lead is extremely toxic in humans lead poisoning is usually treated with, (xx)          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (cladding) </U2>
+          cladding agents substance that can form stable complex and ions and offer an explanation for why this is effective. because um, if you add these, the cladding agents then the lead is stable and it doesn't react with any of the chemicals that are in the human body, and then it can be excreted through the body without, harming you, if it, is done soon enough. give the explanation for why they do that. so that it's stable.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> any          <OVERLAP1> questions? </OVERLAP1>
+       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> any </OVERLAP1>
+          questions...?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> cool. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i cannot emphasize how important it is, for you to realize that only zinc, can go from precipitate to complex none of the other transition metals will. okay? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) N-O-H </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> with N-O-H. (xx) N-A-N-O-H </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> N-A-O-H so, you will not see precipitate complexes on a transition metal with N-A-O-H, period. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> only with N-H-three. well that doesn't really form precipitate </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> you will not see precipitate. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you will          <OVERLAP1> not see precipitate, with (N-H) transitional. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) transitional </OVERLAP1>
+          (xx) you will not see precipitate (xx)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (huh?) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (that's) (xx) yeah the precipitates change but you're not gonna see (a) precipitate (xx) with transition metals. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) like (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> no it does not go from, if you had copper hydroxide and you add more hydroxide, (you should) (xx) you should have          <OVERLAP1> (xx) complex. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          right.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> it stays precipitate </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yep yep. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> so (what-) how people interpreted that when they add acid (xx)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> alright </OVERLAP1>
+          our question was, can you predict th- can you predict the salt solubility in base if you know the cation's acidity.        </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, um we're also supposed to summarize the class data from part three... um and basically what we're doing in part three was considering whether, um, the process of um converting insoluble metal compound to soluble complex is more related to the cation's acidity or to its ability to complex with N-H-three or O-H-minus. and so we had to take our information from our first and second part of the lab, to make our hypothesis (xx) um which basically found that the P-H is going to increase, from, the left side of the, periodic table, and also and break_ (xx) in this part (xx) see (xx) one has the higher P-H average, and then, um, it decreases to the right. and then, also, we, um as was just discussed with the recent groups, um the reactions with N-A-O-H or N-H-three-plus. so, then in part three what we did was we kinda we com- we kinda compared the both of them, um come up with how when it's combined with an insoluble metal compound, if it's going_ if the precipitate would then be soluble. and we found that in family one, it was very soluble and we never even had a precipitate when we mixed it so that that was plenty and then in, family number two it never dissolved and there was no precipitate and then in the transitions in the heavy metals it depended on whether it was mixed with N-H-three or N-A-O-H, but it didn't necessarily matter what the the metal compound was because in all cases N-H-three, it_ the precipitate was dissolved for the transition metals and for the heavy metals so in all cases of N-A-O-H, the precipitate was dissolved. um so based on this information we, would, um as far as predicting salt solubility, um if we know the cation's acidity, we would say if we know the cation's acidity then we could place it into an area, on the periodic table as we've seen, if it's a higher P-H then we're gonna assume that it's gonna be, in the, family one area which then we would predict would be very soluble whereas if it's got a, um low P-H then we would assume that it's towards, the heavy, metals heavy end and then we would think that it would be soluble in N-A-O-H. or if it's a little higher then we'd think it would be transition then (it would) be soluble in N-H-three. and that would also be fairly easy to test because that's, you remember in the lab when you just kinda mixed the, two together and see which one it is. so it'd also be useful for identifying whatever it is that you're trying to, make soluble. </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> second part of the question is, it says that          <SEG TYPE="READING"> N-I-two N-I-two-plus is acidic and forms complexes with N-H-three. so can you_ can you draw a a picture depicting the Lewis acid-base reaction between, and, reac- reaction between an, N-I-two-plus and N-H-three. </SEG>
+          and it says M-G-two-plus is slightly acidic (in) water and does not complex with, O-H-minus or N-H-three does this (fact accordingly)        </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. the first part. drawing, the reaction. look at our nickel two-plus, combining with N-H-three, which is a Lewis base and has two electrons that it can, share with this Lewis acid which wants some, and, the result of this reaction is nickel, and the N-H-three. we think there's still gonna be the two-plus charge there, and          <SIC> supposably </SIC>
+          depending on the number of waters, that were originally complexed with the, nickel, will have that same number (within) N-H-three.          <OVERLAP1> (but) </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> six </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> six? </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> same </OVERLAP1>
+          number of molecules (xx)        </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, but we didn't get that information, for the question so, whatever it is would be          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> six. </OVERLAP1>
+         <U2 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> six. </U2>
+          (plus six yeah.)        </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so (uh) if it's six then in that case it's gonna be, it's gonna be N-I, and then it's gonna have you're gonna have six water molecule attached to that, and then the uh, N-H-three is gonna react with that, and then this is gonna (replace) right here (so we get) N-I and it's gonna be, N-H-three-subscript-six with a, charge of plus-two and then you're gonna have, those six waters added on, to the, peroxide. </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> indeed. the second part of the question was about magnesium two-plus. and it said that it was slightly acidic and our average was five-point-seven-three and it should not complex. so we, gathered a little more information on it it's from family two, and when combined with N-H-three, we get no reaction. and when combined with N-A-O-H, we get a precipitate and then a complex. and this, right here, the combination with a N-A-O-H, does not support, this conclusion... so we got a a yes and a no. so we don't know what to make of that... and this is this is from the data... okay? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> do you have (s-) copy of the data...? </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (um all we used was um) t- to determine this cuz it wasn't mixed with an insoluble (xx) we used part two when we were just mixing it with N-H-three and N-A-O-H, which bas- um i don't know if the group before probably has better data, does depicting that but (with) we had right here (it's) family two, with N-A-O-H (xx) precipitate complex with no reaction N-H (xx) and that's why we got (xx) </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay... any questions? </U1>
+       <PAUSE DUR=":46" ></PAUSE>       <U1 WHO="S15" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (okay,) we have question five and it's like can you predict the salt solubility in a base if you know the cation's tendency to form complexes? what we did was we looked at the data from, part three t- or part two to see what the tendency of each cation was to form a complex in, either N-A-O-H or N-H-three. and we saw that family ones didn't form complexes in either base because there was no precipitate, at all. family two, didn't form a complex on either one. transition cations formed complexes in N-H-three and heavy metals formed complexes in N-H-four. in N-H-three we also noticed that there in the family three cations we noticed that there was um split in the (pass A to a change in) precipitate (and) precipitate to complex in the, N-A-O-H solution, and we think this (error) was probably because, a lot of like the things that know the difference between, what a precipitate was versus what a precipitate to complex was where it should've been just a precipitate and the same thing for, the heavy metals in N-H-three, and then knowing the cation's tendency to form complex as well allowed us predict its salt solubility, because if a cation forms a complex in a certain base it's (oft- and) salt will dissolve in that base, so, since family one's cations didn't form a complex in anything, they didn't precipitate (xx) nothing to dissolve (xx) dissolve in either base, family two cations form precipitates in both, K-two-C-O-three, and K-two-C-two-O four, but because they didn't form a complex in (either) N-A-O-H or N-H-three (neither) of the two precipitates dissolved. and (in) family three, elements form precipitates again with both of the precipitating reagents, and since we know that they form complexes in N-H-three we know that_ the salts were soluble in N-H-three, and for the heavy metals, we had a precipitate with both precipitating reagents and formed (a compounds) (xx) N-A-O-H therefore it was soluble in (the) N-A-O-H... </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh okay the second part says          <SEG TYPE="READING"> the lead-two-plus ion has a pronounced tendency to react with proteins and, and interferes with the biosynthesis of hemoglobin in humans. compare the likelihood of finding lead ions rather than the precipitating lead compounds in water below (xx) high P-H </SEG>
+          okay uh lead is a heavy metal and heavy metals were found to be highly acidic so you would probably find lead ions in acidic solution, and you would find the lead compounds in basic solution... okay...?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> actually (xx) basic solutions (xx) </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well (n- it) (xx) acidic i mean if you add acid to acid nothing would happen right? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> hm          <PAUSE DUR=":05" ></PAUSE>          (yeah?)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> (xx) (try to) (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (um) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (so) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> well see the thing is is in basic solutions, you have an abundance of (like) negative charges that um when y- when you add a base (right from the) acid_ acidic solution, you're you're removing a lot of uh the positive charges, b- and then if it becomes basic enough what defines base, is the concentration of O-H-minus. alright?          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh yeah </OVERLAP1>
+          so if you had (highly,)          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> right. </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (normal) </OVERLAP2>
+         </U2>
+         <OVERLAP1> high </OVERLAP1>
+          P-H then it would just          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> complex </OVERLAP1>
+          into the,          <OVERLAP1> yeah right. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (and would form) a          <OVERLAP1> precipitate (xx) </OVERLAP1>
+         <U2 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah. (xx) </OVERLAP2>
+         </U2>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (and) lead is </OVERLAP1>
+          a post-transition (so if,)          <U2 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          it therefore would be more soluble in N-A-O-H, right? which is a base,          <U2 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U2>
+          right? so that's a basic solution. um so (an) acidic solution is just the opposite. y- y- you it's gonna form compounds with the leftover conjugate bases from the acids.          <U2 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. </U2>
+          sorry, that's the best i can do. yeah but it's it's just that j- uh, definition of the base right? base is high concentration of O-H-minus, which means that post-transition are soluble (and) that's key so did everyone understand that?        </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay. so, P-B-two-plus where is it? post-transition or transition? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> post-transition. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> post-transition. so what is it more soluble in? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> from your experiment. what is it more soluble in? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> N-A-O-H right? sodium hydroxide. what defines, a basic solution? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> what is the definition of a base? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> what is the definition </OVERLAP1>
+          of a basic solution? high concentration of O-H-minus ions right? so          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          therefore, with an increased concentration of O-H-minus ions, it can s- form stable complexes with lead right? because lead's more soluble in N-A-O-H... is that, clear? no? yes?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so what happens to the (xx) </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah wh- what i mean he had the lead solution what happened to the (xx) (capacitor then?) (xx) had (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> um          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> i think_ i don't think i'd be (xx) sp- sp- precipitated </OVERLAP1>
+          but you'd get, you'd get more of s- you'd get less solubility it'd be less, of the lead i i don't know if it would precipitate out.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> it may. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it might.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it it wouldn't </OVERLAP1>
+          precipitate (you) see you chose the wrong acid.          <EVENT DESC="LAUGH"></EVENT>          if you chose i think uh H-two-S-O-four, it would precipitate, i think um, but, nitric acid, nitrates are always soluble so, you don't really have an anion that can be precipitated out.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> right. </U2>
+          um          <U2 WHO="S17" NSS="NRN" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> okay... </U2>
+          but is that clear?        </U1>
+       <U1 WHO="S17" NSS="NRN" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> alright. and, my groups, three and four are doing, question six right? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> come on down. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> come on down </U1>
+       <PAUSE DUR=":20" ></PAUSE>       <U1 WHO="S17" NSS="NRN" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> okay the first part of our question was to present our interpretation of the (direction) of copper sulfate and, potassium iodide. okay uh we believe that, okay first of all we observed that white P-P-T in brown solution, was observed, then after that we believe that the iodide was oxidized from, I- I-minus to I-two and copper was reduced from C-U-two-plus to C-U-plus. um and we checked from referring to the C-R-C handbook we found that the only possible P-P-T between copper two-plus and iodine minus is copper iodine. which is, C-U-I. okay in order to confirm our, observation, uh we we give two experiment (to the test) which is copper sulfate plus potassium nitrate, uh to prove that iodide is needed to form the, P-P-T and, sodium sulfate plus potassium iodide to show that C-U-two-plus is needed to form the, P-P-T. when we add h- h- hexane to the solution, the solution forms two layer a purple layer, which we assume that is hexane plus iodide and a brown layer which is uh water and copper iodine. and when we check again from the C-R-C handbook we found that uh C-U-I is brownish insoluble and soluble in ammonia. which matches our prediction... that's it... </U1>
+       <U1 WHO="S18" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> alright the second part of our question, uh it states it is a fact when N-H-three is added to a_ a precipitate of uh C-U-C-L-three, the precipitate dissolves. and they want us to offer an explanation based on our investigation of the reaction and the knowledge gained from the class results in part three. alright there's a few things to uh keep in mind when we think about the reaction, and that is that Lewis acids want to join with the best possible Lewis base that they're uh in solution with, uh in this reaction C-U-plus-two is a Lewis acid, and N-H-three is a much better Lewis base than the uh carbonate, uh so therefore the C-U-plus-two will uh break away from the carbonate in order to join with the N-H-three, to form the uh complex ion, uh shown there, which happens to be soluble, and that will cause the precipitate to break up and disappear because the, copper's no longer joined, with the carbonate, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (can) you raise that up (xx) with the bottom. </U1>
+       <U1 WHO="S18" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. uh then we rechecked our data in part three to confirm this, and it's a little hard to read but uh it's a ch-          <EVENT DESC="LAUGH"></EVENT>          it's a chart uh in the left box it's just saying that we're using a transition cation copper plus two, and in our reference test, we uh precipitated it we got a cloudy brew or a cloudy, blue precipitate, uh the addition of N-A-O-H did not cause the precipitate to go away, but when we added the uh N-H-three the precipitate did indeed go away. any questions?..        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> could you put your uh, transparency up from uh reaction part four, um could you explain, um what role the N-H-three plays?          <PAUSE DUR=":05" ></PAUSE>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> the N-H-three? </U1>
+       <U1 WHO="S17" NSS="NRN" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> uh we basically (processed a reverse reduct.) from uh C-U-plus to C-U-two-plus. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> (xx) i- in doing that what what's your observation for the hexane layer? what happens to the hexane layer, does it become clear does it stay purple? </U1>
+       <U1 WHO="S18" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it became clear. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> it became clear.          <U2 WHO="S17" NSS="NRN" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE" FLANG="CHI"> (yeah) </U2>
+          why?        </U1>
+       <U1 WHO="S18" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh because the I-minus uh was able to become I-two again,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> no, no </OVERLAP2>
+         </U2>
+         <OVERLAP1> and since I-two </OVERLAP1>
+          oh wait no, i'm sorry          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> they're reversed I-two </OVERLAP1>
+          became I-minus          <OVERLAP1> goes into the water (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          goes back into solution (xx) (and then) so the N-H-three kinda served as the driving force of forcing the reaction backward,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mhm </U2>
+          um, which by the way isn't contrary to what we've been telling you all along about redox, um that reaction will only go in one direction because, in this case you actually have something that's aiding in that, where in general (redox) reactions can't go backwards just as they are. does that make sense?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> th- the real the real reason for this reaction going backwards um, is up for debate the people who who don't study this kinda thing but, who are chemists can argue about it, but you don't have to know why it happened just that it did. just that you observed it going backward and forward. when you added acid it went back again it just showed you that there's a Lewis Lewis complexes, Lewis acid base reaction (xx) (that's it...) (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> so uh... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you guys all did a very good job today. i'm very proud of you (xx) alright um let me tell you uh real quick, uh you're gonna be back here at one Lucy's gonna be lecturing for an hour and then we're gonna be doing analysis of reactions don't worry about today it's gonna be fun everyone has the most fun in this reaction. you're gonna be giving you're gonna be given reactions and it's up to you to figure out we're not gonna tell you anything more than to do the reaction but it's gonna be up to you to fill it out. we'll go into more detail on how you're gonna fill all this out, um when you get down there you're only gonna be writing up four reactions today and presenting the fifth. um, but we'll go over that in class so you can fill out the sheets please remember to turn in your sheets up front you're grading sheets so finish those </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> um please none of my students leave yet. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> oh yeah uh_ oh yeah i also we also need you to fill out these evaluation forms.          <U2 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yes            <OVERLAP2> (uh) </OVERLAP2>
+         </U2>
+         <OVERLAP1> sorry. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (no quiz?) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no quiz today... </U1>
+       <EVENT WHO="SS" DESC="CHEER"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> we just thought we'd save that telling you that now so you'd fill out nice evaluations.          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          that's a joke.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> your hair's cute did you get it cut? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> right right, (we do that) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no it looks, it looks shorter, like, like you got it layered right here but... like </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no, i'm trying to get rid of it (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay well then i'm just an idiot don't pay          <OVERLAP1> any attention to me </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> you look cute </OVERLAP1>
+          today        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you, thank you </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (i) need your laboratory discussions. (and for) my students come up here because it'll just be easier for me to pass these out. cuz i'm not supposed to go to your seat or anything like that. i need someone to volunteer          <OVERLAP1> (to bring this) to (the) chemistry (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh yeah (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i dropped EECS two-eighty i dropped EECS two-eighty </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) for the fall? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah and my professor (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (to) introductory I-O-E </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but the thing is (xx) it's only offered, during the times that physics one-forty is offered </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know what to do (Alexis) i'm gonna go talk (to him) i (xx) maybe ergonomics </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no i think (i got it) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> cuz that i can do the physics (xx) that's my only e- engineering class and i wanted to have something more (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i borrow this quickly (xx) </U1>
+       <EVENT DUR=":04" WHO="SS" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> like (xx) one-forty in, winter how am i gonna (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i have to take one-forty in winter </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> nuh-uh </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yuh-huh </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you do? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you're like the only </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) the only person i know that, like is in the class who doesn't have to take the exam </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i really miss spring. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i borrow the stapler one more time? can i borrow it one more time? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh yeah go ahead </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> if you're done with filling </OVERLAP1>
+          out the evaluations, and if you have any comments to make please make them on the back, it will help me and Tom be better teachers. these evaluations are not for Lucy they're just for me and Tom. you'll be filling out evaluations for Lucy later on. i don't want to see them. give them up here in the yellow envelope only my students should be putting 'em in the envelope that says Cynthia Smith. Tom's envelope is up here and sh- put it in Tom's envelope.          <U2 WHO="SU-2" NSS="NS" ROLE="JG" SEX="U" AGE="1" RESTRICT="NONE"> here you can            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> (yeah) hold on one second (okay?) </OVERLAP1>
+          and when you're done, when you're done filling out the evaluations put them in the appropriate envelope and you can leave.        </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> like (he) doesn't care, it's just like there's (a) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but i took two (xx) i (xx) took it in the winter term (if ) i took it again two thirty-one (xx) one-forty (and) (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> see i need to okay the thing is i can't do that (xx) one-forty </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> see i need to i'm taking two-forty in the fall (xx) cuz i've i had like ish (alright) i got a C-minus (in) physics one-forty and you need at least a C, (xx) hopefully i'll take          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> it again and </OVERLAP1>
+          get a higher          <OVERLAP1> grade but, </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah in your </OVERLAP1>
+          in your engineering classes you need a C-minus.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (yet.) </U2>
+          in your prereqs you think C or higher?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U2>
+          but (you're in engineering classes, you can get a C-minus)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh you're kidding me. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i think that's what someone was telling me. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> the thing is... i', gonna ask cause if i don't take engineering, then you gotta take physics, one-forty, and i'll take a two-forty, and what i'll do is i'll take um the I-O-E intro and ergonomics.          <OVERLAP1> two oh one and the (xx) </OVERLAP1>
+         <OVERLAP1> cuz cuz they're right </OVERLAP1>
+          they're right after each other and (i-) in the same place.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have an extra pencil? because you're so prepared all the time? </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so, um, so (i'm not gonna show 'em that)          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          i'm serious i need to (xx)        </U1>
+       <EVENT DUR=":46" WHO="SS" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah but don't do that          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, do i need t- if i don't take one-forty i take, i take um </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two-oh-one. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two-oh-one? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well two-oh-one-two-oh-two          <OVERLAP1> is the </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> is the same thing </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's just the yeah two-oh-one and then, i take ergonomics </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> my roommate's (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two-oh-one? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two-oh-one two-oh-two </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but that means, that means (in) um, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> in the          <OVERLAP1> winter </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> the winter </OVERLAP1>
+          i take one forty_ (like) i wanted to get that over with you know what i'm saying          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          i don't wanna wait. (like i'm gonna) be a junior taking two forty.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no you won't you'll be a sophomore next year. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no because i (can't cuz,) (in winter) (xx) right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> in fall. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> winter term i'll take one-forty. (that means)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> we're still </OVERLAP1>
+          sophomores (anyway.)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. but then and then in spring i'll take two-forty-one. and then in, (um,) fall i'll take two-forty. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (take) two forty and two forty one (xx) together (xx) it's not hard i know people who (are taking it) they said it's          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> uh'uh </OVERLAP2>
+         </U2>
+          they make everything so much easier (at) this point.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i don't know) (this prof) one-sixteen like is (kind of ) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right now? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but then but now they're working my butt </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

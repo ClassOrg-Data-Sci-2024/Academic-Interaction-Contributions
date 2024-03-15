@@ -1,0 +1,724 @@
+<TEI.2 ID="ofc175ju145">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Intro Biology Exam Review </TITLE>
+         <TITLE> Rackham Div: BS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 8221 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> OFC175JU145 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="55">             <DATE> March 23, 2001 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Jessica Rett </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Amy Burke, Darell Tibbles </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Amanda Jones </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Amanda Jones </NAME>
+               <RESP> Final Editing, 2/05/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">OFC</TERM>
+ <TERM TYPE="ACADDISC">175</TERM>
+ <TERM TYPE="PARTLEVEL">JU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">BS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="8"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="9"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="JG, Graduate Student Instructor" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Small Classroom, Chemistry Building </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> so that's the frequency of, Q-squared. they wanna know the frequency_ in this problem they wanna know the frequency of all of the genotypes. so, what other, what other um, of these elements do we need to solve for here Emi? if they wanna know the frequency of all the genotypes? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> two-P-Q </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> homozygous dominant </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right, two-P-Q, and P-squared. so, what what are we, what piece of information are we missing here in order to solve for say two-P-Q? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> P </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> P and how would you find P? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> subtract four from ten thousand?          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> well you            <OVERLAP2> would you would find P </OVERLAP2>
+         </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> take </OVERLAP2>
+         </U2>
+         <OVERLAP1> to get the </OVERLAP1>
+          frequency of        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> take the square root of that          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> the dominant </OVERLAP2>
+         </U2>
+         <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> subtract it from one </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then subtract by one, </OVERLAP1>
+          to_ from one.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> right so </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (and add two) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but that i- but, </OVERLAP1>
+          but then it says that all the frequencies for the different genotypes have to add up to one and then that wouldn't be right, because you still have the heterozygous        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> well,          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> no just P and Q </OVERLAP2>
+         </U2>
+         <OVERLAP1> i i think </OVERLAP1>
+          do they end up_ yeah i think they do end up adding to one          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah they do </OVERLAP2>
+         </U2>
+         <OVERLAP1> remember that there are </OVERLAP1>
+          there are two equations.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> for Harvey-Weinberg </OVERLAP1>
+          problems there are two equations, that you can use. one of them is          <EVENT DESC="WRITING ON BOARD"></EVENT>          P plus Q, equals one. that's the one important equation. the other important equation is, P-squared plus two-P-Q, plus Q-squared, equals one... those are the two important equations here. so, what's an easy way, what's an easy way to find, P in this case Emi...?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> well we decided how we could find Q right? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah but it, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> do the square          <OVERLAP1> root of that and then subtract it from one </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it says that the frequency of all three </OVERLAP1>
+          of the different genotypes equal one. so how could P plus Q equal one?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> because, these aren't the frequency of the genotypes these are the frequency of the alleles.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh. </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so </U2>
+          and if there are only two alleles, P and Q or dominant and          <OVERLAP1> recessive </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but then </OVERLAP1>
+          how could how could, i don't understand how it works because i don't see how, how P-squared could be, the frequency of the genotype, and the frequency of the allele is just P? like        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> well, okay that goes back to um that that uh, what's that law of          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> eh there was </OVERLAP1>
+          there was some kinda technical term for it. that goes back to that idea that you take the frequenc- if you wanna know the frequency of, P and P coming together or the dominant and the dominant allele coming together to make a homozygous dominant individual, you d- you break it up, so,          <EVENT DESC="WRITING ON BOARD"></EVENT>          in this case that would be S and S. so we wanna know, what's the frequency that you would get an S in this in this position? what's the chance that you would get an S in this position? so you figure out what the what the chance of that is. say it it's um... it's uh... half. you have half a chance of getting, the, dominant allele here.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          what's the chance that you would get the dominant allele in the second position?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> half </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> if there's_ yeah s- let's just_ okay so say it's one-half. so the frequency of getting, this allele once and getting the same allele again          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> is, </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> quarter </U2>
+         <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no i i </U2>
+          multiplying those together so that is, one-fourth. so this is the same thing as saying the frequency of getting a P allele and a P allele again, is equal to P-squared.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          that's where they get that from. so that's why P-squared is_ that's why P is equal to the square root of P-squared. does that make sense?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay. so the way that you would find two-P-Q and P-squared here we're still missing P we don't know, what P is. the way you would find that is, we found out that Q-squared is equal to four out of ten thousand or,          <EVENT DESC="WRITING ON BOARD"></EVENT>         <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> times </OVERLAP2>
+         </U2>
+         <OVERLAP1> what is </OVERLAP1>
+          it? point-zero-zero-zero-four?          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yep </U2>
+         <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so, how could you now find P?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> take the square_ oh i'm sorry.          <OVERLAP1> are you asking her or m- or anybody? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you take_ </OVERLAP1>
+          anybody          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> take the square root of Q </OVERLAP2>
+         </U2>
+         <OVERLAP1> well you take the square root of this number, </OVERLAP1>
+          and that would equal what?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> Q </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> that would equal Q. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> and then you do one minus Q to get P. and then you just square P. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> so you would take the square root of this number which is, and the s- square root of Q-squared          <OVERLAP1> so you will get, Q is equal to_ and what does that come out to be? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> point-zero-zero-zero-zero-six, zero one si- is it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> point-zero-zero-two </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think it's just </OVERLAP1>
+          point-zero-two        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> point-zero-zero-two </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="WRITING ON BOARD"></EVENT>          okay. so if it's point-zero-zero-two, now we know what Q is, so we can find P. we can find P by plugging Q into this top equation.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          and then so, P is gonna be a pretty big number it's gonna be one minus point-zero-zero-two        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it's point-zero-two </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> it's point-zero-two? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> so if that's point-zero-two then, um P would equal what? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> point-nine </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> point-nine-eight </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> point-nine </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> so we will get,          <EVENT DESC="WRITING ON BOARD"></EVENT>          P minus, point-zero-two is equal to one, and we solve for that we get P is equal to, point-nine-eight. so now we know what Q is, we know what P is, so we can easily, find out what two-P-Q is equal to, so, two-P-Q, will be equal to, two times zero-point-nine-eight, times zero-point-oh-two. and P-squared will be equal to, point-zero-nine-eight times point_ or, sorry zero-point-nine-eight times zero-point-nine-eight, and Q-squared we solved for over here. does that, make sense?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so, okay          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah? </OVERLAP2>
+         </U2>
+         <OVERLAP1> is, </OVERLAP1>
+          is there gonna be one like this on the exam do you think?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> um i_ it          <OVERLAP1> could, it could be </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> should should i bring </OVERLAP1>
+          a calculator at least?          <OVERLAP1> (xx) (just have) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah de- </OVERLAP1>
+          definitely bring a calculator. um, anybody y-          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> can we do a </OVERLAP1>
+          sex-linked?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> sex-linked? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um i forgot to turn in my          <EVENT DESC="LAUGH"></EVENT>          homework yesterday before i left and i was gonna ask you if if i could turn it in now.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah            <OVERLAP2> you can turn it in </OVERLAP2>
+         </U2>
+         <OVERLAP1> before we </OVERLAP1>
+          keep going          <EVENT DESC="LAUGH"></EVENT>          over it cuz        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah, you can turn it in now.          <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> are there gonna be </OVERLAP1>
+          like a lot of like (um,) calculation problems though or is it gonna be like        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> oh yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> there there could be i mean on the last exam there were a lot, but that was you know that was a different professor so, i mean, i would assume that there was_ there's gonna be at least one. um, but, you know there's different people making it up, this time so, they might have a different style. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> can i go see if Dr Collin is in his office, real quick? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah. okay so          <PAUSE DUR=":12" ></PAUSE>          wanna go through a sex-linked problem so let's see. there is        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> can we do number seventeen? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> seventeen? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i'm confused (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay, that's a... that's a sex-linked one but uh it's it's sort of a more complicated one, so i i kinda wanna start with a more general sex-linked one first. um, </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> what about thirteen? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah thirteen okay so let's look at thirteen. thirteen says that a white eye gene in drosophila is sex-linked. so they're saying that the gene for eye color, is sex-linked in these flies.          <U2 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          so what that means is that gene is found on, the sex chromosomes, which is gonna be the X chromosome.          <U2 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          so... the white-eyed allele is recessive to the wild-type allele for red eyes. so,          <EVENT DESC="WRITING ON BOARD"></EVENT>          let's make R-big-R equal to, red eyes, and that's dominant they told us... and so little-R will equal what color?        </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> white </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> white eyes and sec- and that's gonna be recessive... then they say, that a white-eyed female and a red-eyed male are crossed. and they wanna know what are the phenotypes of the offspring gonna be. and then they give you a hint          <SEG TYPE="READING"> in drosophila as in humans the male is the heterogametic sex. </SEG>
+          so the heterogametic sex means that the male has, two different sex chromosomes one X and one Y. and the female is the homogametic sex because she has two Xs. they're the same, same          <OVERLAP1> type of </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> so, does that </OVERLAP1>
+          mean that males only have to have one recessive allele to, have the trait?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> that means that they'll only have one allele. it might be recessive it might be dominant </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so they only need one R to be, white? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah they only need one little-R to be white cuz the only, only the X is gonna have an allele on it not the Y. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> is that is that gonna be w- that way with all sex-links? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> they'll specify if it's male. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> well they're they're gonna tell you          <OVERLAP1> which sex is the homogametic sex </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well i mean i- right </OVERLAP1>
+          so is it always gonna be carried on the          <OVERLAP1> homogametic </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> -gametic sex </OVERLAP1>
+          right the homogametic sex is always gonna have two copies and the heterogametic sex is always          <OVERLAP1> gonna have one copy. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and any sex-linked </OVERLAP1>
+          trait will be on the homogametic? i mean it'll always be on the, one there's more of?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> i- right it'll be on the one there's more of that's another way of saying it so          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> s- not all </OVERLAP2>
+         </U2>
+         <OVERLAP1> if you have_ </OVERLAP1>
+          hm?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> there's sex-linked on Y. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> like what? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> there's no_ well there's there's few there's a few um, genes that're on Y like genes that specifically only males have, but in most of the problems you're_ in all of the problems i've ever seen in an intro bio course the sex-linked gene means that it's on_ that the ha- homogametic sex has two copies of it and the heterogametic sex has one. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so that would make it really obvious if it weren't in a question?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> w- just assume that if it says sex-linked, that means that the homogametic sex has two copies and the heterogametic sex has one.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um, so it says here that a white-eyed female and a red-eyed male are crossed, so the female is the homogametic sex,          <EVENT DESC="WRITING ON BOARD"></EVENT>          and the male is... the heterogametic sex, and the female is white-eyed right? the female is white-eyed so what am i gonna put here Scott?          <U2 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> um </U2>
+          for the alleles?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> little-Rs on both of 'em? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> little-Rs. and the male is red-eyed, so what am i gonna put </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> an upper case, allele? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> an upper case R where? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> on the X </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> on the X, right. so when i set up a Punnett square... and i'll put the male's gametes up here. what are the male's gametes? what what could they potentially have? what should i put up here at the top? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> a X-Y </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> an X </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> X-R </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> big-R, or he could pass on a Y gamete to make a son. and the female? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> just two Xs with, recessive Rs. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right. so when i cross these i'm going to get... a heterozygous female, so what color what color eyes is this female gonna have? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh red. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> red. i'm gonna have... another heterozygous female who'll also have red eyes. i will have... the male i can't really say heter- you know homozygous or heterozygous there's only one trait what color eyes is this male gonna have? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> white </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> white. and then i'm gonna have, the other male is also gonna have white eyes. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so the male doesn't pass anything on to the, the son. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> not_ they don't_ well in this case they don't pass the trait for eye color on,          <U2 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> but </U2>
+          because eye color is sex-linked. but nor- remember we don't just have sex, chromosomes we have chromosome one through twenty-three also. and so the male is also passing on all the genes that he has on chromosomes one through twenty-three so, all of the genes on there are getting passed on to the offspring.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> but all the sex-linked,          <OVERLAP1> the, (oh that's right.) okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> come from the mother in this case, </OVERLAP1>
+          yeah. okay, um, did did you wanna, look at seventeen?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yes          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yes? okay. so, in number seventeen it says that          <EVENT DESC="READING"></EVENT>          it is exceedingly difficult to determine the sex of very young chickens. but it's easy to tell by visual observation whether or not they are barred. so, in this case barred just means that they probably have a striped pattern somewhere. so it's really easy to tell whether or not they have that striped pattern but it's hard to tell if they're male or female. so it says that the barred pattern is inherited as sex-linked dominant. so let's make          <PAUSE DUR=":05" ></PAUSE>         <EVENT DESC="WRITING ON BOARD"></EVENT>          B equal barred... and it's dominant... and little-B will be not barred          <PAUSE DUR=":05" ></PAUSE>          and that has to be recessive. so it says, set up a cross so that the sex of all chickens can be determined when they hatch. so basically what they're saying here is, wouldn't it be nice to be able to tell the sex of a chicken apart by whether or not they were barred? so, wouldn't it be nice if all males were barred and all females were not barred? or all females were barred and all males were not barred that would be_ make it a lot easier to tell the difference between the sexes. so they want us to set up a cross so that the outcome works out that way. works out that all the males are, one thing and all the females are a different phenotype. so, this is basically trial and error you have to figure out, what cross combination is gonna be like this. but they give you a hint and it says rem- well they t- they say remember the hint in problem sixteen and the hint in problem sixteen says in birds the male is the homogametic sex, and the female is the heterogametic sex. so what is the, what's the genotype of, of the male?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> X-X </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right the genotype of the male...          <EVENT DESC="WRITING ON BOARD"></EVENT>          is gonna be X-X. and the female, is the heterogametic sex for birds so it's gonna be X-Y. now they want us to set up a cross, so that, all of the males are one phenotype and all of the females are another phenotype. so...          <EVENT DESC="WRITING ON BOARD"></EVENT>          let's try, let's try making the parents, the male will be let's see X-B...          <EVENT DESC="WRITING ON BOARD"></EVENT>          X-B and the female will be X, or let's see X-little-B-Y. let's just see what happens, let's see what happens in the outcome. so we'll get a female that's X-big-B X-little-B, we'll get_ oh i'm sorry that's a male. that's a male. we'll get another male that's X-big-B X-little-B. and we'll get, a fe- we'll get a female that's, X-big-B-Y and another female that's X-big-B-Y. so, did this work out? do we have all the males are barred and all the females are not barred?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> they're all barred. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> all barred </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> what are the_ right everyone's barred. the females are barred and the males because barred is dominant, they're gonna be barred too. so that doesn't work for us. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i have a question like, i didn't know that you could just like_ i mean i_ like to switch like the male has the two X-chromosomes. i mean is that just like for these          <OVERLAP1> chickens? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's it is (it's dependent upon) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's a different species </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's just for birds. that's what the hint </OVERLAP1>
+          in sixteen,          <U2 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay. </U2>
+          says that in birds the female is the heterogametic sex.          <OVERLAP1> so that means that it's </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay i don't know if it was just like, </OVERLAP1>
+          (you were saying) okay.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> no i didn't just decide to do that i- it says that birds, in birds this is the way it is. so who can think          <OVERLAP1> of an </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> but, </OVERLAP2>
+         </U2>
+          uhuh?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> you don't have actually_ you don't actually have to like trial and error that much because, no matter what, if, a male is striped, all of 'em are gonna be striped because either way, the male will pass on an X to all of 'em making 'em all striped.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          so you have to have a recessive male.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> you have to have_ okay so, Christian is basically good at logic here and and, he doesn't have to do a lot of trial and error cuz he's logically working it out in his head. i personally am terrible at logic, so i would have to do a series of trial and error to figure it out. but you're saying and this is what you would find out if you were doing it through trial and error that the male has to be,          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (homozygous recessive) </OVERLAP2>
+         </U2>
+         <OVERLAP1> homozygous recessive. </OVERLAP1>
+          so let's try that and see what it happens and eventually we would we would try that combination. so if          <EVENT DESC="WRITING ON BOARD"></EVENT>          X-little-B X-little-B is the male here, those are the gametes at the top of our Punnett's square and the, female would be what?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> X-B, X-big-B. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> X-big-B,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> and Y </U2>
+          Y. cuz it's the heteroga- heterogametic sex. so in the outcome we would get,          <EVENT DESC="WRITING ON BOARD"></EVENT>          a male that is X-big-B-little-B, another male, that is X-big-B-little-B. a female that is X-little-B-Y, and a female that's X-little-B, Y. so in this case, these are what the males or females?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> male </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> male and they're all barred or          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> barred </OVERLAP2>
+         </U2>
+         <OVERLAP1> not barred? </OVERLAP1>
+          they're all barred. these are the females and they're all not barred. so, that that works out. the the only question i would have here is, okay sure the children all the females are, you know all the females are not barred. but look at the original female the parent female,          <EVENT DESC="WRITING ON BOARD"></EVENT>          that one was barred. so that this wouldn't be good for the whole population. (you couldn't go through it) because look this parent right here was barred. that wouldn't work, for the whole population but i guess it satisfies the requirements of the question which asked how could you tell if all the chicks were male or female? so, these are all the chicks here these are all the offspring and we did work out a cross where you could tell. so i guess that satisfies the requirements of the question.          <PAUSE DUR=":04" ></PAUSE>          yeah Laurie?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> are we_ i have a question about something else if we're,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> sure </U2>
+          um, for eighteen we have um, we have like uh, the gray is G and then the recessive is orange but then like irrespective to them i- like no matter what they are, if it has the little allele R it has red feathers.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          what is that called, when something does that? like        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> that is epistasis.          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that is epista-            <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> whenever </OVERLAP1>
+          you see the terms          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> no </OVERLAP1>
+          matter what or irregardless of the other genes or anything like that that is a clue that that's epistasis. and epistasis means that, the expression of a gene can be overridden by the expression of another gene. basically that's what          <OVERLAP1> that said. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i- i also </OVERLAP1>
+          have that, the um definition is a gene's expression is dependent upon the position and presence, of other alleles.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          s- but isn't that kinda like,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's </OVERLAP2>
+         </U2>
+         <OVERLAP1> contradictory? </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> like </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no, </OVERLAP1>
+          no, not really. well, no because, if if that one allele if that one gene can override the effect of another one,          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (right) </U2>
+          then it is influencing the expression of the other one basically it's saying it's not gonna be expressed.          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          so...        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh alright </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> does does epistasis make sense to everybody? that just means that one gene can totally influence the expression of another gene it can_ basically it's a gene being dominant over another gene you can think of it          <OVERLAP1> that way. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (but is) </OVERLAP1>
+          (so if that) M in the... what number was that?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (seventeen)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that was </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> the parrot one. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> what was that eighteen? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> eighteen </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> eighteen </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> was it the one where like if, </OVERLAP1>
+          no matter what if this person          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> has </OVERLAP1>
+          this gene then they're blind or something.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> um          <U2 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's the bird one. it's parrots </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think that was another example of epistasis. </OVERLAP1>
+          which one's that?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it's number eighteen. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> oh it's number nineteen. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> what proportion, yes it says_ and there's anothe- you know there's the clue it says no matter what. that's a clue that you're talking about apo- epistasis.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          results in deafness no matter what the other genes are present.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> what are the other word- the other clues? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> um, irregardless of, you know, no matter what irregardless of those are usually clues that you're talking about epistasis. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> can you explain incomplete penetrance? cuz i didn't </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> um,          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          i can try.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> i could </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> someone else wanna help out? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> Spencer'll do it </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> i i thi- i don't know he gave a lot of terms a- in, in that part and i have to refresh my memory i think incomplete penetrance was where,          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i- i can give you the definition i just don't </OVERLAP2>
+         </U2>
+         <OVERLAP1> um you get variable </OVERLAP1>
+          variable expressions of,          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          of a certain gene even though they have the same, genotype.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, he gave the example that, um, for like one dominant allele, causes um somebody          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> to </OVERLAP1>
+          have an extra finger,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          but many people have this allele and don't have the extra finger.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> or they have like different numbers of extra fingers.          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so </U2>
+          so incomplete penetrance is          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (mhm) </OVERLAP2>
+         </U2>
+         <OVERLAP1> just </OVERLAP1>
+          the case where, everybody has the same, genotype for that trait but the way that it's being expressed is different.          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright so it_            <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's </OVERLAP1>
+          all that that means.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> and why would that happen? you          <OVERLAP1> know </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> um, </OVERLAP1>
+          i don't think he said why it would happen so you're not responsible for that.          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> but what i would say was i- it might be due </OVERLAP1>
+          to the other genes that that person has maybe somehow influenced the way that that trait is expressed.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i have a question about like the, when we were talking about the epistasis          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> or whatever </OVERLAP1>
+          um, like i know what it is but how is it gonna affect the problem? if we had to like, i don't, i don't have my book i mean i don't have a book so i don't even know what the problem is but like, what's it have to do with that?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> um how does it gonna affect, like the outcome the phenotype, that's produced?          <OVERLAP1> is that what you mean? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+          or like_ i mean why is it in like, important to like know for the problem?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay well that would probably be best described by just going through one of these epistasis problems so, if you look at um, number nineteen, it says          <SEG TYPE="READING"> the dominant gene big-K is necessary for hearing. </SEG>
+          so big-K, is,          <EVENT DESC="WRITING ON BOARD"></EVENT>          required, for hearing... and then it says that          <SEG TYPE="READING"> the dominant gene big-M results in deafness no matter what other genes are present. </SEG>
+          so big-M,          <EVENT DESC="WRITING ON BOARD"></EVENT>          results in deafness, no matter what other genes are present. so here's a case where you have two genes the K gene and the M gene that are influencing the same trait which is hearing. so, the rest of the problem says          <SEG TYPE="READING"> what proportion of the offspring produced by the cross little-K-little-K-big-M-little-M and big-K-little-K-little-M-little-M will be deaf? </SEG>
+          so they wanna know what proportion of the children from those two parents will be deaf. and it says assume that there is no linkage. so that just means that, M and K are on different chromosomes. so they will assort independently in cell division.          <PAUSE DUR=":07" ></PAUSE>          so the parents are          <EVENT DUR=":09" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          oops.          <EVENT DUR=":08" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          so this is the cross that we're working with here. so on the top, we're gonna have_ well first of all we have two different genes here so i'm gonna do two separate Punnett squares. okay? i always divide it up in two separate Punnett squares. so what am i gonna put for_ let's make this the the K Punnett square dealing with the K stuff what should i put, up here?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (um) big-K-little-K. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> 'kay big-K...          <EVENT DESC="WRITING ON BOARD"></EVENT>          little-K. what should i put over here?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> two little-Ks. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right little-K-little-K. so what i'm gonna get is, big-K, little-K...          <EVENT DESC="WRITING ON BOARD"></EVENT>          then i'm a gonna get a homozygous recessive, a heterozygote, and another homozygous recessive. so, what about here? let's make this the, the M cross so i'm gonna have big-M-little-M_ well actually let's be consistent we'll put this individual up top. so little-M, little-M and big-M, little-M. so our cross_ we'll be able to get one heterozygote for this trait. another heterozygote here, a dominant_ or i'm sorry a homozygous recessive and another homozygous recessive offspring.          <PAUSE DUR=":05" ></PAUSE>          so now, we have to decide what are the possible, genotypes for the offspring here? they're gonna have a M trait and a K trait. so, what are, what are some of the possible genotypes?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (yeah) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well what are they? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> big-K littl- </OVERLAP1>
+          big-K-little-K-big-M-little-M        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> big-K-little-K-big-M-little-M. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> little-K-little-K-big-M-little-M. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> little-K-little-K-big-M-little-M. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> and then, big-K-little-K-little-M-little-M. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> big-K-little-K-little-M-little-M. did we get all the          <OVERLAP1> possibil- possible? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> little-K-little-K, </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> you could have both recessive </OVERLAP2>
+         </U2>
+         <OVERLAP1> little-M-little-M, </OVERLAP1>
+          all little.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay so now we have all_ these are the possible genotypes of the offspring. now we need to decide what their phenotypes are gonna be and that's where you need to keep in mind the epistasis that's going on here. because we know, if they have a big-M, they are gonna be deaf even if they have two big-Ks. it doesn't matter they're still gonna be deaf. even though they have the two_ even though they have, a big-K-little-K or a big-K, big-K, which means that they have what's required for hearing, they're still gonna be deaf because they got a big-M. so that's gonna affect what the phenotype of the offspring is gonna be. so let's look at this first one it's got a big-K that's required for hearing, so you would think that it's gonna ha- it's gonna have hearing but, what's the phenotype for the M gene? or for the_ yeah for the M gene? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> deaf </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> deaf </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> deafness. so, because it says that if it has a big-M it'll be deaf no matter what, that's epistasis. the expression of this gene is overriding the expression of the K gene. and this individual, will be deaf. and to figure out what what proportion of the individuals have this genotype, how would you figure that out? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> they're all quarters because, they're all halves. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right so you have to find out what's the chance that it would be a big-K little-K, well the chance of that is,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> half and half            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> two of </OVERLAP1>
+          four, so, one-half, times,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> one-half. </U2>
+          right times the chance that it would be, big-M little-M, and that is also one-half. so the total probability would be one-fourth, right?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay now wh- what would this individual would they be deaf or not? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> they would be deaf because they have a big-M here so they're automatically,          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          automatically deaf.          <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          what about this individual?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (unknown) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (mhm they) </OVERLAP1>
+          can hear.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> they what?          <U2 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> they            <OVERLAP2> can hear </OVERLAP2>
+         </U2>
+         <OVERLAP1> they can </OVERLAP1>
+          hear. because they have the big-K that's required and they don't have the big-M, so they can hear. and what about this individual?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> nope. </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (mhm) </OVERLAP1>
+          deaf.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> they're deaf because they don't have the big-K and the big-K is required for hearing. so they're deaf. so the question asks what proportion of the children would be deaf? so you need to figure out what's the proportion f- of each of these genotypes right?          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (three-fourths) </U2>
+          and then, total you need to figure out what's the proportion, of children that would be deaf overall.          <U2 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and that's whatever it is_ three-fourths is the,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> okay. </OVERLAP1>
+          does that make sense?          <U2 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          okay. yeah,          <OVERLAP1> (Charlie?) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+          as much as i like genetics um can we, go over real quickly uh, viral reproduction?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> viral reproduction sure. um          <PAUSE DUR=":15" ></PAUSE>          so he went through, a couple different, forms of viral reproduction and i only remember lytic and lysogenic so let me        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> isn't that like phage, reproduction though? i don't_ phages reproduce? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah phages is just like an infecting, agent          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (so so) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's an </OVERLAP1>
+          infecting virus so,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          phage is really just another word for, virus. um, okay, so basically the way that he presented this was he talked about different types of viruses. he said that there's D-N-A viruses R-N-A viruses and retroviruses. um, and then he talked about some other kinds of infectious agents or you know molecules um of genetic material but those were the three types of viruses he talked about. and then he brought up, um lysogenic cycle_ i don't know if he actually used that word did he use the words lysogenic and lytic or is that          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i don't remember </OVERLAP2>
+         </U2>
+         <OVERLAP1> just something that came </OVERLAP1>
+          up in your reading?          <OVERLAP1> he just said (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i </OVERLAP1>
+          don't remember that, either of them        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> where would he have used that word? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> in the lecture about viruses. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah like what part? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> um well he talked about how retroviruses in retroviruses that, they have R-N-A for their genetic material.          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          and then they take that R-N-A and they use a particular enzyme which is called what? retroviruses what's the special          <OVERLAP1> enzyme they have? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> reverse transcriptase </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> reverse transcriptase. and they take that R-N-A they use reverse transcriptase to convert it into D-N-A. so we're going from R-N-A to D-N-A. and normally we don't do that normally we go from D-N-A to R-N-A so you really do need a special enzyme here, that's carried by the virus. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so what was that word? do you think we'll have to know it? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> reverse          <OVERLAP1> transcriptase. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> reverse </OVERLAP1>
+          transcriptase.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> the lyso- </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> lysogenic and lytic? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> i don't think it's gonna be important. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> (do you think it might be) </OVERLAP1>
+          on there, like w- which one's lysogenic and which one's lytic? is          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          retroviruses_ so he said that they take the R-N-A they convert it into D-N-A and then that D-N-A inserts into the chromosome into the          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> host </OVERLAP1>
+          chromosome. so whenever you have, the infector D-N-A inserting into the host D-N-A, whenever you have that happen so_ i don't have different color chalk. um,          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          so if this is the host, D-N-A here that's the straight line and then we'll just make the dotted line viral D-N-A, so it inserts right into the host's genome. whenever that happens that is called lysogenic that would be an example of the lysogenic phase of the virus. the lysogenic phase of the virus is when, the viral D-N-A gets incorporated into the host D-N-A.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so would that be the prophage? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> pro- a pro- pr- a prophage is just um, like something that infects something else.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> oh </U2>
+          so a virus,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so it's            <OVERLAP2> just a </OVERLAP2>
+         </U2>
+         <OVERLAP1> a virus </OVERLAP1>
+          that infects another cell is called a prophage.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so it's just like a generic term          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's just </OVERLAP1>
+          the generic term. and for example a virus that specifically infects bacterial cells, that's called a bacterial phage.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> oh </U2>
+          so it's just, it's just really a general term. wh- what where are you looking at that term here in this diagram?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> this little chart. this diagram. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> so, a phage D-N-A inserts into the bacterial chromosome becoming a ph- prophage. so in in this case they're saying that you call the inserted D-N-A a prophage. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay but </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> but that's not          <OVERLAP1> gonna be imp- </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> but it's just </OVERLAP1>
+          like a general term?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah it's not gonna be important. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> does anybody know if the answers to the practice exam are up on the internet yet? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> i don't know. i didn't even know that they posted them. so does that answer your question? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay yeah and and the other part of that just shows the other part of that diagram that he's looking at shows the lysoge- or the lytic phase of a cycle, and the lytic phase is just basically when something active is going on. active viral production is going on. so the D-N-A gets transcribed and you start making more viral proteins and the new virus assembles and exits the cell, so that that phage that phase where there's act- active viral production going on, it's not just sitting in the h- in the chromosome dormant there's actually active viral production going on that's called the lytic          <OVERLAP1> phase. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> so, </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> go ahead. </U2>
+          um so um, they're not like two separate cycles it goes from lytic into lysogenic?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it it can </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well, </OVERLAP1>
+          it it it can be th- i mean there's yeah there's different variati- every virus works differently, so maybe it'll stay in the lysogenic phase for a long time and then go into the lytic phase. maybe it never goes into a lysogenic phase the virus just comes in and starts reproducing right away so it only has a lytic phase.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so like in the lytic um phage, the D-N-A isn't uh reproduced like, normally it's, the,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's reprodu- </OVERLAP2>
+         </U2>
+         <OVERLAP1> virus would </OVERLAP1>
+          be inside it reproducing itself?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it's repro- yeah it's reproduced separately from the cell's D-N-A. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay so, okay that's (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah yeah i mean it's only called lysogenic when it actually incorporates,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> when            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> in here otherwise it's a lytic. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> and the only, </OVERLAP1>
+          and the only time it's copied is like when the cell normally          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> divides. </OVERLAP1>
+          and then it can go into          <OVERLAP1> the </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          it doesn't it doesn't always copy          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> well </OVERLAP2>
+         </U2>
+         <OVERLAP1> when </OVERLAP1>
+          the cell normally divides          <OVERLAP1> it </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          i- that's like the only way          <OVERLAP1> it would </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but that's </OVERLAP1>
+          the only way it could. yeah        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> and then, they can go into the lytic cycle and that's when they separate from the D-N-A and, start reproducing and then burst open. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right. yep yeah. i mean o- okay i i wanna i wanna tell you here that i think that your guys' focus is a little bit off okay, you you_ there were a lot of ecological concepts that were brought in and a lot of examples he showed. um you want to be familiar, you want to be able to explain to someone what these ecological concepts are, and you know all these different terms that you got. you wanna be able to explain to someone what do those terms mean? and what what kind of example can i provide, of those types of terms? and you know you need to understand how the example relates to the term and those types of things and there were a lot_ you notice that Hazlett does a lot of examples so, i i i always say focus on lecture and that's what he focuses on so that's what you should focus on.          <OVERLAP1> mhm? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> um, </OVERLAP1>
+          well can we go quickly over speciation?          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          like, what it just is in general and that there's like three models        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah he gave you um sort of different definitions of people's interpretation of, what what a species really is. i mean you can't say, speciation the definition of speciation is the formation of a new species. so, it's really hard to decide if you have the formation of a new species unless you can define what is a species? what is a species? what does that term actually mean? and he gave um, different def- proposed definitions that describe what a different species means. and the most commonly used definition, was the biological species concept that's the one that's usually traditionally taught. and that just means that it's um, it's a group of individuals, so a species is a group of individuals that, can mate together, and produce offspring. so an interbreeding group of individuals. that's what a species is          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> fertile </OVERLAP2>
+         </U2>
+         <OVERLAP1> obviously, </OVERLAP1>
+          the two individuals from different species can't, mate together. yeah          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> uh </OVERLAP2>
+         </U2>
+         <OVERLAP1> at least </OVERLAP1>
+          by this definition.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> isn't it they produce fertile offspring? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> see that's that's th- that's the way that i've traditionally learned          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah me too. </OVERLAP2>
+         </U2>
+         <OVERLAP1> it but he didn't </OVERLAP1>
+          say it that way          <OVERLAP1> this time. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> because like </OVERLAP1>
+          lions and tigers can mate          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right and so can like </OVERLAP2>
+         </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> donkeys and horses </OVERLAP2>
+         </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> donkeys and horses yeah. </OVERLAP2>
+         </U2>
+         <OVERLAP1> and they're different species, but, </OVERLAP1>
+          yeah but they're infertile.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> right so that's the way that i've traditionally learned, the that definition of a species that's exactly the way_ normally i point out remember it has          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> to have </OVERLAP1>
+          fertile offspring. but he didn't say that that way so i think that the biological species concept originally didn't include that statement,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and that statement probably came up as sort of um,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          you know a reparation or an addition to          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          mhm          <OVERLAP1> the </OVERLAP1>
+          original biological species concept to, take into account the fact that two different species can mate together but they would they might produce um an infertile offspring so their offspring would be viable, it's alive it's there it's living but it can't reproduce it's sterile. so a lot of          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> people </OVERLAP1>
+          have added that, statement on to the biological species concept. not only are species interbreeding individuals but they're interbreeding individuals that can produce biologic- um that can produce fertile offspring.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so mules are infertile? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> uh m- yeah yeah. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i didn't know that.          <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> um </OVERLAP1>
+         <EVENT WHO="S5" DESC="LAUGH"></EVENT>          so, um then he talked about different_ so you know the the species concept you could fight over what what a good definition of a species is and you could make that you could make different arguments. he's not gonna ask you for a rigid definition of a species because it's sort of still debated. um, speciation, he talked about different modes of speciation i don't kn- is that?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay actually i i-          <OVERLAP1> i pretty much get it </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> something you wanted to go over </OVERLAP1>
+          or something else?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> no i i          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> get it. </OVERLAP1>
+          but, um, how 'bout can we go over polyploidy real quick? ploidy        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> polyploidy um          <PAUSE DUR=":07" ></PAUSE>          well i talked about autopol- autopolyploidy and allopolyploidy is that what you're talking about?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay, um, so polyploidy just r- refers to, the general situation of you have, too many chromosomes of that type. so polyploidy would be if you have three chromosome twenty-ones instead of two chromosome twenty-ones.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          okay? um, autopolyploidy and allopolyploidy are different sort of situations where that can happen. autopolyploidy refers to um, the situation where you have an offspring it's got too many chromosomes of a particular type, but that offspring, resulted from mating between individuals of the same species. in a- allopolyploidy, you also have offspring with too many chromosomes of a particular type, or more than normal, but that offspring was the product of different species mating together and producing something new. so that's the difference, between those two types of polyploidy. so, he gave the example of a fruit fly where there was, an ancestral species of fruit fly and one of the females accidentally laid eggs onto the wrong type of plant. all the other members of that species lay their eggs on a different type of plant and here this one female laid it on the wrong type of plant and it was an apple tree. and the larvae grew up and they they ate from the apple tree and they did fine and they survived and from then on the members of those offspring started sort of a new generation that all just lived on apple trees. um, i'm not, i'm not sure if there was like... i i'm not sure if these individuals became polyploid or whatever cuz that's where he put it in the example,          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          but the fact that the fact that you don't have another species in there mating with this fruit fly tells you that which which situation are we talking about here auto or allo?        </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> auto </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> auto. right cuz it's just one situation so, i i i'm thinking that that might have been an example of, sympatric_ i'm thinking_ okay i think he bounced around in the lecture here and that he all of a sudden went back to sympatric speciation and that was an example of sympatric speciation. does that make sense? </U1>
+       <EVENT DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) if they just          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> because </OVERLAP2>
+         </U2>
+         <OVERLAP1> go decide </OVERLAP1>
+          to go in apple trees all of a sudden?          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> because </OVERLAP2>
+         </U2>
+         <OVERLAP1> that doesn't </OVERLAP1>
+          really change anything.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> because now there're two populations and if you took the, new, individuals that breed on apple trees and the other individuals you couldn't breed them together. anymore. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> because the apple app- </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> wouldn't they still have </OVERLAP1>
+          the same genetic makeup?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> no </OVERLAP2>
+         </U2>
+         <OVERLAP1> the </OVERLAP1>
+          apple tree ones have more chromosomes (now.)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> no well, that that's what i was thinking because the example was there. but something like that would happen. something would have to happen_ because now remember these these apple tree, um they're they're totally in a separate environment they depend on apple trees they're not gonna go back over to the other type of trees.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> wouldn't            <OVERLAP2> that (be) </OVERLAP2>
+         </U2>
+         <OVERLAP1> so they don't, </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> peripatric? </U2>
+          they don't breed together for that situation so you're_ well let's_ okay so now he's asking if that's an example of peripatric speciation cuz        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> or, never mind just go ahead, with what you were gonna say. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay um, so the reason why they don't breed together anymore is because they use different resources now. so, these ones aren't interested in breeding with, the flies that mate on another tree because, um they're used to mating on these type of trees and unless another accident happened like the original female that accidentally, breeded in the wrong environment unless another accident happened which would be rare, these fruit flies now all_ they grew up on these trees they're used to these trees that's where they're gonna stay is on the apple trees. so ultimately what could happen, what could happen_ that doesn't mean that if you put them back together again that they couldn't breed just because they like being in different places.          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so the (ones) that </OVERLAP2>
+         </U2>
+         <OVERLAP1> that doesn't mean </OVERLAP1>
+          that. so, so how do you get a different species out of this situation then? if th-          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (yeah) </OVERLAP2>
+         </U2>
+         <OVERLAP1> if that's </OVERLAP1>
+          the case how do you get different species? well what happens is, these_ e- everybody is always constantly going through evolutions we're always,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> wait but </OVERLAP2>
+         </U2>
+         <OVERLAP1> we're always </OVERLAP1>
+          getting new mutations        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that wouldn't be an example of polyploidy then right? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> no no i just thought that it was because it it was          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> right </OVERLAP1>
+          there in the notes. but um, so how would you get two new species out of this? just because they prefer a different environment doesn't mean that they couldn't interbreed. well the way that you get a new species out of this is because, now these individuals are used to their territory they like their territory, and they only interbreed with each other. so if a mutation, happens in one of the individuals that you know gives a new version of an allele, that will only be passed on on that population that, that breeds with each other and likes apple trees. that population is not gonna get passed on to that other population that's on non-apple trees. okay, it's not gonna get passed on over there. so you can see that because of the separate habitats that they prefer, they're now on they're own individual evolution pathways. and eventually these pathways could lead in like different directions where, evolution um, in the apple tree species like eventually changed their genetic makeup so much that if you put them back with the other species whose invol- evolving totally differently cuz they're only breeding with each other, and they may not get the same mutations now if you put them back together after a long time of differential evolution, now they can't breed together anymore. because they've evolved different alleles from only breeding with themselves. does that make sense? so they got they got separated they prefer different habitats and now they only interbred with each other and they independently evolve, into different          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> but </OVERLAP2>
+         </U2>
+         <OVERLAP1> types </OVERLAP1>
+          of species.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> wouldn't that be like cladogene- genis- genesis instead of speciation really? or would they be the same,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> with </OVERLAP1>
+          different species.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> cladogenesis, cladogenesis is          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's just (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> like a it's a more </OVERLAP1>
+          general, it's a more general term where you evolve a a whole new clade. so a clade is like a branch in the tree of life you know you keep seeing like          <EVENT DESC="WRITING ON BOARD"></EVENT>          trees like this...          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          so a clade, a clade might be,          <EVENT DESC="WRITING ON BOARD"></EVENT>          this could be a clade, this could be a clade, it's all different levels of looking at things. so, um, for e- a- but the general the general definition of a clade is all of the individuals are related because the have a suitin- certain unique characteristic that they have in common. that's one thing. they have a unique characteristic that they all have in common. and the other thing is that they come from the same common ancestor. those are the two definitions of a clade. so how does this work when i say well this is a clade and this is a clade? that works because, these two may have a unique trait in common with each other that they don't share with this one. okay? so they have a unique a unique trait and only two of these have them. so that satisfies the one requirement the other requirement is that they come from the same common ancestor. and that's what these branching points are that branching point right there represents a common ancestor. so this satisfies the definition of a clade. if you look at this on a bigger scale, on a larger scale, you could also say well okay this is also a clade here, because, all of these individuals share a different trait okay it's not the same trait that these individuals share, there's some other different trait, that all of these guys, they all, have in common. this different trait. so we satisfy that requirement and they all came from, this common ancestor right? this is the common ancestor that includes all of these individuals. this common ancestor only includes, this one this one and this one. it doesn't include the ones that are over here. it doesn't include this part of the branch that branched off earlier. so do you see what i'm saying? there's different levels of organization you can look at. just like there's different of- levels of organization you can look at in humans you can look at the um, you can look at the cellular level you can look at the, organ level you can, you know the tissue level you can look at the organ level you can look at the whole physical being level. it's the same idea you're just looking at it at different levels. so, if i asked you          <PAUSE DUR=":04" ></PAUSE>          is,          <EVENT DESC="WRITING ON BOARD"></EVENT>          this a clade?          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> no </U2>
+          what would you say? no why not...? because i haven't included the common ancestor of these two.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> but they still have a common ancestor though </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> they have a common ancestor but they don't include all of the organisms a f- and and, a whole clade has to include all of the organisms that have that common ancestor. so what what_ they have a common ancestor it's right here, but it doesn't include all of the organisms it's not a full clade it's not a whole clade why not? what's missing?          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          well who's ma- who_ how could we make this a full clade?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> by including that point? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> by including, well if i included that point i still haven't done it because i don't have all of the individuals that, were derived from this common          <OVERLAP1> ancestor. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+          you have to go like right after that second branch right?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> yeah i have to include,          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> do you </OVERLAP2>
+         </U2>
+         <OVERLAP1> those guys </OVERLAP1>
+          too.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+          you do have to include that bottom one too?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> i have to include this guy because they came from this branch also. basically you need_ you look for the common ancestor, okay,          <EVENT DESC="WRITING ON BOARD"></EVENT>          you look for the common ancestor, and the common ancestor of these of this one, and this one is not here. they don't share the common ancestor here, you need to go back further, it's here.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> you just drew_ i don't          <U2 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> that line wasn't there </OVERLAP1>
+          before.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> this one oh th- </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          yeah that one.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay. so the common ancestor wouldn't be here it would be where? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> where your left finger is. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> it would be here. right. but i haven't included all of the individuals from that, branch point there was another group this group also came from this branch point.          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh            <OVERLAP2> (so you) </OVERLAP2>
+         </U2>
+         <OVERLAP1> so it's </OVERLAP1>
+          not a full clade unless i include this          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> group </OVERLAP1>
+          too.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so if that          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> group </OVERLAP1>
+          didn't_ sorry.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> go ahead </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> but i- if that group didn't have a similar trait to the other two the other two couldn't make the clade with just the common          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (oh no) </OVERLAP2>
+         </U2>
+         <OVERLAP1> ancestor point </OVERLAP1>
+          (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> um, what was that? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> there must be a class in here now </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> are you_ is there a class in here? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh there is a class from one to two-thirty in here so </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay okay so what time is it? i don't have a watch. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's just about o- a little after one. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> okay, so that's it we need to wrap it up um, but make sure you go through the notes make sure you understand what the i- how_ what the examples, um refer to </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> will you be emailing this weekend if we have any questions?          <OVERLAP1> like </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          i'll keep an eye on my email.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um about the,          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhh </OVERLAP2>
+         </U2>
+          (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="F" AGE="1" RESTRICT="NONE"> about what?          <PAUSE DUR=":05" ></PAUSE>          about what (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, what what's th- what's for? </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

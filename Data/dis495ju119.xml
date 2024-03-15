@@ -1,0 +1,759 @@
+<TEI.2 ID="dis495ju119">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Intro to American Politics Discussion Section </TITLE>
+         <TITLE> Rackham Div: SS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 7220 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> DIS495JU119 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="55">             <DATE> October 27, 2000 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Darell Tibbles </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Darell Tibbles </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Jessica Rett, Linda Kurtz </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Linda Kurtz </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Linda Kurtz, Chris Frost </NAME>
+               <RESP> Final Editing, 12/18/01 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">DIS</TERM>
+ <TERM TYPE="ACADDISC">495</TERM>
+ <TERM TYPE="PARTLEVEL">JU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">SS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="24"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="18"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SG, Instructor" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S10" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S11" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S12" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S13" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S14" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S15" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S16" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S17" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S18" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="JU, Student" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Lecture Room, Mason Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <EVENT DUR="3:35" DESC="MICASE RECORDING ANNOUNCEMENT"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> alright so maybe we should get started with culture. we talked a little bit about culture last time what did we say it was?          <PAUSE DUR=":08" ></PAUSE>          (culture)          <EVENT DESC="LAUGH"></EVENT>          was that a stop or          <OVERLAP1> was that a i'm raising my hand? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (no that was as a that was an) </OVERLAP1>
+          i'm volunteering.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um, the values and cultures and ideals that people in America have, that help them interpret, their experience?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so it's, something that helps you interpret your experience          <EVENT DUR=":12" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          any other ideas? what's culture?          <PAUSE DUR=":09" ></PAUSE>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> doesn't it kind of give a um, a basis of like what's right and wrong and how you should like judge your, (like) what you do what's acceptable in life (and) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> norms? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah that's the          <OVERLAP1> word i was looking for. </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> norms. yeah. </OVERLAP1>
+          gives us a set of norms          <EVENT DESC="WRITING DURING NEXT :10 OF UTTERANCE"></EVENT>         <PAUSE DUR=":04" ></PAUSE>          sort of, societal, rules, what's acceptable what's not... what your behavior means, what other people's behavior means. Mark?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> they have different beliefs, different          <OVERLAP1> cultures </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> beliefs </OVERLAP2>
+         </U2>
+          have different beliefs... (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> beliefs about what? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> beliefs about everything about, religion about... everything. what (makes) right and what's wrong. </U1>
+       <EVENT DUR=":16" WHO="S1" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> you can even tie in that uh, article in the Voices of Dissent (kind of,) the different (culture war,) like, they wouldn't_ they did things          <OVERLAP1> (in different culture) </OVERLAP1>
+         <EVENT WHO="SS" DESC="LAUGH"></EVENT>          what? you could tie it in, but yes so like their cul- their culture's different, and so they're not they don't know the American law for certain things so they don't know if they're violating it. but they they think it's right so, their norms aren't necessarily ours.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay so culture is, shared?          <EVENT DUR=":05" DESC="PAUSE WHILE WRITING"></EVENT>          so it's not just the way that, we individually interpret our experiences but it's, something that we share as a group, right? and then people come in from the outside and, they haven't been here as part of our group and what?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> and then they violat- or they, go against, our culture          <OVERLAP1> and th- yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> they don't </OVERLAP1>
+          necessarily, give the same meaning to        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> y- well yeah exactly they have different, cultural um, backgrounds and stuff. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay. so what about this, political culture stuff? political culture. yes, Hannah? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, i guess you would say it would be how, um, people, in- people interact with the government and how they feel about the government and, basically the government of a country, set sets the tone for the political culture of that country. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="WRITING ON BOARD NEXT :07 OF UTTERANCE"></EVENT>          so maybe it has something to do with government?          <PAUSE DUR=":04" ></PAUSE>          what else? we talked about what is politics right? Stacey?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um political culture's like your values and beliefs and everything like like geared toward the, politics. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so what's politics? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> stuff, that's political. </U1>
+       <EVENT DUR="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> (thoughts and stuff?) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what's politics? Mark? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> um political culture, part of our political culture is freedom. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> oh part of          <OVERLAP1> our political culture is </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i was going back to that </OVERLAP2>
+         </U2>
+          freedom?          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> alright </U2>
+          that would go under that would go under if we had another category up here and we had,          <EVENT DESC="WRITING ON BOARD NEXT :10 OF UTTERANCE"></EVENT>          American political culture          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> yes </U2>
+         <EVENT DUR=":05" DESC="PAUSE WHILE WRITING"></EVENT>          you wanna put freedom under there. so what is that? w- relate that to what a- what what's that? over here.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it's one of our uh, experiences. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> is that we experience freedom? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> societal (rules) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> we do. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> we do? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> belief...          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U2>
+          belief?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> we might believe in freedom.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> strive maybe, cuz it's not necessarily          <OVERLAP1> freedom. </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> freedom </OVERLAP2>
+         </U2>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="WRITING ON BOARD DURING NEXT :16 OF UTTERANCE"></EVENT>          it's a belief, it's maybe something we value, and then we have questions about, is it something we attain?          <PAUSE DUR=":06" ></PAUSE>          alright so what else what's what's politics?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> government </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> is it just government...? remember we had this discussion on the very first day of class, and i said, this class          <OVERLAP1> is not </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> (xx) (not) </OVERLAP2>
+         </U2>
+          this class is not what?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> American government.          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> very good </OVERLAP1>
+          uh (xx)          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          this class is what? American        </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> politics </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so what else did we talk about? Hannah? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> collective action </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> collective action </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> and getting collective goods for, everyone. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> and free riders </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> and Mark's favorite, free riders. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> common goals... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> politics is all about how we deal with each other right? central to that idea would be what other big P word? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> power </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> power, politics has to do with how we, distribute power, right? now some of that we do through government, right? that's what you've been, studying for a semester... but part of that we do what?          <PAUSE DUR=":06" ></PAUSE>          if we don't do it through government we do it...        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> ourselves </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> ourselves </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> ourselves </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> Mark you are on a roll. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> he's on fire today... so          <PAUSE DUR=":04" ></PAUSE>          so, political culture. what is it?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> (power) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <PAUSE DUR=":05" ></PAUSE>          Michelle?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it's like the methods in which we, interact with one another in order to attain power. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> no that sounds like politics. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. what was the question? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what's political culture? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it's the way we do it like, you know like the style, like our culture. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> do we agree with her? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> (Adam?) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> um, it's our attitudes, or our um and our involvement in, in politics and, how we how we perceive this political system,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          (which) i guess.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> maybe it has to do with, perceptions... Amy,          <U2 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> put </OVERLAP1>
+          it together for me Amy.        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it's like our ideas and beliefs about what the government does and then what it shouldn't be doing. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> and where </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> and where the power should be?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <EVENT WHO="S1" DESC="WRITING ON BOARD DURING NEXT :28 OF UTTERANCE"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <PAUSE DUR=":08" WHO="S1" ></PAUSE>          so we have ideas beliefs, attitudes          <PAUSE DUR=":07" ></PAUSE>          about, where          <PAUSE DUR=":09" ></PAUSE>          not only where power belongs but, how we get it there, right? right?          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          that's what government's about right? we think, s- we need some sort of central authority right? cuz we want what?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> we want, representation. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what do we want? what do we want from the government? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> collective goods. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> collective goods, we want stuff. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> we want free stuff. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> we want stuff we can't get by ourselves,          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          right?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i have,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> yes </U2>
+          i have a question.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i don't really understand how that, uh like i don't think that makes sense as political culture. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> why? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know. i just don't. i_ like i feel like culture should be like, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what should culture be? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know. but like i understand like the attitudes and beliefs part but          <OVERLAP1> like, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+          i don't know then, never mind. i don't know what's wrong with me.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so Professor Walton gave you the, example of the stop sign right? what's the stop sign example? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> well t- tell me what the example was somebody repeat it for me. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it's like you jus- you just see the shape and then you automatically put your foot on the brake. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> why?          <U2 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uh </U2>
+          (fan dement)        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> i think he, if i remember correctly, if you happen to go through the stop sign, you immediately look around to see if anybody saw you, uh, violate a law. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so what's the what's the point there? alright l- let's try this. what does a stop sign mean? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> to          <OVERLAP1> stop. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> means stop </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what does a stop sign mean? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> to stop. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what does a stop sign mean? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> stop. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> stop </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> (alright) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> what does a </OVERLAP1>
+          stop sign mean?          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> (no) </U2>
+          stop. what does a stop sign mean?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> stop. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay. do we have some sort of agreement in here about what, the stop sign means? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> how do we get that? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> culture </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> stop sign </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> it's in the name. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay what does a red light mean? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> (alright) that's better. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what what does a red traffic light mean? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> it means you (should) stop </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> stop okay what does a red traffic light mean? stop. Adam, what does a red traffic light mean yeah okay. is that better?          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U2>
+          mkay.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so that's culture. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so uh, so we all think it means the same thing? okay Brett so what happens if somebody comes from another country and tries to d- drive on our roads? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh they, might not necessarily understand, that the stop sign means, stop. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> yeah, or that a, a red traffic light means stop, right? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> or that we drive on the right side. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> or that we drive on the right side. is we drive on the right side written all over the place?          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> no </U2>
+          no, but do we do it anyway?          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> most </OVERLAP1>
+          of us. yeah? Jynx?        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (and) so, it's just like the common beliefs, attitudes assumptions about um, how we view the power works in our nation? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> it's a a yeah it's our assumptions about how things work right?          <U2 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          it's, it's our assumptions about how things work, it's the, beliefs and values, that, enable us to give, the same object or the same experience, similar meaning,          <U2 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mkay </OVERLAP2>
+         </U2>
+         <OVERLAP1> right? </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          so you and i come to a a red light, cuz we live in the same culture and have that same shared experience around what a red light means we both know that it means, stop, right?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> but it's like it's a never-changing thing like, always growing, like with the stop example,          <OVERLAP1> that's kind </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          of more um, concrete like stop always means stops          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and i i would say that it for the next hundred years it'll probably always mean stops stop, but with American political culture like it's always changing and like during campaigning the way you do it it's always different so        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> right. well there's nothing that says that, we have an American political culture that has the same values beliefs, and assumptions forever and ever and ever right? no. i mean it's still made up of the same, things assumptions beliefs values. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it's like based on the          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> but, </OVERLAP2>
+         </U2>
+          that it grows,          <OVERLAP1> and it changes. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> what those </OVERLAP1>
+          values are can change over time right? yes? okay so we understand what political culture is? we think?          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          where do you get it?          <PAUSE DUR=":05" ></PAUSE>          where does it come from? Margaret?        </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> socialization? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> socialization. can anyone tell us what that means? </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> do i need to? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> you can take a stab at it. </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it's like uh, through our daily norms and through our life we're told we have to do something this way and therefore we become accustomed to it,          <OVERLAP1> and so, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so we </OVERLAP2>
+            start out as itty-bitty kids            <OVERLAP2> and </OVERLAP2>
+         </U2>
+         <OVERLAP1> right </OVERLAP1>
+          it's just you practice what you see everyone else is doing like in Ann Arbor, stop doesn't mean stop.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> no it doesn't </U2>
+          so maybe it does when you're you know so like you were saying it- it is always changing i mean          <OVERLAP1> stop, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          to me stop doesn't mean stop.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> stop means slow down          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          (and) if there's no one looking then keep going right?        </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> and red light means go.          <EVENT DESC="LAUGH"></EVENT>          but you know what i mean it's like what you see.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so i'm sure a lot of people came to Ann Arbor and they're like oh i'm gonna stop and then they see no one else stops,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          (and they just) keep going.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so so where's this socialization come from? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> society </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> society socialization from society that, isn't that kinda like answering the          <OVERLAP1> definition </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> alright </OVERLAP2>
+         </U2>
+          with the same word?        </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> we learn from what's like around us (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> who's around us? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> parents peers people </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> media </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> teachers parents family schools </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> your family, </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> schools religion </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> school </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> your peers </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> school </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> your school. </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> media </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> anyone who you (would have) had contact with </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> church media, political events </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> political events </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> definitely (media) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> media. okay so tell me how th- some of those things work.          <PAUSE DUR=":04" ></PAUSE>          what did you learn from your parents, about politics?          <PAUSE DUR=":05" ></PAUSE>          Brett?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> they usually tell you, well they usually brainwash you and tell you to vote their,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          the way they vote.          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          so you don't really i i didn't re- really learn too much from my (p-) they're just like vote, uh whatever.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> they they told you to vote? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well, i mean over time they're like, yeah i'll uh, okay they're conservative so, they're like, they just kinda, say stuff like liberals don't really know what they're talking about and that kinda stuff. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so          <OVERLAP1> (i mean) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well was that </OVERLAP1>
+          a common experience in here?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> i heard someone say definitely. </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i just remember, uh my dad, had to secretly vote for Dukakis cuz my mom would get really upset.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          definitely... like she didn't want us to hear about it.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so they tell you, so that's that's a pretty uh,          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> (harassment) </U2>
+          it's a pretty, obvious form of, political communication right? when we're, explicitly talking about candidates and, we know that that's, political. what about, other ideas they pass on to you? Mark?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> politically? or, what do you mean? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> other ideas that you think might, fall into this, political culture thing </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> they might have like a, a bumper sticker, you know they don't say anything but you can te- you like see it everyday,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          (xx) and um (and) that's true        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> that's true it's true, you may never have a meaningful conversation with your parents,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it's </U2>
+          but they can give you indicators of where they stand right? okay... Brett?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> c- they, well they'd pretty much um, like they give you your morals, for          <OVERLAP1> the most </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> your morals </OVERLAP2>
+         </U2>
+          part and then that, has, a a lot to deal with, politics.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> how is that? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> because, there's it like maybe they're really into the environment or whatever.          <OVERLAP1> but </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+          they and they, they despise like, wasting and all of the uh toxins being used and going into the atmosphere so, they they install values that the environment's really          <OVERLAP1> important </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> instill </OVERLAP2>
+         </U2>
+          so instill, values the environment's really important so then you look at it in in politics for, who's like, like who's, who strives to, help e- the environment. so that's how it might affect you in        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> right that's that's          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          super very good yeah. so they give you, they give you values about what's important right?          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          right? and so, politics is a lot about deciding, where resources go right? so when you're making your decision about where resources go what do you think about?          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (it's) morally </U2>
+          what's          <OVERLAP1> important </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          to you right? Kate?        </U1>
+       <U1 WHO="S15" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, another thing is like y- you listen, to like you just hear your parents talking like, to other people and          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          in conversation and, you, kind of just believe that everything they say is correct so you tend to, like when you're young at least, and then you take those with you and then you, those've become your beliefs,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> there's this </OVERLAP1>
+          thing about your parents, they get you from,          <U2 WHO="S15" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> day one </OVERLAP2>
+         </U2>
+         <OVERLAP1> the most </OVERLAP1>
+          impressionable age, on. right? they got eighteen solid years to brainwash you right?          <PAUSE DUR=":04" ></PAUSE>          wh- what else do they give us? so they give us, ideas about, sort of, political candidates and that process they give us ideas about what's important, where we want our resources as a society to go. what else? John?        </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well um, yesterday in the D- i think it was yesterday in the Diag you had, those people walking around with the big um, big signs with poles attached, to their          <OVERLAP1> waist. </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> Jesus </OVERLAP2>
+            saves?          </U2>
+          yeah and uh you saw little like five and six-year-olds handing out the pamphlets with their parents and holding the signs up with their          <OVERLAP1> parents. </OVERLAP1>
+         <U2 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh that's </OVERLAP2>
+            disgusting          </U2>
+          and um,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> that was pretty political right? </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah and it just it shows you how, like what we we would think that that's, totally wrong but the kids don't know any better the kids know </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> but what are those children learning about politics, from that experience? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> extremes </OVERLAP1>
+       </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that </OVERLAP1>
+          whatever their parents say is right no matter, what's coming out of their mouth.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> but what else are they learning? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> he told me i was going to hell, a little five-year-old.          <OVERLAP1> i didn't take the pamphlet he gave me. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> maybe you are </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know like he was like you're going to hell cuz i wouldn't take his          <OVERLAP1> thing. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> alright </OVERLAP1>
+          but what are they learning about politics? can you give me some practical_ what are they learning? (Adam)        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> they're learning to become active (xx)          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> active, </OVERLAP2>
+         </U2>
+         <OVERLAP1> (and) participation </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> they're learning that being active and participating is important, right? their parents are showing them that they're, did anyone stop and think why aren't these children in school? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i just said that </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what's that? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i just said that          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> yeah? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so i mean </OVERLAP1>
+          their parents are right then and there are teaching them, your political action is more important than what? the social norm of going to school?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> they're probably homeschooled, cuz </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that's what i thought too </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> cuz who needs to go to school when you have Jesus on your side. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> exactly </U1>
+       <EVENT DUR=":06" WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> isn't that what (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so what else do we learn? okay </OVERLAP1>
+          what else are they learning? so, Stacey they told you you're going to hell so, (what d-)        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> just the little kid not the big one. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> (the bigger kid) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what do you think that they're learning? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> not good things. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what do you think they're learning about people that are not like them? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that if, they're not like them they're wrong. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> and, what? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> and          <OVERLAP1> they're </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> how does that (help) </OVERLAP2>
+         </U2>
+          going to hell.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> how do you think that they transfer that into political, meaning? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> (only people) </U2>
+          only people with their          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> (they're not gonna be able to change) </OVERLAP2>
+         </U2>
+         <OVERLAP1> beliefs are </OVERLAP1>
+          correct, ever. cuz they're very, like, i guess extremists.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          if they don't agree with someone like they probably go (to Canada) or something that          <OVERLAP1> i don't know </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          it's very extreme. they're very extreme in their beliefs so they're not gonna compromise, no matter what.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what do you think um, they would think about, government resources going to, um activities they feel are,          <OVERLAP1> not </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> at odds </OVERLAP2>
+         </U2>
+          not acceptable, not consistent with their beliefs...? not acceptable... what do you even_ they might not even think that, shoot people like Stacey should, be eligible for, um, you know college money from the government right? why waste our public money on Stacey she's going to hell.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          do you see my point?          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          but (is it_) they're learning something about people who are not like them, and what that should mean for them politically. where else do you learn about people who are not like you?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> school </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> and what you should do about people who are not like you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> school </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> school? how's that? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> teaching you diversity and like opening w- what school should do is like, open your mind to like, different cultures different types of living so you can be more accepting. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so what </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> or you could </OVERLAP1>
+          go to school private school religious schools schools in Utah,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          schools in Michigan schools in New York City, it also depends on geography.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> alright so we talked about um, we talked once about, who thought they really went to a desegregated school, and how many people thought they did?          <PAUSE DUR=":05" ></PAUSE>          and how many people did i agree with?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> (nobody) </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mine really mighta been. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> rel- i swear, it was like forty-five percent um, Asian you know (and that) maybe like, black wasn't that represented there was still like maybe ten percent.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and then you had whites but you had whites of all different religions you had Jewish you had Catholic you had Protestant, (you had) so i think it was,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and they did teach a lotta diversity like          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and you know what i mean assembly after assembly.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what about, your peers? do you think          <U2 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (they would've            <OVERLAP2> felt) that way </OVERLAP2>
+         </U2>
+         <OVERLAP1> you learned, </OVERLAP1>
+          do you think you learned, about, diversity just through, being there with people who weren't?        </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> alright. </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> cuz i mean when, you know you're not you learn they're just like you everybody's just like you. there's really no difference. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> now if you didn't have that experience of uh, being personally exposed to people who were not like you where would you get your information? </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> media </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> media? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> ooh, tell me. </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah because i went to a school that was certainly diverse i- it was like thirty percent white thirty percent black, twenty percent Mexican, ten percent Asian and,          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> ten </U2>
+          and then you got ten percent of what's left and uh,        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> whoa,          <OVERLAP1> whoa </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> sounds accurate </OVERLAP1>
+       </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well no i'm no i'm saying </OVERLAP1>
+          it was it was,          <OVERLAP1> everything so yeah. yeah i w- i didn't mean to be (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (it was) a hodgepodge leftover yeah okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> yes, it's important </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay,          <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> and </OVERLAP1>
+          so it was an inner-city school and like all the schools in like the surrounding area like everybody had this image that you know, like from the media from the newspaper the Lansing State Journal which is, well anyway, they were th- so everybody, in the surrounding area thought that Lansing schools were horrible and, you can't learn at a Lansing school and you're gonna get shot if you go there and, you can't get into col- you can't learn anything of course so, so like they_ kids honestly would ask us like how did we get into Michigan and, were you scared to go to school every day and, stuff like that and they get from well i guess their parents too and but, mainly the i think the media. so i i that's one way i think the media definitely influences how you perceive          <OVERLAP1> other people like </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so h- how's that </OVERLAP1>
+          politically important?        </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> because that's how they think about it if they're, they see people that aren't like them that didn't go to school, like with you know, if they didn't go to the best school or whatever that they uh, they they're not like (they're) different they're inferior. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what about their information about, what's the cause of that? </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> the cause? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> yeah, so what about, oh so they said oh you can't learn people are shooting each other.          <U2 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          why?        </U1>
+       <U1 WHO="S14" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> i guess because they weren't white i i mean, it's that's that's, that's kinda that's what we always, thought it is. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> cuz of their own political cultures. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> Brit? </U1>
+       <U1 WHO="S17" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, because if they, feel that people aren't learning there or it's violent or whatever (just) shut 'em down. i don't want funding going there well i'm not going to support this candidate or i'm not going to support this, group. so it shapes what they,          <OVERLAP1> think about </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> mhm, </OVERLAP1>
+          mhm          <PAUSE DUR=":04" ></PAUSE>          so we have value about um, who deserves government money and who doesn't, right? that's the political reality. John?        </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well when um, when you go to school in a, a place that's very diverse and it's forced to be that way,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          through um, affirmative action or, whatever the cause may be like my sc- my school was quotas for, race.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          and uh, when that happens they try to force it down your throat the idea, of racial equality and that diversity is good and,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          when it's forced like that when it's force-fed to you it doesn't work,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          it, they keep trying to uh, arrange it different ways to to get, more minorities into uh, into s- different schools but if it's, if it's force-fed like that it it just          <OVERLAP1> doesn't work. </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> why didn't it work? </OVERLAP1>
+       </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh well it didn't work at my school.          <OVERLAP1> at my school </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> why, </OVERLAP1>
+          why didn't it work? why didn't it work?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> because you're gonna associate with the group of people that, you're used to so is it really you're still segregated and you're, and like technically cuz your just (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> Paul? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it didn't work because, perhaps other certain elements (form this association.)          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> (but why is it illegal?) </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean you can put all the people you, (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> your </OVERLAP1>
+          school can be telling you all they want that, this is a good thing what i- what if, your other sources of, cultural knowledge are telling you it's not? right?        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> that's what (i think) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> Katy? </U1>
+       <U1 WHO="S15" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> just that you have, all of these beliefs in your head that you got from your families before you even went to school so, it all comes into play. everything, is built on the others,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm          <PAUSE DUR=":08" ></PAUSE>          so what do we think about people who are not like us...?          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">           <EVENT DESC="WHISPERING"></EVENT>            (you're a racist American)          </U2>
+          Jynx what do your parents think about people who are not like them?        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhh... they're just not like them. they think that,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> does that            <OVERLAP2> have </OVERLAP2>
+         </U2>
+         <OVERLAP1> their </OVERLAP1>
+          beliefs are true but they don't i don't think they,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> does </OVERLAP1>
+          that have consequences about what they think the government should do?        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> like what? </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, in terms of, i guess, abortion. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> abortion? </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay, so what do they think about that? </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> they think that they're, very very scared if the new, uh Supreme Court Justices that might be appointed are, of Bush's choice that that is a big threat to, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> to Roe-v-Wade? </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it scares them. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what else?          <PAUSE DUR=":04" ></PAUSE>          what did you know about, other cultures? did anyone encounter new cultures when they came to Michigan?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> and so what do you do with that new information? John? </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well um a lot of people only know about, uh other cultures on a superficial level,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          from what they see, other people doing or from what they hear through media or through, school or through their family but if you don't, if you don't live, like that culture lives or like that race lives or, that religion or, any other um, any other diversity then, you're not gonna see you're not gonna understand what, goes on in, in that culture...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> do we tend to have real nice things to say about people who are different than us?          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> no </U2>
+          just generally speaking? what do you think? we as Americans do we generally have nice things to say about people who are not like us?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think we can make a broad-based generalization like that. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> you don't think so?          <U2 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think so. </U2>
+          how's that?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i, i just don't think we can i think that, America is made up of many different types of people and i think, some people are very accepting and others aren't, and, that's reality and so some people have nice things to say or even if they don't have nice things they don't know enough, but i i don't think that you, i don't think that you could classify it. i think maybe we could take a census of like, you know the census just went out maybe you could like, put another one out about how do you feel about people that are different from you or          <OVERLAP1> i dunno. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yep, you know </OVERLAP1>
+          they have s- surveys like that.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay so maybe we          <OVERLAP1> could </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so </OVERLAP1>
+          we talked about the national election studies        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so we could get ahold of some of those and find out about it maybe but i,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          don't think you can make a broad-based generalization.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay, who had who,          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> a lot of            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> Angela </OVERLAP1>
+          you haven't talked much yet.        </U1>
+       <U1 WHO="S18" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh, well i think um, generally, the way that we're seen, is maybe really um, conceited we think that like, our government and the way we run our nation is the best. and, therefore we try and impose it on other nations,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and, we might think that that's great that we're helping them out but, i mean they might, not really want to accept it.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          you know.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> ethnocentric. it's when you think, you you you can't get out of the little circle in which your own culture is contained. anyone else, wanna respond? Paul? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> i think that, America's as a whole is terribly ethnocentric i mean every time we get into a war, we go in there and we say, we're gonna kick Saddam's butt and let's go in there and kick the commies' butt because they're wrong and, democracy and America's, the greatest thing in the world so let's tell the Chinese they all need to change their laws and, to some extent i mean we, America's presence in the world is seen as the finger pointer and, at times we become the policeman and, i think that, we harp on differences, more than any other country but at the same time, it's the fact that we do that that makes us, increasingly, um, progressive i guess. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay, other, responses? Mark? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well in in addition to that i mean, it kind of makes our country look, insecure like we're scared that, for instance like the communists are gonna take over, and so we have like, we feel we have to stop it or something. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know. i don't know what that's doing anything for (xx)          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> (or concern) </U2>
+          that's just        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> we we fear what we don't know? we don't know a whole_ i mean, okay so there were the, communists here and s- you you saw the, you went to lecture? you saw the little political ads? you saw the Johnson ad where the you had the little girl and the suggestion that          <OVERLAP1> she's being </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> (that's so) </OVERLAP2>
+         </U2>
+          blown up by a nuclear bomb? right? there's a lot of fear going on there. how much information do you think your average American had about, what communism was?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> a little </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> very little </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> just that it was bad </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> just that it was bad? yeah. that it was different from us? yeah. Katy? </U1>
+       <U1 WHO="S15" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, i was just gonna say um that people do, fear what they don't understand and our lack of knowledge and resources of all of these, different cultures different you know styles of doing things lead us to believe that ours is the right way and the best way to do something so we_ people are definitely, ethnocentric. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay. Michelle? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> and it's within like our own country as well          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's </OVERLAP1>
+          not only like the way we deal with other countries, cuz like there're lots of different people from different countries who are now American like first generation second generation. and like the way we treat them is like the same way we treat other countries in terms of fearing them and not, caring to get to know them. but i think it's just like cuz there's also safety in like, knowing what you're used to, you know, like used to your type of people cuz you're you're comfortable with it,          <OVERLAP1> and </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          that's also where the fear comes from.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> Stacey? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i think it's kind of like, two different things though like, what she was saying about like, the country and like not being able to generalize it like, and what he was saying about like the way we are with other countries like, i feel like the way we are internally is different than the way we, i do feel i- do you know what i mean?          <OVERLAP1> like </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          when internally like, i happen to not agree with you like, while it's a nice thought to say that the majority of the co- country's open-minded like, i rea- i don't think they are, you know like i actually used to but i don't as much anymore. but i feel like, so while we may not all agree, in the same country i feel like when we're, put up against another country like, the way we feel we're better is as a whole we're better. as opposed to like individual like small groups being better.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          i don't know.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> John? </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> um, i think it was on Leno or uh, Conan O'Brien, last week,          <EVENT WHO="S1" DESC="LAUGH"></EVENT>         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> to quote the </OVERLAP1>
+          uh, eternal scholar.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> no George </OVERLAP1>
+          Bush was on.          <OVERLAP1> and um </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh okay. </OVERLAP1>
+          oh yeah,          <OVERLAP1> (he's a) scholar </OVERLAP1>
+          .        </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> they were, </OVERLAP1>
+          um        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> go ahead.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> they were uh,          <U2 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> (xx) socializing </OVERLAP2>
+         </U2>
+         <OVERLAP1> they were (doing) him </OVERLAP1>
+          and uh one of the things he said there was at that time, i don't know (when_ like) maybe two weeks ago there was a lotta conflict, about um, in the Middle East and one of the things he said was uh, we gotta get those Arabs over the barrels, like,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          and there was a whole blowup about that because, like the whole um, Arabic community was all angry because, you're not like you're fighting Iraq or whoever i don't even know what's going on, you're fighting uh like,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <OVERLAP1> whoever </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay so </OVERLAP1>
+          um,          <U2 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah well i don't know what's going on either </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's this country </OVERLAP1>
+          Israel, okay?          <U2 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah Israel </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          they're fighting with the Palestinians,          <U2 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, well you know but </U2>
+          over, land in the Middle East.        </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah the fact, that's not my point. the fact was that he said uh,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          he he said Arabs and he was referring to only like, one, he he he meant to say, Palestinians i think but uh he only, he referred to like the whole, Arabic block.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm, so what does that, what does that story tell us, about politics?          <U2 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> that            <OVERLAP2> even, </OVERLAP2>
+         </U2>
+         <OVERLAP1> and groups? </OVERLAP1>
+       </U1>
+       <U1 WHO="S16" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> the guy who we might elect as president, doesn't have, the knowledge of, what_ was uh, socialized wrong. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> how 'bout the role of groups in politics?          <U2 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> (and organizations?) </U2>
+          wanna tell us a little bit about that? politics isn't, politics doesn't just run on individuals right? we wanna get something done, we talk about this collective action, we wanna get something done, we gotta get it, get what? a group of people together to do it? how do we do that...? Katy?        </U1>
+       <U1 WHO="S15" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> we have people, in our_ to get together with us who have the same beliefs as us and the same, you know values and want the same thing in order, to get that done cuz if you have a group of people who, have competing interests you're never gonna get anything done you're gonna be, (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so there's there's uh, there's two ways to do that right? you wanna get people together who have a common interest. they can have a common positive interest or a common negative interest right? so we can all want the same good wonderful thing, or we can all want to prevent someone else from having some good wonderful thing right...? does anyone see where i'm going...? no? let's uh... when we talk about racial politics, what's that? racial politics. you hear it in the news all the time, playing racial politics here. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> supporting people of your race. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> supporting people of your race? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> trying to appeal to minority groups. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> trying to appeal to minority groups, Brit? </U1>
+       <U1 WHO="S17" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's kind of like you, bring in a, Supreme Court Justice, and he's of the minority just so, you get that group, or you know, get the southern, vote or whatever. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so we might do something symbolic,          <U2 WHO="S17" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          to get that group on our side. or what else might might we do? what if we want uh all the southern white people on our side. Katy?        </U1>
+       <U1 WHO="S15" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> pass some type of, or, urge for some type of like civil rights legislation or, something that will help, people of that group, and make them see that you're, an advocate of them. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay, so that's that's how we get minorities on our side what_ are we always helping minorities? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> and why is that? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> help yourself </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> Adam? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh opposing, opposing viewpoints and pressures for um, groups that, that think there's that there're more there're other important issues to deal with. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> Hannah? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> you can get more votes with the majority so you don't always go with the minority if, the minority's interests really conflict a lot with the majority's interests cuz you're really, mostly concerned about, keeping your job. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay so let's pull power back into all of this. so we thought about, what do we think about people that we don't necessarily know, a whole lot about, that seem like they're sort of different from us...? (okay beliefs about that,) does that shape our beliefs about, government and, power and, where power belongs and, what power should do? yeah? how's that? Brett? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> cuz maybe um you wou- you think that the other person that you don't know very much or the other ethnicity that you, don't know very much about lacks like yo- they're inferior to you or whatever that you're, you're superior to them or whatever. so then you don't want someone of tha- of the opposite um ethnicity, having power over you like having uh like your Congress job or, for that district or your governorship or whatever, because you feel that, they don't know how to run things cuz you know how to run things (you were raised) (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> (Adam?) what about um, what about some other ways that we get some different ideas about, uh politics and, where uh, where power belongs? so what about... is anyone in here from Detroit? anyone from Detroit? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> what do you mean          <OVERLAP1> Detroit? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> from </OVERLAP1>
+          Detroit Detroit?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> Detroit proper. Detroit. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> Detroit Detroit (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> Detroit's (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> no. anyone from, Detroit suburbs...? who lives in Detroit? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> no one </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> about a million plee- people live in Detroit. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> there're not (happy          <OVERLAP1> about it) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> one </OVERLAP1>
+          million that's it?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> African-Americans </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> Latinos, a lotta Hispanic people. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> i was in Detroit last night, sorry. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> b- before the riots, (xx) (have) riots in the, thirties and forties and then in the sixties right? who lived in Detroit? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> everyone </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> white </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> middle class </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> middle white American </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> everybody. they had a population at one point of about three million. Detroit was a pretty gosh darned big booming city. they had this whole auto industry thing going for 'em, right? then what happened? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> suburbs </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> suburban sprawl. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> but why?          <U2 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> because </U2>
+          it just          <OVERLAP1> happened? just one day </OVERLAP1>
+         <U2 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> because no, </OVERLAP2>
+         </U2>
+          people just started moving.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> because they, cuz they, the people that were living there, um, i mean they're, they're minorities that wanted to live there that were living there and so they didn't feel, there was tension, between, minorities and, and whites and that's why, they figured that mi- they'd move to the suburbs so minorities couldn't use_ minorities couldn't afford, a </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> Margaret? </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) what i hear cuz i've talked to my grandma like, what happened would be one black person would move into the neighborhood, and everyone would run. that's what happened.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          no that's the truth i mean people got scared, they didn't un- understand what was going on. one person would sell a house, then every person on the block          <EVENT DESC="S1 WRITING ON BOARD NEXT :20 OF UTTERANCE"></EVENT>          would then sell their house and move to, the suburbs.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so there's this movie, called_ and don't_ this isn't what the movie's called. um, there's this called The Color of Courage has anyone ever seen it? it's about Detroit. alright, uh it deals with this, concept. restrictive covenant do we know what that is? yes no? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> okay, it was an agreement among neighbors, that you signed, supposedly a legal document, that said i will never sell my house to a black person. okay, supposedly a legally binding contract among neighbors, it was part of how we kept neighborhoods all white. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it was a legal contract? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> supposedly.          <PAUSE DUR=":04" ></PAUSE>          okay, we're_ this is, we have residential segregation in the North right? we talked about this? where in the South we have Jim Crow two (xx) of, lovely segregation. in the North we have residential segregation, so we don't have to worry about separate drinking fountains because we're never in the same neighborhood to use them in the first place right? okay this is part of how we keep it. what does this do for us to me as white homeowner?        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it gives you power. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> mhm. it supposedly protects my investment right?          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          why do i care whether someone, moves in down the street who's African-American. one, because i might not like him because of, just, their race.          <U2 WHO="S5" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          two because, what do i believe that it's gonna do to my property value?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> devalue it </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so, a couple things happen, one there's a housing shortage in the African-American community. okay, they've been kept in a small little block this is, especially bad in Chicago but it happens here too, okay, there's nowhere to live. whether i wanna live amongst a bunch of hostile white people or not, some of some of us have no choice. some white people looking for some money, they're willing to sell me a house at a much higher price than my white counterpart would've paid. i'm now into this white neighborhood. then what happens? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> they all leave </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> they get ostracized </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> they all leave? they think that property values are going down i'm gonna sell out, sell out quick. what else happens in Detroit? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> riots </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="WRITING ON BOARD NEXT :07 OF UTTERANCE"></EVENT>          where do these people go?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> overseas </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> they start (leaving) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> they leave Detroit, are the big factories in Detroit proper, anymore? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> are the corporation centers in Detroit proper anymore? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> that leaves Detroit with what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> slums </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> no, no no tax base right? that money is gone. what would you do if you were living in Detroit? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> leave </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> get the hell on out, right? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> wait why is their money gone? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="JU" SEX="F" AGE="0" RESTRICT="NONE"> no tax base. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> their entire corporate sector is gone. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> well why can't the black people that are moving in become the new corporate sector? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what do we know about black wealth? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it's not strong. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> there isn't any. people have been keeping us from buying even small houses. since we've been freed from, slavery people have, found ways to keep us from accumulating any wealth in the first place, right? all the wealth moves out. who can't move with it...? poor people which tends to be highly correlated with African-Americans, right? i don't have the resources, to go, move somewhere else, right?          <PAUSE DUR=":04" ></PAUSE>          now what happens, in Detroit? what do you know about Detroit city government now?          <PAUSE DUR=":05" ></PAUSE>          you know lotsa good stuff about Detroit city government? you hear things like Detroit public schools are a mess you hear things like, they can't even shovel snow in Detroit.        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> charter schools </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> trash </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> you hear that there's trash rodent problems. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> gambling </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> gambling? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (people like to gamble) </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JU" SEX="U" AGE="1" RESTRICT="NONE"> that's supposed to help them </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so, who's, who's from a a, Detroit metro suburb? do do they pick up the trash in your neighborhood? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (yup) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> what about schools, do you have          <OVERLAP1> decent schools? </OVERLAP1>
+       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (excellent) (xx) schools </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> yeah? what about um, snow do they get rid of the snow? yeah? hmm. </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well that's not a public (xx) that's not a public service </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> they don't p-          <OVERLAP1> they don't (clear) streets? </OVERLAP1>
+       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well yeah i mean on the </OVERLAP1>
+          on the local roads not          <OVERLAP1> on the </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> (on the streets) </U2>
+          driveway.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> yeah, but they clear the streets so you can drive your car on it?          <U2 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          hm. do you think do you think the same thing about local government? that people who live in Detroit do?        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> nope </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> probably not? what what do you think the difference is? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well the difference is we have a lot more capital to work with. i mean we have, a certain about of money and a certain, amount of people that are, continu- continuing the whole entire flow of, keeping the city well kept, managed organized educated, and funded. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> so local government's generally a good thing where you live? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> i mean you might think you'd prefer to have a different mayor and you know i don't know maybe they would, put up a different colored suh- street sign or something and, you'd be a little happier, right? but, what do you think people in Detroit feel about, their local government? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JU" SEX="M" AGE="0" RESTRICT="NONE"> it sucks </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> i don't think i'd be too happy with it yeah? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> well the Detroit local governments are just as displeased with their own constituents as the constituents are with their own their uh, government. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE"> well don't confuse a Dennis Archer personality conflict with, right? so what am i saying about culture, political culture? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) and that,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it might </OVERLAP1>
+          be different for some subgroups in our population, for some very systematic reasons. alright, i have office hours today, um, those few papers that i didn't have to give back out now by then, yes?        </U1>
+       <EVENT DUR="2:01" DESC="UNINTELLIGIBLE CONVERSATION"></EVENT>       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

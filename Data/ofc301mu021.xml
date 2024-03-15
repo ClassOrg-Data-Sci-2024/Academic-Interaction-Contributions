@@ -1,0 +1,571 @@
+<TEI.2 ID="ofc301mu021">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> English Composition Tutorial </TITLE>
+         <TITLE> Rackham Div: HA </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 3303 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> OFC301MU021 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan   RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="45">             <DATE> June 17, 1998 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Bret Lucka </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Bret Lucka </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Carrie Sue Kay Sulzer, Bonnie Malczewski </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Eric Breck, Rita C. Simpson </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Janine Ovens </NAME>
+               <RESP> Final Editing, 10/5/99 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">OFC</TERM>
+ <TERM TYPE="ACADDISC">301</TERM>
+ <TERM TYPE="PARTLEVEL">MU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">HA</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="3"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="3"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="JF, Workshop Facilitator" SEX="F" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="S2" LANG="NRN" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1">           <FIRSTLANG> KOR </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="UN, Passerby" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Instructor's Office, Angell Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay what are you working on today? </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> um, i'm in uh English um one-twenty-five,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          i have um essay that i wrote and maybe you could, maybe, look at it,          <OVERLAP1> maybe revise it </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> okay what was </OVERLAP1>
+          the assignment?        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> um, this one is autobiography </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> and this one here is a synthesis essay which is based on a, essay that we read, about Columbus. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> so </U2>
+          Christopher Columbus?        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> and um these are both due for the end of this term?          <OVERLAP1> is that it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> right </OVERLAP1>
+          right.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> and this has already been revised once? </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> yes. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> and so basically what you want from me is just any suggestions about final          <OVERLAP1> touches? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> mhm. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> so i read through it and then          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay </U2>
+          make any notes or whatever on it and w- while i'm doing          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> that </OVERLAP1>
+          maybe you could fini-          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> fill this </OVERLAP1>
+          out. um, okay so this is an autobiography of, you know your coming to this country          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> and what's </OVERLAP1>
+          happened to you since okay... oh you came as sick- at sixteen?        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> yeah.          <PAUSE DUR=":09" ></PAUSE>          do i fill (out) (like) here?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> yeah you um, i guess you would um, put where you are in this age group, and this is a writing workshop appointment. i'll put that up here... okay? </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> (oh) okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> and then today's date, and... </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> the seventeenth </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> today's the seventeenth, okay and then you just um, go through that... now who has read this before? your teacher or uh people in your class, or </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> both. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> both.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> okay </OVERLAP1>
+         <EVENT DUR="1:10" DESC="PAUSE WHILE READING"></EVENT>         <EVENT DESC="LAUGH"></EVENT>          this is funny. the          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> transition </OVERLAP1>
+          of the pizza it tasted terrible the night before          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> right. made me feel about sick. </OVERLAP2>
+         </U2>
+         <OVERLAP1> (and,) tasted great </OVERLAP1>
+          the next day. right right.          <EVENT DUR=":08" DESC="PAUSE WHILE READING"></EVENT>          when you start a new quotation like this you should capitalize the first word        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> oh okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay?          <EVENT DUR=":24" DESC="PAUSE WHILE READING"></EVENT>          okay, here's um, here's          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> something </OVERLAP1>
+          that this is this is a- agreement.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm </U2>
+          um and when you have a singular like          <SEG TYPE="READING"> each of the students, </SEG>
+         <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm </U2>
+          you have to say his or her... not their, because their is a plural.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> so if </OVERLAP2>
+         </U2>
+         <OVERLAP1> this </OVERLAP1>
+          has to agree          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> oh </U2>
+          in number.          <OVERLAP1> with this </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> so if (th-) </OVERLAP1>
+          if i just leave,          <SEG TYPE="READING"> each of the, </SEG>
+          just make a          <OVERLAP1> (student.) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> that's right. </OVERLAP1>
+          it would be alright, good.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> but someone, um, in a_ classmate,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> mhm </U2>
+          suggested put it in there so          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> well, i think it would </OVERLAP2>
+         </U2>
+         <OVERLAP1> (i don't know) because </OVERLAP1>
+          i started with        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> i think i would just take this out          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> cuz like </OVERLAP2>
+         </U2>
+         <OVERLAP1> the students </OVERLAP1>
+          had their          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> right. </U2>
+          it's easier.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> cuz i started just uh          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right. </U2>
+         <SEG TYPE="READING"> (the) students </SEG>
+          and then          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right </U2>
+          someone          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> (then went </OVERLAP1>
+          home)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right. when um in agreement,          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm </U2>
+          um your pronoun, always has to agree,          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> (mkay.) </OVERLAP2>
+         </U2>
+         <OVERLAP1> with </OVERLAP1>
+          the antecedent which is the um the noun that it's supposed to refer to.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm. </U2>
+          so this is um- just a r- a kind of reference, issue here.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know </OVERLAP1>
+          what does the pronoun refer to... okay it was good you picked right up on that.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>         <EVENT DUR=":13" DESC="PAUSE WHILE READING"></EVENT>          this is interesting about the way the students were relating to each other.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <EVENT DESC="LAUGH"></EVENT>         <PAUSE DUR=":14" ></PAUSE>          (to come calling)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> mm          <EVENT DUR="1:10" DESC="PAUSE WHILE READING"></EVENT>          wow, this was a tough, period for you.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>         <EVENT DUR=":19" DESC="PAUSE WHILE READING"></EVENT>          okay here's the same thing we wanna capitalize.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay? </U1>
+       <EVENT DUR="1:32" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> what was your problem?          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> (i'm sorry?) </OVERLAP2>
+         </U2>
+         <OVERLAP1> your health </OVERLAP1>
+          problem?        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> um          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> it seems a little mysterious because you don't actually          <OVERLAP1> explain. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> right. </OVERLAP1>
+          cuz i decided not to explain the          <OVERLAP1> detail. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> okay. </OVERLAP1>
+          can you_ y- y- is is there anything you can say generally in a sort of category general category?        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> um i mean do i need to? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> well, it seems a it seems a, a little mysterious          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> the way, </OVERLAP1>
+          i mean typically people would say you know uh like i broke my leg or, you know, um, i had appendicitis or, you know        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> oh okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you know what i'm          <OVERLAP1> saying? </OVERLAP1>
+         <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> right mm </OVERLAP2>
+         </U2>
+          they would just have a kind of_ they wouldn't give the details          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          they would just sort of in a general          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> (mhm) </OVERLAP2>
+         </U2>
+         <OVERLAP1> category </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay. um it's a kidney disease </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> oh          <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> so </OVERLAP1>
+          do i need to sp- specify that?          <OVERLAP1> or </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> um, </OVERLAP1>
+          well i think it would it would s- it would sound a little less mysterious if you said, um as i was getting used to college life, and everything was going great, i found out, about troubles with my kidneys          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mm (okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> or something </OVERLAP1>
+          like that? you know? you don't have to say anything more about it.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> i see. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay? </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay. </U1>
+       <EVENT DUR=":11" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> and then you just go on when i heard the ne- ne- y- that's fine          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mm okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> you just kind </OVERLAP1>
+          of, you know it's just, without giving any specific details          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> it </OVERLAP1>
+          sounds very mysterious and you don't uh you know          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> i understand </OVERLAP2>
+         </U2>
+         <OVERLAP1> doesn't need </OVERLAP1>
+          to be totally        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right... okay.          <EVENT DUR=":42" DESC="PAUSE WHILE READING"></EVENT>          boy that's terrific a three point seven.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <EVENT DESC="LAUGH"></EVENT>          thank you        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> that's wonderful. that's quite a triumph for you.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>         <EVENT DUR=":31" DESC="PAUSE WHILE READING"></EVENT>          okay i don't think you need to say it again.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> i think just saying that, um, you're_ tha- f- you can finish it with, um          <SEG TYPE="READING"> succeed. </SEG>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay?          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> this is </OVERLAP1>
+          good. this is very good Mimi.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> thank you. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um, just a few places where,          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> (okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> i put </OVERLAP1>
+          um, prepositions_ changed a preposition.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm </U2>
+          um or, maybe put in a couple of, words like          <SEG TYPE="READING"> she would never mention </SEG>
+          you need          <SEG TYPE="READING"> to us about English problems. </SEG>
+          um and on this page there were some, some pla- some words left out.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm </U2>
+          uh, but not very much.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> i know, i </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's very </OVERLAP1>
+          good.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> i mean i know i have like major problems with like prepositions          <OVERLAP1> and stuff. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> oh, </OVERLAP1>
+          you know an awful lot of students do          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          English prepositions are_ there there really aren't enough u- i- they don't fit in comfortably in rules.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm </U2>
+          and it's so idiosyncratic where things go or don't go.          <OVERLAP1> it's very difficult. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> yeah. i know, </OVERLAP1>
+          like i ha- i don't know sometimes like, i catch on but like sometimes i don't.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> i know.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          i'm i'm getting ready to go to Italy,          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> and i </OVERLAP1>
+          don't speak Italian,          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> real-            <OVERLAP2> uh'oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> and i'm </OVERLAP1>
+          gonna be feeling exactly the way you felt.          <EVENT DESC="LAUGH"></EVENT>          okay... okay, another issue of course is articles. those are the two things that most second language speakers have trouble with are articles          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          prepositions because, um basically it's hard to know wher- when to put the or not put it.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> right. </U2>
+          and um, there doesn't seem to be any rule, that really fits all cases.          <EVENT DUR=":25" DESC="PAUSE WHILE READING"></EVENT>          okay here's the capital again. see? the_ and you want to use a colon, before, the          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> (okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> actual </OVERLAP1>
+          statement.          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm. </U2>
+         <SEG TYPE="READING"> the question enters my mind </SEG>
+          colon, and here's the question and you, capitalize W          <SEG TYPE="READING"> why did he choose to write without all the details? </SEG>
+         <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay </U2>
+         <EVENT DUR=":39" DESC="PAUSE WHILE READING"></EVENT>          that's a good question. you know w- he wouldn't even be making the journey if he didn't          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          have the_ you know if he hadn't gotten the money for it.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> right. </U1>
+       <EVENT DUR="1:02" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay... did he give them one bell or lots of bells?          <SEG TYPE="READING"> gave them glass beads and brass rings and bell. </SEG>
+          bells? or one bell? so you          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> (i took) </OVERLAP2>
+         </U2>
+         <OVERLAP1> either </OVERLAP1>
+          have to say a bell or bells.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> maybe i have to look it over. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> that's (like) </OVERLAP1>
+          straight from the (quote.) so          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> (i mean) </OVERLAP1>
+          maybe, i need to          <OVERLAP1> proofread it </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          right right okay.          <EVENT DUR=":36" DESC="PAUSE WHILE READING"></EVENT>          okay here is kind of repetitious.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um you say he might be religious Columbus might be religious,          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mm </U2>
+          so we need to, um        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> put it in one          <OVERLAP1> sentence </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+         <SEG TYPE="READING"> he might be religious, yet he could be a person with great ambition, who would do anything to achieve his goal and gain his own profits. </SEG>
+         <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> but... </OVERLAP1>
+         <SEG TYPE="READING"> i had the impression, that he exaggerated, himself to his king. </SEG>
+         <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay </U2>
+          okay...? alright that's an interesting, hypothesis.          <EVENT DUR=":15" DESC="PAUSE WHILE READING"></EVENT>         <EVENT WHO="S1" DESC="ANSWERS RINGING PHONE "></EVENT>          Jennifer Miller. who? oh okay i'll be another few minutes and i'll be right out. thank you.          <EVENT WHO="S1" DESC="HANGS UP PHONE"></EVENT>          it's my next appointment.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mm how_ how long is the appointment? each appointment? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um they usually run b- about twenty-five minutes. </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> oh okay. </U1>
+       <EVENT DESC="LOUD BACKGROUND NOISE"></EVENT>       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> sorry </U1>
+       <EVENT DUR="1:13" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> it's reasonable to assume that he knew that somebody would be reading his log that's for sure. </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> oh yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> there also may have been a, convention about wr- writing in logs that you only recorded facts and not feelings. </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm          <PAUSE DUR=":05" ></PAUSE>          but he did kinda both though.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> he did both? </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> how like he was like talking about, how he'd thank God all the time and stuff like that </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay you've said this al- several times about not_          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> oh okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> about wanting t- </OVERLAP1>
+          okay?          <EVENT DUR=":19" DESC="PAUSE WHILE READING"></EVENT>          now here you're saying the same thing again. so you're gonna have to either, change the wording or not say this again.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mhm. is that the conclusion? or </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> every </U2>
+          yeah. you're_ so you need to, find another way to say this          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> because </OVERLAP1>
+          it sounds like it's the very same thing you just said in the paragraph before.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> mkay. or maybe i should shorten it? or </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um, how long is your paper supposed to be? </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> um i think four to five </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> well you might be able to shorten it and take out some of those, p-          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> parts </OVERLAP1>
+          you know where you've where you've said those things          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> before. </OVERLAP1>
+          well i'm gonna have to          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> (okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> get the next </OVERLAP1>
+          person.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> um i have one question about this          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          like are they asking about, the school          <OVERLAP1> now or? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> yeah did you </OVERLAP1>
+          go to the_ a uh primary or secondary school in English and i guess you would say yes right?        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> oh right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> i wasn't </OVERLAP1>
+          sure        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> yeah i          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> about what the question was </OVERLAP2>
+         </U2>
+         <OVERLAP1> know i know it's </OVERLAP1>
+          uh confusing.        </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay          <OVERLAP1> thank you </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+          you're very welcome you fill this out when you go outside_          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> uh </OVERLAP2>
+         </U2>
+         <OVERLAP1> out </OVERLAP1>
+          to          <U2 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR"> okay. </U2>
+          isn't that your_ this is your          <OVERLAP1> copy i think </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NRN" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> is that </OVERLAP1>
+          mine? yes it is.        </U1>
+       <EVENT DESC="NEW PARTICIPANT"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um, you need_ you're i- if you_ while i'm reading you might fill out these things which is the consent form and the information </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> but first tell me what what your as- what your assignment is and, what i'm going to be reading. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, it's an analysis. and          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's, </OVERLAP1>
+          i'm analyzing the behavior of uh three different people in a traffic jam.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> oh okay. you've been in here before right? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you were in here to_ or you wrote something about the um about the um, the march. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right the Ku Klux Klan          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right. </OVERLAP2>
+         </U2>
+         <OVERLAP1> march. </OVERLAP1>
+          right i remember that yeah. how did that go?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it went well. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> oh good.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U2>
+          good. you got a good grade?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> excellent,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yep            <EVENT DESC="LAUGH"></EVENT>         </U2>
+          that's what we're striving for.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> alright so this is um three different people, in a traffic jam huh? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay. i guess this is the way this is gonna go </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <EVENT DUR=":27" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> this is good description.          <EVENT DUR=":18" DESC="PAUSE WHILE READING"></EVENT>          now you wouldn't know exactly how old he was would you?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uh'uh. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> so, it sounds a little phony to say a forty-year-old man when you're just looking in the in the van </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> should i say middle-aged? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> yeah.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> i </OVERLAP1>
+          think that's better.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i thought about that but then          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> i was like </OVERLAP1>
+          maybe no one'll notice.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          well          <EVENT DESC="LAUGH"></EVENT>         <EVENT DUR="2:15" DESC="PAUSE WHILE READING"></EVENT>          um... you wanna be careful when you're doing, detailed description like this          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> when </OVERLAP1>
+          it's f- heavy into, um assumptions        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you know? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you just want to, try to be as, clinical, in your analysis as you can be. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay? so and s- and and and as direct and precise </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so u- u- yeah that's something that i wouldna noticed.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> right. </OVERLAP2>
+         </U2>
+         <OVERLAP1> really </OVERLAP1>
+          okay.        </U1>
+       <EVENT DUR=":58" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> now this is the n- another car,          <OVERLAP1> right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> mhm </OVERLAP1>
+          yeah it's a second person...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> maybe you should say...          <EVENT DESC="WRITING"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> to signal that you're going to another driver now </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <EVENT DUR=":24" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> this pretty much explains,          <EVENT DESC="LAUGH"></EVENT>          something about the reason why he pulled in front of the Expedition cuz he d- obviously doesn't mind getting his car hit.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <EVENT DUR="1:08" DESC="PAUSE WHILE READING"></EVENT>          um, what i- i don't understand this          <SEG TYPE="READING"> it did not require much encouragement to convince the driver to get them out of the traffic jam </SEG>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. ah oh.          <OVERLAP1> wh- i'm </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> what does that </OVERLAP1>
+          refer to?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i'm trying to say that they didn't need to like talk him into, driving on the shoulder of the road. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> but </U2>
+          that doesn't you see that doesn't come through at all in that          <OVERLAP1> sentence. </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+          um... you could say something like apparently... did not take much encouragement, to convince the driver, to... take the shoulder, route, take the shoulder lane or something like that        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <EVENT DUR=":20" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> to... attempt maybe you should say here. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <EVENT DUR=":16" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> mkay you need a semicolon here. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <EVENT DUR=":05" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay now you can signal this is another person by saying nearby </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay. </U1>
+       <EVENT DUR=":42" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you don't know that it filled the van, their laughter, they laughed          <EVENT DUR=":28" DESC="PAUSE WHILE READING"></EVENT>          out of sight. dropped out of sight?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you wouldn't see it anymore right? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right.          <PAUSE DUR=":04" ></PAUSE>          sh- should this be was? the Barbie was stretched or stretched?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> yeah e- either one is okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh. that's okay? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <EVENT DUR=":40" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> i wouldn't put this in here.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's too, </OVERLAP1>
+          sappy.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um you you uh you give that impression already without saying it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you know you give the impression of what you're thinking that_ about the mother and her treatment of the children but when you actually come out and say it, it's almost too obvious </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> so it          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (to separate her, same way?) </OVERLAP2>
+         </U2>
+         <OVERLAP1> comes across so it </OVERLAP1>
+          becomes across as sentiment- sentimentalizing,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          her instead of just observing her.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <EVENT DUR=":51" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay now you_ now that you're getting into interpretation of what you think you have to be careful that you don't jump to conclusions, okay? so,          <SEG TYPE="READING"> the differences between the three drivers' vehicles, body movements and driving styles, </SEG>
+          um,          <SEG TYPE="READING"> are influenced by society's pressures and permitted by the drivers' responsibilities. </SEG>
+          um... this is kind of unclear here uh let's see.          <EVENT DUR=":09" DESC="PAUSE WHILE READING"></EVENT>          what exactly is it that you can tell from someone's driving style? you can't be, um... i mean it_ it's temperament, individual driver temperament. it could have to do with uh... um... just not not exactly what you would call society's pressure but just the fact that there's some kind of a traffic jam,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> on the </OVERLAP1>
+          road, and people could be, you know just, alarmed or, whatever by that so you need to be careful what you say.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> how you're accounting for this behavior. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (or) i can work something out there. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> yeah okay.          <EVENT DUR=":24" DESC="PAUSE WHILE READING"></EVENT>          now here again you're making a, assumption... that he he's um that the only reason anybody would drive an Expedition is to show off.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> and maybe it's a good car and maybe          <OVERLAP1> it h- </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it </OVERLAP1>
+          is a good car.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> well, tha- um if if i mean, people tend to buy what they can afford,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh. </U2>
+          and what suits their needs, not neces- you know i'm just saying,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          you're you're making a big leap here.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right. </U2>
+          um that it's all conceit on his part. and you have no way of knowing that. that it isn't um th- in- it could even be a car that's been loaned to him by somebody else          <OVERLAP1> i mean he might, okay? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> uhuh right right i'm assuming that </OVERLAP1>
+          yeah        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> so, um... so at this point... um, this is your impression          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          of what this car signals to you. but you have no way of knowing whether that matches up with the facts or not.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> so, there's a problem with this analysis the way you're laying it out. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> just jumping from, this is what i see so this is what it must be... um... even here where you say,          <SEG TYPE="READING"> for this reason, </SEG>
+          you're assuming that he's, is, the way you're phrasing this makes it sound as the_ as if you've interviewed him when you haven't.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> so, how to get around this problem, um y- you can indicate that, this, suggests some stereotypes in your mind. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right at the outset. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um... and that in looking at h- at th- him and at these other people, these are the conclusions you draw because of...          <OVERLAP1> sort of right right right right. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> or, right my stereotypes of them right. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you need to get that up front. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. i'll i'll put that in the first sentence then when i fix it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay          <EVENT DUR=":36" DESC="PAUSE WHILE READING"></EVENT>          okay now... okay.          <PAUSE DUR=":08" ></PAUSE>          okay now because you have made all these assumptions about other people,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          um you need to talk about, um the fact that these are just assumptions,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          that you're making... i'm running out of ink here... um          <PAUSE DUR=":08" ></PAUSE>          and that's what you have to say here. not that these bu- you know that these_ that's how these people are, but that these are assumptions that you're making. um, and then you can move from that to, um          <PAUSE DUR=":05" ></PAUSE>          the fact that, you want to live_ you want to be more reflective about your own life.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> and you want to um          <PAUSE DUR=":05" ></PAUSE>          y- you want to make decisions about how to live your life based on, the kind of person you wanna be.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um you don't want to appear to other people to be overly aggressive or inconsiderate or          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (mhm) </OVERLAP2>
+         </U2>
+         <OVERLAP1> whatever </OVERLAP1>
+          it is, um and that, um          <PAUSE DUR=":07" ></PAUSE>          i'm not sure what you what you want to say at the end what do you think?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> well, kinda the point is that um, people act a certain way because of, what their life consists of like,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> the </OVERLAP1>
+          pressures that are on them. and that affects how and, affects their personality.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">           <OVERLAP2> right. </OVERLAP2>
+         </U2>
+         <OVERLAP1> a lot of </OVERLAP1>
+          times in a negative way.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay.            <OVERLAP2> uh </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          if they didn't have those pressures it probably wouldn't be that way.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right. but everybody has pressures and          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right. </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          so you're saying that you, from your point of view you hope what? or you want what?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> well i was just saying that i'm the          <OVERLAP1> same way (they are) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE">         <OVERLAP1> it's too late? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that we're all just shaped by s- uh society and there's nothing we can do about it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay. um... alright then you could... you could, you know start this um... with a kind of rhetorical question. are my assumptions, jus- my assumptions about these drivers justified? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> um and then you can say, um well m- maybe not n- maybe not down to the last, detail,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          um that_ you n- maybe not in the detail which you've expressed in this story, but it is clear that society it forces people into certain, um... boxes        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> right? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay.          <PAUSE DUR=":08" ></PAUSE>          and that you then you say that you realize that you're in one of those boxes too.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> or it boxes people in          <PAUSE DUR=":10" ></PAUSE>          okay?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> i think your descriptions are really good, you just need to be careful that you separate out what you're imagining about these          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> people </OVERLAP1>
+          from, you know what you can, what you observe.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. thank you very much. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> you're very welcome. um          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> what is this? </U2>
+          now you y- g- did you fill these out?          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i did </OVERLAP2>
+         </U2>
+         <OVERLAP1> good </OVERLAP1>
+          thank you very much. um, alright is this you la- th- is this your last paper for the semester?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> oh good. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah,          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          yeah.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> what are you gonna do the rest of the summer now? you          <OVERLAP1> gonna be here? oh, you're gonna work. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> work. no i'm going home to work. </OVERLAP1>
+          yeah        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> where's home? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> Chicago. so i'm excited. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> well that'll be fun          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah. yeah. </OVERLAP2>
+         </U2>
+         <OVERLAP1> yeah. a little </OVERLAP1>
+          change of pace here right?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          yeah i cannot wait.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> yeah i know how you feel. okay well good luck on your paper. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright thank you. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="4" RESTRICT="NONE"> okay          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> bye </OVERLAP2>
+         </U2>
+         <OVERLAP1> see </OVERLAP1>
+          you later.        </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

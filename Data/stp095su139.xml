@@ -1,0 +1,511 @@
+<TEI.2 ID="stp095su139">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Black Media Student Presentations </TITLE>
+         <TITLE> Rackham Div: SS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 9282 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> STP095SU139 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="66">             <DATE> March 14, 2001 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Janine Ovens </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Carrie Sue Kay Sulzer </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Amanda Jones </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Rita Simpson, Amanda Jones </NAME>
+               <RESP> Final Editing, 3/18/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">STP</TERM>
+ <TERM TYPE="ACADDISC">095</TERM>
+ <TERM TYPE="PARTLEVEL">SU</TERM>
+ <TERM TYPE="PRIMDISCMODE">MIX</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">MI</TERM>
+ <TERM TYPE="ACADDIV">SS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: MIX </P>
+         <P> New Interactivity Rating: MI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="17"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="13"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S10" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S11" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S12" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S13" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Classroom, West Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> very exciting panel. ah the panel is gonna focus mostly on the Freedomways readings, so i just wanted to do a little bit of a preview, for you setting the stage um, mostly drawing on the Simmons reading but just on some other, general, um civil rights history. so Freedomways was established in what year? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> (nineteen sixty-one) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> nineteen sixty-one. okay. so what's happening in nineteen sixty-one, in, the United States? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> the civil rights movement </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> the civil rights movement. okay. particularly we've already had the Montgomery Bus Boycott, okay that's happened, the sit-in movement has started, alright, uh Brown-v-Board was a long time before that nineteen fifty-four, so nineteen sixty-one is really in the middle, of all of the intense activities of the civil rights movement, um so the civil rights movement is really rolling we're going towards Freedom Summer, you're starting to have more interaction between, black activists and white, progressive activists who want to become part of the movement,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          um the seeds of SNCC are being s- are being sown, everybody know what SNCC is? anybody not know what SNCC is? okay Student Nonviolent Coordinating Committee. okay i wasn't sure if in the readings, um that's actually spelled out because, the readings kind of, patch around the book. um, the Student Nonviolent Coordinating Committee grew out of the si- sit-in movement, and it was, organized by students along with the help of Ella Baker, and uh Fred Shuttlesworth, and other seasoned activists, as op- as a committee to coordinate nonviolent protests against Jim Crow. primarily in the South but also later in the North. okay so there's this very exciting, intellectual atmosphere in addition to the political atmosphere because most, of these committees the committees come out of the college campuses. alright so you have this incredible intellectual energy happening at the same time, and people going back to consult the works of people like W E B Dubois. okay and Dubois was already turned on by this movement as well. so with all this young intellectual energy, and, happening and all the new kinds of protests happening it's a very different situation, than the periods we've been reading about previously in the black press so we've, basically come up through World War Two and now we're jumping into the civil rights movement. well during, World War One and World War Two as you all remember, the black press was basically pushing, for a movement, encouraging people to be more radical encouraging people to stand up for their rights, using the double V strategy, um talking about, the ills in society around race, and very much on the frontlines of black activism. well once the students once the youth, start being the generators of the movement, those who own and operate the black press well they're an older generation, and so, the black press, starts to be repositioned to civil rights movements. so you have an older generation in the black press you have a younger generation, in SNCC and populating a lot of the movement, and S-C-L-C, you also have more Southern blacks involved than Northern blacks and most of the press, was concentrated in the North and in the West. okay, so because of these trends, because of this relative generational and, geographic separation, from most of the major black newspapers, from the movement in the South, the black press was more reacting to what was going on in the movement, and so as you saw through the Simmons readings there's basically, three kinds of reactions that arise. one is, this is great. okay so, uh the Defender, the Pittsburgh Courier, threw their support behind the movement. alright and they of course were in the North so, their readers weren't bearing the brunt of what was going on down in the South in terms of violence, and violation of people's rights but they were supporting it and they were trying to get more, Northerners to support. and also at times encouraging Northern blacks to go down south and help fight. okay as in the Freedom (Rides.) the second reaction, was, born out of the still, very alive tradition of Booker T Washington's accommodationism, which is, hold up wait a minute, this protest, is just going to inflame, racial strife. right and so we have, Percy Green and the Advocate, taking this tact, um, Percy Green who had in p- in previous generations been a little more radical, um now was saying, you know these young students, they're just being, inflamed by outside agitators by communists, and they're ruining the balance that we had achieved here in the South, and the good Negroes know that this is the wrong way to go about getting your rights. okay? so the accommodationist stripe, has a bit of a resurgence, in reaction to the civil rights movement. and then there was a second, less, radical accommodationist or less, you know ugh, shuddering,          <EVENT DESC="LAUGH"></EVENT>          accommodationist response which was, well protests in the streets sit-ins marches, these sorts of things they do inflame racial passions, and so we don't think that's the right technique. since Brown-v-Board was successful, and since it seems that the Kennedy administration, okay everybody knows who John F Kennedy was and that his brother Robert F Kennedy was the attorney general right? it seemed at certain points in time that the Kennedy administration was willing to back up, court rulings, with federal support whether it is sending in troops, to desegregate schools, or sending in federal marshals to investigate, problems, there was some semblance of federal support so some, accommodationists said, let's use the courts, as our main, conduit for rights. and this way no one can accuse us of inciting violence because we're using the system. we're not sitting in and making people throw stuff at us we're not, getting on buses and, you know, what they what they saw as inviting white racists to come and bomb buses and things like this, so that was another form of accommodationism is that, we should use the courts, because that's a more, uh, civilized or a less violent form of change. and it will be slower, and it'll take time but this is the right way to do it without too much bloodshed. okay? so out of this atmosphere in nineteen sixty-one, we have a new radical, incredible, journal called Freedomways, that is started by, black intellectuals and white progressives who feel that there's something missing, from the black press as constituted currently. and so, your group leaders will now talk about that publication.        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. um, we would like to welcome everybody to the unveiling, of the new Freedomways two.          <EVENT WHO="SS" DESC="APPLAUSE"></EVENT>         <SEG TYPE="READING"> and i'm Whitney Jones, the editor of the new paper, and um i would like to give you a brief history of what Freedomways is about because we today are taking on the same, aim that they had in the past. Freedomways is born of the necessity for a vehicle of communication, which will mirror developments in the diverse- diversified and many-sided struggles of the Negro people. it will provide a public forum for the review, examination and debate of all problems confronting Negroes in the United States. Freedomways offers a means of examining experiences and strengthening the relationship among peoples of African descent, in this country, Latin America, and wherever there are c- communities of such people, anywhere in the world. it will furnish accurate information on the liberation movements in Africa itself. Freedomways will explore without prejudice or gag, and from the viewpoint of the special interests of American Negroes, as well- American blacks, as well as the general interests of the nation. the new forms of economic political and social systems, now existing or emerging in the world, today. Freedomways provides a medium of expression for serious and talented writers, for those with established reputations as well as beginners, se- seeking a reading audience for the first time. Freedomways has no special interests to serve, save those already clearly stated, no political organizational or institutional ties. those who commit themselves to its support become patrons, only of a publication and editorial, policy designed to provide an open forum for free expression of ideas. we openly invite historians sociologists econo- econo- uhh, economists </SEG>
+         <EVENT DESC="LAUGH"></EVENT>         <SEG TYPE="READING"> ar- artists workers students, all who have something constructive con- to contribute to this search for truth. to use this as an open channel of communication that we might unite and mobilize our efforts for worthy and lasting results. with all that said, Freedomways is extremely grateful to those who have contributed to the magazine in tremendous ways. people like Paul Robeson, Ossie Davis, Ruby Le- Ruby Dee, Langston Hughes, were just a few of the supporters. W E B Dubois played a crucial role as an advisor to the magazine from the beginning. he was there from the start of Freedomways until his death. now we have journalist and editor of Right On magazine, Martine Davis, honoring him today with an article that she has written. </SEG>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay, well, i wrote an, i'm writing a article, about, whether or not um, the issues that blacks faced in the past whether they're problematic today, and, first i wanna start off by talking about, the article that Dubois had in the first Freedomways and the issues that, he discussed. and i'm gonna put a picture up of him...          <PAUSE DUR="0:10" ></PAUSE>          okay. and um, his article was published in nineteen sixty-one and basically, he was summarizing everything that blacks had faced from the time of slavery all the way up to the civil rights movement. so some of the issues that he talked about, well first he hit on the fact that, blacks, originally or initially had no rights whatsoever. and um, he spoke about, how, slavery, was a legal, um it was legal and the government was bound to protect it, and how President Lincoln wasn't necessarily an enemy of it that, he supported it in the South but, he didn't want it to expand to the North and, he went on from there to talk about, um, how neither the North or the South in the Civil War was really looking out for the interests, of the slaves, and um, in the Civil War, um blacks they wanted to fight for their rights they wanted to fight for themselves but the government wouldn't allow, black soldiers but eventually they joined in with the Northern armies and, slaves became what Dubois referred as a contraband of war that, they were property owned by the enemy or owned by the South but the North used to help, them win the war and eventually, we know that the South surrendered, and, finally there was a reason for the war and that was the freeing of the slaves, but Dubois mentioned that even though, emancipation came they still weren't technically free, they didn't have, freedom they were still gonna be discriminated against for years to come. and, from there he went on to talk abo- well, first, this, keeping track of this here, we talked about one issue that they had no rights          <PAUSE DUR="0:13" ></PAUSE>          well          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> you can use the chalkboard actually.          <PAUSE DUR="0:05" ></PAUSE>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay.          <EVENT DUR="0:05" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          they had no rights and, after emancipation they tried, to obtain education so, really more educated          <EVENT DUR="0:04" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          and, he went on to talk about how, well actually the North came in to help with that they sent teachers down into the South, and, he spoke about how, um there was the ideal of giving, every slave the forty acres and a mule and giving them the vote. the North didn't want to spread capital among them and they, didn't wanna give 'em the vote so, they had no voting rights          <EVENT DUR="0:08" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          um no social equality obvious- that goes along with having no rights, and basically they were thrown into a caste system, and, they suffered from disenfranch- disenfranchisement and, color caste. and        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> does everybody understand what caste means? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> no. um, do you wanna explain that or do you want me to explain that? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (that's fine) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> a caste system is where your class and your ethnic group or your religious group or whatever other kind of cultural group you're, part of get collapsed together so, caste is another way of saying second-class citizenship but based on this combination of economic and cultural factors. so, in India, they talk about the caste system cuz it's based on, um, what region you're from, and what level of society you're put in given your religion, your economic position and your skin color all, glommed together. so, Dubois and some other sociologists like to refer to the American, uh racial system as also a caste system, because it determines so many things in your life. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay, and he also spoke about how there was limited employment          <EVENT DUR="0:10" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          and um, then he's um, also talked about like the progress that was being made within like, the Niagra Movement the N-double-A-C-P, and, he basically jumped in to, well no with World War One, that, blacks were actually allowed to, enter the war but not as soldiers, and then by the time of World War Two, they were allowed to enter the ranks of the army the navy and the air force, so he was showing like the progress that had been made and, as we know like, nineteen fifty-four the Supreme Court ruled, racial discrimination unconstitutional. but, at the same time it still wasn't enforce- enforced and that led to, the sit-ins the bus strikes, that, were h- that were happening in the Civil War, and he ended the_ i mean not the Civil War excuse me the civil rights movement, and, he ended his article by saying that, it still goes on. and, so a question that i really want you guys to think about, is do you think these issues, or the issues that they faced then, are they still problematic today? and, in the article that i'm writing, or that i wrote it's about, whether or not in particular, the voting rights, is it still at issue today? or is it still problematic today? so if you, hm?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. so, if you think that this is still a, a problem today, i want you to, um </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (do we stand up?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> maybe we          <OVERLAP1> should stand up </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> everybody, </OVERLAP1>
+         <OVERLAP1> everybody like (stand up)  </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> everybody, out of your seats. </OVERLAP1>
+         <FOREIGN> levantete </FOREIGN>
+       </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) (stand up) </U1>
+       <EVENT DUR="0:05" DESC="PAUSE TO STAND"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> can i get on one side of the room so we can see like who moves and who doesn't? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay everybody move like over here, to          <OVERLAP1> the center </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (to the center) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> everyone on that side of the room (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> to this side? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so then like if they agree,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          they can (cross,) if they don't they can stay and if they're not sure everything nothing's been changed they can stay,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          in the center.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay if, you think that it is still problematic today i want you to cross the line and go to the other          <OVERLAP1> side of the room. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> this is </OVERLAP1>
+          voting rights.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> voting rights </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> voting rights.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> if you think black voting rights are still a problem. </OVERLAP2>
+         </U2>
+         <OVERLAP1> if you're in the middle, stay </OVERLAP1>
+          in the middle, if you think it's not a problem, stay where you are on this side of the room.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (i'm in the) middle. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> so if you're          <OVERLAP1> unsure you're like in the center? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> un- as (extreme) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> unsure you're in the          <OVERLAP1> middle. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> uns- </OVERLAP1>
+          if you're          <OVERLAP1> unsure </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> if you think </OVERLAP1>
+          that blacks still face, obstacles to voting rights or          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          their ability to vote, come to this side of the room, if you believe that, that is no longer a problem stay on that side of the room if you're not sure stay in the middle of the room.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> you're like middlers? or </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah,          <OVERLAP1> (i'm in the middle of it) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (i'm in the middle) </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          (but)        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. and i just i just want us to discuss this like, why are you guys in the middle and why are some of you feel that, it is problematic today? anybody? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> just wait a minute, let me think about it. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i just think that it's still a problem today because some of the same things that went on like, in the past or whatever or back when blacks were first like going through all the things with like the literacy tests or having to do all the things they had to do to vote in the first place are things th- are going on now not that we have to take tests or whatever, now or whatever but, things such as the things that they say happened in Florida or the unfairness or people not being able to like register to vote are still some of the problems that happened to people back, before (the) civil rights. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i also think like where they uh, set up uh, sometimes where they set up the places to vote are not very uh, uh, people friendly, (that has to travel towards) like, dependent on, where you live, or what neighborhood you're from. (it's not good, it's)          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i think like the actual rights are there so it's like technically, blacks have the rights but there is like all these other loopholes that they throw in like, you know like a a lotta um, there's a large percentan of_ percentage of black males incarcerated, who who can't, who do, who don't have the right to vote, so, their their jo- i think that they're i- t- twisting it around now and finding different ways to take your vote away. or not market towards black. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) why are you all in the middle? Amber down here (xx) </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um i'm in the middle because, it doesn't happen to me so, it's hard for me to understand. so i don't- i don't wanna be over there, where i can say like it's fine because i can't say that, and i can't say that, there is a problem because i don't know. it's because, it doesn't happen to me. and it doesn't mean that i should be deaf to it but, that's, why i have to be in the middle. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> mhm. others? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i'm in the middle bec- like i agree, a lot with what (Julia) said like, the rights are there but, i've heard of problems with like, people actually being turned away cuz polls close too early cuz they can't accommodate, the amount of people and stuff like that, but, yeah.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> they            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think the </OVERLAP1>
+          right like, the actual rights are there but, there are loopholes in the different ways that, they're being cheated.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> other middlers? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah, going off that like that d- didn't that even happen like in Detroit?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah,            <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> this like, this election </OVERLAP1>
+         <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah, mhm </OVERLAP2>
+         </U2>
+          and stuff? and so... (i'm) in the middle, because while, it is, primarily, black, it's not all black. um, then again, i don't know a lot about it, um...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> (Abigail?) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> well like um, in addition to the things like the election board officials, making like the rules of like um, when you can register how you can register who can vote you know what ways, the ballot's gonna be cast or whatever i do realize there are flaws in that, but i also realize coming from a um, place where it's predominantly black and all the elected officials (people) are black, that there's a general apathy in the community sometimes people, even if the poll is right there, one block away, people still don't go they don't take the vote seriously too so i also realize, that you know whether it be, misinformation, not enough education on the issues, that people, don't take advantage of, the (right that they're given). </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah i think it's </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> think that kinda ties in to what i was saying earlier about how they're marketed. i think uh, if there, if there is this sense of apathy in the community i feel like a lot of people don't feel like their vote matters. you know what i mean? uh i mean, i f- it's kinda like you know, they're you know saying, uh... so it's made to feel as if they're like a minority and that their vote won't count.          <OVERLAP1> (xx) i don't know. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think that happens with all Americans </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay wait          <OVERLAP1> stop. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay. </OVERLAP1>
+          cool.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> let's </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> remain standing </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> back to </OVERLAP1>
+          your original spaces and, (xx) a bit more information. thank you for those points though...        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay having done that, i just wanted to, you guys pretty much touched base on it (though.) i want to throw up a article, about, the Florida vote. okay you guys can't see that can you? well i'll read it.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          the highlights hm?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U2>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> you can just summarize it cuz we can't really read it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right. okay and, um, it was entitled Race in the Florida Vote and, some of the points that it made was that, a lotta minority voters, had registered and came out to vote but many of them were students but, they weren't allowed to vote, and or they were denied the chance to, cast in their ballots and some were told that, they were not registered some, did vote but their ballots were discarded because of faulty machines or confusing instructions, and um... uh, basically, s- some civil rights officials were saying that, minorities, um, it was harder for members of minorities than for whites to cast their, ballots, their (cast) ballots, excuse me their votes. and um, mostly this happened in Florida and it said that a, high percentage of black voters were required to use, cheaper less efficient punchcard systems to register their choices, while whites tended to vote in more affluent districts, with more reliable optical scanning systems. and computers were not available in many black precincts, to help clear up the problems that, um, when they said that w- that they weren't registered, and, many voters were, they had to call it in lines were busy so many voters just gave up and went home, and, the N-C-double-A pres- N-C-double-A president said that, N-C,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's okay </U2>
+          N-double-A-C-P, basketball in the brain said that it was um, a voting fraud intimidation and irregletin- irregularities. and the Voting Rights Act, enacted originally to rule out literacy tests and other, efforts to keep blacks from the polls does not require evidence of conspiracy to keep minority voters away from the polls but instead, the law was design- to protect, m- minority voters whenever they confront more difficulties than whites, in trying to cast their ballots. so basically this is just an example, of how this kinda parallels with, the literacy test and, with the understanding clause how sometimes blacks had to read a more complex part of the constitution than whites had to, and, basically just how, it s- it still goes on today how, they try to block it, black from, blacks from voting. and with that i'm gonna turn it over to the next section. oh no i'm sorry. so having heard this, do any wanna change their minds or you still think that, it's a problem today? any of you people who are in the middle? or are you still in the middle?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i just have a question about, whether it's, conscious, people trying to, suppress the black vote, or whether it's just a, um, whether it's just... i- it's it's just like a a symptom of, a symptom of the problem like people are actually, i i like i, although i agree that it's, it's unfair towards blacks i, have trouble thinking that people are actually consciously saying, okay let's make sure that they're, worse machines and let's close the polls a little bit earlier. a- a- a- and i would th- just- bec- i listened to a lot on the radio when they were doing the the, the original voting and there w- there was a big debate over over voter responsibility, and where was the line between, when voters just weren't educated e- educating themselves about, the the voting,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> that um, that makes me ask like, two questions like um, one is it less of a problem if it isn't a conscious decision but it is a a strong reality? like, i- should the question be like is it conscious? or should the question be like, you know what is the problem? how do we solve the problem? like a lot of things, have been unco- you know a lot of, instances of racism or, discrimination or whatever have been, not exactly like, acts of volition and then the second question, that it makes me raise, is that, if we as a society, realize that the- these are, problems now and we then choose not to do anything about it and then we then n- choose not to ask the questions that, are arising then then does it become like, a cognizant effort to like, not deal with the problem? because we're aware of the problem when we don't deal with it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> also that's a good point is that now that they're_ the problem is known and that it disproportionately affects people of color, now that we know that if we don't, solve it then, it is_ we've made a nondecision that is a decision that has racial implications. the second thing is is that some of the other things in that article that Martine didn't mention is that, state troopers stopped vans that had been_ carpools that had been organized, to bring elderly black voters and people without cars to the polls and they said, oh you're acting as a taxi you don't have a taxi license, and they gave them a ticket and they set up blockades, in front of, in the, in the routes to the polling places, and they only stopped, black, filled cars. um they also asked, election officials asked black voters for I-D, which you don't need. and if they didn't have it they wouldn't let them vote but then the white person behind them was not asked for any identification. um, so, smaller scale very deliberate, um s- instances have been documented of people i mean there was actually a white reporter, who was at a polling place just doing the basic, it's election day i'm gonna be at this polling place and a couple black people said come over here and film this, and the election officials ran her out, of, the polling station, and, she went back to her station and tried to report this, and state troopers followed her all the way back to her station. and she testified for the N-double-A-C-P hearing. so it was, both a mix of deliberate, and nondeliberate actions, that prosu- produced the result of (in Florida.) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (can you run) this? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay. thank you... </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">         <EVENT DESC="APPLAUSE"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thanks Martine. um in the same manner that blacks wanted to be able to vote and be accepted in the public sphere, black entertainers were looking for acceptance in their line of work as well. (Len) Fernando, part owner and senior editor of Black Hair magazine discusses blacks in the entertainment industry... </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">         <EVENT DESC="APPLAUSE"></EVENT>       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hello everybody... um how many of, you have heard of Ruby Dee...? oh really that's it? okay um, how many of, you have seen Do the Right Thing...? Jungle Fever...? and more recently Baby Geniuses...?          <EVENT DESC="LAUGH"></EVENT>          okay well, um i recently wrote an article about Ruby Dee, uh she, is a, she is an actress a black actress born in the twenties, um a very prolific actress during, the sixties and during the civil rights movement um she's a screenwriter, a playwriter, a singer, um she's done movies she's done T-V um, and a lotta a lot, is not known about her just because of the fact that, she is black, she is a black actress um, lemme put up... (xx) okay, see 'em, those are just, some of her films she's done over s- sixty films in her life, um, let me start out (xx) okay, Ruby Dee has been an actor and activist for over sixty years um her husband actor Ossie Davis, with her husband actor Ossie Davis she has devoted her life to the struggle for civil rights and enter- and the entertainment and enlightenment of mass audiences. her distinguished acting career alone testifies to her remarkable talents. how many actresses let alone African-American actresses have been able to stay in the spotlight for so long? um but no matter how accomplished her career is, her greatest legacy will always be her unwavering support for equal rights for all regardless of race and sex. um just a little bit about Ruby Dee she was born in Octob- on October, twenty-seventh in Cleveland Ohio. um her, mother abandoned her and she was raised by her father and stepmother, and growing up in Harlem the capital of black activism at the time, Ruby had a keen awareness of racism from an early age. following the example of her stepmother, a schoolteacher and activist she knew early on that she wanted to educate people, and change their lives for the better. um theater was her outlet and by her freshman year at Hunter College in New York she was acting, with the American Negro Theater. at this time she befriended another talented performer and activist Harry Belafonte, and the two became lifelong partners, in fighting for civil rights. um after a brief marriage to Frankie Dee a promoter, uh for a distillery she met Ossie Davis, uh when the two appeared together, on Broadway. they were married three years later, they've been together ever since acting together protesting together and raising three children. um, like i said just to name a few of her films she's done the Jackie Robinson story, where she was the wife A Raisin in the Sun uh the nineteen sixty version, Gone Are the Days, and on T-V she has starred in I Know Why the Caged Bird Sings, and Go Tell it On the Mountain among, many other projects. um in nineteen ninety-eight she completed a joint autobiography with her husband entitled, With Ossie and Ruby, In This Life Together. and that just tops off, um over thirty projects they have collaborated on for stage screen T-V and radio. together they were inducted into the N-double-A-C-P Image Award Hall of Fame in nineteen eighty-nine. um Ruby Dee is a well-known social activist and a member of Nation- the National Association for the Advancement of Colored People um, and the Southern Christian Leadership Conference. Dee speaks at many high profile events, and having experienced first-hand the difficulties encountered, by minorities in her profession, she established the Ruby Dee Scholarship in Dramatic Art for Talented Young Black Women. having said all that i just wanna go around the room and ask people who, who comes to mind in terms of contemporary black, actresses? and, where do you know them from? wh- like what, kind of roles, did they have? um, do you wanna start out?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> Felicia Rashad, from The Cosby Show </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Cosby Show, okay, another? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Jada Pinkett </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Jada Pinkett from what role do you know her, most famously? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um, oh my god i forgot the name of the show. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Different World? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Different World, that's it. </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Different World, okay, Jimmy? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> Sanaa Lathan, um Love and Basketball, Best Man </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> uh, Disappearing Acts too </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay. anybody else have any, actresses in mind? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um Angela Bassett, just, a bunch of things um, How Stella Got Her Groove Back um, Vampire in Brooklyn </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Angela Bassett okay see going, going through my mind talking with the members of my group it was really hard for me, or hard for us to have a straight list of, black actresses that are, so well known that are, mainstream even or that have, won awards, Emmys Oscars Academy Awards, what have you </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> does anybody know any black actors or actresses who have won Academy Awards? </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Den- </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Whoopi Goldberg </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Denzel </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Denzel Washington </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Halle Berry won a Golden Globe </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> right </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Academy Awards </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but at the same </OVERLAP1>
+          time in thinking of that, how many negative roles have they played, to get to where they are, like you know, they didn't immediately...        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> BAPS          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you know, </OVERLAP1>
+         <OVERLAP1> BAPS </OVERLAP1>
+         <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">           <OVERLAP2> BAPS </OVERLAP2>
+         </U2>
+          horrible          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> horrid </OVERLAP2>
+         </U2>
+         <OVERLAP1> and that </OVERLAP1>
+          was Halle Berry she is a very,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> horrid </U2>
+          well-known actress,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Bulworth </U2>
+          she's struck the mainstream, but, at the same time she had,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (i mean) aren't_ that's that's </OVERLAP2>
+         </U2>
+         <OVERLAP1> BAPS, Jada </OVERLAP1>
+          Pinkett had Woo        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> whoa </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> well, if you think about it in terms of, Academy Awards, you can put three names under, four names under the black people who've won Academy Awards for acting, four out of,          <U2 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> four </U2>
+          almost a hundred years of Oscar awards.        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> and, and the Academy Awards have been on for m- seventy or more years, and i tried to look up like the archive, actresses or black actors that have won, and it's, there's, little to none, like, acknowledgment or acceptance of black actors. and even have you_ like even saying that, um the article At the Emmys, Ruby Dee is, talking about, um her, nomination for an Emmy Award. and how she says, she's thinking she's in the audience and she says          <SEG TYPE="READING"> black actresses for over a quarter of a century still waiting for the big break, tired of the neglect the indifference, to material substance about black people, and i can only have thirty seconds. </SEG>
+          cuz everyone was saying oh you're gonna win the Emmy you're definitely gonna win it, but she didn't win it, um Esther Rolle won it, and you what her role was?          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> (xx) </U2>
+          she was a n- seventy-nine, version of a man. so what does that say about, like, roles, and bein- like, bri- like primary roles, in the movies and the T-V? it doesn't really say much, in terms of, m- p- uh, positive portrayals or positive depictions, of black women. um so, should i do the (xx) one or should i show this?        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (i think show the) (xx) </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay, alright if everyone can stand up again </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> everybody go back </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> so given Ruby Dee's arguments and some of the things discussed just here, the question is </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay first question basically is, um do you think, um the opportunities in the entertainment, um, in the entertainment sphere, have improved, gotten worse or remained the same? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> improved, </OVERLAP1>
+         <U2 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> for black actresses? </OVERLAP2>
+         </U2>
+         <OVERLAP1> gotten worse, in the middle </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> so if you think it's improved </OVERLAP1>
+          over here, gotten worse stay        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> and in the same in the middle </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> and about the same in the middle </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> or not sure, in the middle </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> since Ruby Dee? </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> since Ruby Dee. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> since Ruby Dee. </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you guys gotta, spread out so we know what's what like who's where. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> so over here is improvement. </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> roles and opportunities have improved, roles and des- (depictions) opportunities have gotten worse, not sure or they're about the same... okay who's_ this is all improved? this is the center? are you gotten          <OVERLAP1> worse? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> are you </OVERLAP1>
+          on the middle Tiffany?        </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> see_ no see i'm on the cusp,          <U2 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah i'm            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> of, </OVERLAP1>
+          gotten worse.          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          and, i'm on the cusp. that's what i am i'm on the cusp.        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> alright Tiffany why do you feel, that, it hasn't even gotten any better there's been no          <OVERLAP1> improvements? </OVERLAP1>
+       </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> why </OVERLAP1>
+          why am i on the cusp?        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> because they still, will not do, a good black drama. where you see, a black family for real, in the situations of everyday life. they have to always comedy it up, and that's why in my mind that, it still_ cuz they won't, they_ you never see the real truth. you always see gloss pictures Moesha, that's not the truth. tha- that, ooh she irks me.          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          the Parkers, that's, that's not how things are really gonna happen, in in a black family for real, and, the good shows that they do have about black families about black life, is on cable and it comes on late at night and, you hardly ever see it, and if you saw like Dancing with September,          <U2 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yes </U2>
+          you'll understand what i'm talking about because that was,          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          that you know          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (appreciate it) </OVERLAP2>
+         </U2>
+         <OVERLAP1> that just lets </OVERLAP1>
+          you know, what's happening so, hey, i'm right here on the cusp.        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay. now i have a question for you though. did you like Waiting to Exhale? </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> did i like Waiting t- no cuz i thought them women were dumb.          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          i thought those women were stupid          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> now </OVERLAP1>
+          there were four there were, four, there was four of 'em weren't they?          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and didn't </OVERLAP1>
+          none of 'em have no sense when it came to a man.          <OVERLAP1> none of 'em had any sense. </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah okay now, </OVERLAP1>
+          Thin Line between Love and Hate,          <OVERLAP1> Lynn Whitfield. </OVERLAP1>
+       </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that w- </OVERLAP1>
+          that was crazy          <OVERLAP1> too </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> she was crazy          <U2 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> that was crazy </OVERLAP2>
+         </U2>
+         <OVERLAP1> there are all these </OVERLAP1>
+          negative portrayals, of black ac- like black women        </U1>
+       <U1 WHO="S13" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> and is she really gonna go start stalking after Martin Lawrence? let's          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          let's think logically          <OVERLAP1> here. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay let's </OVERLAP1>
+          let's look for let's go to the          <U2 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (now) </OVERLAP2>
+         </U2>
+         <OVERLAP1> (middle) </OVERLAP1>
+          and then go to the, improvement.        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> stayed the same, are or are the same. </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> people in the middle? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i'm kinda borderline stayed the same, gotten worse cuz um, i was about to say if you, i mean, if you wanna compare it to like the minstrel times of course it has gotten better but, when you think about it it really hasn't because our society has changed so much.          <U2 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> i don't feel </OVERLAP1>
+          like_ i think we just move with the times like, if we were at, li- if we were at like a two,          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> mhm </U2>
+          we just_ now we're like the two thousand version of a two.          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> mhm </U2>
+          it's gotten better compared to, how it was but back then it was like, i mean that you know our society was so much worse and          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> has it improved?          <OVERLAP1> how come you moved? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> what about the people </OVERLAP1>
+          who say          <OVERLAP1> definite improvement? </OVERLAP1>
+         <U2 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i was thinking </OVERLAP2>
+         </U2>
+          definite improvement?          <U2 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          oh sorry i cut you off.        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> well no i was thinking that like, of course it's gotten better. you know,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          how could it not've but, you have to, put things on scales and like, on the level we're at now like, it should be like (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> what about improvement? </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i wouldn't say definite you used the word definite improvement and, that's totally not out there and, so i guess somewhere i should be on the line between improvement and somewhat stayed the same, because, you've gotten to the point where at this time, black actresses are, being pulled into, mainstream, movies and television roles but at the same time, there hasn't been that many of them it's a i- it's been a very very slow process and_ while at the same time it's it's interesting um, just throwing out an example Lela Rochon i believe, some movie she was in, just in she was talking about where she's paired as the lead against, a white actor, and, when it was originally written there was supposed to be a romantic interest there but, once they put her there as the lead actress, romantic interest goes out the way- out the window so, i think while there has been some, very small gradual improvement there's still, a lot that needs to be done. </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> other improvement? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i agree that there's, definitely a long way to go, but i definitely think there's been a lot of improvement especially over just the last decade. you know we moved from, Nell Carter and uh, (i can't remember the name of the show) </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> Gimme a Break </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Gimme a Break, to you know, um the Wayans Brothers and shows on um, you know (xx) </U1>
+       <EVENT WHO="S7" DESC="LAUGH"></EVENT>       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> this is her opinion it's okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> T-V's not, T-V is </OVERLAP1>
+          not real.        </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah cuz then again          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and (xx) </OVERLAP1>
+          my family's not the Brady Bunch.          <U2 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah cuz </U2>
+          i mean you know?          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) there's like </OVERLAP1>
+          The Cosby Show and stuff, but there's also like, the same type of thing, that's not, you know, exclu- for, i don't...        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i think that you made a good point that like when we're talking about television and then, like when we talk about how, like, television shows that reflect black life don't, accurately reflect black life that television is not an accurate representation of life anyway so i think that that was a very important point that you, brought up a moment ago. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but i think (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we wanna uh oh we wanna cut the discussion now, </OVERLAP1>
+          we gonna discuss like have a bigger discussion at the end after we like all do our presentations so we can tie it in          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay okay. so we'll leave all the controversy (xx) controversy is okay okay? we're not (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> but, we, we gon- we gonna leave it we gonna talk about it later you know, so save </OVERLAP1>
+          your poin- good points for later.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> not yet... i know, i know. </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay right now i'm just gonna show you a um, two clips, two different clips actually um, one discussing, uh one o- actually one of 'em's called Ethnic Notions and it's discussing, like the history of um, black entertainment and how they were portrayed, in films. like the minstrelsy the mammys and, um, see the evolution in the second clipping, of, black entertainment. black entertainers in general um, and black actors and actresses and see maybe, a like, if there has been a change, and see if, you guys, wanna cross the line.          <EVENT DUR="3:00" DESC="FILM CLIP"></EVENT>          alright... is this the o- other one?        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah just (put it in.) this next tape is kinda shaky but it just shows like, some more images and, some also like current images today that you see on television, that kind of resemble or (xx)          <EVENT DUR="3:37" DESC="FILM CLIP"></EVENT>       </U1>
+       <U1 WHO="S12" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay now, after seeing all that, have people's, sentiments about black, entertainer entertainers in general changed? do people still think it's gotten better or, do people? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> and think about too like those like that_ images that weren't even on there cuz that tape's kinda old i think but think about like, the Wayans Brothers how they just make a fool of themselves on T-V the P-Js, who's just like, black minstrels, for the two (G...) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i did have one thing to say like that some of those like, are are c- comedies and they were like meant to be that and they w- we have like some black serious roles that like counteract that, just (like) people would say something (if we wanted to do the same thing) and show like white actors people would say that Jim Carrey or somebody represented, you know the best of what like white actors could (be) that was just </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well we_ like, we're saying like we understand, like but the difference between like black actors and actresses and the white actors and actresses is that they're represented in a full spectrum and, like we as a uh a black like black people are not represented in that full spectrum, that we don't get, like, most of our, black men you can, like, a interesting thing would be count the number of serious roles and movies that black have played and then the number of roles that black men have played that are like, the Chris Tucker role and, the Martin Lawrence roles, that we see, on_ at like, the movies that come out. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i agree i was just saying          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          somebody would play devil's advocate          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> d- yeah argue </OVERLAP2>
+            that yeah.          </U2>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> (anything that you wanna add?) </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh maybe this is a good topic for later, like larger discussion but i also think you have to look, with both of these questions if have to look at like the larger context and with these, with the voting and with the entertainment (industry) it's like, of course there're gonna be int- improvements in the black industry because, there are more people who own theaters like Magic, or people who can produce their own films and stuff like that so of course you're gonna get a different portrayals and saying that there's not, any improvement at all it's just like ridiculous you know you can't, discredit like a Cicely Tyson, and Sounder and those other films that just, made a definite impact in h- showing drama without any, comedic aspects you know i mean, i think we can just say that just because (wasn't blew up) in the mainstream you know, and there are plenty of films that open, that don't get any support, from the audience at all and they have to close cuz you know, nobody goes to see them. </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i just wanted to say that like when we look at, like, the images of, like since you brought up like the images of like blacks versus whites, in the media and, like, you know what we see like i think that, indistinguishable from those roles, are, the control of, these images. black people, do not tend to, control the images of black people and i think that, like that's something to take into consideration. not that i'm clai- like, s- i feel like there's a difference n- now between, like the, buffoonery or whatever you wanna, say, today because there is, like a choice involved with it whereas in the past there wasn't necessarily that choice, but like i- you can't, i don't think you can talk about these issues without, talking about like who is controlling the images that we see... </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> well i was gonna say the same thing because, well i was gonna ask, the question like you keep bringing up the Wayans Brothers like i don't watch it but, i, what i gather is, i- no one's making them do this this is like what they wanna do you know but then, we see these tapes of like, you know a w- long time ago and pe- like they_ you you're right that they didn't have the choice to do this like people, this was their way of like, not being like asleep or whatever you know this was their way of breaking out, and they did whatever they had to do to, you know if they even if they didn't approve of it or if they you know if it wasn't what they wanted to do they did it anyway but now i- i feel like, unless i'm wrong correct me if i am cuz i don't          <OVERLAP1> know </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> no </OVERLAP2>
+         </U2>
+          but i just feel like people like the Wayans brothers like          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but think about </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's sorta like </OVERLAP1>
+          that's how they're making money too.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah but          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> well </OVERLAP2>
+         </U2>
+         <OVERLAP1> think </OVERLAP1>
+          about tha- the choices that they're offered like the ro- like they're only offered so many things like the Wayans Brothers, like they wanna stay on W-B like that's their, station          <OVERLAP1> or network or affiliate, </OVERLAP1>
+         <U2 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (but do they) have to be doing what they're doing? </OVERLAP2>
+         </U2>
+          no no they they're aware of consciously aware of what they're doing but if they're only offered like you have to have your program like this like they're not free like          <OVERLAP1> like they're not totally free to express </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no no i, i know but i just </OVERLAP1>
+          so i'm asking like are they,          <OVERLAP1> is this what they really wanna </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> i think the question that's </OVERLAP1>
+          being, here that's that's at issue here is what, realm of choice is truly available.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and when you think about that you have to think about the power structure of the television industry in Hollywood. now. how many of you can name, a black person who owns a movie studio?         </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> does          <OVERLAP1> Bill Cosby? </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> he doesn't own a, studio,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> he tried to buy </OVERLAP1>
+          N-B-C but, people didn't, want him to buy N-B-C. can anybody name, a black studio executive in Hollywood?        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Quincy Jones?          <OVERLAP1> i'm wrong </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> well Quincy Jones has, has his own entertainment </OVERLAP1>
+          vehicles but he's not, the head of a studio like Paramount (xx). can anyone name other than Spike Lee, a black film director?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> John Singleton </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> Robert Townsend </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> John Singleton Robert Townsend okay we've got three black men here. </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> Hughes brothers </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> Gina uh (Pricewood,)          <OVERLAP1> Gina Price Blythewood </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (Gina Blythewood,) </OVERLAP1>
+          okay.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> the Hughes brothers </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> the Hughes brothers </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> the Hughes brothers. okay what movies have they put out in the last, five years?          <OVERLAP1> how many? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> Bamboozled? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> besides Spike she said? </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> besides Spike </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> John Singleton </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          did New York Undercover.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> John Singleton did put out a movie that i was surprised that he directed but i don't think he was (xx). </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> his last movie uh </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> Rosewood? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> John Single- (uh in) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i think he had one after that </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> he had one after that. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> the guy who wrote the (Decimator) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't think_ i think it didn't have any black </OVERLAP1>
+          actors in it        </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> it didn't have any          <OVERLAP1> black actors in it (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> how 'bout Malcolm (and Eddie) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> Keenan Ivory Wayans. um he owns a production company. </OVERLAP1>
+         <OVERLAP1> and they produce, and they </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> he does own a small </OVERLAP1>
+          production company that has ties to Paramount.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and they produced or co-produced um, Scary Movie. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> right.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          so        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well i know it, wasn't the best (portrayal) but it was a big hit. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> no i'm just saying it is a big hit i mean there's a there's a couple of, questions i just wanna unravel then before we move to the next point, about control so we had a hard time, there are no black movie studios that, independently produce, films. even Spike Lee's films are in conjunction, with Paramount. i believe. so, in terms of who has the money, to produce film and who owns the studio space, and everything like that, that's all basically white folks. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but but can we really name, white people who own those companies (too?) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but they own 'em          <OVERLAP1> it's common knowledge that they own (xx) </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> they own the companies (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well i i mean </OVERLAP1>
+          but but i couldn't bring them off the top of my head.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no but they          <OVERLAP1> own 'em. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          and i'm a huge movie person.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> well think about Steven Spielberg's company, think about Zanuck think about Michael Eisner who owns Disney A-B-C, and, that includes Miramax and Touchstone and Miramax's head is Harvey Weinstein, i mean i've just rattled off six or seven names of, of          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> people that own </OVERLAP2>
+         </U2>
+         <OVERLAP1> white people </OVERLAP1>
+          i mean, you can't go through Hollywood, and television without noticing that every C-E-O, every major producer, is white. and, there's enough evidence out there that shows that, when, when black actors and actresses are thought of for roles that are, colorblind roles, it shifts the script, significantly so the example you came up_ the love interest, drops out. did anybody see the Pelican Brief?          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> mhm </U2>
+          Julia Roberts and Denzel Washington? in the, they're supposed to have a love affair. do you ever see them, kiss or naked in bed together? it was cut out, because they thought audiences weren't ready for that. so, these ideas of who the audience is and what they're ready for when Wai- Waiting to Exhale took tons of years to put together it wasn't until Whitney Houston okay even with Angela Bassett and all those other good actresses, it wasn't until Whitney Houston signed on cuz sh- they thought oh crossover appeal she has lots of white music fans so maybe they'll come to the movie studio, they'll come to the movies, as well. it wasn't until she signed on that that movie could get made it's a, million best-seller book, being made into a movie and people thought, a movie about four black women, nobody'll go see it, and nobody meant white people won't go see it. so, if you look at the market research that gets done and if you look at the struggles that black script writers and filmmakers have had, in getting their films made and raising money, um there's still a climate, that, white people are only ready to see blacks in particular ways. and so, even with the success of Waiting to Exhale and The Best Man, you don't all the sudden see a slew of multicultural films coming out every year. if you look at all the Oscar nominees, um, if you look at the top ten grossing film sometimes you have, um, people of color in significant roles there, but even with that box office success it hasn't resulted in kind of like a watershed. like every couple of years you get do do do do do, do do do do do, and then it kind of goes away. um so if you look at the patterns actually of casts, and filmmaking and televisionmaking i mean after The Cosby Show the number one show ever in history, more viewers than any other show even Ozzie and Harriet even the Honeymooners, any show, in television history. and what does N-B-C have on its docket that has an all black cast? nothing. it made N-B-C billions of dollars, and is still making billions of dollars in syndication,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so the idea of whether or not it's a success or whether or not people come isn't necessarily what, the decisionmaking is about. because, people of color are still seen as a risk, for a lot of, people in the industry. that's why even though Latinos are, the largest non-white group in the country, how many Latino shows do you see on T-V? Asians are the number one immigration, their rates are going up, hugest group of immigrants we have other than Latinos, coming into this country.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          see can you name an Asian person, other than Lucy Liu on Ally McBeal, who has a major role on a network television show? can you name anyone?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i can name someone who used to. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> who used to. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Dustin Nguyen he was on SeaQuest </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> okay on SeaQuest, well SeaQuest got dumped.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          SeaQuest was very multicultural.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it was good.            <OVERLAP2> it was go- </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz it was </OVERLAP1>
+          in the future.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah it was good.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          it was really good too.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> so if you think of it in those terms </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> future? no, (wasn't,) Deep Space Nine          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          Deep Space Nine is a          <OVERLAP1> pretty multicultural </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> there's someone on </OVERLAP1>
+          S-N-L. there's an Asian actor on S-N-L. (i can't remember his name,)          <OVERLAP1> he's a, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          he's a, cast member right now.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> so if you think in these terms, not just black white but, all peoples of all colors, um, you know, Asian people got money Latino people got money black people got money all of us watch T-V... you know you're all here in this class together, no big problem. </U1>
+       <U1 WHO="S11" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> minorities watch more T-V, than, white people. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> exactly so, the W-B and U-P-N and Fox couldn't have been successful without minority viewers because they were, putting on Martin they were putting on In Living Color and this, drew huge audiences, completely mixed so, but still it seems like U-P-N and W-B are the two networks where you can o- a- the only two where you can consistently find, casts with, lots of black faces. rather than just one here one there, you know, doctor Peter what's-his-face on E-R or, Gideon or whatever so, if you think of it in more global terms and you think about the, kind of decisionmaking processes that are behind, um, economic and cultural decisionmaking processes, it's pretty clear from the research that i know that, if you're thinking in terms of proportionality if you think in terms of economics, that there's really no concrete reason why we don't see a more multicultural media landscape in terms of the mainstream. and that's nothing for anybody to feel guilty about personally but it's something to think about, in terms of your consumption habits. so, let us move on, to, our next, set. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, and kinda tying in um, with what we were just talking about like, um, in the nineteen sixty-six number one reader that's in your uh, in your coursepack, um Sarah Wright, noted that um one can hardly pick up a book which does not advertise naked or suggestively naked um, African-American women and, we just happen to have the Vibe magazine like, sittin' up here Amber's gonna use it for her presentation, and i just started flipping through the magazine and, like i just found so many, like, just, suggestively, just African-American women like and this is, a magazine that's targeted at, African-American yeah African-American but, all through the magazine there's pictures like this there's, pictures with less less clothing on. um, she also notes that in popular music of our time, it is in what she calls a, supreme state of chaos and she says that, the reduction of women in song to mere sexual animals, is at um, is at a the point beyond which it could go no further so she's saying like          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> now this </OVERLAP1>
+          is in nineteen          <OVERLAP1> sixty-six </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> this is in nineteen </OVERLAP1>
+          sixty-six. so you know today i was just sitting here thinking of songs that okay i have in my C-D player right now and, one song is this Oochie Wally Wally i know y'all all heard it like well uh y'all've heard of the song Oochie Wally w- by Q-B's Finest, y'all know what i'm talking about like, and it the song is really sexy suggestive i don't know if you've seen the video it's like, four guys you know a- i i have the C-D so, i mean i was just thinking like, what's that saying? but, um it's like four guys in the video they're just surrounded by all these beautiful women wearing bikinis, and basically they're talking about screwing all these girls. um i thought about the Thong Song which probably more of you guys know and he's talking about that the girl that dumps like a truck and, guys like (what) and tell her to move her butt and, let 'em let 'em see her thong and, i mean this is the music that we're listening to but she's saying this in nineteen sixty-six but, we're, like, just think about, how bad it's gotten today and just, think about some of the C-Ds that you guys might have and, like some of the lyrics that they (xx.) and how they're like sexually degrading, um the women. um, in the (Childress) reading, Paul Marshall says that the Negro woman has um been until recent times almost non-existent in prose literature so we're moving on to talk about books now, and um, he wasn't saying that black women do not appear but he was saying that, they don't appear in a, re- a reality like, almost like we're talking about on T-V how, what Jimmy was saying about, how they, uh black people don't appear like in real_ like how they really are, he was saying that um, in the literature        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> it's a she was saying. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> or she was saying,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> or, </OVERLAP1>
+          Pau- ohh.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> Paule </U2>
+          i w- p- it's just spelled with a E. okay so what she was saying, i'm sorry,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE"> that's okay. </U2>
+          that the image that does appear, is a sheer myth um stereotype and a fantasy figure which has very little to do with black women in reality. this was also written, in nineteen sixty-six. um, she's saying the predominantly two depictions of black women, that have been prevalent, the first is the nigger wench, and i don't know if you guys, when Lynn first turned on that video there was a lady like she had on like a white nurses uniform, when she turn first turned on Ethnic Notions she had big butt breasts she was skinny, that's like the nigger wench, type woman um she's sensual, primitive, pleasure seeking, amoral, um the si- the siren the sinner, type girl, um the second which was depicted, much more, in black literature was that of the black matriarch, who was humble devoted devoutly religious, patient and what they called the mammy.        </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

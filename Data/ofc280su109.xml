@@ -1,0 +1,1378 @@
+<TEI.2 ID="ofc280su109">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Economics Office Hours </TITLE>
+         <TITLE> Rackham Div: SS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 13114 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> OFC280SU109 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="92">             <DATE> October 2, 2000 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Shannon Dubenion-Smith, Rita Simpson </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Darell Tibbles </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Shannon Dubenion-Smith </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Amy Burke </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Final Editing, 10/23/01 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">OFC</TERM>
+ <TERM TYPE="ACADDISC">280</TERM>
+ <TERM TYPE="PARTLEVEL">SU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">SS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="9"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="10"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JG, Graduate Student Instructor" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1">           <FIRSTLANG> GUJ </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Office, Lorch Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> my, and then once i solve for X-two that's my demand, function for X-two or </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> that's your specific, choice given this income and price, if you wanted it to be a demand function then you wouldn't have plugged in the number twenty-four here you would have an N there,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> and you </OVERLAP1>
+          wouldn't have plugged in          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so is it </OVERLAP2>
+         </U2>
+         <OVERLAP1> the numbers </OVERLAP1>
+          one and two, so if instead of plugging in a one, for this and a two for that, and then twenty-four for that,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          if you c- carried around, P-one P-two M P-one P-two.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is it better to do it that way?          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> in </OVERLAP1>
+          general?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          um, probably. because unless you're asked for the specific bundle, you're gonna hafta rework your math, and stick in a new set of numbers.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay so this gives me the specific          <PAUSE DUR=":05" ></PAUSE>          demand for that for X-two right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right. so that gives you, that specific point. if you're asked anything but what is the specific point, you're better off working it general.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          because          <OVERLAP1> then </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> maybe that's </OVERLAP1>
+          where i'm screwing up (i don't know.)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay so if you don't plug in the numbers,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          you'll have_ this'll be a, set of one and it'll be a P-one and          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> a set </OVERLAP1>
+          of two that'll be a          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's gonna be a P-two </OVERLAP2>
+         </U2>
+         <OVERLAP1> a P-two, </OVERLAP1>
+          and then you gotta put the, notation back in the budget (xx)          <PAUSE DUR=":08" ></PAUSE>          but if you cross multiply here you can still make a simple substitution.        </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> they're just gonna equal each other so that's gonna be like, P-two X-two plus, P-two X-two, equals M. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly now solve that for, X-two and you'll have a demand function. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay now i know where_ i think maybe that's where i was screwing up i was st- trying to put the numbers in and i wasn't getting the demand like </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and now </OVERLAP1>
+          if you scratch it out (right?) (cuz you) divided by,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          and now if you put in the number, twenty-four and two you'll get exactly what you were getting          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> thi </OVERLAP2>
+         </U2>
+         <OVERLAP1> right </OVERLAP1>
+          down here.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> see and i knew it was a dumb mistake but it's like you know when you look at it for so long it          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> just </OVERLAP1>
+          looks like a mumble jumble it looks the same okay          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> this </OVERLAP1>
+          will give you a number but not a function.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay... (xx) function. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> but it's because you stuck in,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the numbers </U2>
+          the numbers.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay so, you know what then i think i'm fine because that's where my big problem was so i'm gonna, i might be back tomorrow but,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            okay          </U2>
+          i think that's where it is like i woulda stuck          <OVERLAP1> there, bec- </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> you wanna work </OVERLAP1>
+          through another one, just in case?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          no because i, i knew it was something dumb and that's probably what it was. i really i ju- really think that's where it was cuz i feel like an idiot right now.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> no so if the question says this is the hardest part of this          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          if the question says what's the, choice. stick in the numbers right away you're just computing a set of numbers.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          if the question says, you have this price now you have this price, what happens? what's the difference?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          then don't stick in the numbers because you're gonna hafta do it, twice see what i mean?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          so you're better off getting a general equation and plugging in two different sets of numbers.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> because then you can always go back </OVERLAP1>
+          to the other one.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and this is the Cobb-Douglas demand that i keep talking about. it's          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          times some of the exponents times income          <OVERLAP1> over (price.) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so this, </OVERLAP1>
+          for this Cobb-Dub- for this Cobb-Douglas this is always gonna be like this? is that wh-        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and then w- wh- what i did in lecture is i, took it one step further and i said if this is X-one to some power C, i didn't do it in lecture i did in section X-one to some power C, and X-two to some power D,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          then you could work through the algebra again but you'd get something different you'd get, C over C plus D times M over P-two.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so </U2>
+          but that's worth knowing.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> X-one, X-two (xx) so it's gonna be, C plus D over </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> for d- demand for X-one, is equal to C over C plus D,          <OVERLAP1> times </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> then X </OVERLAP2>
+         </U2>
+          times hold on          <OVERLAP1> M. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+          times times M          <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> over </OVERLAP1>
+          P-one.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> over P-one. and then X-two is gonna, D over D plus s- no. yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah D over          <OVERLAP1> C plus D </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah D over, </OVERLAP1>
+          C plus D times N P-two.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then </OVERLAP1>
+          if you look here,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          here C is one and D is one so          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's your </OVERLAP1>
+          one-half.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, that makes sense. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> but don't use N if it's not Cobb-Douglas. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right. actually maybe can we go through one that's not Cobb-Doug-          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          Cobb-Douglas? um okay        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> number two wasn't Cobb Douglas. </U1>
+       <EVENT DESC="RECORDING-RELATED QUESTION"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay. like for the Ambrose          <OVERLAP1> ones </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> mhm... </OVERLAP1>
+          so this is actual- i- it's asking just what you wh- what we've been doing together demand function          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> but it's </OVERLAP1>
+          a different, utility function.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so that's </U1>
+       <PAUSE DUR=":27" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so first thing you do draw a picture... and you don't know the prices so just make some, downward sloping budget          <OVERLAP1> line. </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mkay. </OVERLAP2>
+            this is what i want          </U2>
+          and the only thing is on_ we have to be a little careful cuz we know that, this is quasi-linear so the indifference curves actually, curve but hit the axes.          <PAUSE DUR=":12" ></PAUSE>          so if you wanna_ here let's a... this is one thing that it sounds like i'm being          <OVERLAP1> picky </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          but you really have to be careful about this cuz this is subtle things that are gonna matter later.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so you wanna get more, like that.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> more curved for the quasi-linear </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah cuz the quasi-linear's shifted straight up so you wanna be sure that you, you're looking kind of like that. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mkay. so          <PAUSE DUR=":14" ></PAUSE>          so it's just gonna be, adds two        </U1>
+       <PAUSE DUR=":16" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay and then you can just solve for X cuz there's only one variable in there so you can just solve for that X-one, and you're done. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how h- wai- how do you, just come up with that so fast like,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> well </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's </OVERLAP1>
+          a line          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> two is a            <OVERLAP2> number, (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz all these X-ones are already in here </OVERLAP1>
+          and i'm trying to_ right cuz these are our constants.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly and there's no X-two in there.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          whereas if you look back at your Cobb-Douglas, your both equations had two variables and your tangents equation          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh okay, </OVERLAP1>
+          so i can divide this by P, one, and then square it,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly. </U2>
+          and that equals, X-one now.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          and that's my demand for this function for          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm and then </OVERLAP2>
+         </U2>
+         <OVERLAP1> X-one and that's </OVERLAP1>
+          not as specific.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> if you had prices,          <OVERLAP1> you can put 'em in, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> then you just, </OVERLAP2>
+            plug 'em in          </U2>
+          but notice it doesn't even depend on income.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, so how would i, get X-two from that though? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> you'd need your budget line.          <PAUSE DUR=":04" ></PAUSE>          so you can see P-one X-one is equal to two P-two, and you can          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh that okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> substitute that into (xx) </OVERLAP1>
+          which is what this problem asks you to, do.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. sounds good. alright i </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so they're all a little bit different. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's </OVERLAP1>
+          just a matter of lo- looking at it and playing around with it to get the X-one.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> but the big thing this one it says, you always want the same amount of X-one it doesn't depend on income so you get, that income offer curve that we've been talking          <OVERLAP1> about, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          but if income falls you're on the boundaries so there's all these little subtle things built into the picture that you want to be sure, um that you understand so when you get the math you know what you're looking at.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, alright </U2>
+          that's the other thing that you get this and you say oh i know that because that's quasi-linear so it has to be a constant and there we go.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. thank you very much for your time. i appreciate it. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm. so i will see you tomorrow in class? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> tomorrow in class and, bright and early </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and w- work with some more of those i mean the          <OVERLAP1> big thing, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah i'm </OVERLAP2>
+            going to tonight.            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> before </OVERLAP1>
+          you go to the math look at the picture because the math can be really simple,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          or it can be more complicated depending on, what the picture tells us        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, yeah i will i'll i'm gonna go through a lot of 'em again, so thank you. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm.          <PAUSE DUR=":08" ></PAUSE>          hi were you waiting to see me for office hours?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> um, yeah i'm a G-S-I. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i just            <OVERLAP2> just to make sure </OVERLAP2>
+         </U2>
+         <OVERLAP1> no you're who are you? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> Andrew </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> Andrew you're, sitting in our meetings that's why you          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> look </OVERLAP1>
+          familiar.        </U1>
+       <EVENT WHO="S3" DESC="LAUGH"></EVENT>       <EVENT DUR=":24" DESC="RECORDING-RELATED CONVERSATION"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> um, Friday,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          i'm not going to be able to be at lecture, (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so we'll survive. yes. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> and um, also this sounds even worse today this morning i wasn't here for lecture, and i just wanted to,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> uh'oh you missed </OVERLAP1>
+          my best lecture of the term.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> was it really the best?          <EVENT WHO="S3" DESC="LAUGH"></EVENT>         <OVERLAP1> my alarm didn't go off. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> let me show you what we did real fast. </OVERLAP1>
+          uh'oh, see i i can't see people i leave Emma, responsible for that.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah she caught me. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> she caught you? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> well i i had to talk to somebody ask uh          <OVERLAP1> Shari about something so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay, </OVERLAP1>
+          so you need to_ the thing is, let me_ why don't you come over here where you can see the computer Andrew, and help me recognize all my G-S-Is and i'll be in real good shape there's too many in there you know that?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> people </OVERLAP1>
+          start to blend by the end of the semester i'm doing          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          really well though.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> that's alright. </U2>
+          um          <PAUSE DUR=":04" ></PAUSE>          okay so that you don't need to know about what we did, is run through a bunch of examples at the beginning this was uh the great plains states in nineteen ninety-seven and their um in response to demand for labor their wages were going up faster than, other parts of the country and the explanation was that labor force participation rates were already really high and there just weren't more people to work, so what does that mean? here are some perfectly elastic but relatively, inelastic supply compared to the rest of the country and you'd expect their wages to go up more.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> mhm. </U2>
+          okay so that was that example. this one was um President Clinton was trying to i- increase the price of beef, and here it is if you want a targeted price increase how much does demand, need to go up by? it depends on supply elasticity and you can see, supply is relatively even more elastic in this the larger demand shift is needed so that, and then i s- was stressing again that the, increase in demand is the, distance moving right, somehow they wanna go from here to here and say, that's the increase in, demand.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> oh okay i see what you're saying. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> then we went carefully over incidence, um reminding us what the tax is and, we have elastic inelastic and by the time we got done i had put, all this stuff up          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) to see </OVERLAP2>
+         </U2>
+         <OVERLAP1> so they could, </OVERLAP1>
+          re- remember what, um, consumer expenditure is what supplier, revenue is what the tax is.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> compare E to E-prime, hi how are you          <OVERLAP1> be with you in just a minute. </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> hi Professor Gaston okay great. </OVERLAP2>
+         </U2>
+          compare E to E-double-prime, um compare E-prime to E-double-prime for any of the things we'd ask about, whether it's expenditure or, (spiralling) tax, and then we did the same thing only, this was the one extreme case we did, uh what if we had perfectly inelastic, demand? and i told them they should look at the other three,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          extreme cases. then we did the same thing for supply, and reminding them that the same straight upward shift for the tax doesn't look the same, here, um and again we could compare E to E-prime E to E-double-prime or E-prime to E-double-prime but the one, interesting thing we noticed here is that, whether the big green rectangular big purple rectangle's bigger is gonna depend on price elasticity of demand not on any characteristics of these, supply curves. and i told them they should practice redrawing these because it shouldn't look like, muddles of lines they should see things in here.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah,            <OVERLAP2> (xx) </OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>         </U2>
+         <OVERLAP1> um... </OVERLAP1>
+          but if but if you i mean if you look at what i did with it it's going piece by piece          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> so, </OVERLAP1>
+          it's not as bad. okay. then we went back and reviewed, what we had done before with um, uh that we'd seen, the idea of relative elasticities so this was our, relatively elastic inelastic, uh talking now about, the cigarettes and what we did before was compare the green to the pink and green to the green but now we're comparing the pink to the green so, um, this was, what i wanted to get to. the last fifteen minutes was a, big generalization of, what we're doing for the rest of the term. and i gave some examples and explained what we're doing but, broadly defined well-being as total benefit minus total cost. um then you know what is it for the consumer? what is it for the firm? but, what we do is, examine the current situation consider a change and look at the impact, and define marginal benefit and marginal cost, so for a consumer this would be marginal utility for a firm it would be marginal revenue for government programs it would be marginal benefit. um, and notice that the change in well-being is just the change in benefit minus the change in cost, and, then they seemed to be following. then we get to our conclusions,          <OVERLAP1> um, </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i know a lot </OVERLAP2>
+            about optimization.          </U2>
+          yeah.          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          but they they seemed to be understanding it and i went through you know why would I-B-M have the, Russian, uh chessmaster duel with the I-B-M machine that costs them five million dollars. why because they got a hundred million dollars in free publicity.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          benefits bigger than costs do it. so and we had already done the F-D-A analysis so this was this and the one thing that's a little hokey, is, when they're equal but what i always say is if they're not equal it means we're out of line and, you can improve,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          this when they're equal if you've had calculus it's a first order condition if you've haven't it's a, (sandwich theorem.) but the slopes work, so we're going towards that.          <PAUSE DUR=":04" ></PAUSE>          so this isn't in the book but what i decided after teaching for a couple years this class for a couple of years is that we needed a nice general, framework at the beginning,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          because this works for, i mean for anything we talk about if you interpret the benefits and costs,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          correctly, given the situation, uh this works.          <PAUSE DUR=":07" ></PAUSE>         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          so what we're gonna see pretty soon is looking at the ratio of the marginal utilities and comparing it to the ratio of the prices of the goods for consumers.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah, okay... alright that makes sense. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and that's that's it for today so, we're gonna pick up on, on consumer choice and what we'll get to is this, um conclusion, but we won't explain it very well so we won't have indifference curves,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          to explain it.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> so it's more intuitive than,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly. </U2>
+          rigorous?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly more intuitive. and a lot of the time we'll be just be doing what's in the (xx) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> very </U2>
+          which is not hard to understand.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right. the class was good they were mostly there and they seemed to be, following so </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah they seem, they seem to be pretty good, all the quizzes that i have (have been,) fine, so far          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> good. </OVERLAP1>
+          good good. so yeah. they actually, uh, we'll we'll have to watch for the exams and see what happens after the first exam but up until now, i've been amazed even Fridays we get pretty good attendance and today we had people on the floor again we had seats this is the odd thing          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          is there's seats in the auditorium but there's people who come in, and sit in the back          <OVERLAP1> instead of going to the seats. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think people are </OVERLAP1>
+          shy about, like walking in, you know while you're lecturing          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          looking for a seat and, there's always ones in like the middle but          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> no one </OVERLAP1>
+          wants to climb over          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> everybody </OVERLAP1>
+          and,          <OVERLAP1> if they you know </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> so here's the incentive </OVERLAP1>
+          to come on time right?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah yeah they_ i come early.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> but what </OVERLAP1>
+          on uh Friday if you want to, see what i go, over, um you could even come in, you know, earlier than Friday or after Friday whichever,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          works for you,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          we'll just run through the,          <OVERLAP1> slides </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah maybe um, </OVERLAP1>
+          Wednesday. sometime.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay email me so i w- we can be sure i'm not in class.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay,            <OVERLAP2> thanks </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          i i have class until two and then i'm pretty free after that        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay, i sh- hm. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> w- well think about it          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and talk to me today </OVERLAP1>
+          how's that?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay,            <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> i'll see you, </OVERLAP1>
+          later today.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          at the meeting.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hi Miss Gaston,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> hi </U2>
+          i'm in your uh section for class my name's Simon        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> hi Simon </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um i have a question about um, my econ major i'm gonna, study abroad at uh, University of New South          <OVERLAP1> Wales </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+          and i kinda wanna know which uh courses are          <OVERLAP1> acceptable. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> you're in </OVERLAP1>
+          four-oh-one right now?          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes. </U2>
+          and i assume you've had then one-oh-one one-oh-two          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> math </OVERLAP1>
+          one-fifteen,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          are you in another econ course right now?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> three-twenty </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and you're a junior? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so you're right on track.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> okay, </OVERLAP1>
+          so the the big_ this is just a semester program          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          uh winter semester          <OVERLAP1> uh </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> this is </OVERLAP1>
+          through Beaver?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's through U-of-M,          <OVERLAP1> here </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> through </OVERLAP1>
+          U-of-M?          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          okay.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah so like um, i mean there's, i guess this is four-oh-two          <OVERLAP1> macro-economics </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> macro-economics </OVERLAP1>
+          two. why do they have a tw- um          <SEG TYPE="READING"> the person will have (xx) </SEG>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> like if i take it there would that cover my four-oh-two          <OVERLAP1> requirements? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+          that's          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it would </U2>
+          fine. is this your book?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah it is yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> hold on i just lost your, stuff, what i was going to do, is write in it.          <PAUSE DUR=":04" ></PAUSE>          okay.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um and like, would </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> basic_ let me tell you our basic criteria first you need to take four-oh-one here,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> which you're doing, </OVERLAP1>
+          um you need to take half your econ major here,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay that's not a problem. </U2>
+          um, so were you just planning two econ courses there?          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> yeah so. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          actually only one          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> only one? </OVERLAP2>
+         </U2>
+         <OVERLAP1> and uh </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah yeah. um </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> really no problem. and then, </OVERLAP1>
+          you need to take one of the courses that has a four-oh-one or four-oh-two prerequisite physically if you're in Ann Arbor          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> so that's, </OVERLAP1>
+          so one term abroad is absolutely no problem.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          if you, wanna take four-oh-two that'll do it,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          what we look at is prerequisites so any of these courses, that say, they're taught in the econ department,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> they say </OVERLAP1>
+          econ like two-one-oh-three,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          and it has a prerequisite of econ one-one-oh-one which is,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i guess one-oh-one </OVERLAP2>
+         </U2>
+         <OVERLAP1> one-oh-one </OVERLAP1>
+          one-oh-two fine we'll count it.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> so that's </OVERLAP1>
+          what we look for it has to have an econ prerequisite,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          it has to be taught in the econ department, fine.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay alright            <OVERLAP2> that's </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          this looks good this looks good that looks good that looks good, where you have to_ any and all these look good, where you have to be careful, is some of the, other universities have what they call economic history, departments,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          and it'll say no previous econ required,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh            <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> so it </OVERLAP1>
+          could be, economic history yet, without any kind of          <OVERLAP1> prerequisite and those </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay okay </OVERLAP2>
+         </U2>
+          we won't count.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          so any_ i- it looks like you'll have a ton of, choices here any of those have at least, a one-oh-one or one-oh-two          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> prerequisite so </OVERLAP1>
+          this whole page would be fine.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay great. yeah that's the only question i had because i, i have to figure it out by the end of this week whether or not i'm gonna go through with it or not. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and then if you only take one econ course there you'd need five coming back your          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          senior year.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's fine like uh, i mean i was planning on taking uh four-oh-two i guess, my senior year, but uh i might just get it ov- done with like there i mean          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> oh but </OVERLAP1>
+          you know what i would, probably do, is look at something you can't take here,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          you can take four-oh-two here unless_ i i always think it's interesting abroad to take something about, where you're going,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah yeah </U2>
+          so if there's something about Australia or about Southeast, Asia, um, that might be interesting          <OVERLAP1> to sort of. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          well i mean i was also planning on taking more like, financial courses there cuz like, i'm i'm not in the B-school here so, if it's possible i might just take those courses there          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          like Asian markets or something          <OVERLAP1> like that. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay, </OVERLAP1>
+          but then and then you could just take a standard econ this one, has Australia um, world trade trade and services, trade theory, that is certainly a perfectly fine,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          econ course but it's focusing on trade in Australia and the global market so that might be, i mean that's certainly something, focusing on Australia that you          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> won't </OVERLAP1>
+          see here so that might be kind of fun,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> except </OVERLAP1>
+          that it might be kind of fun but it has a, one-one-oh-four, as a (xx)          <PAUSE DUR=":04" ></PAUSE>          looks okay one-one-oh-two or one-one-oh-four which isn't here so it's          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> just </OVERLAP1>
+          an intro prerequisite you're still okay.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um, one more question, since this is through uh U-of-M do you know if th- the grades transfer also or? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> ask,          <OVERLAP1> (xx) someone at O-I-P. </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> someone at O-I- O-I-P okay </OVERLAP2>
+         </U2>
+          um some ti- some programs yes some no and          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          i don't keep track.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, okay i guess i'll, find out on that but that's basically it. but, thank you,          <OVERLAP1> um (xx) </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> uhuh no no fou-oh-one questions? </OVERLAP2>
+         </U2>
+          not really i'm just gonna go study for the quiz right now.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> good idea </U2>
+          um what are the um, what is the quiz gonna cover over like chapter six through        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> it can be anything chapter five six eight or nine, which is what we've covered the last two weeks.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay. </U2>
+          or i mean basically the material's so, um        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's very similar like it's just, progressing </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah exactly so you, probably have to know things from two and three and four          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> to do </OVERLAP1>
+          things in          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> five </OVERLAP1>
+          and six and,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah okay            <OVERLAP2> alright </OVERLAP2>
+         </U2>
+         <OVERLAP1> eight </OVERLAP1>
+          and nine.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> thank you.          <OVERLAP1> i'll see you in class. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> uhuh see </OVERLAP1>
+          you in class Simon.          <PAUSE DUR=":14" ></PAUSE>         <EVENT DESC="TALKING ON PHONE NEXT 7:05 OF UTTERANCE"></EVENT>          hi Steve. would you_ can you talk about homework? okay so, um, question number one is the Browning and Zupan that should be fine for tomorrow (right?)          <PAUSE DUR=":05" ></PAUSE>          their the assignment for chapter twenty-nine is on the web... yes. so if you go to the course website, it will, say_ let me go back and see what the link says. the link says, uh assigned problems on course website. under problems.          <PAUSE DUR=":19" ></PAUSE>          or f- yeah that's why it didn't work. fall zero-zero.          <PAUSE DUR=":13" ></PAUSE>         <EVENT DESC="LAUGH"></EVENT>          having a good day? why am i bugging you? how co-          <EVENT DESC="LAUGH"></EVENT>         <PAUSE DUR=":05" ></PAUSE>          oh.          <PAUSE DUR=":05" ></PAUSE>          yes... chapter twenty-nine. yep          <PAUSE DUR=":19" ></PAUSE>          so number one for tomorrow? no. um i think we can do, the we can do the M-R-S and and looking at Nancy and Sally, were_ you're gonna do contract curves right? so what we can't do is compute the competitive equilibrium price ratio correct? so we can plot a contract curve but we can't, actually solve for the equilibrium?          <PAUSE DUR=":05" ></PAUSE>          so could we do through D?          <PAUSE DUR=":17" ></PAUSE>          correct. i s- i think we can do through D.          <PAUSE DUR=":39" ></PAUSE>          right. right yeah we can do more than that on two i thought through D though. so we can do one we can do two A through D, and we can do three, A and          <PAUSE DUR=":06" ></PAUSE>          no it just says, how is_ um          <PAUSE DUR=":04" ></PAUSE>          yeah it's just A though maybe we should put that off cuz it's hardly any of the problem. so Nancy and, Linus, uh we were asked again the M-R-Ss again the contract curve, compute the common om- M-R-Ss, so we could do, A through C on four, and then, did we want to assign some of the workbook as well? we've got one two five and six, in the workbook... please          <PAUSE DUR=":44" ></PAUSE>          so what you got down there?          <PAUSE DUR=":09" ></PAUSE>          right but we can go through B without getting to it?          <PAUSE DUR=":07" ></PAUSE>          one A and B and then two we can do the whole thing.          <PAUSE DUR=":06" ></PAUSE>          five we can't do anything the way it's written          <PAUSE DUR=":11" ></PAUSE>          uh six is just talking, so six we can have          <PAUSE DUR=":10" ></PAUSE>          so one, two on the, assignment A through D four A through C, workbook one A and B two and six and then say, the rest um, highly recommended means assigned, and the rest for          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          Thursday. what's your afternoon like? after class.          <PAUSE DUR=":05" ></PAUSE>          i just need probably ten fifteen minutes.          <PAUSE DUR=":07" ></PAUSE>          okay. okay cuz there's just a couple things i wanted to_ i read through your comments, and there's just a couple things i wanted to talk to you. okay? yes we'll write it up and anyone not in class_ a- actually it should be okay because, it's Tuesday so they'll be in class and then we can put up again just, leaf back to it and put it up again, before the quiz so they should all see it.          <PAUSE DUR=":05" ></PAUSE>          okay? see you at one, bye.        </U1>
+       <PAUSE DUR=":19" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Nan? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hi it's your office hours right now          <OVERLAP1> right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          nobody's here          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> come </OVERLAP1>
+          on in. i'll be right with you.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um, how are you doing Silvi?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> pardon me? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> how are you doing? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh i'm okay, how 'bout you? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh keeping busy. um, lemme just brush this up and we'll be fine.          <PAUSE DUR=":21" ></PAUSE>          there were some students here, earlier.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh were there?          <OVERLAP1> they </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> there </OVERLAP1>
+          weren't many though. they haven't figured this, out this term.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so when you um </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> excuse me do you have, a um, directory for the campus? i'm looking for a guy named Joe Krachek in the high C highly interactive, computer technology group, so far i've been to every building (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i don't think you're in the right building.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> no i </OVERLAP1>
+          don't think i am either, but she said across the way i was over in the Education Building        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> the scho- the Business School? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no wh- i've been there, i've been to the Social Work </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> have you been to the Business School there? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah i started there. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          i don't know.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> let me see, (xx) </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> (i don't think it's in here) and that's all i know. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no. well he used to be back over there on the first floor. and he moved          <PAUSE DUR=":05" ></PAUSE>          see if i can get (xx)          <PAUSE DUR=":17" ></PAUSE>          it says, huh. are are these, home, like          <OVERLAP1> (modem) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah this is, </OVERLAP1>
+          this is last fall.          <U2 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> this fall? </OVERLAP2>
+         </U2>
+         <OVERLAP1> so where? </OVERLAP1>
+         <U2 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> no? </OVERLAP2>
+         </U2>
+         <OVERLAP1> no </OVERLAP1>
+          it's a year old.          <U2 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh. </U2>
+          where is it?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> they've got twelve twenty-one A S-E-B. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so that's School of Education. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> bu- yeah they're not there now. i know that, cuz his hi- his room number's fourteen, fifteen. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uh, i have no idea what happened. would somebody in the School of Education know cuz they were in that building? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> they sent me over here.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> wrong building. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i mean they sent me across the way, shit.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> do you think he might have the same phone number? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't know. can we try it? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah. what is it? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh, zero one two, seven four one nine. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> can you reach it? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah sure... nope he doesn't. uh, let's see if they've got, how about like, units like th- the          <OVERLAP1> group? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> that's </OVERLAP1>
+          all i have. you might check with the department office          <OVERLAP1> upstairs </OVERLAP1>
+         <U2 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> where's that? </OVERLAP2>
+         </U2>
+          in two-thirty-eight and see          <OVERLAP1> if anyone up there </OVERLAP1>
+         <U2 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay thank you. </OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          knows anything.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what is this building? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> this is Lorch Hall.          <U2 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> this is </OVERLAP1>
+          the economics          <OVERLAP1> department. </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> economics </OVERLAP1>
+          department. thank you.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          okay        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          alright i have lots of really, i m- i can do homework assignments mostly          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> (in the book,) </OVERLAP1>
+          but it's to like grasp the concepts, i don't know, like when there's not numbers in 'em you know like the, say income offer curve, if you don't have exact numbers, it's just, giving me a little bit of trouble but,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> so you wanna work through one of 'em? sure. </OVERLAP2>
+         </U2>
+         <OVERLAP1> (the reason why i'm) asking (xx) questions </OVERLAP1>
+          well, let me just start with this one, like what if you have perfect substitutes and P-one equals P-two?          <OVERLAP1> what would the income offer curve look like? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> oh tough question. </OVERLAP1>
+          tough question. okay so we've          <OVERLAP1> got perfect substitutes, </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i mean i know what it looks like </OVERLAP2>
+         </U2>
+          and,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> P-one equals </U2>
+          they're one for one perfect          <OVERLAP1> substitutes? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> right </OVERLAP1>
+          so it's on the budget line.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and so there's indifference curves... and there's, my shifting budget lines... </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so it's just like a bunch of,          <OVERLAP1> lines? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          it's the whole thing.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's the whole thing            <EVENT DESC="LAUGH"></EVENT>           <OVERLAP2> alright. </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's the </OVERLAP1>
+          whole space there is no, line.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay yeah,          <EVENT DESC="LAUGH"></EVENT>          alright that makes sense. alright and, main, kind of preferences i'm having trouble with are quasi-linear.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          well let me_ okay (xx)          <PAUSE DUR=":04" ></PAUSE>          (xx) okay. how do you know when this i- this point is where it goes there?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> well you know, when you have quasi-linear preferences that the, tangency equation will let you solve directly for your optimal amount of X-one </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> unless, it goes negative and then it's          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          so that's exactly when that is.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> this is            <OVERLAP2> hard </OVERLAP2>
+         </U2>
+         <OVERLAP1> right </OVERLAP1>
+          here is your optimal amount of X-one,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and the income corresponding to that, if if i mean if that's sixteen and they each cost a dollar, it's P-one X-one or just, sixteen        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so why is there no income offer curve? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i- because it's a typo. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, that's what was totally confusing me. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> let's try doing that. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay thanks.          <EVENT DESC="LAUGH"></EVENT>          and um        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> see you're in better shape than you thought right? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no,          <EVENT DESC="LAUGH"></EVENT>          i don't know.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> cuz th- this section corresponds to </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) and th- what is that M over P-one or something like that?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          okay. and, okay let's go to um          <PAUSE DUR=":10" ></PAUSE>          okay what about, what if the prices X-two is greater, or P-o- P-two is less than P-one?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> then you're up here </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well what about for this income offer curve? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> then it would just be, only X-two.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          so it would be that, there should really be a,          <OVERLAP1> dot here. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> dot there </OVERLAP1>
+          okay. and then          <PAUSE DUR=":04" ></PAUSE>          and so i don't really, get that. why don't you demand, more of X-two? and        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> because it's not getting cheaper. so if you can buy ten units of X-two, </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh this is with the price of X-one change. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay.          <EVENT DESC="LAUGH"></EVENT>          alright. and, uh, what if, this is back to this kind of thing again,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          what if you have P-one equals P-two... to start out with, and you have perfect substitutes um, what if it changes to P-o- i know like the, if it changes from P-one is less than P-two to P-one is greater than          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> P-two </OVERLAP1>
+          i know the sw- they switch boundaries or whatever,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          this is one of those income, effect and substitution kind of questions um, what if you start out with, one of these, solutions and then, you go from,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> hard </OVERLAP1>
+          question.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> one is greater            <OVERLAP2> then (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> where </OVERLAP1>
+          where are we going to start out consuming both goods on one of these? and then the price changes?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i guess yeah but yeah          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (there's an) </OVERLAP1>
+          income and substitution effect.          <OVERLAP1> hard question. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> alright (xx) </OVERLAP1>
+          but what about_ so if it's if it's at one of these boundary, ones then it's just, then it stays on this side then it's just the, income effect          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> right? </OVERLAP1>
+          okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm i had um, a question on an exam, many_ several years ago, and, you couldn't answer it, in the case of um, perfect substitutes with a budget line having the same slope, exactly the same slope as, the indifference curves. and i had a student during the exam ask me about that.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh yeah </U2>
+          and he uh, boy he aced that class not only that he went to Stanford he transferred.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          that's a good qu- question but what what happens if you have um, an initial situation, and let's see if the consumers_ here so this is the original choice.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and then, this is blue is budget... so good one gets, cheaper, and the consumer moves, out here. right?          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          so then you say what part of_ that's our C what part of the change in demand is due to the income and what part's due to the substitution effect? so you take the, new slope, through the, original, choice right?          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right... okay </U2>
+          and where's the best choice?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well,          <EVENT DESC="LAUGH"></EVENT>          oh right here.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right here so i put my, B there, A to B is,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> substitution </U2>
+          B to C is,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> income effect            <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's </OVERLAP1>
+          both,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> huh? </U2>
+          there's both there        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay yeah, that makes sense </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> if you're consuming both goods, initially. and that is a, exception if you stay on the same boundary, all income if you switch boundaries,          <OVERLAP1> (also a substitution) </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay, </OVERLAP2>
+            that makes sense, okay            <OVERLAP2> and </OVERLAP2>
+         </U2>
+         <OVERLAP1> this </OVERLAP1>
+          would make a very hard question.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and the other one is what if you're on, a bump? okay it says in here that, the, quasi-linear preferences,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          i don't know where it is in here but it says that, no matter what it's all, income_ or substitution_ there's no substitution effect right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> that's all, substitution effect          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh it is i don't remember, </OVERLAP1>
+          yeah that's probably what it says but what if you start out on one of those?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> on the angle then there's an income effect,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          no substitution effect, opposite.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. cuz it just_ the book made it sound like it was all          <EVENT DESC="PHONE RINGS"></EVENT>          (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right so that has to be you have to qualify that, with the fact that you're in this part.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          i mean th- uh there's some times in the book where you do have to qualify things.          <EVENT DESC="PHONE CONVERSATION NEXT 3:38"></EVENT>          hello this is Nan Gaston. yes. Russell was trying to get a hold of you, about the car. you what? are you at work? good idea.          <PAUSE DUR=":14" ></PAUSE>          hi. i i cannot tell you what number is on that, but i can tell you what the policy is, and they might have it by your social security number. um well wait a second... the policy... you still feeling bad?          <PAUSE DUR=":05" ></PAUSE>          it might be allergies. um          <PAUSE DUR=":06" ></PAUSE>          well it might be mono. ready? um your member number is one two, three four five, six seven eight nine one, and it should be pro-... four five six seven eight nine one, and then there sh- there's a last number that i believe is four.          <PAUSE DUR=":04" ></PAUSE>          no. it's the same as mine but mine's one dad's two yours is Russell's is three yours is four. and you want to call Briarwood family practice, it's nine nine eight          <PAUSE DUR=":05" ></PAUSE>         <EVENT DESC="BACKGROUND CONVERSATION NEXT 1:00"></EVENT>          green.          <PAUSE DUR=":05" ></PAUSE>          yeah... no it's covered.          <PAUSE DUR=":07" ></PAUSE>          well K-Mart should have you on file, with our credit c- bring it to K-Mart. well take it away from them and bring it to K-Mart because, i have, because we are on file there. Maple Village. either that our you have to get the, card which i have and you probably don't have. i would think so you can call them and ask. or ask if they can get the info from me.          <PAUSE DUR=":05" ></PAUSE>          that's it... what? it's called M-Care... and you need to go to the doctor.          <PAUSE DUR=":04" ></PAUSE>          where? yes... the, Briarwood should have your hospital number. okay? and you should go to the doctor if you're not feeling good. dad's home. yep, he broke his foot. yep, he stepped on a black walnut.          <EVENT DESC="LAUGH"></EVENT>          no with tennis shoes on. but uh, you need to get to the doctor and, uh get a hold of Russell. six weeks. yeah,          <EVENT DESC="LAUGH"></EVENT>          yep... i don't know.          <PAUSE DUR=":05" ></PAUSE>          i don't think so... talk to you later, bye.        </U1>
+       <EVENT DESC="BACKGROUND CONVERSATION"></EVENT>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what did you guys already talk about? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> lots of different things,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> um </OVERLAP1>
+          what are you going to ask her about?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh just the practice exam. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay i was gonna do that in a minute so.          <EVENT WHO="S5" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          a lot of this stuff through the homework.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is it?          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          is it pretty easy?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no i wouldn't call it easy.          <EVENT DESC="LAUGH"></EVENT>         <EVENT DUR=":25" DESC="UNINTELLIGABLE SPEECH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know, for this one no that's later and i, it hasn't even come up yet. the other one (xx) probably have to. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i know. </U1>
+       <EVENT DESC="BACKGROUND CONVERSATION ENDS"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay. (we're gonna start) hey i've got a crowd why don't you, grab a chair and join us. your name is? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Kimberly. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> Kimberly and you're? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> Janki </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> Janki.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> yeah. </U2>
+          (xx) there's a chair over there.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+         <OVERLAP1> i've got one more over here that i can bring. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> here i'll switch chairs. </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay looking at workbook, things, (xx)          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> you're going to go around </OVERLAP2>
+         </U2>
+         <OVERLAP1> rotate </OVERLAP1>
+          rotate that's what i can do go around_ did you get that what i was talking about on the          <OVERLAP1> slope? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          i did.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay.          <OVERLAP1> you have (one of) the old exams? </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay i have a question </OVERLAP1>
+          yeah. from the first one,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          number thirteen. cuz i thought it was just like the, mama bear problem        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> it is just like the mama bear problem uh um why don't you grab a chair somewhere, Matt and join us.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and            <OVERLAP2> the </OVERLAP2>
+         </U2>
+         <OVERLAP1> this is </OVERLAP1>
+          the first day i've had people in office hours this is exciting.        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we're scared. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i mean i mean more than,          <OVERLAP1> Matt's come </OVERLAP1>
+         <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> alright </OVERLAP2>
+         </U2>
+          before but more than i didn't mean          <OVERLAP1> people i said peop- instead of a person. </OVERLAP1>
+         <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah yeah yeah whatever whatever </OVERLAP2>
+         </U2>
+         <EVENT WHO="SS" DESC="LAUGH"></EVENT>          i've had a person before.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay um, so i set up their, the different people's,          <OVERLAP1> preferences </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+          and then, uh i came up with A because if, Charlie, Charlie wants milk chocolate to win. (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> this is a, a hard question. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh is it? okay. i don't understand </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay. the key is that they're sophisticated voters.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay so </U2>
+          so if Charlie wants milk chocolate to win and you said he would pick what?          <OVERLAP1> light dark and then milk </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i said that he would, </OVERLAP1>
+          right.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so watch what happens if light goes against dark,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and then, the winner goes against milk, and what we figure is Charlie likes milk best and that's gonna win.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right. </U2>
+          but light against dark light against dark light against dark the problem is, that, person A, Abbey likes milk least,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and Abbey's gonna realize, this and vote in a sophisticated way, so instead of voting for light on the first round he'll vote for dark.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so, dark against light, dark wins, um dark wins dark wins.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          then dark goes against milk, dark against milk dark against milk and dark wins, and Charlie's just gotten this last.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U2>
+          so, the, one w- with sophisticated voting the person who's going to get their worst outcome,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          will vote, wrong on the first election.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay who's going to get their worst          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> outcome </OVERLAP1>
+          okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so this isn't going to work but if you look at, i mean what i would do is run through the three here,          <EVENT DESC="LAUGH"></EVENT>          um or we could figure it out by going backwards          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> if we </OVERLAP1>
+          do milk against light, so milk against light milk against light, um you would think milk would win, and then milk against dark you would think that dark would win and then you say but Charlie gets his worst.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so Charlie could          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> throw </OVERLAP1>
+          it and get his second so that's not a good answer.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          milk against, dark, um milk dark milk dark, dark wins, dark wins dark against, light, dark light, so it looks like light wins, so person B gets his worst so he's gonna throw the election. let's try this one more time.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uh </U2>
+          so this is with the sophisticated?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> with sophisticated.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so milk dark milk dark, but person B is gonna throw it,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          milk is gonna win.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay            <OVERLAP2> an- </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          milk against light milk,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> will win </U2>
+          will win,          <OVERLAP1> so the answer's C. </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh, </OVERLAP1>
+          that's really (deep.)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yes.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wow </U2>
+          that was about one of the harder questions on that          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> exam, </OVERLAP1>
+          and the funny thing is that everyone just raced over it and said oh this is easy.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i know i was like this is like mama bear, i          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> know </OVERLAP1>
+          this one.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and it is but it's the sophisticated,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay,            <OVERLAP2> thank you. </OVERLAP2>
+         </U2>
+         <OVERLAP1> voting, </OVERLAP1>
+          which is why it's hard... (xx)        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> oh i had a question about the angle curves          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          three G.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> like what are we doing with them? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> yeah... cuz i understand we did that Twinkie one before that right?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> correct </OVERLAP2>
+         </U2>
+         <OVERLAP1> for </OVERLAP1>
+          angle curves, but this is the one with, i don't have        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> angle curve on, this.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> yeah </U2>
+          so, what do you see is_ the on- the only thing we can know because we don't really have numbers to go with this,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> uhuh </U2>
+          is what's going on when income goes up        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay, and you don't have to j- go by numbers you just draw a sketch that          <OVERLAP1> you </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> right. </OVERLAP1>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay </U2>
+          exactly.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay </U2>
+          so all we can see here is when income goes up, from, F to C the consumers wants,          <OVERLAP1> more </OVERLAP1>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ">           <OVERLAP2> less uh </OVERLAP2>
+         </U2>
+          uh less sorry          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay </U2>
+          okay          <EVENT DESC="LAUGH"></EVENT>          it was going o- i'm looking upside down.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> alright            <EVENT DESC="LAUGH"></EVENT>         </U2>
+          i should look right side up.          <EVENT WHO="S8" DESC="LAUGH"></EVENT>          the consumer wants less meaning, backward bending,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ">           <OVERLAP2> (xx) curve </OVERLAP2>
+         </U2>
+         <OVERLAP1> angle curve </OVERLAP1>
+          and that's all we can say here.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay and you can do one for X and one for, Y angle curves separately          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> exactly </OVERLAP2>
+         </U2>
+         <OVERLAP1> income </OVERLAP1>
+          versus        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and then          <OVERLAP1> if you're looking, </OVERLAP1>
+         <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> Y would give you positive </OVERLAP2>
+         </U2>
+          if you're looking at Y exactly          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ">           <OVERLAP2> positive </OVERLAP2>
+         </U2>
+         <OVERLAP1> it goes </OVERLAP1>
+          up so it would be sloped positively          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> exactly. </OVERLAP1>
+          if you're looking at X it goes, downward. but we can't know anything concrete here. Matt then we'll come back to Silvi. go around the circle.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay (it was actually) (xx) but i was just curious like could you explain the when you have a backward, why when you get an inferior good do you get a backward bending, angle curve? i know </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> hold on (when you get an inferior)          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) i it's part of the lecture i was reading over the lecture stuff and i (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> good you, good, meaning a positively </OVERLAP1>
+          sloped demand or a backward bending supply which are you talking          <OVERLAP1> about? </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> backward </OVERLAP1>
+          bending supply.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay. when you have a normal good you could get, a backward bending, supply. so what we need look at to begin with, is an endowment model or we can't, understand that. so here's the endowment, and let's say the consumer's original choice is here. so what's the consumer doing?          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> they're gonna sell X-one but            <OVERLAP2> X-two </OVERLAP2>
+         </U2>
+         <OVERLAP1> selling X-one </OVERLAP1>
+         <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          let's make the price of good one go up... okay, and what if the consumer goes to there. whoops that's not a very good color is it?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so could i just ask a quick question          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> while we're </OVERLAP1>
+          on          <OVERLAP1></OVERLAP1>
+          this one? is it true that if the price of a good goes up and they're selling beforehand then no matter what sell afterwards?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> correct.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um because of, this stuff is, worse.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh yeah that's right </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay. so what if they go to there?          <PAUSE DUR=":04" ></PAUSE>          notice what i've shown, is initially the consumer was selling this much stuff, after the price increase the consumer sells, less. and i can draw indifference curves perfectly, consistent if i wanted to, for that story. so the question is how can we understand that this consumer's better off selling still, than selling less. and the answer is, we have to look at, a different color, income and substitution effect. so you have to draw a line through the original, choice at the, new, slope. and what we can clearly see is that cuts the indifference curve so better stuff is, here. so substitution effect goes in the anticipated direction, prices up sell, more... but because this consumer's richer, because you're selling something and it goes up selling even the same amount you'd be richer. um, it's a normal good the consumer wants to consume more as well.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mm </U2>
+          so income effect says i want more of good X, substitution effect says less, income effect says, more, income effect wins,          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> backward </OVERLAP1>
+          bending, supply.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay so which income effect is that? (like i totally)          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> it's the combined income effect. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay so but one goes up and one goes down. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> um, w- yeah we're only ever looking at the combined income effect.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well w- how do you get the combined income? i mean </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uh y- y- substitution effect says draw a line, through the original choice,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          as soon as you have this you've got the divider between the income and substitution effect. so income effect is        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is always, okay so the difference between the two is always the rest of this. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah the rest of it. so pivot is substitution shift is income.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, alright </U2>
+          and here income is going, up because you're selling a good and it's price goes, up. and, here the income effect, wins in, size.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so what does that say about, that but this is a, a normal good then.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> correct </U2>
+          so is that saying that one of the income effects is outweighing the other one.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> too? </OVERLAP1>
+          or, can you say that?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> wh- well what, first of all what you can say is to get a backward bending, supply curve it must be a normal good,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          because if it's an inferior good, increases in income would drive us, over here, selling still more,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          so the only way you get this, opposite in direction, income and substitution effect is if,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you want to consume more </U2>
+          you have, a normal good. uh if you're selling, the good as price goes up, you can, choose to sell, less but still sell.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what about with perfect complements? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> perfect complements. okay what would happen? one for one?          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          one for one L-shaped indifference curves, uh, consumer is, selling, so does that picture look good?          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          good gets more expensive, good one the selling good, move to here, that's my final choice, the income substitution effect we don't even have to look at it substitution effect is zero which effect wins?          <U2 WHO="SS" NSS="NS" ROLE="SU" SEX="U" AGE="0" RESTRICT="NONE"> income? </U2>
+          income. this is B, income wins, and as a result of the, increase in price, the consumer initially was selling that much,          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> selling more </U2>
+          now is selling, less.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so, those always have backward bending supply curves? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) substitution effect. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> if the substitution effect is zero you will get, backward bending supply yes. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> with the income effect there's no, ba- excuse me with perfect substitutes there's no, income effect? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> depends. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what's it depend on?          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> it depends on the price change.          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          if you are, if you s- if if after the price change you're on the same boundary, then it's only, income effect. but if after the price change you switch boundaries, then it's only substitution effect.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> but it's gonna be on one of the other (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> as long as you s- you're on a boundary yes. (so that sort of) answers the questions you have right?          <EVENT DESC="LAUGH"></EVENT>          okay that can do for Matt. okay Silvi.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          she gives me the hard theory questions.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) that was about the last one i had um, w-... okay i guess i have one more question, we're not asking questions about Edgeworth boxes are we today? </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> you can if you want          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well i'll just            <OVERLAP2> ask later </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's </OVERLAP1>
+          not in the quiz today though          <OVERLAP1> (you know that) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i know it's not </OVERLAP1>
+          but, okay. he said on, page twenty-nine in the course pack that, you go north and the indifference curve flattens out then X is inferior, then X-one is inferior        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> do you have your course pack          <OVERLAP1> with you? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          i just can't see in this picture at all, what he means by flattens out...        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> (xx) thank you my coursepack walked away i have to get a new one.          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE"> what page is it? </U2>
+          so if you go north        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah he says i- when you go north on the indifferen- okay, if          <EVENT DESC="LAUGH"></EVENT>          you go north on the indifference curve and it flattens out, then you know that X-one is inferior.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> if you're go north and it flattens out so what he's saying is, if you_ here let's see if i can draw this. so i'm looking at going north first of all so that's going north.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> right? </OVERLAP1>
+          and, let's suppose, just to make life easy the original choice was here.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          but suppose going up, that, the, indifference curve is, flatter, at that point.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh so with the next intersection? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right so going up, s- s- so they don't cross, um going up, </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay i was thinking he meant on the indifference curve that's why i was, so confused. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> no he means going s-          <OVERLAP1> this way. </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> straight up </OVERLAP2>
+            okay          </U2>
+          so in other words when you look at higher income,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> and then </OVERLAP2>
+         </U2>
+         <OVERLAP1> a tangency </OVERLAP1>
+          would have to be more like, here.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> if it was normal. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and then by definition it's not, normal because income goes up consumption of good one just went,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay </U2>
+          down.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright </U2>
+          but what he's saying is moving          <OVERLAP1> along </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> directly </OVERLAP2>
+         </U2>
+          directly north, meaning what would happen if income went up to, a tangency, the indifference curve's flatter when you get across the budget line in a way that, better is,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay i see </U2>
+          backwards...          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright </U2>
+          okay.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have a question on twenty-six. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay get your course pack back, before i steal it.          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright </U2>
+          um, has the utility function Cobb-Douglas and has the endowment twenty forty so endowment is equal to twenty comma forty, and utility is equal to X-one X-two okay. question says, she could sell one to get more of the other, she's a net seller for any price above some P-star and is a net buyer for any price below some P-star and what is P-star...? so, what are we what are we trying to find?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the price where she's, neither a seller nor a buyer?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> exactly </OVERLAP2>
+         </U2>
+         <OVERLAP1> she just keeps </OVERLAP1>
+          her original endowment?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right. so if i look at, the endowment twenty forty so it would be a point like that,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          what would make her, want to just keep that. if she's Cobb-Douglas?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> when the price is equal to... when P-one is equal to P-two? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> or when </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          M-R-S equals P-one        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay when the M-R-S equals </OVERLAP2>
+         </U2>
+         <OVERLAP1> (it has to be,) </OVERLAP1>
+          the slope of the indifference curve would have to equal, the slope of the budget line,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          at that          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> point </OVERLAP2>
+         </U2>
+         <OVERLAP1> point. </OVERLAP1>
+          so fortunately we know the M-R-S,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          cuz it's X-two over X-one so it's, two in magnitude,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> two okay </U2>
+          so that tells us if the price ratio is two,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mm </U2>
+          then, she'd keep that. if the budget line had been flatter, she'd be, buying more          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> X. </OVERLAP1>
+          had the budget line been, steeper she'd be, selling X.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U2>
+          these are_ a lot of these questions it's really, about understanding_ i mean that one if i explain it to you it's a real simple question          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          it's about, understanding,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what the            <OVERLAP2> question's asking </OVERLAP2>
+         </U2>
+         <OVERLAP1> how the graph </OVERLAP1>
+          fits to the question yeah.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> um okay i was wondering about this point rationing.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          (xx) how um, (xx) fixed points that are, fixed point constraint, okay i don't know what this line is right here.          <OVERLAP1> this dashed line </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> that line </OVERLAP1>
+          is, an income offer, curve, um th- that really doesn't, exist because we're not changing, the point constraint,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay </U2>
+          but it's saying suppose we, look at the tangency to this line,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay </U2>
+          and then think about what would happen if income were to go up or down. that's what it would be.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> oh okay. but it's actually, this line.          <OVERLAP1> there's no_ okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> right, </OVERLAP1>
+          but cuz we're never changing the amount of coupons that anyone has.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay </U2>
+          so, we need this point when the coupon constraints binding that's the best point, but the other points along it aren't gonna tell us, anything.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay. okay </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you can skip around cuz (xx)          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          she got my last one with her other question.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) i completely don't get that but i don't have any other,          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          questions.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          you completely don't get what?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that whole graph right there.          <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ">         <OVERLAP1> it's </OVERLAP1>
+          a hard graph i don't        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay what it's showing. is we've got two constraints. so i'll do one in black, and the other in red. okay? and then what we're doing is we're wondering what happens, when, the red constraint goes up and down. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> so in terms of like food coupons how would these two constraints </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> one's </OVERLAP1>
+          (where the)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> so </OVERLAP1>
+          everyone has different cash          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> income, </OVERLAP1>
+          and the same amount of coupons.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay. okay. </U2>
+          so if we look at, very, poor people, they'd be consuming, here. and i could draw the, what happens when income, goes up income offer curve for Cobb-Douglas and it would look like that.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          but the problem is, that these points are perfectly attainable, as your income goes up up up up up,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> till you reach that </U2>
+          till you reach that. and          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mm </OVERLAP2>
+         </U2>
+         <OVERLAP1> then and then you </OVERLAP1>
+          can't, you don't have more coupons so you can't, go out along that line.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right okay </U2>
+          and we can understand when somebody has a ton, of income, like their budget line's all the way up here, that this is a best choice because they're now tangent to the coupon constraint.          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mm </U2>
+          so the parts of the picture that are that are easy, are there to there, and here.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          the hard part, is that it goes here as income goes up. and the reason is that there, isn't a tangency any more. um if we blow up if i try and blow up, part of the picture, this is the hard one, okay so s- i wanna get somebody in here. so if i look at, let's say this point, on that slope looks different it's minus one-third, this slope is, minus, now that's really bad.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          okay. let's try this again. so i wanna have, that slope and i wanna have, this slope. now what would have happened here is there, what would have happened here is, there. so i'm getting right, in here, and the budget set is now on the red line, uh black line and everywhere underneath. and the question is, what do i know about, indifference curves? i know, if i drew something here with a slope of minus one, that i'd have, a tangency. so, clearly, clearly if i consider this point clearly better stuff is over, here.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and i know if i look at, this point, i'd have, a tangency, but it's clearly unattainable. so moving, along the coupon budget line we're getting better off moving this way, um this point is unattainable, and if i look at, this point, we'd have a cut, again, it would cut the uh, i drew these right, it would would cut underneath, that line, but in an unattainable, region, would also cut the red line but in, an unattainable, region so the best, choice is at, the kink of this budget set,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          instead of at a tangency. and that's what's going on when income's going up up up up, best choices are kinks, because the budget set is kinked,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and not a tangency.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so,          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what is what </U2>
+          so to solve, this point you would just set the two equations equal to each other?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> solve this point, you'd have, the tangency equation plus the coupon, equation. to solve any of these points you'd have a tangency to the red line equation plus the, red line equation. but any of these points, are just the intersection of the two budget lines. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm, so you wouldn't do the slopes? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> wouldn't do the slopes. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do the equations          <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> mhm </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> so these are all the kinks. (right?)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> correct. </U2>
+          okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> but as the budget set's getting bigger so the red line is moving out, the kink would, move, you know it woulda been here then it would be here then it would be here and then finally the kink doesn't, matter anymore because you have so much income that you're constrained, only by, the coupon constraint.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> okay </U2>
+         <PAUSE DUR=":06" ></PAUSE>          pretty picture?          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <PAUSE DUR=":10" ></PAUSE>          does that make sense Silvi?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          it makes sense i just don't know what i'm doing        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> you just have to work the (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay i have a question, i don't have my workbook with me but it was one of the homework problems from the demand section, it was where (xx) no wai- wai- substitution effects.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          and they would ask you like, like there would be a point where you would stop buying X-one and all of it would go to X-two all the extra income would go to X-two          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (quasi-linear.) </OVERLAP2>
+         </U2>
+         <OVERLAP1> n- </OVERLAP1>
+          right i didn't understand that. like when it's only dependent on one variable, like that wasn't clear to me.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay so supposing (you have) this old Ambrose utility function.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay mhm </U2>
+          and, price will (xx) P-one equals one P-two equals, two. okay so if i think about the picture, first thing i think with Ambrose is, indifference curve budget line and the choice should look like that. right? so i should get a, unique best choice it should be an interior solution.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and, if i solve this, okay M-E-one,        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh it's, one over, okay (xx) will be, four over, radical-X? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah except it's one-half times four so it's two. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> two oh you're right okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and then the M-E-two is,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> one </U2>
+          one so that falls out, um, and what i do for the tangency equation is set this equal to the price ratio which is just one-half.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and what i can see is the, a- a- algebra that normally has two variables in here has one, variable,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and it's says, multiplying the square root of X-one is, four or X-one is squared (xx) sixteen,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so i go oh X-one is always sixteen.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and that's my answer.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay          <OVERLAP1> so </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (so i can) </OVERLAP2>
+         </U2>
+          after he buys sixteen, he won't buy anymore.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> correct </U2>
+          okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> the problem is when his income falls so low that he can't buy, sixteen. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so he doesn't buy any X-two. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> then he buys only X-one. and it moves along here.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so that's my income, offer curve, and this would be sixteen and we better label my axes X-one and X-two, i could convert that to an angle curve for either one of the goods, if i had the space, um, if i were doing X-one, says, he spends only, money on X-one till he has,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> sixteen </U2>
+          sixteen units and          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> it would just be, vertical </OVERLAP2>
+         </U2>
+         <OVERLAP1> that costs him, </OVERLAP1>
+          sixteen dollars          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mm okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then it would be, vertical. </OVERLAP1>
+          X-two, i shouldn't do these on the same graph but i'm going to cuz i'm out of space. um he spends no money on X-two until he,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> has sixteen </U2>
+          and then every          <OVERLAP1> extra, dollar, (xx) </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> all of it, just because, oh it would be </OVERLAP2>
+         </U2>
+          when he has eighteen he can buy one so, we'd have a slope of two.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's so easy when you explain it.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> that's the problem with this course i mean          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          you lear- you don't learn it_ that's what i mean about you have to do it          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> until </OVERLAP1>
+          it's really, second nature to you cuz you can't learn it watching, me you've got to          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> work </OVERLAP1>
+          through it and really, pick up a lot of the fine points... if you put me back in the course i (must've passed it.)          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          other questions?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> Matt </U2>
+          can you go over_ i didn't understand the book's explanation of Hicks versus, Slutsky (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay. so what we're talking about is you're consuming something the price changes and, what um, (sorry can i,) and what, happens. um first of all the consumer, should be compensated, in some way for that price, change. how do we compensate them? the idea is we should compensate them to leave real income, constant. or purchasing power constant. so then there's a difference in definition. Slutsky says, give them cash to give them back, their original, choice. Hicks says give 'em cash to give them back their original, utility. so, if we were drawing, something, so this is good one good two, uh here's a budget line, want good one to get cheaper?          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah            <OVERLAP2> sure </OVERLAP2>
+         </U2>
+         <OVERLAP1> more </OVERLAP1>
+          expensive anything? okay. so suppose this is your original, choice, and this is your new choice clearly, better off, uh how do we compensate? Slutsky says, at the new prices you should be able to buy your original, bundle. so notice the Slutsky compensation puts you on a higher, indifference curve. Hicks says, at the so this is S for Slutsky. Slutsky. Hicks says, at the new prices give you back your original utility, so i'd be looking for a, point on the original indifference curve, tangent... at the new, slope. so Hicks would let you, still move towards consuming more good one, but, only,          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> along the indifference curve </U2>
+          along the original, indifference curve. so, this the um, here what we're doing is because the price fell we're actually taking money away we're not compensating you for a price increase at all we're taking money away because the price, went down, and you can see that Hicks is taking more money, away, leaving you, worse off than Slutsky would. if we talk about, a price, increase, it goes the other way, so, if here's the original choice, and here's the new, choice, um Slutsky would, give you, this much, um, cash and Hicks would recognize, would correctly recognize, but that can, give you many better, bundles, increasing your utility, and we don't wanna increase your t- utility we wanna leave it, the same, smaller, compensation. so Slutsky always lets you get, to, a higher, indifference curve because you're not pegged on the original indifference curve you're pegged on the original bundle, but you may not choose that same bundle, once the price ratio changes.          <PAUSE DUR=":04" ></PAUSE>         <OVERLAP1> good? </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (so it's the) </OVERLAP1>
+          yeah.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but what if the price goes down, or the price goes up for, good one then, Slutsky's, taking away more money? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so price_ this is what i did here so price went up for good one,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          which means give money, back,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the the okay </U2>
+          so Slutsky gives you, enough money to buy what you bought before, so the red is Slutsky again. which gives you higher,          <OVERLAP1> utility. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but what if </OVERLAP1>
+          the price went up for X-one though?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> that's what i did here.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh that is up okay </U2>
+          yeah cuz the budget set just,          <OVERLAP1> shrank. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh okay </OVERLAP1>
+          i see, okay.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE"> (it's) steeper. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah got steeper. it but Hicks would, only allow you, to get your original utility back so you'd be getting less cash.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          but here this was the one we did in class this was different cuz that_ we let price, fall and they both compensate differently but here they're taking away money so Hicks is actually taking away more,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> money </OVERLAP1>
+          because of your good fortune with the price, getting cheaper. but in both cases, Slutsky's letting you be better, off than the Hicks,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          compensation or won't be worse off, for sure.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright. </U2>
+          (you've) seen me draw a lot of pretty pictures (xx)        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> um </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> what (xx) mm </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh yeah you were gonna tell us what's on the quiz today. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right right right it could be anything from chapter,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          five six, eight nine. how's that?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay, thanks, you've cleared that up </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> are there gonna be any review sessions?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> for </U2>
+         <OVERLAP1> for the exam Monday? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> exam. </OVERLAP1>
+          yes. i'm doing one Friday from, three fifteen to four forty-five.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh no </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> the exam's </OVERLAP1>
+          Wednesday's right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> the exam is Tuesday. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Tuesday whatever she said Monday          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that is </OVERLAP1>
+          so terrible.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> no i have </OVERLAP1>
+          my accounting exam, at four. but we can probably come before, the accounting exam_ oh it starts at four thirty yours is, the review session is when?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> three fifteen so you can come          <EVENT DESC="LAUGH"></EVENT>          to econ review          <OVERLAP1> and then the, which accounting? </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah i'll be in my accounting mindset </OVERLAP1>
+          but, that's okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> which accounting? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh two-seventy-one. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> that's the the the tough one. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's the          <OVERLAP1> tough one really? </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that first exam </OVERLAP1>
+          was awful last year.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh please don't say that. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it was okay but,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> well you know what though </OVERLAP1>
+          there's some people who like accounting.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah it was          <OVERLAP1> okay but </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i liked </OVERLAP1>
+          calculus so, that means i'm not gonna like accounting. that's what everyone says.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh          <OVERLAP1> no because you like econ </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> because you did </OVERLAP1>
+          like calculus?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what? they say yo- you either like calculus or you like accounting you can't like them both.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          either you like          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> no </OVERLAP2>
+         </U2>
+         <OVERLAP1> have this, </OVERLAP1>
+          just don't get accounting.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i had an accounting class that i thought was a lot of fun and i liked math, but it wasn't here.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+         <EVENT WHO="SS" DESC="LAUGH"></EVENT>          so maybe that explains it.          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that would do it </U2>
+          well i've heard, four-seventy-one is really a lot of fun.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> accounting four-seventy-one? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ">         <OVERLAP1> (that's for) non-majors right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> accounting four-seventy_ </OVERLAP1>
+          it's for people who aren't going applying to the B-school.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> yeah </U2>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay. </U2>
+          and        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so wait two-seventy-one is meant for people that are </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's a it's a pre-req for the B-School. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i already took that last year. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> two-seventy-one, </OVERLAP1>
+          is is the actually, the accounting case two-seventy-one is a much more, difficult course because then four-seventy-one four-seventy-one is, i'd like to learn some accounting but don't kill me cuz i'm not going to the B-School.          <PAUSE DUR=":06" ></PAUSE>         <EVENT WHO="SS" DESC="LAUGH"></EVENT>          but some people like accounting some people take two-seventy-one and just really enjoy it.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is there any way you could like go over Edward's boxes (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> Edward's boxes what about them? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know i've just,          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          i've tried doing the homework it's a lot more difficult.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> well part of the </OVERLAP1>
+          problem is that we're not gonna assign the whole homework we're gonna assign the first part of a lot of the problems,          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh </U2>
+          because, the Edward's box itself is pretty straightforward but, there's a week's worth of material in this homework.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay wait so,          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's just </OVERLAP1>
+          this one through five those questions?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> um, these questions o- one through, five plus the other four in the workbook. are for two days. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay but what's due tomorrow?          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> what's due tomorrow. i'll announce it when i go in there. question one. in this, assignment.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          two A through D, four A through C, and then, in the workbook, one A and B two and six.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> one A and B, two and six?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          that's chapter twenty-nine right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> correct. yep... </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (okay) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE" FLANG="GUJ"> (actually) emailed me </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh okay, i we just decided what this was gonna be. i had to look at it. um but, the Edw- so what about the (Edward's?) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know i don't even (xx) the question. the first problem i was already, like, getting lost on it (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so the big thing about the Edward box is, hi come on in (xx)          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hi </U2>
+          we've got          <OVERLAP1> two, </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (you want a chair?) </OVERLAP2>
+         </U2>
+          you can share a chair.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay i'll share. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> we can take the box off that one if you want to, work          <OVERLAP1> around the mic. </OVERLAP1>
+       </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          share (a chair)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay so we got this box. and what it's representing is the total amount of good one in the economy. going this way. and the total amount of good two in the economy going, up. and what we're gonna do with it is we're gonna say we have two people both with endowments. so we'll put them at some, point here.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          and the beauty of the box is that, one point now represents four things. so person, A we could say is here, and then this looks just like chapter nine. we've got an endowment we've got a budget line we've got preferences.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay but so how do you represent different marginal rates of          <OVERLAP1> substitution? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> so </OVERLAP1>
+          marginal rate of substitution would be the slope of the indifference curve through any point, so if it's three i could, make it three.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay what if they both, what if there're two people that have different ones then? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay. then the other person_ this is how i do this. turn your paper upside down.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          the other person, now, is, here,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          with this much stuff and, that much stuff, has a budget line going through there, and we want the indifference curve to be flatter?          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> sure </U2>
+          flatter, i just did it.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mm </U2>
+          so indifference curves cross, person B is better off going, that way, person A was better off going,          <OVERLAP1> that way, </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) trade </OVERLAP2>
+         </U2>
+          so they're gonna, voluntarily go to some in between, point like that.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay is there like some inequality that you could write out that would show how they would trade? i don't know it's so_ like the first question          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> to know exactly where'd they go? you'd need to have utility functions. the first question is just a really vague, um, draw a picture where, what direction would they go? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh and would it be true for (better) okay it does- it doesn't have you say it. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> you can't answer numerically          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay that's fine. </OVERLAP2>
+         </U2>
+         <OVERLAP1> where they'd end up. </OVERLAP1>
+          to answer numerically where they'd end up you'd need to have, prices, and and the tough part of this chapter, is given utility functions we're gonna be able to figure out prices, where what one wants to buy the other wants to sell exactly that so we're gonna actually get to the equilibrium.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and that is the most challenging thing we're gonna do before the exam but we're doing it, Wednesday Thursday exam isn't until the following,          <U2 WHO="SS" NSS="NS" ROLE="SU" SEX="U" AGE="0" RESTRICT="NONE"> Tuesday </U2>
+          so you've got lots of time to work on it.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, yeah i have qu- one question          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          about the indifferent variant.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what page? it's on this uh </U2>
+          forty-two. okay here, it was just saying like okay s- mm... i was going to, my instinct was to go like that. but that's not point B. to find X-one was inferior.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> to find if X-one was inferior          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> so you </OVERLAP1>
+          want to go from from, we don't have enough lines here to look at it          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> no y- </OVERLAP2>
+         </U2>
+         <OVERLAP1> okay </OVERLAP1>
+          dashed line okay. so what you wanna do, new price, line through,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and then you wanna go from point B to point          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> C okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> C to see </OVERLAP1>
+          if it is,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> inferior right okay, so how </OVERLAP2>
+         </U2>
+         <OVERLAP1> inferior or normal. because </OVERLAP1>
+          that's the shift.        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so, if it was a price decrease this was a price increase right?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> correct </U2>
+          then um, i know from point B you draw up cuz the new line would be above it          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          for this one is it do you go down, and like that?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so if you want to look at, what happens with income exactly,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          you draw it from point B that way and that way,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and C is, a smaller amount of X-one, and a smaller amount of X-two?          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          in response to a cut,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (in X) mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> in income. </OVERLAP1>
+          so they're both normal cuz income goes down          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> and the (xx) for </OVERLAP1>
+          both of them goes down.        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">  okay. but then here it was saying something like, when good one, i, i thought that this was going with this graph but i guess not. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so that one the good got more expensive you consume less that's the          <OVERLAP1> normal, </OVERLAP1>
+       </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> normal good </OVERLAP1>
+          yeah          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> good. </U2>
+           like here (when it said) good          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> one's </OVERLAP1>
+          inferior i thought it would be          <OVERLAP1> this picture </OVERLAP1>
+         <EVENT WHO="S10" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> so that uh </OVERLAP1>
+          that's not that picture.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> i don't </OVERLAP1>
+          like that picture as a matter of fact that picture may not be there... i think that picture's not there.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          i think that's the problem. but we could look at what happens,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          we could get even more paper,        </U1>
+       <EVENT DESC="RECORDING-RELATED CONVERSATION NEXT :50"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay so what happens? price goes, up.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and the or- original choice is, there.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and what_ oh that's a bad graph for that. let's_ the original choice is, there.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay            <EVENT DESC="LAUGH"></EVENT>         </U2>
+          and what i want is a graph that gives me the final choice,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          here.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay mhm </U2>
+          because what i want is for the price to go up and the consumer to want, more. the only way i'm gonna do this... income substitution effect... substitution effect, i know is gonna move, this way.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          to a point like, B. the only way i'm gonna get a given good, is if the good is, inferior so, notice what happens here income goes down the consumer          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right more </OVERLAP2>
+         </U2>
+         <OVERLAP1> wants, </OVERLAP1>
+         <OVERLAP1> more, </OVERLAP1>
+          and on top of that it is so inferior, substitution effect, income effect, that the income effect wins.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay </U2>
+          so this is, very similar to what we did about, forty-five minutes ago, only,          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          this is how you get a demand curve that slopes, up which is very bizarre (that it) gets more,          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          expensive and in response to that you want, more of it. and it's basically it's gotta be something you don't want.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          but you're buying it because it's,          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> cheap. </OVERLAP2>
+         </U2>
+         <OVERLAP1> cheap. </OVERLAP1>
+          and you're you're poorer as, it gets more expensive. so, it's a i mean things that are, normally thought of as, given would be like kerosene for heating or,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> baloney </OVERLAP2>
+         </U2>
+         <OVERLAP1> baloney </OVERLAP1>
+         <EVENT WHO="SS" DESC="LAUGH"></EVENT>          or things that, if you think about it what as they if you're eating baloney and then it gets cheaper you might actually eat less cuz you've got more money freed up to eat something you'd like better.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so that would be a given good.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yes </U2>
+          but if you bought, the price went down, and you bought, so wait i just don't understand the difference between, inferior and given.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> a given good must be inferior. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          but,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's just way more </OVERLAP2>
+         </U2>
+         <OVERLAP1> when is_ when </OVERLAP1>
+          is an inferior good not given?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> if the, i- income effect ends up smaller in size than the substitution effect. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the opposite direction (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah still the opposite direction, but point C would be increasing. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> someone else told me this trick where you know if you draw, the line straight down over here, if, like this part of the graph it's like, between here and here it's normal between, through here it's inferior </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so if you draw a line through A, and compare A to C,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          since C is, o- on the, right side,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right okay </U2>
+          this is a given, good. if C were on, the other side it would be, a, um ordinary good.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> normal </U2>
+          ordinary cuz we're looking at given          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> it could be (inferior or normal) </OVERLAP2>
+         </U2>
+         <OVERLAP1> or, ordinary. </OVERLAP1>
+          if          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> oh okay okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> we want to see if it's, </OVERLAP1>
+          normal or inferior, you have to draw a line through B, and compare B to C.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay okay </U2>
+          so here income's falling you want more, if C's to the right we know when income falls that's inferior, if C had been to the left it would be,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> normal. okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> normal. so </OVERLAP1>
+          normal must be ordinary, because if it's over here it's also over here compared to A.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right okay </U2>
+          but to get, over, here, to this side of A it must be that it's also that side of C.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so that helps you see        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so on this side you've got normal and ordinary.          <OVERLAP1> on this side </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> so normal </OVERLAP1>
+          must be ordinary,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ordinary doesn't have to be normal </U2>
+          o- ordinary,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> and normal, or normal </OVERLAP2>
+         </U2>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> and inferior </OVERLAP2>
+         </U2>
+         <OVERLAP1> no ordinary, </OVERLAP1>
+          ordinary yeah could be inferior exactly. so in here right in here, you have the case between these two lines, that Silvi was just talking about,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          where it's um, ordinary but, inferior.          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          so if it's anywhere in here,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          it's ordinary and inferior,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          all the way out here,          <U2 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (it's given) </U2>
+          it's given and inferior        </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> here it's just, just normal. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and here it's, normal and,          <U2 WHO="SS" NSS="NS" ROLE="SU" SEX="U" AGE="0" RESTRICT="NONE">           <OVERLAP2> ordinary </OVERLAP2>
+         </U2>
+         <OVERLAP1> ordinary. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's a good drawing (xx) </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hm normal or, ordinary. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (yeah okay.) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> cuz one is describing the income and the other is describing the, price...          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U2>
+          so the good thing about having the quiz, is it gets us starting to think about the          <OVERLAP1> exam. </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> studying </OVERLAP2>
+         </U2>
+          yeah.        </U1>
+       <EVENT DESC="RECORDING-RELATED QUESTION"></EVENT>       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (just) really quick question is this a example of homothetic preferences? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but i thought, it could only be homothetic if it was g- a ray going          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> straight </OVERLAP1>
+          through the origin.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> exactly. and what we have here is is a ray going straight through the origin but the problem is there's a second constraint. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> mm </OVERLAP1>
+       </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh, </OVERLAP1>
+          okay okay okay        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> someone can pick up the stuff out of here too so i can get to class and hand out Scantrons. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thank you </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and hopefully there's more than one person that,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          (so- take this stuff out and get to class.)        </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

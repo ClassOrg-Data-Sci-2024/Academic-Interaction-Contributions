@@ -1,0 +1,434 @@
+<TEI.2 ID="ofc105su068">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> American Culture Advising </TITLE>
+         <TITLE> Rackham Div: HA </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 8135 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> OFC105SU068 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  WARNING -- Citation of examples is restricted for one or more speakers in this transcript.  Permission to cite examples from this transcript in any presentation or publication must be obtained from the English Language Institute. </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="42">             <DATE> October 12, 1999 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Bonnie Malczewski </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Bonnie Malczewski </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Rodney Pratt </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Shannon Allen </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Shannon Allen </NAME>
+               <RESP> Final Editing, 05/19/00 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">OFC</TERM>
+ <TERM TYPE="ACADDISC">105</TERM>
+ <TERM TYPE="PARTLEVEL">SU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">HA</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="2"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="5"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="RE, Instructor, (Peter Nelson)" SEX="M" RESTRICT="CITE" AGE="3"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="SU, Student, (Naomi Bernstein)" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="JU, Student, (Karen)" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Instructor's Office, Haven Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right. here uh the clipboard. that i ga- okay there. um on the, clipboard is, what i came up with um, at three-thirty in the morning last night. uh, because, i was, sort of reading through the last chapter again where i was talking about, um, folk music and how to sort of nuance that view an- and see um, rap music and then, what i, realized then was that i want to um, explain s- sort of say, this is why they could have come under criticism this is why they were doing sort of uh making a cultural faux pas but then at the same time um, it's absolutely not surprising at all they were accepted by the, um, rap canon thing they moved on because they had not only um, talent and flow, but also um, that, um not all rap is political or has to be community-building or has to to, has to mean anything          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and the um, and even when it does, the importance of political rap becomes the message not the messenger. which is to say that if, they had been black had chosen to, um, as Chuck D puts it you know be black America's C-N-N, that um it wouldn't matter whether or not they were middle class it wouldn't matter whether or not they were um, you know they'd gone to private school what would, basically matter is uh, what was being said and and how they were saying it. um, so, i wanna split it up and, in the first part um, talk about how, sort of say, what i just said which is to say that um that, uh, rap is equally valued in i- its flow its abil- its ability to introduce uh, familiar, sounds in new and interesting ways and, how it sounds as much as it is for its, community-building, use as social protest sort of uh, yo- keeping i- the a a pulse on on black America and then, um, and then, sort of say, you know rappers are not stuck being cultural emissaries or spokespeople for the black community, rather it can be about, all the other things so then, um, what i wanna do is, follow with an analysis of the song Sure Shot,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and through, Tricia Rose's definition of flowin' and looking elsewhere in terms of what makes rap um, what makes it good on a purely sonic level explain how this song, um in specific demonstrates all these things. and how, it you know when it when it comes down to, it it's sort of like um, Wynton Marsalis who's always saying you know you can argue with me for years about the what the music means but, but then critics will sort of slam him and he'll say well let's play. let's leave it up to the music to decide. and then um, so, taking that, methodology, um, taking analysis of Sure Shot and showing how, that is, useful as opposed to something that wasn't. um, and then after that, explain how um, that, had they chosen to be_ and and, take a deeper look at, black messengers. which is to say, the um, through a short biography of Chuck D and to um, and, looking at his lyrics say, um here is authentic, political black rap. and here is um, you know you know authentic being in quotes, and um, that even when it is, strictly culturally meaningful, that uh, it, um, that the the important part there is what, the text rather than the, speaker of the text.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          does that seem, useful?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> three </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right. th- chapter two sort of sets up, um, the, how rap sort of has fit into the heavily guarded, folk being in quo- cul- in quotes uh folk culture of, of previous black musics um but then, um, chapter three i wanna sorta spend, tearing some of that down or at least complicating it with, um, with the truth which is that the truth being that you know, it doesn't matter, your background you don't even necessarily need to, um be from the street to uh, to be, accepted and understood. that yes, skin color definitely does matter          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> because </OVERLAP1>
+          of, reasons cited before like from the first          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> chapter, </OVERLAP1>
+          uh on minstrel singing and uh, and white privilege but then, but when it comes to it down to it like a- acceptance has more to do with flow and it has more to do, um, and less to do with the uh, the k- social background of the,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          of the rapper. does that make sense?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so how do i measure,          <OVERLAP1> how do i measure that? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so how do i, fix that? because i i feel as though, what i wanna, say is is talk about um, i mean certainly that there is a sort of, level of um, i mean they they still continue to sell records they still </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> c- uh, the Beastie Boys c-          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> continue to </OVERLAP1>
+          to be, successful,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> there's </OVERLAP1>
+          um, they manage to uh, stay within the rap within, uh i i mean again i hate to use the word, word rap community but what i mean is that they um A Tribe Called Quest puts out, Midnight Marauders,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and the, cover of it uh the C-D has uh, you know, every rapper they know in headphones. you know everyone from, you know people in the Wu Tang to uh to, them and the Beasties are are there right there with them. right          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> next </OVERLAP1>
+          to everybody and i mean it's, it's kind of funny because you can pick you know they're the only white faces on the disc, but um, but they're there in the same way that uh that, that Q-Tip comes and and does a guest spot on, on their record and uh, you know they win the, ninety-eight Video Vanguard Award the Michael Jackson Video Vanguard Award and          <OVERLAP1> it's presen- </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it was presented to them by Chuck D and Public Enemy.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and the rest of th- Public Enemy and you know and and Chuck D's f- publicly gets up and says you know they were with us from the beginning and,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> all that </OVERLAP1>
+          now wheth- whether or not you know that he was reading a TelePrompTer,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          or or not i i think is uh        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so, i- but i i think that like nonetheless that there's something that i'm grasping at there which is to say that they have, stuck around longer than oth- any other white rappers. they have sold more records more than any other white rappers they have um made more, f- they have more friends who rap, and rap, they have more rapper friends and they have more producer friends and they they have more ties in the, rap recording          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> industry, </OVERLAP1>
+          than any other white rapper so, i understand that's, that sort of the the word acceptance is a is dangerous territory because not everyone has liked them and it's not as though they've been, um, that they are liked everywhere they go or that they, e- everybody even thinks they're talented but at the same time, there's something there that i'm that i'm,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> struggling with not quite, </OVERLAP1>
+          getting        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah oh i c- i completely understand what i what i'm, what i'm having difficulty with then, is to um </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay is somebody at the door? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> thanks.          <EVENT WHO="S3" DESC="LEAVES"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <EVENT WHO="S4" DESC="ENTERS"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i was wondering          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          if you could just sign this        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          if you wanna give money        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, i'm taking four other classes so,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          i couldn't handle the workload        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i need you to sign </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> unless it's me </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> 'm'm </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think you have to </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thank you </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i've </OVERLAP1>
+          read him believe me        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          lots of him        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well thank you for          <OVERLAP1> everything </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thank you.          <EVENT DESC="LEAVES"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's just          <OVERLAP1> i </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          i'm having trouble with the with this, uh to step out from the          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> from this </OVERLAP1>
+          chapter for a second in terms of, um, in terms of what i'm doing and in terms of what i'm writing and how i'm going          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> about it. </OVERLAP1>
+          i'm having a lot of trouble because i sort of feel as though, um, it it's frustrating because i have these ideas and then i- like i'll i'll for example with the last chapter like i        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes. um i, like read a lot for that and then, wrote a lot and whatever and and sort of uh you know, um, you know ate and slept and r- and and          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> breathed, </OVERLAP1>
+          that and then came back and then realized that like really, it was alright but that i needed a lot,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          lot more and and sort of like with this one i'm i'm having the same trouble because          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> it's </OVERLAP1>
+          um, because i'm sort of feel like i can't,          <EVENT DESC="SIGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i i can't articulate what i'm trying to say i guess what i'm trying to, w- what i mean is that like, all of this, makes a great deal of sense to me but i always feel like, eh, almost as though what i'm trying to say, like i- is either a book,          <EVENT DESC="LAUGH"></EVENT>          or it's um, something which is so, incredibly more complicated that i couldn't get a thesis out of it.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> do you see what i'm saying? like the </OVERLAP1>
+          trying to, s-        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i- it's, it's not a question of asking too much i- it's a question of um, i- it's, and people who write about music sort of continually have to cover every base.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          you know and have to make sure that i- it's like uh, i- i- you know trying to, to protect a uh, house from the          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> um, </OVERLAP1>
+          from uh the pouring rain every, everywhere you're coming there's a new, hole sprouting up in your argument.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          you know what i mean?          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> and </OVERLAP1>
+          and so, it's difficult for me because the the, what i was saying last week about um about folk music makes a great deal of sense to me and then you know everywhere i go it's like well there's a new there's this new hole uh of, um, of you know, rappers who are actually saying, so- socially or culturally meaningful things, don't necessarily_ it doesn't matter what their background is because look at, who you know the the real guys look look at them, you know, they happen to be black but they're just as rich and they are you know they they they come from the same affluence          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and so it's like, well, okay let's deal with that. and so          <OVERLAP1> go </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> when i          <OVERLAP1> when i go back </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay. th- so </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> if i write this and then sort of, say a- a- and uh, i- i- um do you remember there's a paragraph in chapter two where i said you know i, st- sort of stepped back and said i race to to note here, that um, that when i'm talking about, you know black musics or when i'm talking about a, uh i- you know music of, or black or white America, i in no way mean to overgeneral- generalize or imply that you know all blacks are poor living in the          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> ghetto and blah blah blah </OVERLAP1>
+          there was a, part where i sort of said, what i mean to specify is, that there is a, um specific community, or a specif- specific group of people that um, that understands, this as a as a, code. and i i don't even know if i have the chapter around. but the point is is i think that that, um, the idea of, uh, a- any rap community having, contradictory, and multiple voices is is one, that i want to inclu- include and one that i wanna sort of that's another base i wanna cover or a a hole that i would like to plug with a with a few paragraphs          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          um, but at the same time, i, i mean if you look at a group like 3rd Base, you know who sort of did a a_ had a very similar,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> a gig </OVERLAP1>
+          going you know three white rappers who were um, who were, you know from the same kind of background and trying to do the same thing and they just didn't have it. for whatever reason like they they were a party band as well i think, and they uh, they just, weren't that good. and i they didn't gain, an acceptance as measured by, support by other rappers um, album sales and, uh, you know support from, the media and M-T-V and and so forth, um that the Beasties did and by that that's what i mean by, acceptance which isn't to say that there is, one opinion which said yes you're okay but i think that, that, there is a uh, there is a a, something to be said for, for all of that as a a, an approval that uh, that others haven't gotten.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> and it's </OVERLAP1>
+          an achievement.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          does that make sense?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what part doesn't? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you don't see the the commercial part as as, being indicative of anything? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> are you kidding? uh well, okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't think she's the best singer i think that </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i i think that um, the, style in which she's doing her music and the, instrumentation and and the um, the, her hispanocentrism, i think is something which is unusual, and it          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          is something which is um, to be commended. and that's what i you know          <OVERLAP1> enjoy </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> got somebody </OVERLAP1>
+          at the door        </U1>
+       <EVENT WHO="S2" DESC="LEAVES"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> great </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> should we anticipate a quiz on Thursday          <OVERLAP1> or? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you would give two quizzes in the same week? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh okay i was gonna say          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <EVENT WHO="S5" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay thank you. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> see you          <OVERLAP1> Thursday </OVERLAP1>
+         <EVENT DESC="LEAVES"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. i guess i          <OVERLAP1> sort of </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think that the Beasties, what's, what surprises me about them is though, uh that everything they've done is so good.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          not, across the board, obviously but what i mean is that uh, that i think that there's a, um, that a lot of their, success and attention, has been pretty well deserved. i mean when they they        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right but not, what i'm saying is not          <OVERLAP1> everyone gets the </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no. what i'm saying is is that not everyone gets the, the Video Vanguard Award.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> um </OVERLAP1>
+          you know the from, from M-T-V which is al- al- you know albeit a a uh,          <OVERLAP1> a </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> deeply compromised source of recognition sure but what i mean is is that uh, they do give airplay to people who are crap but at the same same time um they, you know the people who sort of, make it to the upper echelons of of their you know legendary status Madonna, uh, you know who are the people who've gotten the award? uh Madonna Michael Jackson Guns N' Roses, Tom Petty, uh, i forget a couple other people. um, but, you know these are all people who who have actually been putting out quality work that they_ it's it's not as though M-T-V wouldn't know quality if it hit 'em in the face, it's that um they amidst all this other, garbage that they're spewing out, you know twenty three hours a day, um there are people there who know what they're doing you know and and uh,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and, Kurt Loder, you know believe it or not is actually a pretty distinguished writer in in terms of some of his commentaries and and uh and, um, some of hi- his re- you know i i believe that he is aware of everything that's, you know e- exactly what kind of uh          <OVERLAP1> machines </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i disagree </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think </OVERLAP1>
+          that he, um is using the news, uh M-T-V news to uh, for his own, for his own agenda and he is sort of the uh, he's sort of the last, guy kicking and screaming for for quality in the corner and he's          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> sort of </OVERLAP1>
+          pushing everyth- you know what i mean? like they uh        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i mean i- it's sort of like if you watch um, Total Request Live versus watching uh, something, any of his special reports or any of the Rockumentaries that he used to put          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> on </OVERLAP1>
+          or or anything. the, the amount of attention the amount of intellectual space that's being taken up, is vastly different. so i i sort of feel like there,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> there is a </OVERLAP1>
+          you know, that to to say that s- um t- that, recognition by, mainstream sources, um you know getting, on the cover of Rolling Stone or Spin or or and whatever you know, would necessar- wouldn't necessarily be, a, a marker of quality at the same time, um, you can't get to the level that they've gotten to without, without uh, you know you can make it to the cover of Rolling Stone once. you can't make it to the cover of Rolling Stone more than once, and have three different Spin covered devoted to you on the same month, you know they did that, one, head on every, issue thing and um, you don't get that without, without having as they would say the skills to pay the bills. do you see what i'm saying?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> more than once? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> really? especially_ uh even in terms of of her, message and          <OVERLAP1> agenda in the music </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> just_ right but i think that the          <OVERLAP1> the </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right but Shania Twain the, codes are inextricable from her music i think. i mean you listen to, th- to to her albums and it it's not, um it's not very deeply entrenched. you see what i'm saying? you don't have to dig, very deep to to, um, you know a- and s- and so when that's, in the lyrics you can't you can't just say that like well the music's completely different from her message because the two are,          <OVERLAP1> one in the same aren't they? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> Shania's Twain songs? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="SIGH"></EVENT>          what if? i'm not following.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          you sound so much like Adorno sometimes.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          just in terms of of of, your cynicism about the pop machine. you know and and and not being related to quality and and i um, one of the things that that, i am, and i s- this is a, perhaps a discussion for another time but i sort of feel like, um, i want to, agree with that, for the most part but i also know that um, i spent, a lot of time sort of being um, a- cantankerous in in terms of not wanting to like anything that was pushed on me.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          that i would see th- you know i- if it was top forty i was not interested. um, was not interested whatsoever. and uh        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> so, </OVERLAP1>
+          aside then from, recognition of peers and, how does one_ how do i, i i mean          <OVERLAP1> i wa- </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um, okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> Dr Dre </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right. right but i'm st- the          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> earlier Dr Dre </OVERLAP1>
+          anyway. and maybe, Puffy if you        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> although that's a whole other can of worms. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright. um </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay. and now what i'm also worried about is is that uh, is just, in all honesty i am um, this has sorta ha- been my priority all semester,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and i feel like i am um, devoting        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> t- well not too much but i- i- just, proportionally too much.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          especially to to have a a draft of a of a third chapter, in the middle of October, for, y- you know for something th- that uh, that i have after October's over s- an additional six months, to have completed,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          i- it to me i- it's like um, i'm i'm just,          <OVERLAP1> really on the </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right. um </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> lemme finish this </OVERLAP1>
+          chapter, either for next Tuesday or the following. um,          <EVENT DESC="LAUGH"></EVENT>          was that on the wall? uh, for for next Tuesday or the following and then,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          um, because i, i also then the fourth chapter i had slated as sort of a history of the Beastie Boys          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> and i'm </OVERLAP1>
+          not sure, ho- i i mean i suppose that i could tell a story there but i don't i'm not sure that i would have a point, or an argument.          <OVERLAP1> and so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> which uh even there is a i mean what i so what i'd like to do is finish this chapter and then um, i mean i- i- if, if we spend all of, November and December, editing, rehashing whatever i s- i, almost like i- i- it um, and you know i could be entirely wrong about this or overly optimistic, but i sort of feel like then i would be, done with those few chapters by Christmas break          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> and i </OVERLAP1>
+          could, um, you know and and i don't know what i'm gonna be doing at all next semester.          <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no no i mean here with this thesis          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          i'm gonna be having other classes but it would would it mean that like, if i i mean i feel like i'm worf- working at this same pace,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          that i do or anything near i'm gonna be_ have, edited re-edited hashed rehashed and and you know and have, a pretty damn good product by        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well and then in January, i- does it mean that i get January through, i mean i- should i plan to have, January through um, April to, uh to have it done and you know maybe tweak slightly but not, work as hard? am i am i working on that or i- because i sort of_ that's something that you and i haven't talked about </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> and so, </OVERLAP1>
+          so i'm i'm          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          also like i'm afraid, like if i'm          <OVERLAP1> like </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> if i'm gonna be working </OVERLAP1>
+          this hard,          <EVENT DESC="LAUGH"></EVENT>          every week          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> for the next </OVERLAP1>
+          six months then          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          i'm gonna, die.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay.          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> can we shoot to have to sort of complete, everything and and then in December and then </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay. because          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> i also know that </OVERLAP1>
+          i you know that uh, from having, turned in things to you before and and stuff like that i know that i could turn it in and after five times that you would still have,          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          comments which would, completely either, you know          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> revitalize </OVERLAP1>
+          the whole thing or or things that that would um, you know what i mean?          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          that that it's uh        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well          <EVENT DESC="LAUGH"></EVENT>          you you understand          <OVERLAP1> my concern then </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> a- and </OVERLAP1>
+          that f- the problem with the folk chapter i think is strictly one of nomenclature. that that          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> that's </OVERLAP1>
+          one where you know i i was talking about          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> functions </OVERLAP1>
+          and characteristics          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and whether or not i call it folk you know        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right and and just sort of say this is, you know call it what you want to,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and then um        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> right. </OVERLAP1>
+          i just        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i so i wanna sort of divest myself of that. um          <OVERLAP1> can i  </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> just_ ach also uh, there was something else i was gonna tell you and i can't remember. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i uh i went and saw Martin Sexton and          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> i </OVERLAP1>
+          saw um, somebody else. i forget oh uh, (Vacobena) and          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> uh, </OVERLAP1>
+          (Anthony Demoni.)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. so well somebody surprised me with tickets and we had front row.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          so um, ah it was it was really bad because like they uh, we thought the show started at eight,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and, it started at_ or we thought it it started thought at eight thirty. and it was actually starting at eight,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          and then um,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> so </OVERLAP1>
+          we went to Pizza House for dinner beforehand,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> and </OVERLAP1>
+          sort of got the food at seven thirty, looked at our tickets realized it was eight oh' clock and we'd just ordered this big pitcher of uh of Bell's and          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> well you </OVERLAP1>
+          know s- twelve dollar pitcher          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i'm twenty-one now </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so, we, had this </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> not at all. so uh, so we, we you know we had to eat in, the space of fifteen minutes to, then make it over to the to the theater and there was no way we were gonna leave without you know paying we paid for, twelve dollars worth, we were gonna, drink it all so the          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> first, </OVERLAP1>
+          so exac- well i mean come on we paid for it. so uh, so i was sleepy through the entire show and i was and it was just really bad and i sort of was you know they asked us to clap and i couldn't for the life of me          <EVENT DESC="LAUGH"></EVENT>          cl- clap on rhythm and that was a little embarrassing, but um,          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          but the show was wonderful. had the          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> best </OVERLAP1>
+          guitar players i've ever seen, ever. just in terms of straight,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> uh, </OVERLAP1>
+          technical ability. okay um, i'll be back in a week then.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what the new one? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> is it good? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> really. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> is it? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i've, i've been still been listening a lot to uh to, Macy Gray </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you're enjoying it?          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> did you </OVERLAP1>
+          buy the disc or did you?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the uh_ you know her voice it's like a preview record of what it would be like if uh Lauryn Hill and Tom Waits had a baby. (if they) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> anyway </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright well i'll have more soon and uh, i'll leave it in your box if you wanna look </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          it's uh i'm also just, i think that i i made a horrible decision, in terms of you know in terms          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> of time </OVERLAP1>
+          no no. in terms of four in- uh, four independent studies.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> because i am budgeting all my own time and sort of like i explained this to all my teachers. (xx) it's just like i need a a class where they say, write a one-page response paper to this thing,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          once a week, so that i can, feel like i've got it          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> done </OVERLAP1>
+          rather than once a month like having to turn in twenty pages to,          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> (xx) you know </OVERLAP1>
+          it's like ugh.          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+          i gotta call over to work          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> and tell 'em i'm gonna be there </OVERLAP1>
+          is it alright if use your          <U2 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U2>
+         <OVERLAP1> phone? </OVERLAP1>
+          okay...        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="RE" SEX="M" AGE="3" RESTRICT="CITE">RESTRICTED</U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

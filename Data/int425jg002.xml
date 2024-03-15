@@ -1,0 +1,312 @@
+<TEI.2 ID="int425jg002">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Graduate Student Research Interview 2 </TITLE>
+         <TITLE> Rackham Div: NA </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 2936 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> INT425JG002 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="20">             <DATE> May 27, 1997 </DATE>
+             <EQUIPMENT>               <P> Sony analog tape recorder </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Elizabeth Axelson </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Jesseca Long, Bret Lucka </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Carrie Sue Kay Sulzer, Eric Breck </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Eric Breck </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Amanda Jones </NAME>
+               <RESP> Final Editing, 3/18/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">INT</TERM>
+ <TERM TYPE="ACADDISC">425</TERM>
+ <TERM TYPE="PARTLEVEL">JG</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">NA</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="2"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="2"></PERSONGRP>
+         <PERSON ID="S1" LANG="NNS" ROLE="JG, Interviewee" SEX="M" RESTRICT="NONE" AGE="2">           <FIRSTLANG> SPA </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="JF, Interviewer" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Interviewer's Office, English Language Institute </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> (xx)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          my god i don't understand a word        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          it's shocking looking isn't it?        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> very shocking </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> it's really normal. it's what speech looks like. when you, take down everything. nobody speaks, like those neat dialogues in language          <EVENT DESC="LAUGH"></EVENT>          books. we all do, starts stops, hesitations restarts, um,          <OVERLAP1> ungrammatical things </OVERLAP1>
+         <U2 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">           <OVERLAP2> (xx) get the message across? </OVERLAP2>
+         </U2>
+          yeah we do, i mean, you guys weren't having any difficulty,          <EVENT DESC="LAUGH"></EVENT>          communicating with each other. it was perfectly, idiomatic,          <OVERLAP1> and comfortable </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> i don't understand what i'm saying </OVERLAP1>
+         <EVENT WHO="S2" DESC="LAUGH"></EVENT>          any of it, (xx) i don't understand a thing i'm          <OVERLAP1> saying. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> uhuh, </OVERLAP1>
+          uhuh... well it's also hard just out of the, out of the blue, to get back into the setting, cuz you're you know, you're out of the context.          <PAUSE DUR=":05" ></PAUSE>          but really your conversations are, perfectly coherent.        </U1>
+       <PAUSE DUR="1:04" ></PAUSE>       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> hm', yeah that's (fine) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay, good... actually it's, it's an example of something you do, um, and, i- in, in the meetings, um that i hope we'll get to a little bit later, to, talking about it. um, i think it's really nice. i have some questions to ask you. how long have you been in the U-S...? </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> uh... uh, okay, i'm gonna give you the, the history of it          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          i came here in, nineteen ninety          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          left like eleven months after          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          uh stayed in Guatemala for, from nineteen ninety-one until, nineteen ninety... four i think?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and came a month, came to the United States for a month, took my, TOEFL and my G-R-E          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh... </U2>
+          (xx) in ninety-four          <PAUSE DUR=":08" ></PAUSE>          mm actually that was ninety-five          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm mhm </U2>
+          i came here for a month took the G-R-E, and the TOEFL, went back... came back for another month,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> (a) </OVERLAP1>
+          few months later          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and... i might have come for like another month a- a few more          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          months, after that and          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah... </U2>
+          in January of ninety... six... yeah, January of ninety-six          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> i </OVERLAP1>
+          came for good, and... yeah you can say i've been here continuously.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh, since ninety-six, since January ninety-six, yeah, okay. and, um, before, before you came to the University of Michigan, what was your educational experience i know you, um... um, you mentioned actually in this conversation, um going to university in the capital of your country?          <U2 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> mhm </U2>
+          um        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah i, got a degree in... uh, agronomic engineering </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> agronomic? </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah, it's a, one of those, third world degrees, that you do, basically, the way i see it is          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          the purpose of the university is to prepare you, to work.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and so when you're eighteen years old and start, start, university,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          you're supposed to, go there, learn, everything you need to, then, take on the, uh, you know market...          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          sometime. job market and, get a position and, succeed. without, having to go, and do, anything else        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> do a graduate degree. yeah </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> and uh, therefore, uh, there's a... a bunch of, aspects and, things that are packed together          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and uh for example i took fifty-four, courses          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm, mhm </U2>
+          uh, two hundred thirty-five semester hours          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          which is like twice as, as, as, twice as much          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          the requirement          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right right </U2>
+          u- the requirements for undergraduate degree          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          and then, i did a practicum, i did the_ i wrote a thesis... and, and then i graduated after          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> like </OVERLAP1>
+          (seven years.) um... that's why and, its (still)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          (you find a) agronomic engineering thing,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh, uhuh </U2>
+          it's basically a combination of plant science and agriculture          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          engineering        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right right i wonder if there's anything like that, like at M-S-U, at the, sort of </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> oh they have plant science.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> they </OVERLAP1>
+          have plant science and they have uh agricultural engineering.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          that's what they have          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          so the, the guys who know plant science, they know, about... soils and they know about um, you know crops and stuff          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah... yeah </U2>
+          and then the other guys, the agricultural engineers, they know about channels,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mm </U2>
+          and irrigation          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mm </OVERLAP2>
+         </U2>
+         <OVERLAP1> systems </OVERLAP1>
+          um, all the things that have to do with, structures and stuff.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          agricultural, theory          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          so, for us, they basically          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> it's </OVERLAP2>
+         </U2>
+         <OVERLAP1> combined </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          all of that with some          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          lots_ a lot of biology and, that sort of stuff.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right... so when did you get, to thinking about, um, environmental issues and... doing, a nat- you know, think about natural landscapes say as opposed to farming and </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> oh, i ju- i just never felt, really, comfortable doing what i was doing          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          i actually was going into, we had the chance of becoming an, agronomic engineer, i'm an agronomic engineer, in, systems of agricultural production,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's </OVERLAP1>
+          that's my, my thing,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          basically, like like what i was telling you          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and then that's the other thing, the other mm, you can also, go for, agronomic engineer in, uh, natural_ in renewable natural resources          <U2 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> mm mm </U2>
+          so you could do... any of that,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          you have to pick          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          you wanna go into farming you wanna go into natural resources          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          and um, i was going into natural resources but then i had, to, i came to Ame- to the U-S and got, to study English and stuff          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          in nineteen ninety (that) i was telling you          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          that uh, messed me up a bit. so when i came back i wasn't uh, not in, a very good situation          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          the professors, that i, was planning on, taking classes, with          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yup </U2>
+          weren't teaching those classes anymore, and, and the T-As, were my classmates of last year          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          i didn't like that          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, yeah </U2>
+          and uh, so then i decided, that the farming thing was easier, and i just needed the degrees that          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          anyway i was gonna get a Master's after that          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          so that i, that i just didn't need to, put up with all the hassle that          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (it meant) </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          the other thing involved. so actually i was, i was thinking about it,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> before yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          about it before        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right, right. how'd you pick Michigan? </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> uh... i actually did a, search          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          went to a library in Pasadena, when_ back when we were living in California my wife and i          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          uh... no i wasn't living there actually one of those (xx) that i (xx) i just went there          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and sat for a couple of days and,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          programs and, schools and, all of that, and i, picked, like... forty-something schools          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            mhm, mhm          </U2>
+          out of there, sent the letter, to all of them i mean actually sent, made the letter made forty-three copies and said, okay this is me and this is what i do,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          this and this i'm interested in this and this. do you do this do you do that.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm            <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> and they </OVERLAP1>
+          sent me an application in, the mail.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          then they came, all this, envelopes,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            right, right          </U2>
+          at home and it was like, yeah, Lamar university at Beaumont Texas...          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            uhuh          </U2>
+          and it was like well two thousand students well i don't think i'm gonna go out there i'm just, not gonna          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> wanna </OVERLAP1>
+          go there          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> unless </OVERLAP1>
+          they offer me, lots of money. so, uh, i like that.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and then uh, then i picked like six.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          Michigan, Wisconsin, Duke, and stuff.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and uh Ohio State actually.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          everybody wanted to kill me when i          <EVENT DESC="LAUGH" WHO="S2"></EVENT>          told them that i, was supposed to go to Ohio State...          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          so, i, so i sent, actually sent_ applied for the programs          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          got accepted in, Ohio State, Wisconsin. the Duke thing they wanted me to certify that i had forty thousand dollars          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh, uhuh </U2>
+          and uh... i, thought it was, too disrespectful.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and i (decided... why would i?)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          and, and then, so uh, i was actually going to Ohio State.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          because they had been, more, more supportive.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          (they more) were, understanding. (xx)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          i just told them i'm, you know i'm here now. i'm marrying an American citizen immigration has no, business with me          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          you don't have to do anything with immigration, or anything          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> so i </OVERLAP1>
+          can come, or go, so, don't ask me for money or, all those things          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          if i pay_ can pay for tuition that should be enough for you          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm mhm </U2>
+          and they said yeah that's fine          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          so, and then they assigned me an advisor and i was talking to my advisor and all that          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          i was ready to move          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and uh, then i get this letter from Michigan... you've been accepted, such and such and such          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and then they, talked about the Master's project thing, and it sounded really good,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          like the thing we're doing now          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and uh... so i came, to go to Michigan          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> hm </U2>
+          see what happened.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          because of the reputation of the school,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          like the natural resources, program, at this school is like, rated one or two in the nation          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          so it's, you always wanna... take advantage of those things.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right. right. yeah. and the Ma- the Master's project does sound like it was, pretty appealing to you, and th- that it still is, that the, um,          <U2 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah </U2>
+          that it really fits your own,          <U2 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah it is </U2>
+          goals        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> i actually w- it wasn't my first preference though.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh okay </U2>
+          there was another, there was another topic in joint implementation          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          i guess you went to th- did you attend uh, the presentation?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> there was this, th- this project was, like, i liked it it's          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          (xx) i liked, the very strong international component and,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          and stuff and        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> is this joint implementation of, environmental standards that were </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah it's carbon sequestration          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh </U2>
+          um you know the global warming          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> issue </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right. </U2>
+          then um... the, what is it... what is it you... wh- what they're trying to do is, since abatement costs          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          of mm, greenhouse gases          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          here in the industrialized nation, it's more expensive.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          means more the opportunity cost of, abating it          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          i- it, it's way too high. what they are trying to do is they're trying to sponsor, people in the third world, to... reduce emissions,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> or to, </OVERLAP1>
+          reforest, land or to preserve, the forests and          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mm mm </OVERLAP2>
+         </U2>
+         <OVERLAP1> stuff. </OVERLAP1>
+          to, sequester, carbon.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          to, get C-O-two from the atmosphere          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          and          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          and do the cleansing you know,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          so the, cleansing...? or clean- cleansing?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> cleansing.            <OVERLAP2> yeah. </OVERLAP2>
+         </U2>
+         <OVERLAP1> yeah. </OVERLAP1>
+          do the cleansing and... that's the whole, the whole rationale behind the          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          (project,)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          it sounds very interesting          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          an- ing- i'm really interested in those issues. but the group didn't, i mean i didn't like, there's a, lot of pushy people there're a lot of          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          lot of, lots of egos and stuff          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh yeah. </U2>
+          and i really have no problem with my experience and my,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          qualifications i, think very highly of myself...          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            uhuh, uhuh          </U2>
+          you know especially... uh when y- you're gonna compare me with, other, people who really have done, not much          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          but, going to classes and taking on a little job at the E-P-A and          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          then going back to school.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and uh, so... and i, don't have that, what else. there was a lot of mm, business people there          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh, uhuh </U2>
+          uh there's like, like three or four, people there are doing a dual degree with their school, the business school          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          and i don't regard... i i don't, i don't feel, they're much, uh,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> i'm </OVERLAP1>
+          really not in love with these people.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          actually they'll_ they_ their concepts of industrial ecology and that thing that they just, are gonna save the world, by doing this and this and this          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          it's like, reducing and cleaning... instead of... eliminating          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          you know,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (what) </OVERLAP1>
+          is, cheaper?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yup </U2>
+          it is cheaper to eliminate emissions or is it cheaper to, clean them,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          clean the mess?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          so... th- that sort of thing.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, yeah </U2>
+          and ah, i, i don't believe in that, i'm not a ver- i'm not very fond of capitalism...          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mm. yeah </U2>
+          in general. so... ah... that was like the like the, dominating group          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          they were trying to make me... in, in... November, they wanted... they wanted me to invest like... five hours or ten hours a week... in the project.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah. </U2>
+          and i'm like... i, don't have time, for this now.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          we're gonna have the whole next semester to prepare          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and then the who- who- the (rest) of the whole second year actually,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh, mhm </U2>
+          to actually do the thing.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right, right </U2>
+          they were like that and all this business thing and all this beautiful resumes and          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          then it's like Pedro, (please) give us this thing, i'm gonna put it in this and this format, and i'm gonna look_ make it look like this and this and that          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and and on and on and on and on and on,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so things you weren't really, </U2>
+          like uh          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and and Jack and and, basically, and Jack has been very... very, nice. very, sincere guy... very ah very nice person,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          very down to earth but, sort of nerdy,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          (type worker) you know?          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and ah, Peter, i i i haven't had any contact with him. yeah, well, maybe we had talked a couple of times, but, nothing nothing, much. Jack (we had talked.) um... i actually like liked him before that. um, and the group was small          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          and i saw myself fitting very well there. i could contribute. (so)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          it's, been fine, so far.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> great </U2>
+          i guess you don't want all those answers, huh?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> no, i am, i am interested </OVERLAP1>
+          in those, you'll see. you've answered some questions that i haven't asked yet. but, that's great. so, the fit is really kind of important. not just the topic, but, um, that it, that it work, as a group, that you feel good in it, feel comfortable.          <U2 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> oh yeah (xx) really. </U2>
+          yeah, yeah, right... i think so too. people, people often sort of propose, group work, w- without really considering, how hard group dynamics can be. you know how crucial they are. and, even issues like deciding what program to be in, you know, it seems sort of petty maybe to decide i'm not going to this school because i don't like, um, you know, i don't like the guy who i talked to on the phone. but if that guy's in fact gonna have, contact with you often all the time, um be your advisor,          <U2 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah </U2>
+          whatever, then the fact that you don't like him that, matters a lot.          <EVENT DESC="LAUGH"></EVENT>          i mean          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> well yeah, </U2>
+          yeah, um        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> and i just had a problem with a professor (xx)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uhuh </U2>
+          i, i don't like people not coming... straight at me          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          or giving me the things, the way they are, you know          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          trying to give me, i'm a nice person really, i just can't help you now.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, </U2>
+          that, that sort of thing, and, and you know it's like it's, i just_ find that_ if you can help me, but you won't,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, </U2>
+          you tell me that          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, right, </U2>
+          because i know, i'm not an idiot i know that you can          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          you just won't.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, yeah </U2>
+          maybe because there are so many things, that, that, that you have going. that, so many consequences, that you don't want to face. so many, it's gonna get messy for you.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          but. that's not the point. the point is, you can, but you won't.          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, yeah, </U2>
+          an- and and oh no,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, </U2>
+          you you you realize we always talk about it we always complain about (it, the things in this school)          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          that people don't do, people (think of,) people do,          <U2 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, yeah </U2>
+          and all this stuff.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i think, yeah. being a student is a really disempowered position.          <PAUSE ></PAUSE>          and also i- it strikes me how, um... the people who have the power in the institutions, u- um, like it and preserve it, and, want it. but, also, want it very soft-pedaled. so, they don't they don't want, um, they don't want to be confronted with it. um, and i i think that's a cultural thing, i mean i feel it also, as a teacher, i i like that sense of, um, of, open flow of communication and equality in the classroom, but we aren't equal. you know, in the end i'm grading them they're, really not grading me. and, to say, um... you know, come on, take a risk.          <EVENT DESC="LAUGH"></EVENT>          do this, do that. um, i- it's_ a- it's easy for me to say, because of being kind of insensitive to the_ um... to the facts of the situation. you know. so i- yeah, i think that's a problem all over the place.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

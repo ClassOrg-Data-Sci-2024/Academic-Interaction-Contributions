@@ -1,0 +1,820 @@
+<TEI.2 ID="mtg485sg142">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Physics Research Group Meeting </TITLE>
+         <TITLE> Rackham Div: PS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 8504 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> MTG485SG142 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="41">             <DATE> March 16, 2001 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Amy Burke </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Amy Burke </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Sheryl Leicher, Rita Simpson </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Rita Simpson </NAME>
+               <RESP> Final Editing, 1/14/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">MTG</TERM>
+ <TERM TYPE="ACADDISC">485</TERM>
+ <TERM TYPE="PARTLEVEL">SG</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">PS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="8"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="8"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SF, Advisor" SEX="M" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NNS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="3">           <FIRSTLANG> KOR </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="UN, Unknown" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="UN, Unknown" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Conference Room, West Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> abso- abs- absolutely.          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> so they don't </OVERLAP2>
+         </U2>
+         <OVERLAP1> (after all) </OVERLAP1>
+          we've got you've got some other device tha- working on this thing which is why we need the I-S-A slot to begin with          <OVERLAP1> and (then it wouldn't be that bad) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> so, so the the </OVERLAP1>
+          important things (Rose) was gonna be big monitor, cuz we were gonna bring (the little) monitor upstairs, so like nineteen inch,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          instead of fifteen, seventeen. and, a big hard drive so we don't run out. and maybe, s- Matt had mentioned putting the Zip drive on.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> are you replacing the one that          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> i don't </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think it </OVERLAP1>
+          was your computer?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> uh no this would be for the the second kilohertz computer. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> oh okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> i have a suggestion though if you_ instead of for a Zip drive, we don't have a lot of them, and which means that they're not too useful. i me- they're use- i they're they're useful if everybody has one and you can trade Zip disks uh but if you don't have_ if you only have one then what's it useful for? so uh if you wanna get one why don't you get an outboard one, that we can then, um, whi- which you know that they also sell them you can,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> sure </U2>
+          n- not expensive and and and that way, it can be hung off any anybody's computer if for some reason they need to have a Zip          <OVERLAP1> drive </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> actually </OVERLAP1>
+          there's a little problem that          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> (what,) yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> SCSI </OVERLAP1>
+          connecting Zip drive there is also like a printer port connecting Zip drive but that printer port supporting on is really slow.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE"> so they they don't have U-S-B ones yet? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> are i thought they </OVERLAP1>
+          would all be U-S-B now.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> U-S-B? oh okay. then they probably </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> or or this other          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> in fact they </OVERLAP2>
+         </U2>
+         <OVERLAP1> protocol which </OVERLAP1>
+          i don't even know what it's called but there's a new I-triple-E,          <U2 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> th- </OVERLAP1>
+          thing too that the all computers        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> (probably) Firewire or U-S-B two </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> no actually, Lynne has a U-S-B </OVERLAP1>
+          so          <OVERLAP1> (that'll work) </OVERLAP1>
+         <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> U-S-B (xx) </OVERLAP2>
+         </U2>
+          um        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> so i g- i guess we wanna look how many of our computers have U-S-Bs and as long as they're not (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> those drives are also not very expensive either so we could, you know,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (almost) </OVERLAP1>
+          take up another one for the office up here, if we          <OVERLAP1> want (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah i mean they're </OVERLAP1>
+          on-          <OVERLAP1> the internal ones </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> that illustrates </OVERLAP2>
+         </U2>
+          the internal ones are          <OVERLAP1> only a hundred (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> no i i have nothing against Zip </OVERLAP1>
+          it's just that, one Zip drive just doesn't          <OVERLAP1> make (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> sure, yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> the other thing i wondered about is Zip versus just rewritable C-Ds.          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE"> mm </U2>
+          i mean that's        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE"> that's, are those very fast? or </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well they're          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> th- </OVERLAP2>
+         </U2>
+         <OVERLAP1> n- </OVERLAP1>
+          they're probably not as fast.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> no they're not very fast. s- but          <OVERLAP1> i don't know how </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> the one up here is </OVERLAP1>
+          eight times it's        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> well um, cer- certainly any any machine that you get is gonna have, uh a a uh rewritable C-D, drive on it. because it's more u- more useful than          <OVERLAP1> D-V-D say </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah i mean you </OVERLAP1>
+          you're (getting) choose what you want.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> you just choose what you want          <OVERLAP1> if you prefer, sorry </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> if you want ROM or re </OVERLAP1>
+          and it's like a hundred bucks more if you want to write        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> right. um and they are, incredibly useful for for archiving.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mhm </U2>
+          (we used to) end up using them, fairly regularly (for archiving data)          <PAUSE DUR=":04" ></PAUSE>          mkay, um          <OVERLAP1> (could we) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+          and then,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> what,            <OVERLAP2> what? </OVERLAP2>
+         </U2>
+         <OVERLAP1> sorry. </OVERLAP1>
+          the spectrometer's in the works.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> so i'm, i'm he's, c- he's emailing me a price quote, and then i need to talk to the software guy on Monday, he's out of town. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> so we're gonna get a, so so so we're g- basically we're replacing the (OMA) but of course we'll still have the (OMA)          <OVERLAP1> so what are the </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> kay (well) what are, </OVERLAP1>
+          i was gonna say what are we replacing it with? i don't know (if we were getting there)        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> uh, the s- S-M-two forty C-D-I spectrometer. so, it's n- it's external miniature spectrometer and then internal card, internal C-P-two card. um </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> okay, so and does that come with a C-C-D          <OVERLAP1> (display?) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah, i-          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          um, right sorry.          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> the the external </OVERLAP1>
+          thing is, is everything you need          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> if </U2>
+          for the (OMA) and then you don't need (xx) but you get to the computer cuz it has its own internal, cable        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay          <OVERLAP1> so some some </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> right i'm not using </OVERLAP1>
+          the OMA though it's separate        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> i-          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> it's </U2>
+         <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> i-it w- it's completely would the OMA would </OVERLAP1>
+          be completely usable separately for a different experiment cuz it doesn't use any of the same parts          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah </U2>
+          in common not even the spectrometer. so, so then the question is, what are the capabilities of the new thing? so for example, how far out in the I-R can it go? how far out in the U-V can it go?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> uh the, what i told 'em we wanted, um is it's gonna be three-fifty to ten-fifty nanometers, all at once. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> three-fifty? is that enough for you?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> uh </U2>
+          he'd like          <OVERLAP1> three-twenty-three </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> w- we want </OVERLAP1>
+          three-twe- three-twenty so,          <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> probably get close to three-twenty </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay um </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> it sounds like </OVERLAP1>
+          it sounds like it's got glass.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> you can't, he said you can go below three fifty, but it's gonna have to be a different grating than this one. and it would be,          <OVERLAP1> so, y- </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> uhh mm </OVERLAP1>
+          if it's only the grating, then i'm not worried at all because we can always replace the grating.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          if it's the C-C-D, then we should wa- get one that really is that has broader          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> sure </OVERLAP2>
+         </U2>
+         <OVERLAP1> spectral </OVERLAP1>
+          coverage so find out what the spectral coverage of the C-C-D is.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i i, i might have to talk to somebody else. i asked him, i asked i said is the high end, because of silicon,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> detector? </OVERLAP1>
+          and he said yes i said is the low end, be- what's the low end from? and he said well in this case he said it's from the grating and i said is there anything else? and he said he didn't know.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay. </U2>
+          so, he said if you wanna go below you'd have to get a different grating.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> right          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> and </OVERLAP2>
+         </U2>
+         <OVERLAP1> but al- </OVERLAP1>
+          but if you also have to get a different C-C-D then,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          then you should just have bought that C-C-D to begin with.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> right, so i'll ask on that. um, and it's gonna have point-six nanometer resolution, all the way across, get C and C-plus-plus digital library drivers for it,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> very cool </U2>
+         <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> LabVIEW? </OVERLAP1>
+          what about LabVIEW?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i, didn't ask for a LabVIEW. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> can you ask? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> sure. um, i know the C C-plus-plus were, they were just giving 'em free, they want, they do the libraries it's all, included.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um </U2>
+          and        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> i thought the LabVIEW stuff was pretty standard too so </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> it's (slit) or fiber coupling, and, i need to talk to the guy on Monday about, uh the (xx) issues. so </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay. anything, anything else on that? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> uh i'll show you the quote when i get it. i          <OVERLAP1> uh </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> um </OVERLAP1>
+          anything else that people have_ need to talk about that they're buying, big items?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> you (got) the order in? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> the optics (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> optics. how much did that come to? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> just over five thousand. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> what what's in it? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> uh, lots of mirrors, lots of mounts, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> m- metal and          <OVERLAP1> dielectric? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> metal and </OVERLAP1>
+          dielectric. um, and then, a bunch of miscellaneous, uh items that, we need and some people requested. so        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay now          <OVERLAP1> uh, hm? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah, i </OVERLAP1>
+          i've ordered two channel plates and, or two pairs of channel plates and, a, mirror. so that's like        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> a mirror? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> the, new focusing mirror for          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> oh, internal mirror, okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> inside my (chamber) cuz the old one's crap. </OVERLAP1>
+          um, it's a dielectric, focusing it's like, two fifty or so.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          cost-wise        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> two, two fifty millimeters? or two </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> no, two two hundred and fifty bucks. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> oh. okay.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>         <OVERLAP1> wha- and what what's the focal length? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> in terms of (xx) </OVERLAP1>
+          uh, ten centimeters.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          same as before and i i could change the focal length actually          <OVERLAP1> since um, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> well that's </OVERLAP1>
+          what i was thinking that          <OVERLAP1> you know, you get get what you want. right </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> since i'm getting rid of the (view metal) i could </OVERLAP1>
+          i could, uh but it's on that swing arm inside the chamber so i'd have to like move the mirror in or change the swing arm. should i do that?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> you should only do that, if you're trying to solve some problem. if          <OVERLAP1> you're happy with </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> it would make the </OVERLAP1>
+          focal length, i mean focal size smaller.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> yeah but do you care? because right          <OVERLAP1> now you </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> cuz </OVERLAP1>
+          right now i i can't see anything so i don't necessarily want to reduce the number of,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> i'm i'm concerned that you'll run into some problem that you don't have now if you make the focal length too short. i mean th- you know ideally you want the focal length very short so you can make the interaction volume small.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U2>
+          but, you don't have any problem running down, the counts right now. if you have a higher efficiency detector you, would you run into a problem? or        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yes, i think i have a lot of atoms in the focal volume right now. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> what if you filled the whole mirror, which you can't do right now but will be able to do in the new (chain) setup? if you fill the whole mirror you'll get a tighter focus even with_          <OVERLAP1> you know what i mean? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah that would </OVERLAP1>
+          i s- i think that would increase, my diameter almost a factor of two.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay. so that'll cut down your area wha- so to one quarter,          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah </U2>
+          of what it is now.          <OVERLAP1> which would which would </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> s- so maybe </OVERLAP1>
+          maybe i don't have any problem.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> yeah. so that's what i'm a little concerned about that, because you you know you kind of limit your your range on the other end.          <OVERLAP1> if you have a (xx) yeah you were remember </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> if i change, right </OVERLAP1>
+          cut focal length shorter?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> remember when we were first doing, when we you know the first ste- thing we were doing with the high order electrons that you worked on for years remember?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> oh yeah those. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> so, the big problem there was we could, somehow never get the intensity low enough to get into the right regime, it was always too high. and that's why we couldn't use that mirror. ultimately we never did use it.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> we used the </OVERLAP1>
+          external focusing.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah and, and i guess for that, for Mark's, trying to get enough atoms to see anything, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> you need a larger, he needed          <OVERLAP1> a larger (volume) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> he, that he </OVERLAP1>
+          needed more atoms in the focal volume.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> yeah. so, so there's, there's that kind of trade-off so i unless unless you're re- there's really a problem that you're up against,          <OVERLAP1> i'd keep it the same </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> i don't think </OVERLAP1>
+          there is. i'm i'm keeping the focal width the same. my only other question... do i need special B-N-C connectors to go inside, a high vacuum environment?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mhm. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> and where do i get them from? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> B-N-C you say.          <EVENT DESC="LAUGH"></EVENT>          well we usually_ hm. where is this for?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> um, connecting, conical anodes to the outside. cuz,          <OVERLAP1> i ga- </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> that's done </OVERLAP1>
+          with, take a look at how it's done now. it's now done, with, a uh general radio connector.          <OVERLAP1> well actually there's a combination </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> see there're there're </OVERLAP1>
+          two types of cone- connectors,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> but it's </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's, </OVERLAP1>
+          the conical anode the, um forty millimeter one that i'm looking at has a B-N-T coming off the back. the, thing that i took off of your chamber has that androgynous i'm not sure what type of,          <OVERLAP1> thing it is, a- </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> right, h- hermaphrodite </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          no, the the uh hermaphrodite connector is a kind of general radio connector.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> okay. </U2>
+          the other kind of connector which is also called a general radio connector, uh i- which is sort of like a type N connector, if you know what that is. um, we had to change. so okay so this is what i was getting at. if you look inside that connector or inside a B-N-C connector you'll see that there's plastic cuz after all it's dielectric there's gotta be plastic somewhere. the most important thing is that that plastic has to, be able to s- withstand uh say two hundred and fifty degrees C. so that it will melt,          <EVENT DESC="LAUGH"></EVENT>         <EVENT WHO="S8" DESC="LAUGH"></EVENT>          and burn and cause a big smoke in your chamber as soon as you (xx) right? if you just take them, off the shelf they they have a kind of plastic that won't, take the high temperatures. and so what we did was we we bought the ki- those kinds of connectors, particularly that the the hermaphrodite one,          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U2>
+          that kind of connector, we specifically are using that, because we can get at the plastic and pull it out and replace it with Teflon.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mkay. </U2>
+          and uh, you know you've got that already. so i would just use the same thing we don't have to do that twice.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> except that at this point, the anode has a B-N-C connector on it and there might be, one other hermaphrodite connector is buried, before the B-N-C connector but i can't get that part open so i'm not convinced that it actually does open. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> i really worry if you're using B-N-C that you that you have to make sure that you can bake it. it might be possible. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mine, but tha- the B-N-C connector_ i think actually what's in there is okay,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah (is it, oh) </OVERLAP2>
+         </U2>
+         <OVERLAP1> because that, </OVERLAP1>
+          that's what came out of the vacuum chamber, and then the other one is mounted on a (complat) flange so i think that's okay.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay it probably doesn't have B-N-C cable, on the other side right? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> no, no, no no no it's not a cable. </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> there's no cable involved it's just a </OVERLAP1>
+          connector.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> alright. </U2>
+          but, even like you know how when you look down inside the connector there's little white plastic things surrounding the,          <OVERLAP1> (metal socket) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> but can you take that connector </OVERLAP1>
+          off? and just put          <OVERLAP1> another connector on? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> um... </OVERLAP1>
+          say again?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> can you just take that connector off and put a different, connector on...? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> i, could.          <OVERLAP1> i'm not </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't know. i haven't seen it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> i think i think </OVERLAP1>
+          the the (situation) which (she's now playing with) has a connector inside gene- already connected inside of the B-N-C connector          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> it does. </OVERLAP2>
+         </U2>
+         <OVERLAP1> (there.) </OVERLAP1>
+          but she cannot, take them out. that's the that's the l- l- the problem and, and she wants to assemble both,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mm, mhm mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> chambers but but </OVERLAP1>
+          i'm pretty sure that one, which is in the (C-C-M) chamber, has, has same kind of connection, and that was disassembled.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> so right now is the connection the          <OVERLAP1> B-N-C or general radio </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> B-N, uh that's B-N-C, </OVERLAP1>
+          that's B-N-C but, that is disassembled.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> because, g- i know, the one in the (listening) chamber has, the same kind of thing disassembled, it had a ra- a general radio, connector there. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> hm. okay. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> i mean among other things what i'm trying to do is to get, the total length of the connector assembly as short as possible          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> right </U2>
+          cuz that's really eating into my flight tube length.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> right... okay, well it sounds like there's a number of possibilities. the easiest possibility would be i- if that, B-N-C connector just happens to have already been modified to be          <OVERLAP1> (dielectrical) anyway. </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+          yeah.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> which you s- think might be true          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> i i </OVERLAP1>
+          think that's probably true since it was already there,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          but i was w- sort of wondering, what i should look for to see        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> the plastic should look an awful lot like Teflon. and if it          <OVERLAP1> looks like it isn't Teflon then you need to be careful. </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> well i kn- but Tef- </OVERLAP1>
+          Teflon is so- just sort of white plastic,          <OVERLAP1> anyways i mean how can how can i tell the difference? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> it's sort of white soft white soft </OVERLAP1>
+          milky plastic i mean you know i understand that this doesn't te- really tell you for sure          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          but        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> (cuz saying) that the B-N-C          <OVERLAP1> connector's normally the thing inside is opaque and white </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> but, if it's, you know, if it's </OVERLAP1>
+          yeah well that's true and and uh and it might be, Teflon. but you know if it's, if it's clear then of course it isn't. so, you know        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i don't know what you mean) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> what can you do to test it? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> bake it. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> it's not a bad idea          <OVERLAP1> just assemble </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> heat it up and see if it </OVERLAP1>
+          ruins        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> asse-          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> no it, get a (little chamber) </OVERLAP2>
+         </U2>
+         <OVERLAP1> well, assemble asse- </OVERLAP1>
+          assemble the chamber with no plates inside and          <OVERLAP1> bake it </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> right </OVERLAP1>
+          okay, that's a good thought.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> so it's only the plates that'd get completely baked. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> you could also just, you know you could </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> and also you got the R-G-A you can          <OVERLAP1> look as you heat it up. </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> actually, right now </OVERLAP1>
+          what i'm waiting for is the plates anyway so i might as well just put the assembly in and        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> and and heat it up </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> and and you can use the R-G-A to see if you know if weird stuff starts coming out,          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> okay </U2>
+          then you can        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> and you could_ we have Teflon downstairs too you can take a look at what Teflon would look like and then just cut open a B-N-C and see          <OVERLAP1> what it looks like. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> i think, we </OVERLAP1>
+          we she probably knows what Teflon looks like the problem is that i- lots of other stuff looks the same.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah i mean Tef- the problem is that Teflon and the inside of a B-N-C don't look distinctly different. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well yeah i'm saying you could just compare 'em directly, just t- to see if you can tell the difference. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> i've seen, i've seen ceramic, B-N-Cs </OVERLAP1>
+          i i          <OVERLAP1> i don't know if this is </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> the ceram- </OVERLAP1>
+          oh yeah and ceramic would be fine in          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> and ceramic would be fine. </OVERLAP2>
+         </U2>
+         <OVERLAP1> this. okay, </OVERLAP1>
+          okay.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> i've seen them. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> and then so, you're alwa- you're not, you're not worried about the, the conic anode the B-N-C connector (a- r- or the conflict) frame, port right? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> no no that we're not worried about. that's all set. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> okay it's all set? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> who's o- on </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> so all it is is just that connector sitting on the back of the anode </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> (thirty) </OVERLAP1>
+          it it's been sitting on the back of the anode all this time so i, i'm pretty sure it's fine.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          i should stop worrying about it.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> oh it's just you know it's there's a thousand there's a thousand things that can go wrong in an experiment you just have to kind of have them in the back of your mind all at once. so, i wanted to find out, uh about um other stuff to buy because there's something i wanted to bring up, and that is, uh in the ten hertz lab, we have the opportunity to replace, the oscillator, and should we do it? </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> ten kilohertz oscillator? </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> no the          <OVERLAP1> the, </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> ten hertz. </OVERLAP2>
+            Clark?          </U2>
+          the hundred megahertz the Clark...        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yes. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> i know </OVERLAP1>
+          you're not all happy with the Clark.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yes, we should. </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> so so is it a higher priority to replace the Clark? or is it a higher priority to push the (Regen) up two kilohertz? we'd still have the multi-pass at ten hertz. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i mean... the Clark is a pain because it's it's somewhat unstable. and but the Millenia helped a lot. and the bandwidth is really small but we'd also throw away a lot of the bandwidth if we got a,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> we don't care about that stuff. </U2>
+          Margaret Henry so        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE"> i guess i guess my issue on oscillators is tunability. um </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> right so what so do you like the Clark or you don't like the Clark for tunability? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE"> the, the Clar- i've never, it's never been easy so </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> but, would a Margaret Henry style be easier? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE"> i don't have enough experience with it to really say, um          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> it's got more bandwidth though so maybe you could just clip (it out from somewhere) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well, it seems like, it seems like, the bandwidth would, the bandwidth would easily cover the entire range that we need so </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah i've, yeah i kn- our our tuning </OVERLAP1>
+          we never tried tuning inside the oscillator we just, would cut out part of the bandwidth          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> in the </OVERLAP1>
+          stretcher.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> and if the bandwidth's wide enough then i guess          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> your bandwidth, you can go from </OVERLAP1>
+          like easily go from like, seven eighty to eight thirty or something right?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah almost.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> almost </U2>
+          i mean when Mark was doing his two color experiment i think he was at seven, eighty-five and, eight ten or so.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> you've got like, you've got at least thirty nanometers </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> but but          <OVERLAP1> oscillator </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> Mark </OVERLAP1>
+          shoulda published that two color experiment.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> well i know. i_ you know, these, we will not make these kinds of mistakes in the future.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          okay.          <OVERLAP1> what were you saying? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> wha- </OVERLAP1>
+          but the Clark oscillator was a problem, or was a bigger problem than now, what, now it's it's kind of okay and, it'll work for the (kilo) system too.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> yeah well what it comes down to is the, it's this this i- it's this year end thing. i mean we have we have budgeted, uh upgrading that system. but because upgrading the system is one of those things that you have to stop working to do, somehow it never seems like it's the right time to do it. okay? but we're we're we're running into a time now where it would really be a good idea to spend this money before the end of the year. so that we don't have to carry it over.          <OVERLAP1> and it was budgeted okay so, should we do it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> would you prefer t- </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> yeah. we </OVERLAP1>
+          we've had two options either oscillator or (Regen) so        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> does (Regen) mean getting a new (xx) laser for the (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> well, it's more_ it's like buying </OVERLAP1>
+          another five twenty-seven is the o- other option. although, if we could buy a i i was just trying to do a little work this morning on finding out what would, what it would be like if we bought a positive light, diode pump kilohertz pump? instead of, a Quantronics, five twenty-seven? just, the price difference. so i i i was under the misimpression that the price difference was like twenty percent but the price difference is more like a hundred percent. it really is. they d- they want eighty-five K,          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> (xx) thousand </U2>
+          for, for something that would produce as much power as what you'd pay, forty-five K for, (for Quantron.) big big difference because of diode pumping and and and the thing is, are we tha- are we unhappy with the Quantronic? well, you know it it certainly has had some down time, but i don't, really know, are we unhappy with it?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> wai- would you get the same um, i mean would you want the same, energy? the same power? or would you do a single (head)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> i wanna do </OVERLAP1>
+          a single head. yeah yeah yeah          <OVERLAP1> whatever (you need) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> so i mean </OVERLAP1>
+          with the single head i think there's even less issues about it than          <OVERLAP1> i mean i know lots of people who use them all the time. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> but i i </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> i mean the </OVERLAP1>
+          the thing that i find most irritating about the Quantronics in the kilohertz lab is that, no one at Quantronics seems to really know how to deal          <OVERLAP1> with it. so </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> this this </OVERLAP1>
+          will never change. this will never change. Quantronics          <OVERLAP1> has you know their their view of </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> like, buying a n- </OVERLAP1>
+          buying a new Quantronics that's actually a standard model, i don't think there would be a problem with at all.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> well i are they that bad at Quan- Quantronics?          <OVERLAP1> or </OVERLAP1>
+       </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> you ne- you'd be suprised </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> (xx) just the (regular, standard) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) i think that's you know, you know (lamp) pump, Quantronics </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> no it's just that </OVERLAP1>
+          whether the you replace the lamps with dio- with a diode bar.          <U2 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> uh huh </U2>
+          so it's basically like a cross between the Millennium and the Quantronics you know you've the diode bar pumping in a rod just like you have in the Millennium, but it's Q switched so it's producing kilohertz.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> that's the positive light one? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> that's the positive light one.          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> oh </U2>
+          and and and you see oh that would be so wonderful that would be so wonderful but you know how much are you willing to you know how, how much is wonderfulness? you have forty thousand dollars worth of wonderfulness? i mean, does it really matter? so, that that's that's the the issue. and i think what it comes down to is that i'm not unhappy enough, with the Quantronics, it's not that bad, you know sure the company has a_ the company's view of, customer service is sort of, something they copied from manuals that were written in Eastern Europe or something you know          <EVENT DESC="LAUGH"></EVENT>          they don't believe in customer service. but but that's the worst of it because the machine itself is, okay.          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U2>
+          when it's, you know we the the Pockel cell_ i mean the Q switch not the Pockel the Q switch blew up. and it blew up because of something which was probably a poor engineering design. but it blew up after, five years.          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> (right) </U2>
+          that's not so bad. you look unconvinced.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> no actually i was just thinking about these things i i was just thinking about m- moving up to the kilohertz in s- in in in the ten hertz lab and whether you know i- so i guess you y- it sounds like you'd keep the same amplifier, instead of          <OVERLAP1> you know changing the whole amplifier (well) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> the Regen would be the same, the Regen </OVERLAP1>
+          would be the same and the Regen would work probably just about as well as the multi-task in the kilohertz lab works.          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U2>
+          based on other people's experience. the MEEDOX, um Pockel cells in the Regen, can work at a          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> kilohertz </OVERLAP1>
+          with not, any problem.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (when in y-) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> so then an issue </OVERLAP1>
+          would be what do we call the two labs?          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          if they're both ten kilohertz        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> that is </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          one of 'em you call the opal lab right?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> ah </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> ha ha, great </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> what </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> do you </OVERLAP1>
+          not wanna replace the oscillator?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> i have no, idea this is just, just wondering what, what would we do </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay well i          <OVERLAP1> uh </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> what </OVERLAP1>
+          are we gonna do with the old old oscillator then?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          the Clark?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> throw it in the garbage </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> uh, i think we could maybe drop it from a very          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          high (building.)        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i mean i think, i think i mean the value in the Clark is that we take out all the mounts and optics and we have those. and then all that's left is just some aluminum box          <OVERLAP1> right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> and after </OVERLAP1>
+          all they were very high quality mounts          <OVERLAP1> right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> absolutely </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i can replace about half of 'em, anyway so, i mean i don't_ i i'm fine with doing the kilohertz option too. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> what what y- what years (of) time period do you think that old ten hertz system will be replaced with kilohertz system? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> i don't think we'll ever replace the back end, the high energy end. i don't think we'll go away from ten hertz for that. because, y- there's always gonna be some di-laser reason or or some high power reason why we'll wha- we'll need that. but if we also are running at a kilohertz for the r- out of the Regen and there's a- then there's obviously new, kinds of experiments that we could do. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> so so essentially you'd have part of it that could run at ten hertz and part of it at kilohertz? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> yeah if you only wanted to use the re- output of the Regen you could run (the kilohertz.) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> but, what's the difference between the Regen output, and the other output? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> it wouldn't be any, it wouldn't really change.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz </OVERLAP1>
+          the the trade-off is right now you get_ well it would change a little, because instead of getting like three millijoules out which is what we can push it to now, and often do, it would be more like, when you pushed it you'd get to one millijoule (out.)        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> we get three (millijoules out?) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> when you see,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          since since since getting three millijoules out is not like really common,          <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> uh huh, </OVERLAP1>
+          yeah        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> we get more like, a little over a millijoule right          <OVERLAP1> now i think </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">         <OVERLAP1> yeah </OVERLAP1>
+          little bit more than one millijoule.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> well it would be less          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> well </OVERLAP2>
+         </U2>
+         <OVERLAP1> than </OVERLAP1>
+          a millijoule.          <OVERLAP1> you get a millijoule (at most out of it) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> well, well also what's, you know what's </OVERLAP1>
+          the pulse shape interaction right? you still have to run that, where you can amplify it afterwards          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> that's right </OVERLAP1>
+          and that'll still be ten hertz,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz you put in_ </OVERLAP1>
+          we already put in more, we already put in more energy into the pulsator than we, can (cap.)          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mhm </U2>
+         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think </OVERLAP1>
+         <OVERLAP1> we already </OVERLAP1>
+          put in right at the max. so,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mhm </U2>
+          it burned once        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mhm. well it hasn't burned in a while right? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> just that one time. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> yeah. so,          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE"> yeah </U2>
+          we can we've known we've known what the limit is and we can stay below it        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i'm ju- i'm just trying to figure out though what, where where which experiments benefit from a kilohertz but don't use pulse shaping and can't be done in the other lab, just as easily? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> oh. so you're sa- you're that's that's the why bother option.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          i mean you've already got a kilohertz laser why do you need two?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> the, pulsator could run on a kilohertz right?          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> i </OVERLAP2>
+         </U2>
+         <OVERLAP1> it just </OVERLAP1>
+          you'd have          <OVERLAP1> you'd wanna, you wouldn't have much </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> but you wouldn't have a lotta energy you'd </OVERLAP1>
+          have to do something that doesn't, need a lotta          <OVERLAP1> energy. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's right </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> that          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> i don't_ </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's right. </OVERLAP1>
+          but i think any any um... uh the the uh sort of gradual transition that we're making, to a kilohertz, is going to mean that a lot of our important experiments particularly the atomic beam experiments, will be sort of designed to work at a kilohertz.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          and and there's al- there's there's bound to be more than one of those that you'd really wanna do at a time. so i i don't, i'm not concerned uh about that, option. i- i i'm more looking at, just a general upgrade you really don't want laser equipment to be twenty years old in in in a in a lab. because, it becomes like the old jalopy you put a spend a lot of time putting money into something that you should just once and for all replace with something newer.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mhm </U2>
+          and uh so that means that, you have to budget these things and so we're budgeting this upgrade and and and now we have to do it. and the the thing to upgrade to is is the kilohertz          <OVERLAP1> laser. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> right. </OVERLAP1>
+          i i guess but there's the issue of which order do you do it in?          <OVERLAP1> (which is_ the oscillator) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> um, based on </OVERLAP1>
+          based on this discussion i i i'm leaning towards replacing the oscillator first because it seems like everybody's had some trouble with the oscillator. and that's the easy thing to replace it's also cheaper by the way but it doesn't matter that much          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          and and, uh so (maybe we'll do that.) before it gets too late, cuz we're gonna have to break up a little early because of Mike Duff's talk. everybody going to Mike Duff's talk i hope?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> is it in Rackham or here? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> it's in Rackham. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> are </OVERLAP1>
+          there cookies?        </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> it's there's cookies and it's s- string theory it's good for you.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          um        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> the most allowed dimensions by super strings </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          what'd you say?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> the most allowed dimensions by super strings.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> uh huh </U2>
+          that's my favorite line from the abstract.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> what is that eleven? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> oh          <OVERLAP1> i have no idea </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> eleven (yeah) </OVERLAP1>
+       </U1>
+       <EVENT WHO="S3" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> (that's why) i just picked that up from the abstract so          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE"> i just know the title which is the world in eleven dimensions. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> so so before we have to break up for that i really wanted to to have you guys describe this cost functional </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> do you wanna do it? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> sure. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> um, so i guess the idea is that, well we run the G-A to optimize some pulse shape, or to optimize some feedback, and, uh and we get different different shapes, you know di- different runs of the G-A you you know conversion of different shapes, and, and especially when you look at like a m- a minimization where it spreads the pulse out, and uh and the sh- the shapes that you end up with are sort of uh qualitatively, similar but you couldn't you can't really uh, tell just by looking at 'em what, what's doing what. and, and so the idea is that, well maybe there's just a few things in that pulse shape that that are actually, you know that're actually controlling the uh, the liquid but the rest of that stuff is just i- it doesn't matter. but          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> the G-A </OVERLAP1>
+          just, you know you just uh        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> so no- non non fatal family traits.          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          but they're not really,          <OVERLAP1> important </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> mhm. </OVERLAP1>
+          and so the deal is that, well maybe we can find a way to, to sort of filter all that stuff out, uh so that all we're left with is the important stuff. and so the cost functional uh compares the pulse shape that we have to a transform-limited pulse, and, it punishes, it punishes the pulse shapes for how much they differ, from the transform-limited, pulse shapes. so, the idea is that, you start off with a transform-limited pulse, and then you shape it. and, and uh, and the ones that you,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> so the ones that d- how do you          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> how do </OVERLAP1>
+          you evaluate how far you are from transform-limited?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well that's, that's the trick,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> okay </U2>
+          that we've b- that's what the cost functional is. but basically if you if you have two pulse shapes, that that uh, that do the same thing, that you get the same fitness out of, and one looks like a transform-limited pulse with a few modifications and one looks completely different, the one that looks completely different will be punished, and the one that th- looks more like the transform-limited won't so, the one that looks like the transform-limited pulse will get a much better fitness, for it. and,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i think_            <OVERLAP2> that's like </OVERLAP2>
+         </U2>
+         <OVERLAP1> yeah? </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> that's kind of </U2>
+          sure. and so, i guess we can, just look at_ so this is the formula that Tom sent basically,          <EVENT WHO="S3" DESC="WRITING ON BOARD"></EVENT>          uh what he's using, and, so what we do is, uh, we compare_ so the gene string is just the, uh just the phase at each, each pixel, and we compare pixel by pixel to what the phase would be for the transform-limited pulse, and, uh, and so we add up all those differences and that's actually squared right? that's just the, uh        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> oh it's either squared or          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> magnitude of </OVERLAP1>
+          (i forget the right)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> oh okay          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          so you so you adding up th- adding up phase differences aren't sort of uh the variance of the phase          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> basically </OVERLAP1>
+          the square of the difference,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          you're, you're adding that up, but the phase has a global ambiguity,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          so you're not really, adding that up, you're adding up, you have to somehow su- subtract off the linear,          <OVERLAP1> component. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> sure and that's </OVERLAP1>
+          i mean we've talked about that a lot too. um        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i think,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          Tom i think To- this is what Tom uses i'm pretty sure.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> really? </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          i think i think their issue is, that they're just program voltages on the pixels, and they don't have these, i think, i m- i would also guess the the operators tend not to put in the linear, sweep. and, you know some of our times some of_ sometimes we get, these straight linear phases and i think, they i don't think they do and so i don't think it's much of an issue. so we asked Tom, and he's like oh it really hasn't been a problem.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <EVENT DESC="BACKGROUND CONVERSATION NEXT :24"></EVENT>       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> yeah if you if i understand tha- that your resolution was, just uh just uh extending the pulses to get some some kind of minimum minimization right? and two ways of doing it one w- way is just le- (linearly) choking it, to make the pulse longer and also, same way, the the the clipping of bandwidth is then making the same (curve-shaped) pulses plus the long pauses. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> this is this is for, t- only looking at the phases. o- o- this is only_ so </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> then how would you maintain the Gaussian pulse on- only (xx) the phase          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> uh, n- </OVERLAP2>
+         </U2>
+         <OVERLAP1> things </OVERLAP1>
+          without clipping out those        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> uh, we don't look at the amplitudes at all here.          <U2 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> so this </OVERLAP1>
+          is this is phase only shaping? um i guess i don't understand, what you're asking        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> i mean the_ how do you maintain the Gaussian shape without cl- and and and extending the pulse width          <OVERLAP1> without changing the frequency? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> the pul- the pulse </OVERLAP1>
+          um, the pul- the pul- it's arbitrary phase shaping so the pulse is not gonna be Gaussian any more. so th-        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> when you_ so </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> you're you're asking about the transform-limited pulse that you compare things to? </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="SG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="KOR"> i thought, i mean probably i misunderstood but, you wanted to maintain the transform-limited pulse Gaussian pulse? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> no, no they don't want to maintain it. they simply want to um, get rid of extraneous garbage and their, their hypothesis about the extraneous garbage which i guess is something you didn't state, but their hypothesis about how how to, differentiate, garbage you don't want from stuff that you might want, is, by looking at the deviation of the phase from the phase that you'd get for transform-limited pulse. so, of course the the, there there's a bunch of problems with that that all come to mind i me- in a kind of a jumble. one is, the one we just talked about, that a Gaussian pulse in a different place doesn't have zero phase and so you have to worry about that. but, uh an- another one is that, you know consider a solution which is a beautiful looking solution just from a kind of aesthetic point of view of, two Gaussian pulses displaced from one another, in time. so it's just like a pump probe thing you're driving a wave packet, and the best solution is you just drive it once, drive it again. okay? there's gonna be a heavy cost here, for that pulse even though that's a perfectly good wonderful solution so i- it seems like th- the lack of sophistication in evaluating cost functional could really be hurting you in some cases. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> um, yeah? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> w- would you run everything with cost functional or would you, like run          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> it was, i think </OVERLAP2>
+         </U2>
+         <OVERLAP1> it and see what it gave </OVERLAP1>
+          you and then just like try it with cost functional        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> it's designed to be a general tool for any of, any of the experiments in any form. so basically it, you know we can run some experiments and then we can also try 'em with the cost functional and we can try 'em with different weights on the cost functional.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U2>
+          and you just, it just goes into the fitness like on the bottom. so the new fitness is just the original fitness times like one plus the cost. and we we adjust the weighting such that, you know, the cost is, somewhere between zero and one basically.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah            <OVERLAP2> mkay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          uh and so you know        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> so so thi- this is an alternative to something, that was what you guys tried sometimes in the past, which is, having a smoothing operator, that would, that you could just evaluate whether it was a good thing or not cuz of whether it increased the fitness, but the smoothing operator would get rid of extraneous high frequency stuff hi- phase noise for example mostly,          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U2>
+          mostly that's what it got rid of.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> that's right it gets rid of the          <OVERLAP1> phase noise. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> so you could just </OVERLAP1>
+          damp out out phase noise by having, the children always have less phase noise than the parents, in the G-A, and, the the trouble is that i- i- i- because that doesn't that's not a cost functional approach. that isn't just_ that that's a uh, in in a sense it's um, it's not allowing, uh rapid phase variations that might be very helpful, from making their importance understood. putting it into a cost functional means that it'll cost a little more but if it makes things that much better you still do it. smoothing it means you get rid of it, whether it was good for you or not. so,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> so </U2>
+          maybe this is better.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> alright so the basic idea is that, you know de- depending on what the weighting is, we're gonna, tell it how strong it should punish, anything that deviates from an unshaped pulse. and if, if uh something that deviates drastically has a much better fitness, that'll outweigh the cost. um, so. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> and that's the trick, to adjust the weighting i guess so, um, you know you you like, you know you like the the weighting factor to be set so that, if you do have a r- a very good pulse shape but it doesn't look anything like a transform-limited pulse, that'll still be, the pulse that you, end up with i guess. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> unless          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> right? </OVERLAP2>
+         </U2>
+         <OVERLAP1> you have </OVERLAP1>
+          really really high weighting on the cost function in which case,          <OVERLAP1> it's a it's a it's a different matter </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> right. well if you if you crank </OVERLAP1>
+          up W high enough then, supposedly you should always get a transform-limited pulse.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> right? </OVERLAP1>
+          because it'll like whatever your pul- your pulse shape is, uh that that'll just get, it'll t- totally drown it out, so, like whatever the actua- the sum of the the          <OVERLAP1> phases </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> so </U2>
+          okay        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> so Tom has then used this um and and (Jilla) and they he's had some good success with it. basically he had a data analysis that involved looking at, um, looking at the nominator frequency spectrum basically looking at, i guess you know kinda frequency differences in these (Rotmann) experiments, and um, and whether you get these, or whether they're present in the beam or not, and, and          <OVERLAP1> i mean </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> i'm </OVERLAP1>
+          just afraid that the f-        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> the analysis was cleaned up.          <OVERLAP1> the_ basically the analysis was cleaned up a lot by using the cost functional </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah. i, i wouldn't wanna </OVERLAP1>
+          i wouldn't wanna s- say this t- because it criticizes you know uh too too uh, too strongly because it criticizes his paper. but i have a feeling that the cost functional in Tom's case, is kind of a self-fulfilling, prophecy. i mean he says is the cost functional a good thing? well the cost functional is a good thing because, it produces the solutions that your, preconception about what a good solution is,          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know </OVERLAP1>
+          what what you wanted. uh b- but it's it's not, it's it's going away from the uh real notion of the G-A as a learning machine, where it's finding for you the best solution independent of your preconceptions. cuz it's kind of introducing a preconception bias. and in this case it really came out with Tom because, his preconception bias, was that he was looking for simple spectral signatures. it was in the non linear spectrum but nonetheless he was looking for simple spectral signatures, things that could be easily wiped out by phase noise. and so he had something in there that would make all of the solutions not have much phase noise and, by golly he could see his simple spectral signatures it doesn't really mean that that's the best solution.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> well we've also yet to craft a G-A that that ha- eliminates nonfatal mutations too. so </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> yeah we don't have a better way to eliminate nonfatal mutations a- apart from just going in, uh to the_ looking at a solution, and just feature by feature, modifying it, just l- you know, that's_ course that also, defeats the purpose of the G-A you're not optimizing things uh you're not letting it optimize things for you if you can do that. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah i- i- it gets into a validation issue really and, um, and i- i've seen the same thing in medical imaging with iterative r- approaches, how much side information can you stick in the e- the image pr- process without biasing the image you end up with?          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> right </U2>
+          um, and, so i mean for a particular problem i think it makes a lot of sense to, you know use a cost functional and then maybe compare it to, a non cost f- cost functional approach and make sure there's some kind of convergence,          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mhm </U2>
+          going on but, as a general rule you're not necessarily gonna be able to do that it you, if you work with a system that you don't know much about, you know and where you (said) maybe something that looks like a series of pulses might be the best solution.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mhm </U2>
+          you know a priori there's no reason to say oh the Gaussian is the best or the transform-limited is, the model, we should use.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i mean as long as we're able to run them back to back, i think we can avoid those sort of problems just because you can run it without, and you can run it with and you can compare what the pulse shapes look like          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> and you can also </OVERLAP1>
+          compare what the best fitness was and if, if you seriously degrade the fitness in order to change, the pulse shape then you know you're you're in trouble. but        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> the reason i i guess it seems like if you, get a pulse shape without the cost functional, that looks nothing like the Gaussian, that's, huh,          <OVERLAP1> so so i i if you get one </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> but but there's there's always a chance </OVERLAP1>
+          that you could have just as good a fitness, with something that looks much more, uh smooth... there's always a chance that        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> and, when you use the how much it looks like a Gaussian, is that, what's F-zero </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> F-zero's like the original fitness. without, so the new          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> fitness is </OVERLAP1>
+          is what what its well          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> what </OVERLAP1>
+          its fitness is, and then you add on this mathematical cost.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> so the more cost there is the higher fitness it has? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> uh i- the minus sign is, i should put plus or minus.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah,            <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> the minus </OVERLAP1>
+          sign depends on, on what the sign of your fitness and your cost are. so          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> okay.            <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> but, </OVERLAP1>
+          you're right... uh, so if the fitness is positive and the cost is positive it should be a minus.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> i i          <OVERLAP1> guess it would be nice if we had a problem_ oh </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> so it seems like </OVERLAP1>
+          it seems like the absolute number of the fitness, of something with or without the cost functional would completely depend on, how much weight you put on it.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> so, </OVERLAP1>
+          i'm not sure how you can compare something, without. like, when you go through you get a pulse rate without the cost functional, and it has a fitness of, two-point-seven, or whatever, and i am not sure,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i mean </U2>
+          how c- how can you compare the two numbers you get for the fitness with the cost functional, if it's not like it doesn't seem like it would be a comparable number scale so how can you say          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> the </U2>
+          whether it's more or less fit?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> i mean the the weighting has to be, the w- the the value of W has to be has to be, examined bu- tha-          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> you can't </OVERLAP1>
+          just set W. and so, you know you could, you could, you know let's say you get a fitness of two-point-seven, just just the fitness let's say you evaluate the pulse and you get two-point-seven. and then, let's say you evaluate, you could evaluate another pulse shape that looks almost like a transform limit, and you also might get, two-point-six-five, or something. but of course the G-A, cuz it works so well, always finds the two-point-seven. and so that's what you see as your solution after thirty generations.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> mhm </U2>
+          and then, you might've completely lost the fact that there's one that's just a little worse, that is almost transform-limited or something like that.          <U2 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then this way the </OVERLAP1>
+          cost, functional would bring bring the, the two-point-seven down to like two-point-five or something.          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and then not even it up with the two-point-six-five.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> of course if that were really true, the example that you said, then you'd have to wonder what was being added that made the fitness always better, for the noisier pulse and there might be some physics there and you'd never know that physics          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          if you're just using the cost functional so,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="1" RESTRICT="NONE"> there's uh well,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's good. </U2>
+          like everything else with, learning algorithms, you know it's there's the          <OVERLAP1> we it's a learning process. </OVERLAP1>
+         <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>         <OVERLAP1> it's really </OVERLAP1>
+          it's really it's really hard to make definitive statements about which procedure's better and which procedure's worse there there there's always a trade-off        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i- it would be nice if you if you had a problem that ha- you, had very good reason to believe that a really wacky pulse shape was indeed the best shape, and then run this into this approach and see how close to zero you have to make W to make this work.          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+         <EVENT DESC="LAUGH"></EVENT>          at well at least that might set a bound on how much you should weight it.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> uh, uh oh </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay, i don't_ oh </OVERLAP1>
+          eh? something else?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> no i wa-          <U2 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mkay            <OVERLAP2> w- </OVERLAP2>
+         </U2>
+         <OVERLAP1> like </OVERLAP1>
+          (the only thing) when you were doing with the two modes there was the one that was d- actually was a two pulse, solution. something like that would look nothing like the Gaussian.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SF" SEX="M" AGE="3" RESTRICT="NONE"> mm well, i wanna make sure that we can, get over to_ in time to eat cookies of course that's the most important part.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          if you can't eat enough cookies then you can't          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> (sleep) </OVERLAP2>
+         </U2>
+          really, fall asleep during the talk.        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

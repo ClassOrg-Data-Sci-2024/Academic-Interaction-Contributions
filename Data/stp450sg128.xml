@@ -1,0 +1,771 @@
+<TEI.2 ID="stp450sg128">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Nursing Student Presentations </TITLE>
+         <TITLE> Rackham Div: BS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 22223 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> STP450SG128 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  WARNING -- Citation of examples is restricted for one or more speakers in this transcript.  Permission to cite examples from this transcript in any presentation or publication must be obtained from the English Language Institute. </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="155">             <DATE> December 4, 2000 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Shannon Dubenion-Smith, Janine Ovens </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Shannon Dubenion-Smith </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Jessica Rett </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Linda Kurtz, Amanda Jones </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Amanda Jones </NAME>
+               <RESP> Final Editing, 02/19/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">STP</TERM>
+ <TERM TYPE="ACADDISC">450</TERM>
+ <TERM TYPE="PARTLEVEL">SG</TERM>
+ <TERM TYPE="PRIMDISCMODE">PNL</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">MI</TERM>
+ <TERM TYPE="ACADDIV">BS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: PNL </P>
+         <P> New Interactivity Rating: MI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="11"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="10"></PERSONGRP>
+         <PERSON ID="S1" LANG="NNS" ROLE="SF, Instructor" SEX="F" RESTRICT="NONE" AGE="3">           <FIRSTLANG> JAP </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S2" LANG="NNS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2">           <FIRSTLANG> THA </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="ALL" AGE="3"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="ALL" AGE="3"></PERSON>
+         <PERSON ID="S8" LANG="NNS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2">           <FIRSTLANG> THA </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S10" LANG="NNS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="SG, Student" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Conference Room, North Ingalls Building </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> do you know wha- what the name of this effect, that having somebody, taping, and then, watching us? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="SG" SEX="U" AGE="0" RESTRICT="NONE"> Hawthorn Effect </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> yes. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="SG" SEX="U" AGE="0" RESTRICT="NONE"> Hawthorn </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> the Hawthorn Effect. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> you try to, you know perform better than, (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> no no i think it's the name of a plant that they </OVERLAP1>
+         <OVERLAP1> observed it in </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah it's the name of the plant </OVERLAP1>
+          that it was observed in yeah.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah maybe it was a, lightbulb plant or something like that. </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay, so um, so i'm sorry i i ha- i my voice uh doesn't sound uh, uh as good as, it should be but um, yeah the last week i had a crew from Japan who, uh videotape, various part of the, on- and off-campus, um, about the child care resource in Ann Arbor, this is something, i report, i made a report last year. um, based on a request, from the uh government um a section of the government in Japan and, the child care issue i mean i went through as a a parent but, it's not my expertise and i try to resign, but i couldn't so at the end i did and i thought that was it          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          you know they gave me a small uh funding but uh um i did it and i thought that's that's that's the end for good          <EVENT DUR="SS" DESC="LAUGH"></EVENT>          and then they came back uh this year,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> and said            <OVERLAP2> surprise </OVERLAP2>
+         </U2>
+         <OVERLAP1> said </OVERLAP1>
+          oh this was really good we found uh uh, we found your uh report this uh fascinating so we'd like to create the video          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          that we'd like to distribute among the, child care expert so i you know, i am not, you know um interviewer i'm not an expert in child care and i do not want to do this but, they convinced me to do it. on top of it they asked me to interview, various people, and outdoor, and i said you don't understand Michigan's winter. i do not want to go outdoor. and the interviewees,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          the, our dean Ada Sue was also included as a one of the inter- yeah, interviewee. so i said if you ask my dean, to go out of          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          building, i will never speak speak to you again so they, they gave up interviewing dean, outdoor but the rest of the section has to be done outdoor and then, look, this is the consequence i got cold. anyway um, so (xx)        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> and right? and the first one is is Melissa? do you oh          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> Becky </U2>
+         <OVERLAP1> does anybody </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> no no i just </OVERLAP1>
+          loaded it, to cuz_ to make sure it worked.          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> okay. </U2>
+          that's how you get rid of it.        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> wait a minute did we agree, twenty minutes?          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yes </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> and ten minutes </OVERLAP2>
+         </U2>
+         <OVERLAP1> ten minutes </OVERLAP1>
+          question okay. i need a timekeeper. uh, any volunteer?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i can do it, i was gonna (xx,) um,          <OVERLAP1> (fix all this) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> you wanna do it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> i can do it </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (you've got your) watch </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> and then what you need to do is um... twenty minutes so, like uh three minutes, to twenty minutes seventeen minutes you have to give her a sign so          <OVERLAP1> she know </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">         <OVERLAP1> so </OVERLAP1>
+          i'm gonna, uh, let her know five minute left, and two minute left, and stop would it be okay?        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> five yeah five minutes is a little bit too long um, three minutes left          <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          then one minutes left would be good.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> can anyone can donates some paper for me? </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> sure uhuh. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> Dr Yung, d- do you want our papers now because i've got like stacks </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> you can do, either yes. at the end or you can give it to me </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> anyone else want to hand 'em in? </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> so you can sleep tonight...          <PAUSE DUR=":06" ></PAUSE>          alright i am grading your papers and uh i thought i can return uh everything back to you um today but um, because of my cold and i i, my schedule is a little bit, uh full, but next week, i will return          <PAUSE DUR=":06" ></PAUSE>       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> so then i have to get it to over to uh, slide show          <OVERLAP1> right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          right there.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> right here? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yup. </U1>
+       <EVENT DESC=":09 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's cool. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> is that two thousand? that you got that cool          <OVERLAP1> background? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) two thousand has all of the </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (you wanna just hit) down arrow </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> that will be, much easier </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> now Melissa you didn't include any of the um, financial aspect of the autonomy in this uh picture is there a reason is there any reason          <OVERLAP1> or </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> well i think the financial aspect has a great impact it of the part of the uh, it may goes under environment you know the the uh (xx) uh, believe that, how the environment set up in terms of financial, incentive and, uh reward, to be, um, autonomous.          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          um, and i i was just interested          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> so what kind of question did you ask before? then you can repeat that...          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          so is this what you, you you're going to          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> do </OVERLAP1>
+          for          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> dissertation? </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i have a i have a question about that, N-A-S scale,          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          it's a four-point Likert scale but i do- it's only scored from one to three?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> okay so it it depends on the weighting of that individual item?          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> so it's all </OVERLAP1>
+          based on the weightings?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> Melissa i kind of liked your uh, i i actually like that last tool, i mean it sounded kind of interesting, um, your comment about well, then what, if we find          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          but that kind of goes back to autonomy doesn't it?          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          so, i thou- i was thinking about this in where i work and thinking that, something like that might be useful because i do think administration sometimes says, how can we get our nurses to think and use their heads and act more professionally, but they don't, really know, what the answer is.          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          so if you were able to identify certain things that the organization needed to do i think they some people would be more          <OVERLAP1> (xx.) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's it's also interesting that community, nurses, who have a high level of autonomy, are also a fairly stable population of nurses. people who go who tend to go into that stay in it, until they they retire. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> but it </OVERLAP1>
+          it, it they also assume, there's also an assumption i think sometimes because of that technical piece, that there's an intellect, difference,          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          between community-based nurses and like an I-C-U nurse that's the most extreme, example which i think is totally ridiculous. because it's just a different, realm that you're dealing          <OVERLAP1> with. </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> right. </U2>
+         <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> they also tend to be the most vocal, </OVERLAP1>
+          advocates.          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm yeah </U2>
+          which is interesting, when you look at the whole        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> so Me- Melissa are you still working on a definition at the at the definition of a s- </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> right right to identify core          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> issue. </OVERLAP1>
+          so it's uh it is_ when you reach that point, it should be intuitive, when people uh hear, the definition.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> all right well thank you </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> Julie and Jermporn our computer experts.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S8" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> i don't have to do anything else or </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> actually this one </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> i hate these (xx) </U1>
+       <EVENT DESC=":27 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> who's the next person here? Julie are you the next person? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> oh i guess i,          <EVENT WHO="S9" DESC="LAUGH"></EVENT>          what do i know?          <PAUSE DUR=":06" ></PAUSE>          okay mine's a very different presentation,          <EVENT WHO="S9" DESC="LAUGH"></EVENT>          but that's okay.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> (xx) mine (xx) do over again </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> oh it's just because it never was closed. i wanna put mine in down here... oh can you toss one back this way? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> oh Sirirat, oh never mind. </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> Chow already left. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yeah Chow's already home. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <EVENT DUR=":15 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> now this computer can be annoying. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i would love to go back... we were all over. we were in Bangkok (xx) i actually was in Chiangmai. i can never remember the name of this town it's a little town across from the (xx) it's way up in the north. Laos. but we were on the Thai side and there's a refugee camp (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> okay mine's saying it can't read my disk. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> uh'oh </U1>
+       <EVENT DUR=":07 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> did you use two thousand? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> um </OVERLAP1>
+          what version is this uh, PowerPoint, Julie?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> i'm sorry? </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> what version of this          <OVERLAP1> uh </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> it should have </OVERLAP1>
+          been ninety-eight is what i used and if this is        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> oh you used ninety-eight? </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> two thousand it still should, </OVERLAP1>
+          it still should read mine        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <EVENT DUR=":35 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> this computer (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah this computer's a little, been a little, little flaky </U1>
+       <EVENT DESC=":15 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> what about, Julie, uh somebody else... </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> well the computer's been acting a little goofy so... </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's confused because you closed the thing and her disk wasn't in there </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's saying that you had to put her disk back in cuz it's saying that it can't find </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> uh your disk actually is the one that was, not closed. your your presentation is the one that wasn't closed.          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> can </OVERLAP1>
+          i have your disk?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah. it's right there. it's under there </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no. i'm just making sure it works because i was panicked that it wouldn't. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> i don't think this is, what's gonna happen Becky </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you mess up my disk and you be dead girl          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> oh now nice </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> that's professional academic uh,          <OVERLAP1> discourse </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> and what did i say about name calling? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> well i mean if this doesn't work i can still just give this um, presentation based on the          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> what about </OVERLAP2>
+         </U2>
+         <OVERLAP1> handouts </OVERLAP1>
+          i          <OVERLAP1> gave everyone it's fine. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> yeah what about, if </OVERLAP1>
+          if we change the order of the presentations? um        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> well, this this um, what do you call it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> it          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> it maybe </OVERLAP2>
+         </U2>
+         <OVERLAP1> stalled again </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah          <OVERLAP1> this this </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i think maybe i'll bring my own computer. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> we can, you, we can put your presentation at the end but by that time somebody may figure out some kind of problem. well do you want to go ahead without the pre- Power pres- PowerPoint? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> well either way we need to, this computer's not acting all the,          <OVERLAP1> happiest so </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> yeah why don't you </OVERLAP1>
+          you need to shut down and then uh        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> reboot </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> take out my disk when you do it (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> it's gonna chew it all up </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> reformat it </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> you'll get this grinding sound </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> well would you like me to uh just give my presentation without the PowerPoint or          <OVERLAP1> would you like me to restart it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> well you you need it you i think it </OVERLAP1>
+          we should try, to do this, so that          <OVERLAP1> we can </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> it's not, </OVERLAP1>
+          it's not um what do you call it?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's not just your disk the whole          <OVERLAP1> thing's screwed up. </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> no it's just </OVERLAP1>
+          this this computer hasn't been happy we've rebooted it twice already today. before          <OVERLAP1> everybody got here. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> why don't we change </OVERLAP1>
+          um, maybe you can somebody can go to Joyce uh,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          and then, get the help, right.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> it's RealPlayer it's not, anything to do with the disk. </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> uh anybody has a serious problem if we if we run uh beyond uh twelve o'clock today?          <EVENT DESC="UNINTELLIGIBLE ANSWERS"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> i have to go put more money in the meter that's all </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay, well, then, that is the case maybe, Julie you can present next week, and then we can finish five, today. and then maybe you can_ if you're uh          <OVERLAP1> PowerPoint </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> i'm not sure </OVERLAP1>
+          exactly it's, necessarily my disk but, well if it is certainly.        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> let's wait for, somebody who knows about computer i know nothing          <OVERLAP1> about computer </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> well i do </OVERLAP1>
+          and it's,          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> you do </OVERLAP2>
+         </U2>
+         <OVERLAP1> not </OVERLAP1>
+          liking me so        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay, somebody who, who is liked by computer.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <EVENT DESC="SIMULTANEOUS CONVERSATION NEXT :20"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> this isn't Dogbert. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> this isn't Dogbert. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> the one that has a certain, reputation </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah Dogbert the uh. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> is this Dogbert? </U1>
+       <EVENT DESC="CONVERSATION 2"></EVENT>       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> i may, um, you know what i think i'm gonna go, find a (xx) team, who may (xx,) um, so if you need to go bathroom go bathroom right now and then          <EVENT DUR="SS" DESC="LAUGH"></EVENT>       </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> you won't get another chance </U1>
+       <EVENT DESC="2:07 UNINTELLIGIBLE SPEECH WHILE FIXING COMPUTER"></EVENT>       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> hi good morning everybody today i like to presents two concept, it's about the nutritional adaptation and cognitive representation of lifestyle modification. um, the reason that i went interested in these two concept because is uh, involved with hypertension. hypertension is an important risk factor for coronary heart disease, and stroke not only in the United State but also elsewhere in the world. my main area of interest uh, is the similarity and differences in cognitive representation of dietary behavior, as experience by (xx) or patient who have a normal blood pressure. and hypertensive adult female who are being treated with anti-hypertensive medication. cognitive representation of dietary behavior are enduring memory, or socially and culturally derived, lifestyle practices. despite the development of social cognition as (xx) of (xx) theory, for expanding dietary behavior and medical nutritional therapy little is known about, interaction, um, between cognition culture, and, uh on the uh cult- cognition and culture, uh on a cult- or intended that actually practices, after clinical diagnose of essential hypertension. two fascinating concept that i, am gonna explore for my future dissertation in nutritional adaptation and cognitive representation of lifestyle modifications. uh for nutritional uh adaptation, the theoretical definition is a state in which people consciously realize and remembers the usefulness of selectional choices, and plan to follow dietary instruction in order to (reorient) their health behavior. in this particular case the concept will be focused on the selection of nutritious food choices. to lower, blood pressure in hypertensive patient. (xx.) for operationalized definition, is an (education) of information processes of adaptive base for one's eating pattern after (being) guidance or counseling. nutritional adaptation can be measured by answering sixteen item, of the, questionnaire of the instrument development cognitive representation, of dietary behaviors scale developed by doctor Margaret Scisney-Matlock and you can also see in the, appendix A that i gave you in the handout. um how i'm how am i gonna measure? i'm looking for the mean total score of the sixteen item, and also all items will use a five-point Likert scale scoring, zero is not at all one is a little two is somewhat three is quite a bit four is very much. and two-point-five is (done) now you might, you might ask me this is a five-point Likert scale why uh where's two-point-five come from? actually, uh before this instru- uh, in the previous instrument, uh, my advisor she doesn't includes two-point-five in the, in the, in the scale, and then, in when she develop uh, rewires uh her instrument and she, add two-point-five because some people ask her about, uh, they have a difficult time to, to rate, the scale. and i'm gonna use uh all of these items some (in responsive) on these sixteen items selected. all items selected are positive statement. and, i'll give you an example one example of the selected item is is four to five serving of fruit per day. the subject answering very much is given a score of four, conversely the subject answering not at all is given a score of zero. for the definition of cognitive representation of lifestyle modification, theoretical definition, is a state in which people integrate their information processes for one's own lifestyle to enhance their well-being. or a (xx) that (xx) behavior in this particular case the concept will be emphasize on assessing heath behavior lifestyle in order to (ameliorate their) blood pressure... the operational definition for this concept is defined as a integration of people information processes, of one's own lifestyle in adaptive ways, in order to improve their health behaviors. cognitive representations of lifestyle modification, are measured by answering fourteen selected item of the lifestyle. hypertension cognitive represen- representation scale at the (xx) of my, doctor. Margaret Scisney-Matlock, i think it's uh in, she's developed in nineteen ninety-three and still revise it, uh in nineteen ninety-eight... i'm gonna measure by us- uh looking for the means total score of the fourteen item, and subject indicate that (he'll) behavior lifestyle please look at the appendix B, the item will use a five-point Likert scale again, some in responses for this uh fourteen-item together. and all items selected are positive statement. and the example of this kind of uh s- selected item is (xx,) the subject, answering very much is given a score of four, and a subject answering not at all is given a score of zero. come to uh, the use of the nine criter- uh nine criteria in in evaluating, adequacy of the operationalization of the concept. (xx) of clarity, precision, uh, reliability, consistency. meaning adequacy, feasibility, utility, validity, and consensus. please uh looking for the last page of the handout i gave you, um, because uh these two concept they're uh even though they're uh they (enforce) a different kind of measurement they have um, uh, some theme, the same theme but, some criteria, is pretty different so i'm gonna talk uh together. the criteria in terms of the cla- clarity, the nutritional adaptation, in terms of clarity definition, indicator and, operation will be focus on because uh nutritional adaptation is a new concept it's really difficult to fi- uh looking uh compare, any kind of definition, and i also talked to my advisor and she told me that i have to define it by myself. so, i tried to de_ you know if i put a cognitive representation of an additional adaptation you guys gonna ask me what Sirirat what are you talking about? because cognitive representation, sometime (field) is very abstract, and sometime it's very concrete so it's very difficult, so that's why i don't us- i, try not to puts the cognitive representation, uh, for my concept i just use nutritional adaptation. so for the lay_ it's good in terms of for the lay population to understand. and also for the cognitive repre- representation of lifestyle modification, i thinks, this concept is really difficult to understand for the lay population but i still like to (xx) cognitive representation, because this is my uh area of interest there. and i might use an uh an alternative option, i might use lifestyle modification for hypertension, and it's, i think it's gonna be me- much be, much more comfortable to talk to general population. in terms of precision, this uh, between the two of the, the C-R-E-B of uh, cognitive representation the actual behavior too, and L-S-C-R is uh lifestyle hypertension cognitive representation. uh these two these (xx,) this these (xx) can be observed measure and operationalize. in term of reliability... nutritional adaptation has an accep- acceptable reliability allowed quite (xx) and for cognitive repre- uh for L-S-C-R, has a test and retest reliability, from point-five-three to point-six, and internal consistency point-seven-nine. in term of consistency i thinks these two uh, uh these two uh instillment, use the same thing is uh frequency of distribution of letter responsive in selecting food, or performing their own lifestyle. in terms of positive statement. i think positive statement is convenient for me, to uh for calculation, in the data because if i also include negative uh statement it doesn't mean that i cannot do that but i just thinking that i need to record uh, the score first if i gonna include other items into, to measure, this concept. and in terms of meaning adequacy, i'm a kind of wonderings about terminology if you're looking for in uh at appendix A and B, appendix A talks about          <PAUSE DUR=":05" ></PAUSE>          for example. they talks about at least four to five serving of fruit per day. um general, idea you understand what it is but in terms of the practical (xx) this might have a problem because people have a different kind how you gonna quantify the number? so, the only, way for the C uh C-R-E-B, is gonna be read in terms of it has to use be the dash diet regimen. dash diet regimen is uh, they're actually approaches to stop hypertension. this kind of regimen is talk about uh, how they quantify the serving for example if i tol- i eats uh, fruit uh, if you eats fruit four to five serving per day, it's equal to one medium fruit. or six ounce of fruit juice, so uh in dash diet they provide information about these things so i think, it's compatible to use it toge- uh, together. because uh, C-R-E-B cannot stay alone. because it's gonna be have a problem. for, for responder. again for, L-S-C-Rs too, i think they haves uh they still have the same problem like, uh, C-R-E-B and i thinks uh, it's need additional guideline for clarification for the terminology. for example. they talks about uh, eat high fiber, okay if i thinks i eat high fiber so what's (help him.) how much i have to eat, and what kind of fiber uh what kind of food, maybe for the lay population might have a difficult time to classify, certain type of food. so, i thinks uh my advisor she mights have additional guideline but, i haven't ge- i haven't gone to, detail uh what she did right now. and also in terms of utility, um, uh fea- uh, for feasibility i thinks uh these both kind of tool, is useful for the clinical nursing practice and the community, best intervention. and for the utility, i thinks uh, it's interest- it's interesting for me because, uh it's can be applied with hypertension, in other culture after modifying and retesting. uh the instrument first. the validity for uh these two, for, C C-R-E-B, is for the content validity index is eighty-three-point-four percent, uh, the way that they test these two, they use uh (register) dietician, four register dietician and one clinical nurse specialist and if you look for look into the (xx) textbook they talk to they told us about the expert how we gonna use_ how the number of the expert that you think is gonna be appropriate, to uh, to evaluate as, the instrument. and for the, L-S-C-R, the predictive construct validity, has been used to test uh this cog- this instrument, because they're looking for the association of the L-S-C-R and the severity of the V-P, state. and if uh the significant differences among group, for the consensus i think the C-R-E-B two is acceptable, for the scientific community because now uh these (xx) already (xx,) and people i think people start to use, try to apply her instrument to to use, but the problem is uh, i have no idea whether how much people use, uh, in, different cultures. because uh i think there is no (full) standard measurement to compare, the instrument, uh to compare the instrument and this instrument is developed for culture appropriateness, specific to African-American and Caucasian-American. and i think in, i think in in the different way if i'm gonna apply these, these too and use these with my population in Thailand, i cannot just pick up the info- the tool, and bring it uh make it fit with my, population in Thailand it doesn't work that way. because for example the way that we eat is totally different.          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          we don't eat breads, pasta, or cheese. but we eats noodle. uh rice, we have uh, it's called uh, in- Institute of Nutrition uh Institute of Nutrition in Thailand and now we start to, investigate uh, the nutritional value, in is uh, in different certain kind of food. and in different region in Thailand we eats differently. so, in the future in uh the measurement, i'm gonna use this in terms of, uh, how can how can i gonna compare people eat in the different regions? and also i thinks the, for the some special consideration that i think i need to be careful is, like a bad translation, and also uh, bad translation uh i think i need a pilot study. to retest, uh the instrument first, and then i have to be aware about the vulnerable population because in Thailand most of the popu- populations are poor. so i want to make sure that i don't just pick up, uh the repre- uh, the, the sample but it's not be a represent for the real population of Thailand. that's it          <PAUSE DUR=":05" ></PAUSE>         <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <PAUSE DUR=":05" ></PAUSE>         <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> oh i (like the cartoons) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> oh i (xx.) </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> do you have any question or, any comments? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> i don't know. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> i have </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> do you, </OVERLAP1>
+          yeah, go ahead.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i just have a theoretical question for you          <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> uhuh </U2>
+          if someone has a cognitive representation of a good diet.          <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> okay </U2>
+          does that alway- or a good health behavior,          <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> mhm </U2>
+          does that always mean they're going to act out that good behavior (on their) diet?          <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> mm </U2>
+          cuz your          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          the operational definitions are based on, what they actually do. so that would be my question is, cuz i think a lot of people know what to do but          <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">           <OVERLAP2> no </OVERLAP2>
+         </U2>
+         <OVERLAP1> don't </OVERLAP1>
+          always act that way.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> the equation is like this uh, like the people why they cannot st- uh quit smoking.          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> mhm mhm </U2>
+          because uh i thinks uh i have to say that cognitive map is cannot transfer from a person to, to a person right? and i think its needs time and when people, i have no idea how, how how i'm gonna_ the only things that, the only way that i can do is i suggest, encourage people, and if they want and i have no idea. the time, when they gonna modify themself, for example my mom, she has hypertension, and i have been away for nine years. and she start until she start to realize, blood pressure is a pr- is a problem, and then she jus- uh suddenly she just change her cognitive map so, it's pretty difficult i think it's no matter what how, uh no better if you, got a high education, or low education the cognitive map is still a kind of, the abstracting and difficult to        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> it's putting yourself          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">           <OVERLAP2> yes. </OVERLAP2>
+         </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> mhm. </OVERLAP2>
+         </U2>
+          you might have a map of what, a good diet is but you don't see yourself as needing          <OVERLAP1> it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">         <OVERLAP1> you </OVERLAP1>
+          don't perceive it you know it but you don't perceive it.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> (xx)          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> um, i have a question um probably this group know better than i do but, could you explain to me what cognitive representation means with uh, plain English? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> uh cognitive representation is a collection, a feature, of the objects, in the brain, and sometime they might haves a network, they for example, can i just use the board? because it's a kind of pretty abstract for me </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> well you can just, probably everybody in this class knows          <OVERLAP1> and, </OVERLAP1>
+         <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+          i'm not f- uh, familiar with          <OVERLAP1> it so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">         <OVERLAP1> okay, </OVERLAP1>
+          it's the, just uh, if i have a represen- uh one representation for example, i have i mights have, a representation of food uh of rice, uh apple, oranges, dessert, this is a kind of uh, a poss- of the up- uh representation, and when you uh connect all of these representation together, like for example why people select to eat food. uh, different kind of nutritious food. they start to connect their, their representation and view and it's called cognitive map. i don't know whether, you guys understand          <OVERLAP1> what i said? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i think </OVERLAP1>
+          we've heard it before so we understand it but,        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> so how does it connect to uh, actual uh lifestyle, practice? because cognitive representation and dietary behavior are enduring memories, of the socially and culturally derived, lifestyle practices. they might just get stuck, feeling lost.          <PAUSE DUR=":04" ></PAUSE>          how that representation actually relate to          <PAUSE DUR=":09" ></PAUSE>          to the_ each representation, determine, e- each representation is enhanced by, uh repeated, memory, and then that dictate the practice or          <OVERLAP1> behavior? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">         <OVERLAP1> that's a </OVERLAP1>
+          part of the cognitive map.        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> so that's what you asked uh uh uh um Rebecca? uh the theory? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah just that          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> mine was </OVERLAP1>
+          was more of um i, i thought you could have, my my thought would be that you could have a cognitive representation of something,          <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> mhm </U2>
+          and still not, behave,          <OVERLAP1> in the correct way but if she sa- but may- </OVERLAP1>
+         <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> right that's my question i- how does it </OVERLAP2>
+         </U2>
+          but i can see Sirirat's point that, that if, if you could maybe have it but maybe you're not in it or your behavior somehow isn't in it, i'm not sure i mean that's a good question about,          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> right. </U2>
+          if you really have a representation that says you should eat this way would you eat that way?        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah well in it i- well not in it is a point i think uh you tried to, uh, you know uh, uh, intervene or, we can say manipulate, whether you have that in your cog- you can recognize it or even enhanced by repeated memory doesn't necessarily um dictate your behavior. so you know how does it come in to, well i guess it's it's, it may not be uh </U1>
+       <U1 WHO="S8" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> to me it seems like um, we have cognitive representation but we have a cluster,          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          different cluster within the cognitive representation but which one is gonna become more important in, that that's the key.          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          you have, (xx) everything,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          clustered there but which one is          <U2 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> stronger yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> become more </OVERLAP1>
+          stronger?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah which one's more relevant self-relevant so that might be          <U2 WHO="S8" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> yeah (xx) to be equal to            <OVERLAP2> what (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's more </OVERLAP1>
+          self-relevant to be less stressed and comfortable and it's more stress to eat well so,          <OVERLAP1> that might be (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> and eating chocolate </OVERLAP1>
+          is a strong representation.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yup. it's gonna override that healthy uh,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> don't you want to yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">         <OVERLAP1> so the way, </OVERLAP1>
+          so the way that she tried to explain is to build up. the part of good, uh eating          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> you try to make that stronger </U2>
+          represen- cognitive representation to try to          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> so </OVERLAP2>
+         </U2>
+         <OVERLAP1> change </OVERLAP1>
+          their behavior what i, i take away from          <OVERLAP1> from it </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> so </OVERLAP1>
+          making an intervention based on the theory, don't you need to identify what the cause of the, um, enhancement or, you know you may have that uh, representation but you really don't associate yourself, with that representation. i mean what is the um, what, what factor um, what is the reason you feel the chocolate is a strong representation?          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> but that might be a whole research project </U2>
+          well, yeah, the the the reason i ask this question uh particularly in your uh, uh direction, is some, um, the, people's belief about the food and uh illness, um differ tremendously culture, by culture. uh i don't know how Thai people believe, first of all, what is their perception of illness? what is their perception of the hypertension? are they considered, uh do they consider hypertension as a one of the illness, or just uh, aging process? do they uh, in fact connect that hypertension to food? they may think that it something related to, bad behavior even if they consider that as a part of aging. or they may not consider it as a disease at all. that's my question.          <OVERLAP1> how yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">         <OVERLAP1> i have to say that uh, </OVERLAP1>
+          uh now i have uh, i come up with two ideas, because i have to say that some people, might not think that hypertension as a disease because actually it's just a contributing factor, and cause to coronary heart uh disease. but of uh, for the people who get a high education, uh they, i thinks they much more, consider hypertension as a disease. and they start to, pre- uh, modify themself their own lifestyle, to prevent hypertension. but, at the same time we have other population, that, they might not perceive hypertension, as a disease.          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> right. </U2>
+          so it's pretty difficult to, so the way that if i'm gonna measure, i'm gonna use, this instr- instrument with the population i have to, uh realize about demographic factors too, because this thing is gonna be influence on the way the people gonna answer the questionnaire. so        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay, are we, i think we have to move on to the next right? well thank you          <U2 WHO="SS" NSS="NS" ROLE="SG" SEX="U" AGE="0" RESTRICT="NONE"> good job </U2>
+          yes.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> great visuals.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> fascinating.          <PAUSE DUR=":08" ></PAUSE>          so the next is uh, Becky.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> great. </U1>
+       <PAUSE DUR=":49" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> how do i get this thing out of this view? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> do you wanna do slide show? (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> oh there it is i just couldn't see it on there          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> just use it </OVERLAP2>
+         </U2>
+         <OVERLAP1> with all that stuff </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> (at arms) </U2>
+          okay, little bit of computer illiteracy but        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay Nancy could you? yeah </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> um for those of you that um, have been with me all along most of you, you will see a little bit of a change in this presentation, um i have always been interested in cognition and the environment. so what i've done is sort of narrowed things down and broadened other things, and i'm looking at a little bit different aspect than i was last year. um the two concepts that i've chosen to look at are spatial mapping and life-space mobility, um, spatial mapping, uh we think of th- of that um, in terms of the hippocampus i'm gonna go a little bit into theory just a tiny bit to set the stage here, um basically what spatial mapping is is the ability to map space to make a cognitive representation and using Sirirat's words of a space. um what the theory behind this says is that uh we have place cells in our hippocampus that actually fire, when we get into a certain space. and that when we're mapping a new space, those place cells create a map of that space so the next time we come, those same place cells fire, and we know where we are. the important things to take away from um, the the literature on spatial mapping is, that it's very flexible and this allows us to function in the world we live in, and th- the example i can give you is when i go into the diag, i can enter the diag from any different direction and i know where i am. so it's very flexible and it allows us to find our way in environments, without having to to look at it from any particular direction. so it's not dependent on every single cue being there. um as in and one of the other things you think about is if we close our eyes we can sort of envision, certain environments. um i think of it as a looking-from-above view, where we don't really have to be in that environment in order to s- to have a vision or a map of it. okay so, and it's essential for world navigation, all creatures, have some form of spatial mapping. and there's been a lot of work done in the in this field. um i do have a theoretical definition that's taken from, um, a lot of the animal, literature and the scientists that work on learning and memory, um this is the one that i've chosen to use they're they're all i would say there's a high degree of agreement in the literature about what spatial mapping is. um          <SEG TYPE="READING"> spatial mapping is the ability of an individual, to keep track of his or her location in space by remembering where he or she has been. it involves formation of a spatial memory, and recall of the memory at a later date and time. it involves both cognitive and behavioral aspects... </SEG>
+          um for measurement how people measure, somebody's ability to map space, there's been a lot of different ways in human beings, the one way that's been the most common, is pen-and-paper-type measures, and what they tend to do is to use certain features of spatial mapping in the pen-and-paper test, one that um, an example of one would be, the ability to rotate an object so if you had an object, um and it's rotated to to a different view do you still recognize what that object is? so it's recognition of an object when it's been rotated. um there's a lot of different measures um they even include some mathematical abilities when they look at spatial mapping because numbers are sort of a spatial, concept, and then there're uh the other type of pen-and-paper measures are geographical tests, uh there's route tests, that test somebody's ability to memorize a route, and there's geographical landmarks, where they give you like a picture of the United States and you, tell where major cities are. uh there's some problems with pen and paper instruments as far as how um i'm interested in looking at spatial mapping. um really what it what it's measuring is recall versus encoding of the environment and i'm really much more interested in combined encoding and recall. um, it's i'm interested in active spatial mapping of a new environment versus recall of an old memory. so memory for places that, you know the city cities in in the United States or whatever is not really spatial mapping, and being able to recognize a rotated, object is also, not a very good measure of spatial mapping. um the gold standard is the Morris water maze task, for measuring spatial mapping, and i put this          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          those of you who are in Diane Terryman's class with me will appreciate the rat.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          um the Morris water maze task is the gold standard in the literature for measuring spatial mapping the only problem with it is it measures it in rats, and you cannot um dump, you know older people in a water maze and          <EVENT DUR="SS" DESC="LAUGH"></EVENT>          (xx) spatial mapping         </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> darn </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> you could try though          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          you'll have hard time to go through I-R-B          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> well there's a lot of a lot of good things about the Morris water maze, um it um what it actually is it's a tub of water, um they usually color the water opaque and they put a little platform under the water and the little rat has to find the platform. swims around in the water and finds it. what they do is they measure the rat's ability after learning trials to find that hidden platform. so the other thing they do is they take away certain distal cues, to see if that rat actually has a cognitive map cuz one of the things about that cognitive map is, that you don't have to have every single cue in place right? so they can do a lot of different tests they can look and see how does that little rat search for that platform? they could do a lot of things to to uh measure, um cognitive maps in the Morris water maze, they can control the environment really well by putting in just the cues they want, they can assess all these different factors, um with the Morris water maze, so it's unfortunate that we can't use it in people. um, it's really a challenge to measure spatial mapping in elderly subjects which is my, um, area of interest, and i'm really interested in community dwelling, elderly which also makes it really kind of complex. um, we i- things to take into consider are motor and perceptual problems that elderly people can have, and how to create a real environment that is a controlled environment if i want to do an experimental type of test, um it could be very expensive, and, th- one of the biggest challenges is that, you know in rats we don't have to worry about super complex, mental abilities. but we do with, with human beings and, being able to tease out verbal learning strategies such as rehearsal and memorization based on verbal strategies versus actual hippocampc- hippocampal place cell activity is gonna probably be a challenge. one of the new things that's come out is virtual reality mazes where um, i have this little guy go into the computer because what they do is they try to create a simulated real environment on a computer screen. um the pros um are that they do they try to simulate a real-world spatial task, and i've actually logged in and seen some of these environments. and what they do is they have a person you can search around in this room, so they're trying to simulate a real, environment. it's very inexpensive it's actually free, to get the software, um you can measure very specifically how somebody went about searching, which is kind of a neat feature it's hard to do that in the real world, the con, the cons are that a two-D environment is theoretically different than a three-D environment. some of the things that we look at for a three-D, like a large-scale space, are that you can't see it from any one point in time and, you have cues that are around you, and it's it's not been, um, it's not real cons- um, consistent in the literature that this is a valid tool, and even the people that use, this, virtual reality say that they're not, a hundred percent positive they're measuring what they want to measure with it. the last thing is that computer skills are needed and since i'm interested in elderly subjects, that's something that could be a a roadblock to using, the computer, for that. um so i, i what i came up with, um thanks to some of uh, Lan's work that she actually showed us in Dr Terryman's class, was, the idea of a three-D human maze, which is really quite based on the Morris water maze without water, what it is it's a large tent-like, environment, that has cues placed around it, and you you do your experiment with the person having to replace, a test object in the same location. and you can do some of the same, types of tests that you can do with, um the Morris water maze you can remove certain cues and see if the person can still replace the test object, back where it originally was located. um. and you know the environment it's sort of a a shape that you can't, that would be not able to discern just based on the tent environment it would be more of a uh, uh the cues that the person's having to make a cognitive map with. so uh my operational definition of spatial mapping, is uh, the ability to measure, um, spatial, i should probably look this up cuz i didn't write it real well here did i? okay... wait just a minute okay. spatial mapping is defined as          <SEG TYPE="READING"> the ability to recall a previously learned environment, as evidenced by performance, in a human analog of the Morris water maze as described by Newman and Kazniak, </SEG>
+          um subjects will learn the test environment in a practice septi- section with the uh test object in place and then they'll have to replace the test object. um the measure is actually, i'll show you i've made a little diagram here. um the way that the measurement is conducted is, first there's where their original position of the test, object i- wh- is is which is actually a pole. okay and then, wherever the subject puts the pole during the trials, and then the measure's actually taken, from the center of the room, there is an angle, score. and that angle is the error score. and that's the measure, that i'd be looking at, for errors in spatial mapping. okay. as far as the evaluation of this definition, i think it's clear and concise and it and it appeals to me because, i can get a mathematical, um, readable, measurable, uh, um, score for each subject. it's logical it flows from the literature, it's important to the field because we haven't really, done a lot of studies that looked at, abil- ability to make cognitive maps, in, human beings. there's been loads of literature on all kinds of animals all the way up through primates, and we know that this is a deficit that's consistently a problem in older animals. so it, it it goes to show that it's probably gonna be a problem in older human beings and how does that affect to their uh cognitive and physical abilities? um the val- there's a validity issue and this is really it's kind of like the cultural issues we've discussed in class except for on a bigger scale, and that is is maze-learning an adequate assessment of spatial navigation or spatial mapping in human beings? it is in rats, we know that and that and that other animals, however we humans have a much more complex brain. so as more studies are done that really needs to be looked at, and i think some of the ways we can do that is to look at um other types of deficits people have when they can't map like getting lost, for example. um that kind of thing okay. the second concept um how much time do i have left? does anybody know? anyone keeping track?        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> um yes, it's uh, now it's uh eight minutes. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> okay thanks is uh life-space mobility... okay? um uh when i started looking at_ what i really wanted to know is, how can we determine, how homebound somebody is, or how active they are in their environment how much they get out and about, and i started looking at things like mobility and what i find is that nursing tends to measure mobility in terms of functional status, and in terms of immobility. um (it kind of) measures S-F thirty-six and we also do measure i didn't put this on here physiologic measurement a lot of, different disciplines in the medical and nursing field, uh but how to measure the extent of mobility, that one was a little bit more difficult to find. um i did finally find after searching the psych literature a definition of something called life-space mobility. what that is is the spatial extent of mobility within one's environment. um there's different measures out there a couple different ones um, the one by May, is called life-space, um mobility questionnaire, and that one's within someone's home. and so it's specific for life-space mobility within a homebound, individual. um Tinetti's instrument life-space mobility, looks at the si- a similar type, um instrument is maze except it looks li- at it in an institutional setting. so more like in a nursing home. there's a lack of instruments, for the most part for looking at life-space mobility in the person's uh community. or community dwelling. i did find one questionnaire called the life-space questionnaire, it looks at life-space mobility for community-dwelling elderly. um what it does it's a just a questionnaire it has nine questions and it looks at the past three days of mobility, and they do have some reliability and validity measures that are all um adequate. the zones that are included are immediately outside of the home, outside of the home, then the neighborhood, and you can go on down and see they get gradually if you think about a concentric circle going out away from the person's home, that's what the life-space, questionnaire, looks at. the pros of using this questionnaire are that it's easy it's inexpensive, it's the only tool that's available for community dwelling elderly, and it does match with my theoretical definition, the cons are that, there's questionable, criterion validity. what i wondered is, it's only has nine points you get one point, and will it, will it actually distinguish between people's ability, uh to get out i mean especially if they only look at the past three days, i'm not sure how sensitive of an instrument that it is. um i've wondered if there's a weekly pattern to mobility especially in our elderly where maybe they go out every Thursday grocery shopping or whatever, and i wondered if only assessing on three days would, would not be a good i- good measure of what their actually mobility is. i thought also about ceiling effects -fects if they get all nine points and they do that in one day then that's all the nine points they get. um so i i wasn't sure that the way they scored it was good although i liked the zones. and i came up with some suggested modifications such as increasing, the, um seven day, the data collection to seven days, and doing a concurrent versus a retrospective data collection where you gave the person the instrument and told them to mark, every time they entered a zone. and then i also thought that, i would probably using this in the population i'm interested in remove the first zone, which i, which is actually like moved from the bedroom to the kitchen, you know and it just seemed like, it would be really difficult to do with people that were the least bit active. um i would probably change the scoring and have a total score, for um every day so they could get_ you know and uh, there's no ceiling effect at all as many times as they entered a zone they would get a point, and i would also suggest, increasing the number of points for zones that were further away, so we'd get more points for entering zones that were further out. so there's a lot of scoring changes although i do like the zones so, um, what i came up with for operational definition is the frequency of trips made within and outside of the home in specified zones over a period of seven days, measured using a modified version of the life-space questionnaire.          <PAUSE DUR=":04" ></PAUSE>          um i thought that my def- operational definition was clear and concise and logical, i liked it because it's a quantitative measure, um it's obviously because i totally changed what the life-space questionnaire how it was designed and scored, um it would have to have reliability and validity totally, retested. um it is consistent with the literature on life-space mobility, thank you, and i think it's a useful concept in nursing as we look more at, um how our elderly people are, um acting and behaving and it's almost a measure of functional status, you know i think we've limited ourself by looking at A-D-Ls. you know it kind of gives another, measure of how interactive with the environment our elderly people are. um i did think there's a potential for incorrect scoring that's a negative factor, because if if you have any cognitive impairment it might be difficult to keep track of marking that form every time you go somewhere. so. kay that's it. so, i have one minute left so i'm gonna go back and say something i forgot to say with the um, with the um, first measure of spatial mapping, there was some reliability and validity issues, with that that i didn't discuss mainly the reliability would have to be confirmed every time the instrument's used, and making sure that the measurement cuz it's a physical measurement, is measured exactly correctly, that the poles are placed in exactly, the_ from the center of the room the measurement has to be exact so with any, physical measurement like that it would have to be, uh reconfirmed every time it's used. so. any questions?         </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no it is a lighted tent, but it's a large-scale space in that you can't see the whole thing just standing in one place. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah like a more of an octagonal, type of shape and there's there's cues that are placed, throughout, the in_ tent-like environment. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> and then you have to go put it back. yes. </OVERLAP1>
+          yes.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> well, you know i thought about going into that more, but i think that's more a design of experiment, than defining operationalizing our concept, so i have to say i don't know yet.          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          until i, were to really get into design, i'll probably know by next week cuz i have to write that paper for Dr Terryman          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          so        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah usually what they do is they they, uh what they did in the original experiment was gave them a model. where they could actually see how it was done and they showed them until the person was able to demonstrate on the model, and then they then they actually let them practice it in the real tent. there's a lot of debate about whether or not you should let somebody practice. so, i i need to take a lot of the theoretical          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          stuff into, concern when i design that whole experiment. so        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> with spatial mapping, how do you account for the difference between men and women? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh. that's a good one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> oh that's a whole </OVERLAP1>
+          theoretical thing.          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's is, yeah that's kind of a, </OVERLAP1>
+          Julie probably can answer that really well by the way. there is differences and s- and sometimes, when we look at scores on uh on, certain types of spatial tests men tend to do better, however i don't really think we really have enough tests on spatial mapping ability to know that men test better than women. cuz we haven't done this sort of a test more than a couple times ever.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah and i suspect you're not going to find a gender difference in this test. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah i don't i don't know that we will. find much of a difference. </U1>
+       <U1 WHO="S10" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> actually i have two questions.          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          the first one          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> oh </U2>
+          is that, i just wondered if the concept, two concepts you chose are related to the bigger picture of your interest or          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> you just </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yes they are um i'm, what one of my, like semi-hypothesis i'll say, is that i wonder, i i'm really interested in environmental enrichment how enriched somebody's environment is, there's a lot of um, rat experime- experiments that show that if you have an enriched environment for an old rat, they will improve their spatial mapping abilities. and i'm interested_ they actually grow better, better          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> dendrites </U2>
+          dendrites. in their brain          <OVERLAP1> cells. </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> oh. </OVERLAP2>
+         </U2>
+          and i'm wondering if our if our elderly have an unenriched environment where they don't go many places, that's one part of it, and they don't have a lot of s- information coming in, and they're very closed in their environment, if they show deficits in spatial mapping, and which way that relationship goes do they not go anywhere because of spatial mapping deficits or do they have spatial mapping deficits because they don't go anywhere?          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          so i'm kind of interested in those r- that relationship.        </U1>
+       <U1 WHO="S10" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> the other of my question is that you said that you would, um modify the scale for the life-space mobility          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> to, </OVERLAP1>
+          from three days to seven days a week and then you also mentioned that the, you probably measure, uh, the this mobility each time the person enter the (xx) and then make a, and mark there but, i just wondered uh how then, that measure would be physical for that many people. they have to bring each, that zone the instrument every time, and then go this place and mark and go that place and mark, and i don't think that's a,          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> that </U2>
+          that would be, work i mean.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i think i would have to pilot-test it. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> but you could do          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> you know? </OVERLAP2>
+         </U2>
+         <OVERLAP1> something </OVERLAP1>
+          instead of pen-and-paper like a little clicker or something.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah, i think there'd be a way to design it,          <U2 WHO="S10" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> although </OVERLAP1>
+          that's why i thought i had to remove the first zone. um and it could be that i, that after pilot-testing it some of the zones get converged or, or combined somehow i'm not          <U2 WHO="S8" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> sure but that's a </OVERLAP1>
+          really good point.          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          that is.        </U1>
+       <U1 WHO="S8" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> do you a have a quick, something added to that but have you heard about pedometer? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> oh, yeah for measuring distance walking. </U1>
+       <U1 WHO="S8" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> yeah we we can, measure some, the mobility like a with the pedometer how far for today,          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          this person walked or something like that          <OVERLAP1> just just </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> i thought about that but i'm </OVERLAP1>
+          not as concerned about how far someone is actually moving their bodies themselves, i don't care if somebody's driving them or how they're getting there. it's more the getting outside of their own, home environment that i'm interested in.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> so you need          <OVERLAP1> sonar. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> okay you need </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> what's what's yeah.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i'm serious          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> imagine they wear a </OVERLAP1>
+          a little watch thing, and in their house their house they have the the,          <OVERLAP1> referent, and </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> they are looking, you are looking </OVERLAP1>
+          at the elderly more and more like a um, rat. you know        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no no no i'm just saying if you want to know, truly how far away, it would be a way that they didn't have to do anything that the, computer would say, they were,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> but it </OVERLAP1>
+          only works to a certain point.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah,          <U2 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> is there like a            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> i'm thinking that </OVERLAP1>
+          a lot of elderly are probably very mobile and go all over and there are lot that probably stay very close to home so, that's, that's the difference i wanted to pick up.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> that, that's kinda related to the question i had in thinking about this have you given some thought to your target, sample because, um, with both of these measures, functional limitations will affect, the results, um say that you have somebody on oxygen or somebody who uses a walker or somebody, who has other types of assistive devices and i was wondering if you had given any thought to, how they would be able to complete both of those measures it may be due to some other,          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> confounding </OVERLAP1>
+          variables.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i would have to have a very uh um stringent criteria for for a moment in this study. and, um, i would probably, want to avoid having a very heterogeneous group some people who could, were totally bed-bound and other people that were, um, you know, running marathons. so i would have to take that into consideration. that again is something that'll be in next week's paper for Dr Terryman,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          my experimental design, yes um there's a lot of concerns with how you do an experiment like that but i think the rewards of putting the effort and time into really good experimental design          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> are gonna be worth it </OVERLAP1>
+          with          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> that. </OVERLAP1>
+          so        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> the, the other thing i was wondering about theoretically the way the zones,          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          weighting the zones you have to be careful because, you could um, affect the theory, because of socioeconomic status. because if one of your thing is, outside of the U-S, if my socioeconomic status is low enough, i'm not gonna get that weight, but i might          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> that's true. </OVERLAP2>
+         </U2>
+         <OVERLAP1> be extremely_ </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U2>
+          you know what i mean? within the constraints of my socioeconomic status i might be very, active.         </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i thought about that too and i also thought about, what would probably go into the community senior center is a very engaging, enriching opportunity and it may only be two doors down from you, versus going to the doctor's office which might be a more stressful and less enriching type of experience.          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> like </OVERLAP1>
+          the hairdresser or something.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> their reasons for not leaving the house are safety yeah yeah yeah </OVERLAP1>
+          it's not that they can't, they choose not to because they're too afraid for their own safety.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> well and, and then there's_ the question is if you don't ever, do you lose some ability, to          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> navigate </OVERLAP1>
+          through space? is that          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          uh and that's a fundamental, thing you need to survive in the world          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          so        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> so          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> wow. </U2>
+          tha- that's uh that's sort of related i think the, difference between rats and human, in terms of mobility is that um, spatial mapping ability to expand or the intensity of the spatial mapping, may be one thing, but the other thing, uh that determine human how far the uh human, move, around, may may be related to, one's social skill          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          um, not only s- uh socioeconomic uh um, status but social skill. um, what is this uh, loner may tend to, uh stay or, maybe that's your interest you know          <U2 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> i'm interested in all that. </OVERLAP2>
+         </U2>
+         <OVERLAP1> is it a lack of uh </OVERLAP1>
+          spatial uh mapping, ability, uh leads to loner or if i- one is a loner therefore,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          as a consequence they lose the ability to uh um spatial mapping but,          <OVERLAP1> that's </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> there's </OVERLAP1>
+          it's a, pretty big it's a big, subject, and i'm i'm interested in_ what they use in animal literature they call it enriched environments, and they use it in baby literature too,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yup </U2>
+          you know how,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> cuz little kids (xx) </U2>
+          and i'm interested in that because i think and i talked last year a lot about environmental supports, and i think some people have a lot of supports, and, maybe they aren't good spa- at spatial mapping but they still get out and have an enriched, life and environment, but other people don't. and how does that affect them?          <U2 WHO="SS" NSS="NS" ROLE="SG" SEX="U" AGE="0" RESTRICT="NONE"> mhm </U2>
+          so i'm kind of interested in how these things all tie together.          <U2 WHO="SS" NSS="NS" ROLE="SG" SEX="U" AGE="0" RESTRICT="NONE"> yeah </U2>
+          and i have a lot of work to do before i get going on my dissertation.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> i think, i heard uh, someone in uh um, uh what is this uh uh department of architecture, um they when they build like a um retirement housing, or um the complex for different uh elderly care, they really look into that kind of the combination of their function, and also their uh social skill and, uh so that may be </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's interesting. </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> something yeah. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> great. um i appreciate all your comments that'll help me for my next paper          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> one step ahead okay well thank you very much... the next is, Nancy? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> is anybody else like boiling hot or is that like adrenaline? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> it's warm. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          it's getting          <OVERLAP1> warm. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> very warm. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> can i </OVERLAP1>
+          crack a window or something?        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> i turn off the          <OVERLAP1> heat. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> oh okay. </OVERLAP1>
+       </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> you can also open the window if you want </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> it's so cold and then it's just, so interesting </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U1>
+       <EVENT WHO="SS" DESC=":47 UNINTELLIGIBLE SPEECH"></EVENT>       <EVENT WHO="SU-f" DESC="SNEEZE"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> bless you. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> excuse me. </OVERLAP1>
+       </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> it might just have to be open for some reason (xx.) it's very slow. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah especially compared to my computer at          <OVERLAP1> home it's like </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> David (xx) </OVERLAP1>
+          never said anything when somebody um          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> right. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm. do you have any more          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> oh no </U2>
+          no we just ignore.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> this is the wrong one. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> there's a lot of superstition around (who uses it) uh, Eastern European </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> so- someone said this came from European language (xx)          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> huh? </U2>
+          which German or?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> this is the wrong one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> open yourself up for </OVERLAP1>
+          possession or something          <OVERLAP1> strange like that i forget the name of it all. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA">         <OVERLAP1> there was (xx) comes (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> oh we've just always </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> Melissa you got me so excited. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no you're not. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> (easy?) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah i just, pulled up the wrong one. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> oops. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> okay good.          <U2 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+       </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> well it's similar but it's, doesn't haven't the right stuff in it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> like some (of the title wrong) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> the title's not going to change at all...          <PAUSE DUR=":04" ></PAUSE>          there it is.          <PAUSE DUR=":09" ></PAUSE>          i hate using that little thing. oh. yes Melissa i liked Melissa's stuff because uh, it was_ there's similar components. i'm looking at what the components of professional commitment that impact nurse practitioner professional viability. and um i'm looking, part of this you'll have to understand i'm a year behind you guys,          <EVENT DESC="LAUGH"></EVENT>          so part of this is what i'm working on in eight-oh-one, and we're looking at_ particularly what got me interested in this is the barriers to nurse practitioner practice. currently there're (political tax and advanced practice nurses scope of practice) in the state of Michigan i don't know if you know this, two years ago the A- uh the Michigan Medical Society tried to open up Michigan's Nurse Practice Act. and they went to the Michigan Department of Community Health to try to do that. luckily we have allies there and they said no we're not gonna do it. that had huge implications not only for advanced practice nurses but registered nurses as well. they wanted to throw that supervision word all over the place. um, there are legal and regulatory battle uh barriers to advanced practice. this is um, some of the regulatory stuff is going away the um, recently we, we're allowed that all nurse practitioners, can get reimbursed by Medicare and Medicaid. but how that's implemented at state levels varies from every state. and some of it has to do with how the scope of practice is written for the advanced practice nurses, some of it has to do with legal regulations around the word collaboration. um many advanced practice nurses cannot get credentialed or directly reimbursed by indemnity companies or managed care organizations. so for example we can have Medicaid members but in this state Medicaid is all_ mostly managed care, and the managed care organizations, some are very open to um credentialing, and reimbursing nurse practitioners and others are not. and i won't go into the whole_ so the significance for nursing is access to care, um, as an impediment to health, the whole nurse practitioner movement started becau- in the nineteen sixties due to medically vulnerable populations. they specifically were, um the programs were designed so that nurse practitioners could provide primary health care for medically vulnerable. i know that it's changed a lot since then but that was the initial_ we do heath promotion and risk reduction, uh environments for optimizing clients' outcomes and this comes from, my interest in nurse-managed centers i worked in um started a nurse-managed center in the city of Detroit, and i'm working with the Michigan Academic Consortium which is a consortium, of four universities, in Michigan which have eight nurse-managed centers across the state. which you may or may not, know about. and it's a passion for making a difference does anybody know where this comes from? Ellis it's the readings from uh, from eight-oh-one.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> oh yeah. </U2>
+          conflict between nursing and nurse practitioners uh lead away from liberation. this has to do with uh oppressed-group behavior, and um while i'm interested in it i'm not going to make it part of my dissertation but it's something that you can't ignore. i think it's getting a little bit better and i think part of that is because of acute care nurse practitioners, working directly with staff nurses so there's a a less of that idea that, of um competition or thinking you're better and those kinds of thing it's more working together. my phenomena is nurse practitioners professional viability in economically pene- competitive and politically hostile environment, nurse practitioners' role in advancing the profession, nurse practitioners' participation in professional and social action. i felt really bad about using the word nurse practitioner exclusively, um i had advanced practice nursing in here because i do think more globally, but, they kept telling me no you had to narrow it down and so obviously i'm a nurse practitioner and that's where, um, my interest lies. nurse practitioner professional advocacy, nurse practitioner professional commitment. and nurse practitioner participation in health care public policy. these are um all issues that i'm really interested in... nurse practitioner professionalism um i use th- the definition of professionalism that came out of the, work of Hall, who's a social scientist and Snizek, who also worked on this but also uh certified nurse midwife that did_ used their models basically, um, to, to look at nurse midwifery practice.          <SEG TYPE="READING"> nurse practitioners therefore, hold themselves out to the public as possessing special ki- skills, have specialized education or training, a belief in public service, possess a sense of calling, have a sense of integrity and autonomy and regulate the practice behaviors of the group members. nurse practitioners' role in advancing the profession. nurse practitioners have an opportunity, with the changes occurring in the health care system to make positive changes, and to change the focus of health care from an illness-based model, to a more holistic and health-promoting model. </SEG>
+          this is one of the big um, features right now in health care um at the national level, looking, moving away from the illness model, the interesting thing is that um, medicine is saying oh yeah we need to, do more health promoting and risk reduction, and i think that as nursing we need to own that we've been doing this for a long time and it is our, our um discipline and our knowledge base... nurse practitioner participation in professional and social action. this is um, these next two are probably the area, i'm most interested in. it's nurse practitioners are in a position to politically advocate for those individuals with little or no access to health care. and that nurse practitioners working with nursing can push the current boundaries on nursing practice. um this particularly is that scope of practice issue because, what happens when they um, write a new advanced practice nursing scope of practice often, nursing comes along up with it and so it really expands even the scope of, of um, ad- registered nursing. nurse practitioners could participate in debates in policies, um Christine Gebbie she was the AIDS Czarina for a while, she really says that nursing um doesn't do this very well yet. and that we have a lot to bring to the debates and polit- policy decisions and that we all need to get on this bandwagon and really, take a look at the policy um, issues that_ even in your research that you're looking at... uh nurse practitioner professional advocacy. nurse practitioner groups need to work together to maintain the professional viability. uh nurse practitioner groups, and i'm talking about professional organizations, oftentimes want to maintain their integrity as a professional organization, beyond, professional viability. so they're more concerned with how do i keep my group together, than how do i, maintain the viability of all nurse practitioners. and to me that's a deficit. um nurse practitioner organizations must be willing to collaborate. nurse practitioner marketing have you heard about this? there's a group of um nurse practitioners that got together it's called The Think Tank it's out east, um there's actually a professor from U-of-M that goes to this she's a represe- representative of (naught.) and they decided to spend money on a marketing campaign so that a nurse practitioner name could get out there and they would know what it was, well there's a particular nurse practitioner organization that was involved and at the last minute decided no they didn't wanna do it. because they were afraid that um that group would become another organization that would pull members away from them. so that's what i mean whe- when what i'm talking about when i mean collaborate sometimes you have to do things that, might, potentially have bad effects for yo- yourself personally, but that you need to do it for the greater good. um nurse practitioners must be, uh put out their personal agendas aside to work for the good of the profession.          <PAUSE DUR=":04" ></PAUSE>          nurse practitioners' participation in health care policies and this is looking at sort of what politics are, um the art of politics is a dynamic and vital process, nurse practitioners need to learn more about the political and policy arena, nurse practitioners utilize the political and policy area in an unified fashion, and that we have to do something to offer the health care policy arena a view that is not often seen. um, and that's, that's really looking at our discipline and what how we view things a little bit differently. nurse practitioners are qualified to provide this different view because of their concern for the ve- medically vulnerable in practice. now i understand that this is my personal view because i've always worked in medically vulnerable areas, and that there are nurse practitioners that don't work with medically vulnerable, in the terms that i'm using it... the change of the United States health care system has set up conditions for competitions for limited health care dollars you can't ignore that. the economic competition is basically proba- in my opinion is what is driving, this attack on nurse practitioner practice. basically um, organized medicine and indemnity agencies ignored us when we were in rural areas and providing for medically vulnerable, but when we moved to Manhattan suddenly, this was a huge issue. um nurse practitioners are faced with job losses and tighter job markets Henry Ford Hospital just laid off all their nurse practitioners and the physician assistants, um in Flint the major health care institutions laid off all their nurse practitioners        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> i heard they did that here just a couple years ago didn't they? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> here um it's happening on a smaller scale they're laying off, they didn't lay off all their nurse practitioners,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          but they laid off a large percentage of them. part of it is the change in funding for um resident education and the effects it's having, but a lot of it also has to do with, um, using your power where you can. people with little or no health insurance are losing the few prospects of primary care with the closure of nurse-managed centers. an example of this is in Chicago, there was a huge nurse managed center which had been around for years, and um, medicine got involved at some point and somehow the nurs- nursing let them take over and then they closed because they couldn't um, afford to fund it and that's, basically because it costs more, for physicians to provide care than it costs for nurse practitioners. so in that area um, it was a huge blow to the community the center had been there fifteen years... this is my overview, um, that we've been in existence for over thirty-five years, and um i don't think we're taking this attack very seriously, and that we really need to get involved. so this is my model, it's a bridge, you guys all remember eight-oh-one,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> how could we forget? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's had um multiple,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          it's had multiple uh revisions, um, as you know in eight-oh-one you go through that          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          a lot        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> no i          <U2 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> say </OVERLAP1>
+          it's Golden Gate. it looks like the Golden Gate.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's the Mackinaw. come on we're in Michigan. um health care culture is the box around and, i um it's very interesting when i, when i tried when you even try to define culture it's very difficult to do, and i know it's spelled wrong by the way, um, and so i've decided that yeah i'm gonna acknowledge that health care culture's out there and it can have positive and negative effects, i think of it as the um, cloud that contracts and expands, um, and i'm just gonna acknowledge that it's there but i'm really not gonna look at it. definition. uh profession, this definition is by Hall, and you got it a little bit earlier, but i'm, defining it specifically as these components          <SEG TYPE="READING"> belief in public service professional associations autonomy, sense of calling and belief in self-regulation... </SEG>
+          professional commitment, um, it's very interesting for this because this is my definition of professional commitment. when i read the literature there was a lot of talk about um, commitment to organizations or organizational commitment there was even some about professional commitment, um they talked about existential stances and those kinds of things, and so i tried to think about, looking at my model what was i trying to say and this is it that professional commitment is advancement, of the nurse practitioner profession. it's um, on a professional level, being a social advocate for your target population but also being a political advocate, for your target population, and, um, and even going as far as being politically active for your own, for the profession. and that professional advocacy is standing up for your profession... so advancement is          <SEG TYPE="READING"> the mobilization of nursing and nurse practitioner strengths, working with nursing, proactive involvement and acceptance of responsibility regarding, the moving forward of nurse practitioner practice. </SEG>
+          professional and socia- professional social and political action is          <SEG TYPE="READING"> understanding the political process, actively participating in the political process and demanding an understanding of the health care system and the processes that, govern resource allocation </SEG>
+          because with- without resource allocation it doesn't matter if you understand it, you're really not gonna get anywhere. you gotta have the money to do it. professional advocacy, nurse practitioners working together through conferences professional organizations, to influence the health care policy in a direction that facilitates the viability of the nurse practitioner profession. so this is all about getting those nurse practitioner organizations to collaborate and work together, but also about getting nurse practitioners to join those organizations because we're not very good at that either. um viability it's composed of um_ and this is my definition when you look up viability, you really don't get mu- you get all the biological viability stuff you don't get anything about um, professional viability. and even in the articles they talk about it, but they don't really give a definition of it so i tried to pull together what i had read, and this is what i came up with. the use of knowledge and skills to positively impact the health care policy, get included in the decision-making processes, high high have high levels of patient community institutional satisfaction, practice autonomously i know that um Melissa likes that word, within our scope of practice, get direct reimbursement and prescriptive authority. politics you had to define politics and policy because sometimes we use them interchangeably but they really are different. politics is the dynamic and vital it's uh the process. it has um many pieces to it, and policy is the resource allocation it's the framework that tells us, how do we get things done, at that level. and so this is what um, my model looks like. it's um, it's probably fifteen or twenty years worth of research,          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          up there, and so what i'm looking at right now is where number one is looking at that, um linkage. professionalism, there are um, models as you know from Melissa out there to look at professionalism, and i basically used Hall's um, and Hampton's scale, i adapted actually Hampton's scale which means that i'll have to do some reliability and validity work on it but um, the piece for professional commitment, there was no scales for that obviously because, i made it up.          <EVENT DUR=":05" DESC="BREAK IN TAPE"></EVENT>          and they are doing testing on it already... so i have done a um, a small test on the scales, and this is basically the means and the standard deviations that i came up with. um this was an N of six, uh, with nurse practitioners. and they uh belief in public service, came out moder- that they moderately agreed sense of calling they moderately agreed professional associations they moderately agreed, i find it very interesting in this state where we're really having a problem with um regulation, regulatory laws and autonomy, that they were on the fence, about this which i think sort of reflects the um, the at- the environment that we're in right now. for professional commitment, um it came out better than i thought for the first time i'd ever done a questionnaire, making it up, um that i probably i'm pretty, i'm on the right track, to developing this questionnaire i think, um the one thing wh- is the professional social and political action it was moderately disagree and it was the way i worded the questions, um, and it's really interesting when you go through the process to learn, that really how you develop your questionnaire, really affects your results, and these are sort of what the uh, it's not a good uh, curve there but          <PAUSE DUR=":04" ></PAUSE>          this first one um, basically, this is the standard deviations looking at the advancement variable for professional commitment, this is professional advocacy, um and what i'm assuming is that when the means are really low here cuz i didn't do a lot of testing on this, is that those are really the ones that i need to look at possibly modifying or getting rid of. professional, adequacy really increases when i drop out a couple of um the bad variables.          <PAUSE DUR=":04" ></PAUSE>          and this was basically the demographics of the model test, um they were all Caucasian which is a, problem when you're using a, uh, convenient sample. and there was one PhD. and this is just to show you what the questionnaire looked like.          <PAUSE DUR=":04" ></PAUSE>          there's um huge issues with, obviously construct validity and reliability all that testing is still to come, it'll have to be done um, the original one by um, Hampton actually had a very good reliability, and uh, construct validity it's like point-eight          <PAUSE DUR=":05" ></PAUSE>       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> right. um, basically it's you know because, yes and no, is the answer.          <EVENT DESC="LAUGH"></EVENT>          basically i'm looking at individual and part of what i'm looking at is um, there's this whole theory around, policy advocacy that talks about nurse citizen, nurse uh advocate and nurse politician. and you really wanna see a range now everybody doesn't need to be a nurse politician and not everybody needs to be a nurse advocate but you'd hope that at least everybody, goes to the level of nurse citizen and that's sort of where i'm measuring that piece, and i read that article after, i um, did the questionnaire, so that's part of that... you know, looking at the reliability of the questionnaire and the questionnaire stuff but yeah it's a um, it's_ somehow we're gonna hafta measure how the contin- my continuum and how it's gonna be weighted.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> right. </OVERLAP1>
+          i'm really looking more at group participation i really am interested in the nurse practitioner organizations and how they can't function together. but the people that make up the nurse practitioner organizations are individuals.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no actually it wasn't (xx.)          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> it was, </OVERLAP1>
+          American Academy of Nurse Practitioners... and they're actually one of the biggest problems actually.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i'm not looking at commitment to the role. i'm looking at commitment to the profession... i think they're two different things.          <U2 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          i think that you could i think that if you, i would hope, that if you test it out on a professionalism scale, that's looking at your, that looks at the, commitment to the role that's the sense of um, calling and all that kind of thing.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no. i think that, that nurse practitioners are a part of the profession of nursing it's just that in this the it's the only way to look at this particular, issue. is to to tease them out. and that's where i, told you i got in this real problem when, i was using advanced practice nursing and,          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          and do i really wanna survey certified nurse midwives and C-R-N-As and you know community, master's prepared nurses and, acute care nurse practitioners, i mean eventually maybe but not, for this, particular, (xx,) i'm sure it'll change a lot in the next year.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> the other thing is there is some theoretical underpinnings it's really looking using um, uh social, social marketing and ecological, and sort of together.          <PAUSE DUR=":05" ></PAUSE>          lots of work.        </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> the last one for today is Lynne, then next week um, Julie you can, go </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> i can't believe i tested it on my, two different computers in my own house to see if it would open and it did, and it won't open here. </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> oh... you may wanna ask uh </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> i i'm sure that something happened to my disk on the way          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> over </OVERLAP1>
+          here it's just, one of those things        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> the other thing that you can do is yo- you can put your file on your server, as a back-up. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> i just figured if it opened up at home it would open here. </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> no then you know          <OVERLAP1> through, yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          i know. i tha- i that's why i didn't do it because i figured if it opened at          <U2 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> home </OVERLAP1>
+          it would open here.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> yes. </U1>
+       <EVENT DESC=":08 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> actually i might try to open it again. (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> don't you hate that? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> yeah i know i didn't feel like sitting on this for another week. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> here... oh did you close properly? (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> uh that's fine with me. as far as i can          <OVERLAP1> hear. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i hope </OVERLAP1>
+          i don't stand up for (xx)        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> (xx) measure? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> here's my paper. </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> the computer's been having computer problems. </U1>
+       <EVENT WHO="SS" DESC=":09 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> well it did help that the computer was bad. </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> have we started yet? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> we're gonna get done don't worry </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> this </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> looks good. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE"> although i wish i could have given my          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> presentation </OVERLAP1>
+          already cuz i could talk about all these contrast issues here.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> yeah. </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="SG" SEX="F" AGE="2" RESTRICT="NONE" FLANG="THA"> eight minutes, left. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> so you're interested in primary prevention.          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          correct? and and you see, and your, def- and your definition this is like a purposeful, thing that is done to prevent,          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          injuries          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> okay </OVERLAP1>
+          i'm just trying to make sure i understand.        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> and then yo- you included, by nurses in definition so uh what was the intention to, include you know the provider rather than_ yo- you are interested in outcome, but you define, the, the, person who can provide that with image. so so i- if the social workers or, um, health educators, provide same education uh material you don't consider that as a (positive outcome.) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> well i think you can um, in the definition of the term, you can still maintain some level of ambiguity or, abstract uh, and then, you know when you come to operational definition, or design, you can define you know the (xx) and for your case, um the nurses provide these care. (but i) don't think, you wants to well unless the, um the nurses, as a provider, are key to your concept or the, the phenomena, and i just didn't think that was a key. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> (as if) allergic reaction.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> it's a different </OVERLAP1>
+          level you know you have to          <OVERLAP1> uh uh like i said to Melissa's </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          uh, you know the when you th- the definition itself, particularly when you're, uh moving into sort of uncharted uh territory, definition must be intuitive. and then uh when it comes to the different level, actual design or, um, the accessible population. and then uh,          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          the, then actual sample you are getting. then you can add the layer of the specificity, that eight-oh-one might have required. but it's not just uh, one flat even dimension.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i have uh, i was thinking about your injury prevention,          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          i think about how nurses work, i wondered, if one place to look too might be, and i'm not in pedia- pediatrics you know i'm at the total opposite          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+         <OVERLAP1> end, </OVERLAP1>
+          but is there standards out there for educating people, of um children and families for injury prevention, because if there isn't standards is it reasonable to assume that someone would actually just do it on her own?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> i just </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> isn't it </OVERLAP2>
+         </U2>
+          think it'd be kind of neat with_ if you had, at the age of three children should be taught about bike helmets and they probably have that somewhat,          <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          but i wonder how much that's really ingrained into, pediatric nursing. because if it was, then it seems like it would be more like built into their practice.          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> and so </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> well isn't it, isn't it addressed in help_ i think injury prevention is addressed in Helping People two thousand and ten isn't it?          <U2 WHO="SS" NSS="NS" ROLE="SG" SEX="U" AGE="0" RESTRICT="NONE"> yeah. </U2>
+          so usually from that will flow dollars and from that might flow more standards and guidelines and and um, intervention strategies because, they can get funding for it.        </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="SG" SEX="U" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> well it's also </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U2>
+          legislation.          <U2 WHO="S4" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> right. </U2>
+          i the state here we now have a bike helmet law that says if a kid's on the back of a bike and he's, under the age of five he has to have a bike helmet on.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you'll be happy to know that, the only person, in my pediatrician's office that does, any injury, prevention teaching is          <U2 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> the nurse </OVERLAP2>
+         </U2>
+         <OVERLAP1> the nurse </OVERLAP1>
+          practitioner.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> the nurse </OVERLAP1>
+          doesn't do anything except shows them the office and gives a shot. so        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> um family practice physicians usually, use you know the guideline issued by, American Pediatric uh Pediatrician uh American, what is the, American          <OVERLAP1> Pedi- </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> American </OVERLAP1>
+          Academy of Pediatrics.        </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> American Academy of Pediatricians they have a set of guideline, for injury prevention. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="ALL">RESTRICTED</U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SG" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NNS" ROLE="SF" SEX="F" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay, so the next week uh start with Julie and then Nah-mee Lau- uh Laureen, Junah, Jermporn and then Ranlan. okay. </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

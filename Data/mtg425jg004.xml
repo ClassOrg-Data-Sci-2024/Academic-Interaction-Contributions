@@ -1,0 +1,1319 @@
+<TEI.2 ID="mtg425jg004">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Natural Resources Research Group Meeting </TITLE>
+         <TITLE> Rackham Div: BS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 9130 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> MTG425JG004 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="83">             <DATE> March 21, 1997 </DATE>
+             <EQUIPMENT>               <P> Sony Analog Tape Recorder </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Elizabeth Axelson </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Bret Lucka, Jesseca Long, Janine Ovens </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Janine Ovens, Rita Simpson, Amanda Jones </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Final Editing, 2/3/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">MTG</TERM>
+ <TERM TYPE="ACADDISC">425</TERM>
+ <TERM TYPE="PARTLEVEL">JG</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">BS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="4"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="5"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="JG, Geoff, Student" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S2" LANG="NNS" ROLE="JG, Julio, Student" SEX="M" RESTRICT="NONE" AGE="2">           <FIRSTLANG> SPA </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JG, Martin, Student" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S4" LANG="NNS" ROLE="JG, Hiro, Student" SEX="M" RESTRICT="NONE" AGE="3">           <FIRSTLANG> JAP </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="JF, Unknown" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="JG, Students" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> SNRE Small Seminar Room </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> well, is everyone happy with if i_ you can look at what i've already started, to write up for the problem statement,          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          it's on, the copy that Hiro has.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> we can always add, and          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          so yeah i think        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it's right there </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> i think one person, in, in this case you,          <OVERLAP1> you, </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          you you, have a good idea          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          of what the,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> situation </OVERLAP1>
+          is, what we want (it to sound like)        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> and it's only a draft (so you know) if,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> sure </U2>
+          somebody really          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> and </U2>
+          disagrees with          <OVERLAP1> (me) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> i just </OVERLAP1>
+          don't_ yeah i just don't wanna,          <OVERLAP1> make </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> and the </OVERLAP1>
+          more we the more we say about it the better        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm...          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (i think) (xx) </OVERLAP2>
+         </U2>
+          i mean please, whatever i write, you know please comment on anything that you don't agree with i think should be be          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> in </OVERLAP1>
+          there... cuz i'll be putting words in_ i don't wanna, put words into people's mouths that they don't agree with...          <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> um, </OVERLAP1>
+          okay        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, we hafta work on our goal, too and maybe we should do that as a group because Glenda had, the good point that it seems to presume, um, presumes that restoration, is... is a definite outcome.          <PAUSE DUR=":05" ></PAUSE>          and i tried, working on it last night and i was getting nowhere.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> it's just the first sentence she doesn't like. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, i- but i mean, a- she_ it's not that she doesn't a- it's not that she doesn't like what we're saying it's just how we're saying it... we've got to, sort of um... put a spin on it that is more open-ended.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          um... and it's kinda hard or i was having trouble without losing the integrity of what we were saying or sounding, you know        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> mhm, yeah but (isn't it...) G- Glenda really has a problem with it? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i was um let's see, what i so what i tried to do was to work from our from the problem sorta the problem statement, into a goal. and, we have a sentence in the problem statement now that says, that identifies MEANDRS' goal,          <SEG TYPE="READING"> as to improve the diversity and quality of fisheries and wildlife habitat as well as the aesthetic and recreational quality of the river, while minimizing the impacts to the riparian land noter- owners and agricultural interests. </SEG>
+          and then we say in our, our objective is sort of to provide, oh, material_ you know provide stuff, to MEANDRS,          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          and, that MEANDRS doesn't have the resources to undertake it.          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          and so i was trying to sort of combine those three things, into our goal, that we are sorta serving as, um, you know that we're gonna, you know provide this information, um, you know, to assist MEANDRS, you know in their sort of in their goal to improve, this that and, the other thing. um i don't know h- what you guys think about that, that approach.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> (i mean) i think it doesn't, it doesn't a- address that, that, Glenda's concerns.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          i think,          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          i think what she wants uh i- is to, to more specifically say something like, in g- in nice words, that, we will be be presenting them with, a package of information, and that they could do... with it, as they please. basically.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          and they can in- they can_ yeah basically i- tha- that, so, that way we're objective we're, unbiased we're, detached from the,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah, </OVERLAP2>
+            that's good          </U2>
+          whole thing we don't, say con- uh restoration is good restoration is          <OVERLAP1> bad </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+          nothing        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm, i can't find something </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what are you looking for? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> something that i wrote. </U1>
+       <PAUSE DUR=":18" ></PAUSE>       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> why don't we just, why don't we just define, as our goal </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> well, i think one way to m- maybe make it easier is, in the, problem statement we defined, MEANDRS' objectives, and i and i think that's good. and i don't think we need to really rehash those in our goal.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          um, so you know maybe we can just say, given MEANDRS' goals, as stated in the, or as described in the problem, or in section, one-point-one or whatever (of) the problem statement, um... you know our, the purpose of this project is to, um          <PAUSE DUR=":05" ></PAUSE>          to to explore, the option of restoring MEANDRS,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          or restore, the watershed, um... something like that.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> i- i- if we just eliminate, the part of the goal, of the          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> MEANDRS, </OVERLAP1>
+          from here, you know...? the part of of of          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> what </OVERLAP1>
+          they do, you know? i think we, we we we, have (removed) (xx.)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay.          <OVERLAP1> so you would just </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> removed (the) b- </OVERLAP1>
+          the bad, part.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> so you would just say m- </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> instead of, you know to assist them.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yep </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          let's not assist them let's just, give them the thing.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">           <OVERLAP2> (you know) </OVERLAP2>
+         </U2>
+         <OVERLAP1> so just, </OVERLAP1>
+          provide          <PAUSE DUR=":05" ></PAUSE>          well        </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> that doesn't, look good </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> see that was the problem i was having. when i would just try to take it out, then you would sort of lose the          <PAUSE DUR=":19" ></PAUSE>          how          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> 'bout if we just </OVERLAP1>
+          took a whole different slant and said, something like the goal of this project is to evaluate, the ex- you know is to evaluate the existing conditions, of the watershed, predict, possible change i- predict changes, that reha- rehab- changes from rehabilitation, or, predict changes that, that ma- that could occur, from rehabilitation, and th- and the, a- pros and cons, of those changes, on, the economy, ecology, and social, structure.          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          and then to provide this information,          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> to the            <OVERLAP2> MEANDRS </OVERLAP2>
+         </U2>
+         <OVERLAP1> u- </OVERLAP1>
+          to the MEANDRS in the form of a, feasibility, evaluation or feasibility assessment.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> sounds good. i like it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> does that sound,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          better?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> (yeah) </OVERLAP1>
+          just, just no way around, trying to work this out        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> let me just </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> rephrase this </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> let's just write it up here or something so we can, take (note of it) so </U1>
+       <PAUSE DUR=":11" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what is it? to evaluate existing conditions or,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          (we) can change it        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> or assess </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> or, yeah, i think assess.          <PAUSE DUR=":04" ></PAUSE>          or identify        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> you want identify? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i don't know... assess kinda sounds like you're gonna, judge it </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yep          <EVENT DUR="1:16" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (from future) rehabilitation effort?          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um </U2>
+          maybe?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> n- well then that's getting into the presumption, (you know) if you say          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">           <OVERLAP2> that rehabilitation's (not important) </OVERLAP2>
+         </U2>
+         <OVERLAP1> future rehabilitation, yeah, that's why i did_ </OVERLAP1>
+          just ended it there,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          i thought that was more          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> open-ended </OVERLAP1>
+         <EVENT DUR="2:48" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          (anybody can...) any wordings that people_ i mean          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um </U2>
+          i p- i put in parentheses these words          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> i wasn't </OVERLAP1>
+          sure i just, those are the things that came in my head i don't know if (xx) thought        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i came across um, i know we had problems with pros and cons before          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          what about practical possibilities and limitations?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i don't know, it was just another </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> practical opportunities? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> possibilities. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> two Ss? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> uh yes </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (okay)          <EVENT DUR=":12" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> so_ or maybe you know even just possibilities and limitations or, something i don't know. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um          <PAUSE DUR=":44" ></PAUSE>          what do you guys think? does that, does that, get away from the presumptiveness of...        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah we're not biased now.          <PAUSE DUR=":05" ></PAUSE>          i just think to go on and on and on        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah          <EVENT DUR=":09" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> what is a feasibility study? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it's... i mean i i think you can- i don't think there's any set, definition of a feasibility study but essentially you're just identifying, the limitations and, constraints, of a of a proposed, um, a you know proposed project, to determine whether or not, it_ you know and then, depending on what your_ you consider your your ultimate constraint, is it financial? is it, public acceptance? i think it's, y- you know based on your constraints, can can this project be done? </U1>
+       <PAUSE DUR=":21" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i was thinking we could even maybe just cut the middle sentence out.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          because, that's kinda all within predict potential changes.          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> mhm </U2>
+          maybe we could just predict potential changes, to          <PAUSE DUR=":04" ></PAUSE>          the ecology economy and c- communities, um they m- that may result from rehabilitation.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> or you know we could, we could essentially leave, leave this out.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah cuz            <OVERLAP2> we're </OVERLAP2>
+         </U2>
+         <OVERLAP1> for </OVERLAP1>
+          the objec- and leave that as part of our objectives.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, i think,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> and then, </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think </OVERLAP1>
+          that's good. just broaden        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what if we put in here to predict, potential changes, you know, limitations, and possibilities? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i, i think, like if we're gonna do the whole like start narrow and and, and expand as we go out if we just leave it as, potential changes, um... because i think the limitations and possibilities          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> or constraints </OVERLAP2>
+         </U2>
+         <OVERLAP1> are enough to like, </OVERLAP1>
+          or constraints, um, um i think that's sort of if we leave in the, the last sentence in the form of a          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> feasibility </OVERLAP1>
+          assessment,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> th- that's </OVERLAP2>
+         </U2>
+         <OVERLAP1> (that) </OVERLAP1>
+          kind of i- implies        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> that's including, this? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. i mean that's just my take on it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah that's what i </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> that's valid. </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> what i think, i- is that feasibility encompasses, most of what is there you know </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mkay </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> cuz i mean, the first sentence </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> so we say the          <OVERLAP1> goal is t- </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> (the) goal </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i mean the first sentence is basically our goal is to like,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> predict </OVERLAP1>
+          potential changes.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          and then give it to a_ give 'em a report and, educational material.        </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> identify, i don't like the word identify          <OVERLAP1> there. </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay, </OVERLAP2>
+            okay          </U2>
+          ident- cuz i see like, i- i- identify as like... like pinpoint a couple, pinpoint a few, aspects of the thing. do you see what i'm saying?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> (xx) </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> uh... oh usually my English is, not,          <EVENT DESC="LAUGH"></EVENT>          so good because i          <EVENT WHO="S4" DESC="LAUGH"></EVENT>          i think the perfect word that i, pictured there was assessment.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          and, but then, Martin says that assessment implies, a judgment, component        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> the problem is is that, when you get into syntax, it becomes, whoever's reading it is gonna interpret          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> things. </OVERLAP1>
+          it's just exactly you and Martin, interpret assessment differently, um and an- int- in- and um, interpret identify differently. so, it's gonna be hard when you get into those words like that, it's sorta hard, to make sure that you know that, that that word is gonna mean the same thing to everyone, who reads it. um... consider? that sounds a little fluffy.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (is to) describe, or,          <OVERLAP1> research? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> yeah i think </OVERLAP1>
+          describe is better.          <OVERLAP1> (write that down.) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> research, </OVERLAP1>
+          describe        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> but describe also also implies, mm, basically that all the information is all the things that, are laid out right, and we could come up and, describe them. what about determine? no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> determine's very, rigid.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          we may not determine it you know, but we may come up with a lot of        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> hm examine. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> examine? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> that's kind of like          <PAUSE DUR=":09" ></PAUSE>          i kinda like examine though.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it is a little bit better i would agree.          <PAUSE DUR=":06" ></PAUSE>          okay. you like examine? what does it mean wha- what does it mean to you, examine?        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> more like explore </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> how 'bout explore? </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> what about analyze? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> that's very </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah that's </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> uh </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> explore's kinda neat. explore to me is more of a journey, it's kinda like, you're, uh, you don't know what you're gonna find, you don't know, you know and there's like sort of no defined end point to exploring it's just... examine when i think of examine i think of, someone looking under a microscope.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+         <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> okay </U2>
+          alright? so almost that's sorta like the thir- or a doctor examines          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> you. </OVERLAP1>
+          um, describe i think of sort of, being more literary, that is, the verbiage that you use is is is descriptive, um is is conveying your senses into, into language.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, i don't like the last two.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> wha- describe and research? </OVERLAP2>
+         </U2>
+         <OVERLAP1> wha- describe and research? </OVERLAP1>
+          yeah i'm, (kinda) like... um        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> you know we can also we can digest this for a little while          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          put a word in there, for now,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          then if we think of something better,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          or change our mind        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> let's just put explore in there </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> you </OVERLAP1>
+          guys have a preference, right now?        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          explore (xx.) yeah, i think explore is          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> Hiro, do you have this_ </OVERLAP1>
+          you like          <OVERLAP1> explore? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> i th- </OVERLAP1>
+          i think, al- all the w- all the words, are uh (xx) (for me.) but uh, um, i u- i, i understand the difference of meaning, so, but uh, so... the choice of words, choice of words, um, i- pretty exchangeable,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mm </U2>
+          so        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, um          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> so </U2>
+          of these two do you have a preference?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uh, um... yeah, of course i have uh, my favorite word, but uh, um, i don't know, my choices are (appro-) more appropriate          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> what </OVERLAP1>
+          is your choice?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          (xx) so, uh, i prefer, uh uh, explore.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah okay. </U2>
+          okay        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> so, uh, becau- not why. um the current and historical conditions, are not so clear, i think. so, um, we must, we must, search, uh what i- what, what are the current and historical conditions, so explore is more appropriate. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> historical conditions?          <OVERLAP1> or characteristics </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> well condi- i- </OVERLAP1>
+          that's, i left that open, that that would be a word that we, characteristics?        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> i don't know.          <EVENT DESC="LAUGH"></EVENT>          i don't like this.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> this charac- or status, state?          <PAUSE DUR=":07" ></PAUSE>          i think characteristics is good cuz we're looking at the whole system. um... yeah. um        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> how 'bout oh the other thing i had written down, um          <EVENT DUR=":13" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, that's good </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. (xx) to use (a) watershed approach to </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> do you hafta go? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah. (um) yeah. (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay so you'll work on the literature review stuff,          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          then fill in the objectives for the economics?        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah, all my stuff and (then) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> do you need Glenda's comments? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> cuz i think those are more_ most um applicable          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> oh yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> t- to </OVERLAP1>
+          you and these ones we couldn't copy. i have some stuff written on here. um        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> i wanna s- </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what? d- do you guys wanna, meet, meet the three of us at all over the weekend or just wait until Monday? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> um i want i want to meet.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          i want to meet but i want to meet when we have something        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, Sunday afternoon? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> Sunday </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> Sunday evening? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah Sunday, ab- Sunday at about five? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what, what's your schedule on Sunday? </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> um, Sunday,          <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> you </OVERLAP1>
+          have seven meetings?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah i,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          no        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> like last week </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uh i i w- i will have a r- a meeting, uh at eleven A-M.          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          only this        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> is five o'clock good? </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay no problem </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> cuz i have a meeting at eight P-M, (xx)          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          so, i want to have, like, three hours is good, for me to work on this,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          and then go straight to the other thing,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+         <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          without having to, you know,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          i'm thinking,          <OVERLAP1> selfishly </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> so Sun- </OVERLAP1>
+          Sunday, five P-M?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah </U2>
+         <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> um </U2>
+          out- outside, O-A-P?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> five P-M </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> then, yeah. um          <PAUSE DUR=":06" ></PAUSE>          i haven't seen Pat's comments        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> want a copy of 'em? there. </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> (i s that Glenda's stuff?) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, actually,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) those are Glenda's (co-) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's Glenda's cover </OVERLAP1>
+          letter, kinda thing, but these are, Pat's comments.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> oh yeah, please. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> do you want to just give him this one? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> sure </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, yeah his are um, kinda this handwriting, and Geoff's are, in there too. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mine's, his are the more blocky,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          mine's more curly.        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah, (xx,) (these are the ones, in capitals) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah... mine are the ones that have a lot of scribbles through them and stuff. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> so i'll see you guys on Sunday </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> see you </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> did you do well, last night? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> uh, who else won? i only know that Minnesota won and that um, </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> a- all the favorites won </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, then i did,          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> one two </U2>
+          Utah didn't matter cuz i didn't have_ i had Wake instead of Utah,          <OVERLAP1> but then </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">         <OVERLAP1> one versus two one versus two. </OVERLAP1>
+          three of the four games went to overtime.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah.          <U2 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> and i watched the end of the </OVERLAP1>
+          Minnesota        </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> Kentucky was the only </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> they, yeah i fell asleep lis- Kentucky's just boring they were, they were like, winning too, easily. </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> Kentucky was the only one (that,) U-C-L-A was losing by sixteen, at one point. they came back </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> but they came back. so i_ that wasn't g- i picked i had, o- on one of mine i had um, i had Iowa State, (xx) one i had U-C-L-A </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> they came back, and (xx,) it was, like to the last second </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> did you watch that game? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what time did it get over? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> like at nine. it was so, weird. they were up by, they were up by, by, two, right? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> U-C-L-A? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> U-C-L-A. yeah with, like, four seconds left, (xx) and then, um, they fouled somebody th- Iowa State (just like) fouled somebody, so they went, they went (xx) missed one </U1>
+       <EVENT DESC="BREAK IN RECORDING"></EVENT>       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> two U-C-L-A guys, got the rebound, and they were fighting for the ball,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> two, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (two, same.) </OVERLAP1>
+          and, so the guy who had the ball_ it was a very questionable call, like was called for a walk          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          so, the ball was given back        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> to Iowa? </U1>
+       <U1 WHO="S2" NSS="NNS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="SPA"> to Iowa State with four seconds down one. so they inbound from, from the </U1>
+       <EVENT DESC="BREAK IN RECORDING"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, okay, i think so we'll talk ab- we can talk about it. okay?          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+          i don't think we've decided yet but i think that's that's a good place to start.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah um, physical tasks, are missing. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm um, well let's, let's work on getting the the methods,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          the objectives and the methods down,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          and then we can worry about the tasks          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay, okay, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> later, okay? </OVERLAP1>
+          i think we're gonna go, you know as the whole idea          <OVERLAP1> progresses </OVERLAP1>
+         <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> uhuh </OVERLAP2>
+            uhuh          </U2>
+          um        </U1>
+       <PAUSE DUR=":31" ></PAUSE>       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <EVENT DESC="LOOKING AT NOTES"></EVENT>          Gl- Glenda gave us, (great) information        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm. this is actually this was Pat. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh... green, green writing is? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> is Geoff. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> Geoff, okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i had an idea, for this,          <EVENT DESC="POINTS TO BOARD"></EVENT>          um, the goal is to use a watershed approach, to explore the current and historical characteristics, of the Dowagiac river system and to predict pi- potential changes.        </U1>
+       <EVENT DUR=":07 " WHO="S1" DESC="WRITING ON BOARD"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um          <EVENT DESC="TRIPS OVER CORD"></EVENT>       </U1>
+       <EVENT DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> that (cord's) kind of a hazard. </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> does it come out?          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> oh, </OVERLAP1>
+          it's still working.          <OVERLAP1> oh i think that's probably (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          it's just the... (xx) okay        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> no, no, Hiro, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> i think that's </OVERLAP2>
+         </U2>
+          i think that's okay        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> i i can </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> there's one behind you there.          <U2 WHO="S5" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh </U2>
+          uh, yeah Hiro?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> Hiro?          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> hm? okay </U2>
+          let's plug it in over here and then Geoff won't have to trip over it.        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> this_ now Martin can trip over it. </U1>
+       <EVENT DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) Martin </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um... to predict, potential changes that may result from rehabilitation... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> or that could,          <OVERLAP1> result </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> that, yeah, </OVERLAP1>
+          that could. yeah that's that's good cuz then it's m- (a lot)        </U1>
+       <PAUSE DUR=":19" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> to or and? </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think and </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) (entities)          <PAUSE DUR=":15" ></PAUSE>          okay, and then, go, directly into this          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (whole) </OVERLAP1>
+          information will be, provided to MEANDRS in the form of a feasibility assessment,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> that's what i was thinking </OVERLAP2>
+         </U2>
+         <OVERLAP1> (and) </OVERLAP1>
+          educational materials.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. does that sound good? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> Hiro, do you like that? </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay          <PAUSE DUR=":06" ></PAUSE>          okay        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> is that written down somewhere          <OVERLAP1> that i </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (could put) it in </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i can put th- i'll put that in... actually </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> should          <PAUSE DUR=":33" ></PAUSE>          how 'bout, the goal is to, explore the current and historical characteristics, of the Dowagiac system using a watershed approach?        </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> i like it </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> (yeah) i like it </OVERLAP1>
+          like that better.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah i like the beginning,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          you wanna say watershed approach or watershed-based?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what put watershed-based,          <OVERLAP1> approach? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> approach? </OVERLAP1>
+          yeah, i don't know        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i've heard it like so many different ways, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think it's          <OVERLAP1> fine (the way it is) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> i don't </OVERLAP1>
+          think it really, i think          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's </OVERLAP1>
+          just adding a word in          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> there </OVERLAP1>
+          i don't think we really need.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i mean i've heard it used, watershed-based watershed approach,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> um, </OVERLAP1>
+          i've heard a couple other different,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> different ways. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> do you wanna get together y- just like you and i, on, Monday morning and, sorta, like we did last week and just sort of put everything together? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah we could do that um,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (or) </OVERLAP2>
+         </U2>
+         <OVERLAP1> you </OVERLAP1>
+          have class Monday morning right?        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, i think you are th- you and i are the only ones          <OVERLAP1> that </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+          can meet Monday.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          that sounds good.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> pull it together, and then any extra time we have we can,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> maybe </OVERLAP1>
+          play around with        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> Geoff? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yes? </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> um, before pre- predict          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          to, and to is is necessary or not...?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> no i don't think it is necessary, because we're not, to would mean, um, well </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i was, having          <OVERLAP1> problems </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> i- </OVERLAP1>
+          i- it could i mean yeah, c-        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i was trying to get rid of some of the tos </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (i think) </OVERLAP2>
+         </U2>
+         <OVERLAP1> but how </OVERLAP1>
+          you read it might (impact)          <OVERLAP1> it </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> if you, </OVERLAP1>
+          shorten out, some of the phrases, the goal is to identify and predict, potential          <OVERLAP1> changes </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          that's sorta the way i was looking at it.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          so it's like two these are two, this is not, necessarily contingent on this.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh okay. </U2>
+          this is like step one,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh            <OVERLAP2> (xx) and, pr- predict </OVERLAP2>
+         </U2>
+         <OVERLAP1> and step two. </OVERLAP1>
+          yeah.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          which is why the- w- with          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> the comma there, </OVERLAP1>
+          you would sorta read it as          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay i see </OVERLAP2>
+         </U2>
+         <OVERLAP1> two separate, </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> Hiro, it's one of the finer points, of grammar </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> uhuh uhuh, okay </OVERLAP1>
+       </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it's, it's          <OVERLAP1> difficult </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> it's very </OVERLAP1>
+          stylistic, also.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+          and i, at least that's (what i i-)          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          i          <OVERLAP1> don't really know why </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> and uh, </OVERLAP1>
+          um, the goal is, to use a watershed approach. i think, uh the goal is, uh, using a watershed approach, uh to explore, the... no?          <OVERLAP1> uh </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> uh </OVERLAP1>
+          it        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think that would be it is by,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> by </U2>
+          the goal is by,        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> by using          <OVERLAP1> a watershed approach </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> by using a watershed approach, </OVERLAP1>
+          explore        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah, to explore </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> the goal is by,          <OVERLAP1> or through (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> i i don't think, </OVERLAP1>
+          the goal is, to use a watershed approach.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> well that's one rea- that's_ you could put it here and then, say, a goal, the goal is to explore the current and          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> historical </OVERLAP1>
+          characteristics of the Dowagiac river system.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> oh </U2>
+          um, and predict potential changes that could result, from the ef-          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> no, </OVERLAP1>
+          see,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah </U2>
+          the problem is is that if you put either here or here,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          then you sorta lose that it goes to both, because of the way we have it separated. um, i know what you're saying though        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think with you have this to here, and this to here, i think that, makes it okay.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+          that the goal the goal isn't, the watershed approach,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh, yeah </U2>
+          the goal is to use a watershed approach to, do these other          <OVERLAP1> things </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> mhm </OVERLAP1>
+          okay, i see        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> do you understand?          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah </U2>
+          does that make          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> yeah, yeah, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> sense to your question? </OVERLAP1>
+         <PAUSE DUR=":04" ></PAUSE>          but we can take a, further look at that as we move along.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay... yeah i've_ actually, i need to, get some stuff so i've got about half an hour left,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          that i can stay.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          um, should we work on the objectives? or...          <PAUSE DUR=":05" ></PAUSE>          or just sorta figure out who's gonna work, on what? or i guess we kinda already did, that.          <PAUSE DUR=":46" ></PAUSE>          okay        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what was that Martin? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, do we wanna, go over the objectives? um, or figure out who's gonna work on, which part, or we kinda work on our own parts i guess but... um          <PAUSE DUR=":13" ></PAUSE>          cuz Pat's gotta come and (use, the, this disk)          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> huh? oh, well </OVERLAP2>
+         </U2>
+         <OVERLAP1> (does this include,) </OVERLAP1>
+          a repairing component it should but if we look at the watershed approach it sh-        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> and we also say the Dowagiac river          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> system. yeah, okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> system. i think that, we, </OVERLAP1>
+          see i started to work on that          <OVERLAP1> here, </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          and i think maybe we can bring that into our objectives.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> because, you know we took out um          <EVENT DUR=":06" DESC="WRITING"></EVENT>          see we took out, restoring MEANDRS,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          which is what he was,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          commenting to.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think we can b- we can bring this into our problem statement and our objectives and (like,) and just make it clear up front and also wa- we wanted to also bring in water, water, quality, cuz Glenda po- pi-          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          mentioned that.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> water, i think, can i put it there? (oh yeah) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (on the) water quality yeah, okay, so, i guess our objectives are still to... determine how, rehabilitation          <PAUSE DUR=":07" ></PAUSE>          will change the physical, attributes, of the river        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay you wanna w- ca- let's work off          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> that </OVERLAP1>
+          copy.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. there's a...          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          um, actually i've got a different color        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i'm using green. we should all (like) pick a color. </U1>
+       <EVENT WHO="S4" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> that, sorta stands out </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> oh okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, you can use blue. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, so, with this goal in mind... do we wanna add in a an objective to, explore to explore, the current and historical characteristics, and then... um, and have that as a goal, or an objective, and then, to lead on from that,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          um,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          i don't know.          <EVENT DUR=":08" DESC="PAUSE WHILE WRITING"></EVENT>          explore current          <PAUSE DUR=":12" ></PAUSE>          um... and then this would be to.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm, (xx) okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> determine how </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> determine          <OVERLAP1> how, restoration </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> (you wanna fix that) </OVERLAP1>
+          restor- rehabilitation        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah.          <EVENT DUR=":08" DESC="PAUSE WHILE WRITING"></EVENT>          will change the physical attributes of the river        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> now, i- Pat was concerned that objective two and j- objective three,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> three </U2>
+          need to be more clearly defined.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm, right or the, why don't we, since they are_ they_ i mean there's a fine point between, sort of identifying things, and judging them.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          do we just wanna combine them?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> we could either combine 'em or i just simply put in, you know we could say instead of identify quanta- you know i- quantifying, it's kinda hard, it kinda depends how, you define,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          or um          <PAUSE DUR=":04" ></PAUSE>          i mean o- i- one sort of um, y- you know Pat knew what we were talking about,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          which is that one is sort of more, you know, what are the effects? and the other one's more okay now that we know, what they are, what does it mean?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> in the big picture, (or,) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> you know, that's          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's </OVERLAP1>
+          that's sort of like, this is sort of more of a, trade-off or cost benefit,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know, </OVERLAP1>
+          all these,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> words </OVERLAP1>
+          that we threw in there. and this is more, okay, you know, this is, thi- i- and i think the reason why we wanted to keep 'em separate was, that, you know we wanna know first just, say what they are without any judgment on them,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right, okay </U2>
+          and then to          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> provide </OVERLAP1>
+          some, some, sense of judgment,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          here.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. to, maybe, um          <PAUSE DUR=":11" ></PAUSE>          um,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> establish?          <OVERLAP1> no um </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> (it's,) </OVERLAP1>
+          like assign or, dec- decide whether they're, basically we're gonna, decide whether they're...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> uh, e- evaluate?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> evaluate </U2>
+          the strengths and weaknesses, or evaluate the practical resp- possibilities and... pros and cons. identify or, evaluate. i mean i_ evaluate, i think, doesn't d- say whether or not you're gonna quantitative- uh quantitatively or, qualitatively,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          determine, it just says that you're gonna, make some sort of an assessment on it,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i uh, i uh think that's what we wanna say.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, so </U2>
+          so evaluate?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> let's try evaluate there. and, let's just leave it really, really simple (it)          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know </OVERLAP1>
+          evaluate the,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> the </OVERLAP1>
+          trade-offs, or the costs and benefits. and then this one will be...          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) </U2>
+          go back to this one, for a second        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> this is,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> identify. </OVERLAP1>
+          this says identifying.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, identify, we can change that again, to change it to explore, or um,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> identify </U2>
+          examine... exam- examine possible effects        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay... examine possible, effects of restoration... cuz that's, examine's like,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay,            <OVERLAP2> not examine </OVERLAP2>
+         </U2>
+         <OVERLAP1> you're looking, </OVERLAP1>
+          you're sort of judging them,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          i think.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, well okay take </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> take it out.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          um...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> this is the same it's the same thing we were just doing. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i don't think explore quite works there though. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> no. mm, maybe list?          <PAUSE DUR=":06" ></PAUSE>          uh        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U1>
+       <PAUSE DUR=":25" ></PAUSE>       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> um, isn't, evaluate appropriate? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um,          <OVERLAP1> examine? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> we're, </OVERLAP1>
+          we're sort of um, trying to dis- trying to distinguish,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          between this,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> objective, </OVERLAP1>
+          and this, objective,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          so we used evaluate          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> here </OVERLAP1>
+          as being more of a, more of a systematic look at it,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          where this is more of just, okay what, what's out there based on, our research, and our, knowledge of the watershed?          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+          can you_ put that in there? or just, write it,          <OVERLAP1> like research? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> i'm sorry </OVERLAP1>
+          what was that?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> like ba- just, so i remember those words based on our research and, knowledge (xx...) and </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) of the system, (xx?) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, just, leave it there in case we wanna stick something like that in there. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. um... can you predict, possible effects of restoration? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> that's more, see that's more the next,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          that's more the next one. that's more predicting.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> this is, or, this is          <OVERLAP1> predicting? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> this is </OVERLAP1>
+          more, predicting.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, so i was thinking here predict possible effects. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i don't know i just took it from down there. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, okay, no that's sounds good predict... is that what we used up there? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> predict, p- or potential, possible? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> predict possible effects of restoration on the social, socioeconomic </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> well, okay predict possible, let's just put it in there predict possible changes that could, result from rehabilitation, that's where we'll put, that's where we'll put,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> our, </OVERLAP1>
+          box there. see this box? this is this is what it is...          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> okay, </OVERLAP1>
+          predict here          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          okay? that's objective three.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          and then objective four is here.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, yeah </U2>
+          you see what i'm saying?        </U1>
+       <PAUSE DUR=":11" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay          <PAUSE DUR=":05" ></PAUSE>          okay. that sounds good. and then, for this one then for objective four is to evaluate (xx) practical possibilities        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> hm? no no no, this is, this is, this is pros and cons. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, but so is this one this is_ i just changed the (page.)          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) </U2>
+          this is, this is evaluate pros and cons        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right. isn't practical          <OVERLAP1> possibilities </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> possibilities </OVERLAP2>
+         </U2>
+          this one?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> uh i was thinking of using that as a, a synonym for pros and cons. possibilities and limitations. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> oh okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> but... now what were you saying? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> that's fine. no i see what you're saying.          <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> okay. </OVERLAP1>
+          maybe maybe not practical, but possibilities and limitations instead of pro and con        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> sh- b- yeah just just throw it in there with our other words,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          we'll, (xx)        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i like limitations but i don't like possibilities          <PAUSE DUR=":04" ></PAUSE>          okay so that's evaluate pros and cons... of the changes identified in objective... three. okay. um, and objective_ in five... is to identify, changes impacts to agriculture, resulting from the rehabilitation of          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah. </OVERLAP2>
+         </U2>
+         <OVERLAP1> the river. </OVERLAP1>
+          maybe we_          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> we should </OVERLAP2>
+         </U2>
+          should we just do including agriculture,          <OVERLAP1> (xx) </OVERLAP1>
+          up here?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> well, </OVERLAP1>
+          i sort of a- i i sort of agree more with Pat on that than Glenda that um... i think we want to sort of identify um, agriculture,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          on its own right because of the fact that it is          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> right. </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          is, so critical i think it's sort of politically, um,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> correct </U2>
+          a good move,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          to make. that we're not just looking at_ that agriculture's not just part of the ecology equation but          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's </OVERLAP1>
+          its own, it's sort of its own          <OVERLAP1> factor. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> right. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it's sort of_ it's got a cross over between ecology and social,          <OVERLAP1> and economics yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah and it just crosses sort of </OVERLAP1>
+          almost everything.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          and so you could either look at the_ Glenda's idea was she was looking at it, okay agriculture, economics are gonna affect agriculture.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right. </U2>
+          and what we wanna look at is just the whole potential for agriculture.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          not just, you know how is this gonna, um how is rehabilitation gonna affect agriculture? but just sort of, what are the poten- what is the agricultural potential, in general?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and think if we </OVERLAP1>
+          explain if_ i think if we explained this if we don't just leave it as a sentence          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          they were saying to sort of fill these in you know?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. </U2>
+          but if we fill it in and say you know we can we could we could put a qualifying statement there that this has been identified as it's own... you know as a separate objective because of the importance... you know what i mean?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          because of the          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> importance </OVERLAP1>
+          to MEANDRS, the MEANDRS group and the watershed as the whole to consider the agricultural potential in the region and, and the relationship to rehabilitation.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          something like that        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. that sounds good... so </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think Glenda just saw it sort of floating out there,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          and didn't really know          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> especial- </OVERLAP2>
+         </U2>
+         <OVERLAP1> why </OVERLAP1>
+          it was on its own.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> especially since there wasn't anything underneath it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right.          <PAUSE DUR=":10" ></PAUSE>          is this_ i guess its sort of a vision based on the fact that neither of them had a lotta lotta comments that this is more of the style that they would_ they tend to be they tended to be receptive to as being sort of a filled in paragraph, um          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> i i </OVERLAP2>
+         </U2>
+         <OVERLAP1> objective </OVERLAP1>
+          form.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think so as opposed to bullets.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. </U2>
+          um, yeah cuz they_ and they were saying something about bullets before maybe if we can just_ some of these        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> bullets_ they kind of said task circle which          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> bullets </OVERLAP2>
+         </U2>
+         <OVERLAP1> they didn't_ </OVERLAP1>
+          and          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          objectives should be more of a paragraph.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right... okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> oh i i guess we should a- maybe we should fill in Hiro a little bit on,          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          what we talked about yesterday before you came.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh... </U2>
+          one of their, one of their concerns that you          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> might </OVERLAP1>
+          have seen, in reading was differentiating between the objectives,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          the methods and the tasks. and that the way it reads now they sort of, it's not clear the distinction even though we have them sort of in different sections they all sound the same.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          our objectives          <OVERLAP1> sound the same as our methods </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> yeah yeah, as </OVERLAP1>
+          Glenda mentioned.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right. </U2>
+          yeah.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> so, the way that they_ we sort of all of us, decided that the methods are more conceptual,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          i mean the ob- sorry the objectives are more conceptual,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          sort of like in a paragraph,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          explaining you know why you wanna do this, and um, the methods are more sort of the applied process. we we to ab- to achieve this objective we will do X Y and Z.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          and then the tasks they said sort of we'll sort of leave that loose for now, they're more like it will take us, this amount of time, and these sorts of things, in order to to, fulfill this method          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          so method, method one might be to collect historical          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> information. </OVERLAP1>
+          okay so that might be a method.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          then the task will be go to the town halls,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay, i see </OVERLAP2>
+         </U2>
+         <OVERLAP1> get </OVERLAP1>
+          maps, uh you know research          <OVERLAP1> history of the town </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> more s- more </OVERLAP1>
+          specific          <OVERLAP1> activities </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          right.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          you get more_ you go from being general to more specific.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay,          <OVERLAP1> (xx) good </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> and, </OVERLAP1>
+          that's the the scope of the whole, the whole thing is um, is you go through,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          the, actually from the project approach, goals is, sort of general, like          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay more conceptual </OVERLAP2>
+         </U2>
+         <OVERLAP1> th- this is pretty general, </OVERLAP1>
+          yes. and then, as you go down each level,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          expand, get          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> more </OVERLAP1>
+          specific. until you get down to your tasks,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          which is, exactly what you're          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> gonna </OVERLAP1>
+          do where you're          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> gonna_ who you're gonna talk to, </OVERLAP1>
+          what information you're gonna gather, that sort of thing.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> and what we were gonna_ we're gonna focus on, objectives, predominantly objectives, and then methods, and we'll worry about tasks,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          a          <OVERLAP1> little bit later </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          on.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay, okay, i see. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> and then time line and budget, after we've done the tasks... </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay thanks. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. sorry i forgot to </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> no uh'uh. yeah um, i i am uh i can_ i could imagine uh from Glenda's comment. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay.          <PAUSE DUR=":05" ></PAUSE>          um          <PAUSE DUR=":08" ></PAUSE>          did we talk about yesterday, um... let me backtrack here. i can see a problem, coming up between, um, Pat's style of writing, and he he wanted the um,          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah- </OVERLAP2>
+         </U2>
+         <OVERLAP1> show the </OVERLAP1>
+          to- the, the findings of the first, in the beginning of the paragraph, where Glenda maybe used a more, um a norm- a normal, type of writing whereas sort of he put_ i don't know. but i don't know if she would agree with that or not did          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> i </OVERLAP2>
+         </U2>
+         <OVERLAP1> we </OVERLAP1>
+          talk about that?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> we didn't get into that and          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think, </OVERLAP1>
+          that_ i think they're gonna haf- that's something that they're gonna hafta decide amongst our- themselves,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right. </U2>
+          and then as far as what what they want it to look like,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          um... i i i understand where Pat's coming from, but then at the same time you think about what this is being used for it's not gonna be used by, a- in a journal or          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> to a </OVERLAP1>
+          state agency it's it's going to a bunch of just citizens.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          um, so, i think we're gonna have to talk about that,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay. yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> a little bit (xx) the writing </OVERLAP1>
+          style, um Pat wanted_ Pat was suggesting a a much more scientific,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          writing format,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+          and uh, we just don't know, whether that fits in with k- with what Glenda how she envisions it, the writing style, so (we do) have to talk about that.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm. </U2>
+         <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay... </U2>
+          um        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> and uh, Glenda m- m- mentioned, our li- our literature re- review,          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          um, she said um, she said um, our our literature review, it's not so interesting,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          she she mentioned.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          Ju- Julio          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> is gonna </OVERLAP1>
+          take care of that.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          um          <EVENT DESC="LAUGH"></EVENT>          we liked, her comments here, where she, um where is it?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> about halfway down          <OVERLAP1> i think </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          about halfway down this this, this part that she wrote,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> in quotes </U2>
+         <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> in quotes, </OVERLAP1>
+          we we liked that. um, and Julio was gonna try to write up part of the literature review          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> in </OVERLAP1>
+          that that format.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          and then if, if you can come, just come up with a list of areas that we want to research, um,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> not so much specific articles,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm, </U2>
+          but          <OVERLAP1> but </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> but </OVERLAP1>
+          topics,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. </U2>
+          um, like um, river flow, um, um, transport of s- or sediments,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          um,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> the effects of agricultural runoff,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+         <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay, okay, </OVERLAP2>
+         </U2>
+         <OVERLAP1> on water quality </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> so </U2>
+          broa-          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> broad, </OVERLAP1>
+          broad topics.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          so if you could come up with a list of broad topics          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> that we </OVERLAP1>
+          can, look into.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          that_ for this.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          that would be good.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mm </U2>
+          and we can help out too.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> so she told us uh to choose uh our interest topic?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> i'm sorry a what topic? </OVERLAP2>
+         </U2>
+         <OVERLAP1> ou- ou- ou- our, </OVERLAP1>
+          our um, our, our... oh okay sh- she told us, uh to choose some topic uh, which, w- we we have interest in.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. um, she, i think what she said was, we just had, a list,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> of </OVERLAP1>
+          different,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          sources, and this doesn't tell you much.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay i (see.) </U2>
+          um, and you know you start reading and you get to the second one and you don't want to read anymore          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          because it          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> she wants </OVERLAP2>
+         </U2>
+         <OVERLAP1> doesn't </OVERLAP1>
+          tell you anything.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> she wants to know where we're going with the literature,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          not what literature we          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm, mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> have. </OVERLAP1>
+          so she's not so concerned with, a bibliography, as she is as what what topics are relevant to our study,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+         <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm so </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          that we will be researching those,          <OVERLAP1> (xx.) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> so she she </OVERLAP1>
+          wanted, she wants she wants to know, uh based on such literatures, um, what we want to know.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          that stuff        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it's like what information we intend to get out of          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay, okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> the literature review... </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> i see. (easy.) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, okay so that was objective six was was pretty good          <SEG TYPE="READING"> prepare materials and programs that will, infor- inform communities about and involve them in the rehabilitation process. develop approaches for informing sharing community education. </SEG>
+          okay. that sounds good. the research questions and hypotheses,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mm </U2>
+          did,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (you have to go?) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> uh couple_ i could_ like, ten minutes.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay... </U2>
+          um,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> why don't we um... what was your ins- it's kinda hard_ i still think like in a sense maybe just Pat doesn't know yet, how he feels about it, but that, you don't really have to have, a a scientific hypothesis,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right </U2>
+          and and to test it... he was saying on one hand that that's the way things are done, but that on the other hand, it doesn't always fit.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          you following? what i'm_          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah </U2>
+          okay. um, but he didn't really give us an answer to how to, to do it.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> and then </U2>
+          i tend to think that because we're doing a feasibility study and we're not saying that we're gonna come up with any divini- definitive answer, that we don't necessarily have to test anything,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm right. </U2>
+          in hy- doing it in a scientific hypothesis testing approach, and we should just frame it as research          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> questions </OVERLAP2>
+         </U2>
+         <OVERLAP1> questions, </OVERLAP1>
+          and just take out the hypothesis,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yes. </U2>
+          and, i think sorta just leave leave it the way it is,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          and if um, you know someone has a question about that, then we can work on it later.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> you know maybe would restoring MEANDRS to the Dowagiac system be a feasible method for rehabilitating? ins- as opposed to will restoring? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. okay... yeah ye- yes. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> and then that's not as, definite that it's gonna happen.          <PAUSE DUR=":05" ></PAUSE>          restoring        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> or reha- we gotta get rehabilitation          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah, right, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> get MEANDRS out of there and change to </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <EVENT DESC="WRITING"></EVENT>          would...          <OVERLAP1> rehabilitation </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> would rehabilitation... </OVERLAP1>
+          to achieving, MEANDRS' goals.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> of the Dowagiac,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> river system, </U2>
+          of the Dowagiac river system        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> be a feasible,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> method </OVERLAP2>
+         </U2>
+         <OVERLAP1> endeavor </OVERLAP1>
+          or feasible... approach        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> approach... (xx,) for... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> for MEANDRS. cuz we're we're just, you know we're trying to answer_ their question is, is... is rehabilitation, the way to go? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah... for MEANDRS, to,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> pursue. </U2>
+          take or pursue...          <OVERLAP1> pursue, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> their goal... </OVERLAP1>
+          their goal of um, enhancing, protecting and enhancing,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> to reach their goal? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i don't think that necessarily to reach it just to          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> to pursue, </OVERLAP2>
+         </U2>
+          pursue it. reaching is...        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> goal of, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> and then go back to our problem statement. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> rehabilitating and preserving the integrity of the watershed? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> how about improving or how about um, enhancing, protecting, improving, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> of          <PAUSE DUR=":10" ></PAUSE>          and improving,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah... </U2>
+         <OVERLAP1> the (improvements) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> (xx) and then </OVERLAP1>
+          let's go to the E and the A the ecological and agricultural...          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) </U2>
+          needs of the          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> economic, agricultural, um </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> isn't it needs isn't that the end? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> needs... of the          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> Dowagiac river system. </OVERLAP2>
+         </U2>
+         <OVERLAP1> Dowagiac river system. </OVERLAP1>
+       </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx.) alright let's... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, changes resulting from, rehabilitation...          <PAUSE DUR=":05" ></PAUSE>         <SEG TYPE="READING"> where the potential cost benefits (xx) within the watershed (xx) are (xx) if, </SEG>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> Glenda had a comment on that one.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> where's her_ </OVERLAP1>
+          oh Julio took it. i think he took it.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think he took it but i've got a copy. (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> no i think it was just a specific comment          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> that she'd </OVERLAP1>
+          written in the margins,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> oh. okay. </U2>
+          about that i, commented on it, i think on the copy that Julio has.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U2>
+          she was just saying something along the lines that um, this is assum- that this assumes that, that this statement assumes that, MEANDRS would be restored or whatever.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mm </U2>
+          and i think i ph- i think i rephrased it.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> and then i think this one's okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, um, methods          <PAUSE DUR=":05" ></PAUSE>          so i think... i think these are tasks.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah. </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yes. </U2>
+          so this i- this is a method though...          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          um          <PAUSE DUR=":05" ></PAUSE>          i think we can_ we're not doing options right? we're_ what did we come up with?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> for what? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> restoration options scenarios type </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> oh um...          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> um </U2>
+          yeah i i think i just wrote in options as a          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> option. </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          we came up with um...        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> now, um, Glenda indicate indicates you don't discuss possible alternatives,          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          so        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> we talked about that. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh </U2>
+          that was what we were talking about last night.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay, so </OVERLAP2>
+         </U2>
+         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> what what we decided Hiro, um... Pa- Pat seemed to think it was really important to look at it as a system,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          and to almost look at the most, um the most extreme thing which would be the the entire, you know restoration along the entire, river, and to comment on what those changes will be, rather than narrow it down to one, one meander,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> on </OVERLAP1>
+          say that park that we visited, because what might happen is that for example we look at just that park,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          then there's a lotta issues that we might not be considering.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+          cuz it's on public land,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          it's not you_ there's not a lot of farm land          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> nearby </OVERLAP1>
+          so it may be really easy to do it there,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          it may be very hard to do it anywhere else.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+          so he seemed to think it was more important to look at it from a broader perspective.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          and, we also then talked about that, because it's a feasibility study we don't really need to have to suggesh suggest alternatives,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> yeah, </U2>
+          and that          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> this </OVERLAP1>
+          is one way to_ by looking at the broad          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm, mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> picture, </OVERLAP1>
+          it's one way to sort of cover all the alternatives,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm, </U2>
+          in the sense that anything less than that would be a plausible alternative that may have less impact. and what we'll do is in the end of our study in our conclusions,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          we'll sort of make recommendations, that, there may be other approaches that you could take, that would be less, have less of an impact.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U2>
+          and that would sorta be our discussion          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm, mhm, okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> of alternatives. </OVERLAP1>
+          just in a very sorta general, um, sense.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay... </U2>
+          and and Glenda so- sh- m-          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          that covered it don't you think that's          <OVERLAP1> sort of what </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+          i think so        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> does that make sense? okay... um... so i think with these, we need to, save all of this, and we can use that in a in the task          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> (yep) </U2>
+          section. but, for the methods i think we need to also sort of do this in paragraph form.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> well yeah          <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> i- uh </OVERLAP1>
+          but i don't know, i mean what can_ more can you say about collect baseline information,          <OVERLAP1> than </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> say what </OVERLAP1>
+          it is say what the baseline information is.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> like baseline information on river flow, and, um, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it it's sort of it's sorta the same stuff but without um          <PAUSE DUR=":10" ></PAUSE>         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) </U2>
+          i guess it would be like okay review, um, review, information sources such as aerial photog- ai- aerial photographs, um          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay, information, okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> historical records, um </OVERLAP1>
+          you know and just and just, you know suggest, what material is out there that you'll be looking at, where the task would be, okay look at a aerial phota- photograph and identify, try and identify          <OVERLAP1> a historic channel, or something like that. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> right. okay. yeah, maybe </OVERLAP1>
+          what baseline information would be um, review of historical documents, um, collect flow information, um,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> review maps, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> review maps, um, talk to people look at photographs,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yep. </U2>
+          just very general.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. again sort of, what we um, how we attend how we intend to uh, to, to meet our objectives...          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+          would be,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          so, one of the ways that we're gonna meet our objective for the physical, would be to get some background information, or baseline information.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          but then say what that baseline information is, but not necessarily, how exactly, you know, we are we're gonna get that information.          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (xx) </U2>
+          and the task would be more...          <EVENT DESC="KNOCKING ON DESK"></EVENT>          so that's one thing that that's one thing that we'll each work on,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          is the area_ the stuff that we wrote up in methods.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> mhm, </OVERLAP2>
+         </U2>
+         <OVERLAP1> so you did </OVERLAP1>
+          the physical,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          is to sort of sort this out,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm... </U2>
+          sort these things out,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> is this </OVERLAP2>
+         </U2>
+         <OVERLAP1> into sort of </OVERLAP1>
+          um, you know how we're gonna answer our objectives and our research questions.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> um </U2>
+          versus what,        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> a question. how </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> uh ho- how we will, how will we_ how will we, um answer our research questions?          <PAUSE DUR=":05" ></PAUSE>         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> if we have an extra </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          objectives.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> we have an extra, objective in here too.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx?) </OVERLAP2>
+         </U2>
+         <OVERLAP1> because we </OVERLAP1>
+          we did, we created a new one, the,          <OVERLAP1> was it </OVERLAP1>
+          the gather          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> baseline </OVERLAP1>
+          information?          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay </U2>
+          so, so this is, so we should move this up... an- and i sort of envision that as being baseline information on all of the          <OVERLAP1> different areas. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> okay yeah, </OVERLAP1>
+          you wanna explain?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, we, created a new objective          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+         <PAUSE DUR=":05" ></PAUSE>          um... objective one, um, explore current and historical river system,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+          so        </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <EVENT DESC="WRITING"></EVENT>          current?          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um </U2>
+          (did you say) current?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yes current and historical, characteristics          <PAUSE DUR=":05" ></PAUSE>          um of the river system.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay... </U2>
+          um, i, see that, having, information, on, um... the physical, a little bit of all four of the areas, information, on all four of the areas so like the physical, and this would be, that would be gathering your information, um, and then, and then the second one was, this one, um... determine how, rehabilitation will change, the physical system so, the one was, get background information on it, and then two would be then, predict, the changes that would ha- occur, in the future.          <PAUSE DUR=":05" ></PAUSE>          um... so,          <PAUSE DUR=":10" ></PAUSE>          (xx...) one, and this is... two, (xx)        </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> the_ i i was just going through what we talked about yesterday.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          i guess i do want a little bit more of a paragraph form for the methods.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U2>
+          um, i- they said sort of, that we need to un- under methods we need to fill in the blank, a little bit fill in, you know connect all these things together,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U2>
+          and explain how it_ how we're gonna get from here to there. sort of a sort of a view,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> of the methods. </OVERLAP1>
+          you know it's how we're gonna get from, um, you know whatever our objective is, how we are gonna how we're gonna get from, our question that we're, we wanna answer, to the to the answer or how we're gonna get from, the objective we wanna reach.          <PAUSE DUR=":05" ></PAUSE>          (and it's like)        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. so, what we're gonna do </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay and ano- Hiro, and the other way that it was phrased was, a conceptual discussion of the approach, that you'll take. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm okay...          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay... </U2>
+          conceptual discussion...          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. </U2>
+          of approach.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. </U2>
+         <EVENT DUR=":10" DESC="PAUSE WHILE WRITING"></EVENT>          okay.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay, that helps... um... okay actually i'm gonna hafta go,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          pretty soon. um, okay, so, if we'll just work on the, objectives and methods. is that        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> uhuh. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. lemme just write down... objectives (that we need) let me just (xx) (fix up)          <PAUSE DUR=":05" ></PAUSE>          um          <PAUSE DUR=":30" ></PAUSE>          um, mkay so these might even be shorter. i don't know.          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (well) </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz this </OVERLAP1>
+          this one doesn't even say much so... okay. so, i can sort of expand... um          <PAUSE DUR=":15" ></PAUSE>          and... okay, then the methods. okay. then i can work on the methods... okay so i'll, do you want me to do anything else? um other than like the just the objectives and methods? then i can find out what you guys have, done        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i think that's okay cuz,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          we'll have, Hiro work on his stuff,          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          and, yeah i think that's the best thing.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U2>
+          i think we're almost done        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. um, do you wanna meet at like eight thirty on Monday?          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. </U2>
+          is that okay? okay.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> or i- what's the_ when do you usually get in? and i'll just </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it, depends eight thirty's,          <U2 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          easy enough to get in        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i didn't know whether you were there actually earlier </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um, i mean sh- i can be, probably not then. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. that's okay.          <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay... and </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's for </OVERLAP1>
+          Monday morning.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> Monday morning </U2>
+          but you can't make it Monday morning.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (cool) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (can i) meet you at NUBS again? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay... </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> and uh, um, for Monday, uh, when w- will we meet uh for (later) class? four o'clock? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> four thirty.          <OVERLAP1> oh. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> four </OVERLAP1>
+          thirty is class.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> we have class on Monday at four thirty. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> oh it's a master's (xx)          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yes. </OVERLAP2>
+         </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yes. </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          (the book?)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> they're gonna talk about presentations </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> uhuh okay. okay... </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> do you guys know yet when you'll be presenting? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> um i sent          <OVERLAP1> email </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> the thirty-first </OVERLAP1>
+          i think.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah on the thirty-first.          <U2 WHO="S5" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> (xx) </U2>
+          between four thirty and six thirty i guess.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm... but that hasn't been confirmed yet. if that's when we, i'm just thinking more people probably want to go later than early. i don't think we'll have a problem </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah... okay... </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> um, Geoff um mor- um sorry. Ma- Martin? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> may i keep this? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah i need to make a copy of that.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay okay </U2>
+          so i can go,          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> do that </OVERLAP1>
+          right now.        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> okay. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay... okay well thanks a lot for, working on this, this weekend too.          <U2 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> mhm </U2>
+         <PAUSE DUR=":05" ></PAUSE>          i heard there's like two feet of snow up in the U-P or up,          <U2 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> think it's (Clio?) </OVERLAP2>
+         </U2>
+         <OVERLAP1> north </OVERLAP1>
+          yeah.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> wanna take my snowshoes? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          no. i've got so many warm clothes.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> got your waders? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yep those too. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> (excuse me) (xx) (your way,) okay i'll see you          <OVERLAP1> later </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> see you </OVERLAP1>
+          later Martin        </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> see you </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> have a </OVERLAP1>
+          good weekend.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah you too. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> bye          <EVENT DESC="LEAVES"></EVENT>       </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> so do you want to come over with me while i make a copy of that and then i'll give it to you or do you want me to leave it in your          <OVERLAP1> mail folder? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP">         <OVERLAP1> oh okay </OVERLAP1>
+          okay        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> which is easier? </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> oh, thanks. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> which is would you wanna_ me to leave it in your mail folder or do you wanna just come with me? </U1>
+       <U1 WHO="S4" NSS="NNS" ROLE="JG" SEX="M" AGE="3" RESTRICT="NONE" FLANG="JAP"> um yeah i wi- i will go with          <OVERLAP1> you. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

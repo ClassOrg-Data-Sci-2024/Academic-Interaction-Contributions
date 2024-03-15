@@ -1,0 +1,1465 @@
+<TEI.2 ID="svc999mx148">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Science Learning Center Service Encounters </TITLE>
+         <TITLE> Rackham Div: NA </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 7598 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> SVC999MX148 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="121">             <DATE> April 10, 2000 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Janine Ovens, Darrell Tibbles </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Amy Burke, Darell Tibbles </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Amanda Jones </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Final Editing, 02/4/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">SVC</TERM>
+ <TERM TYPE="ACADDISC">999</TERM>
+ <TERM TYPE="PARTLEVEL">MX</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">NA</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NNS"> Non-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="215"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="215"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="JU, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S7" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="UN, Desk Clerk" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S10" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="S11" LANG="NNS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="UN, Patron" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="UN, Patron" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Science Learning Center Service Desk, Chemistry Building </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i get a P-C computer? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> actually we don't have one right now.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's </OVERLAP1>
+          a waitlist if you wanna sign up.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay          <OVERLAP1> oh </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we have </OVERLAP1>
+          a regular computer if you want.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do they have disk drives? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i just need your M-Card          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks.          <PAUSE DUR=":14" ></PAUSE>          you wouldn't happen to have change for a dollar would you?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> actually no, sorry. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you know where i can get change, anywhere? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, Chem Stand downstairs maybe or, i wo- are you using it for vending machines? cuz they take dollars. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'm using it for the, copier. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the copier takes dollars. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          just a computer?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah.          <EVENT DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          there you go        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Teresa do you have a Post-it by chance? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah actually i think i do, right here </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. what's going on with the thing? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, some linguistic study i'm not sure exactly </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> and you're participating in it? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well the S-L-C is and i just happen to be working.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh okay </U2>
+          they're not          <EVENT DESC="LAUGH"></EVENT>          following me around (or anything)        </U1>
+       <EVENT WHO="S5" DESC="LAUGH"></EVENT>       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we have uh regular computers just          <OVERLAP1> not P-Cs </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh do </OVERLAP1>
+          you?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <PAUSE DUR=":12" ></PAUSE>         <EVENT DESC="SCANS CARD"></EVENT>          there you go        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks          <PAUSE DUR=":04" ></PAUSE>          coming back again?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (with the) drive,          <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> hi </OVERLAP2>
+         </U2>
+         <OVERLAP1> do you want </OVERLAP1>
+          my card?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> nope          <OVERLAP1> i- i'm all set </OVERLAP1>
+          and a P-C        </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <PAUSE DUR="1:00" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you already on a waitlist? or </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> only if you want a P-C </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (you know, i) </OVERLAP1>
+          what? i'm sorry i need a P-C          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you need a floppy drive? cuz i have one that doesn't_ the floppy drive's not working </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i i need a C-D drive. is </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the C-D drive's          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (probably) </OVERLAP1>
+          working. i i have one.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> okay okay </OVERLAP1>
+          i, find a pen        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          there you go        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have any P-Cs? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh actually no. but you'd be the first person on the waitlist if you (need) a P-C </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mm that's okay i'll just take a Mac </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh there's a P-C          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you have any other          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> thanks </OVERLAP2>
+         </U2>
+         <OVERLAP1> uh reserves </OVERLAP1>
+          on file? like physics          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> physics </U2>
+          like, i'm i'm looking for my physics final lab, lab final          <OVERLAP1> from one-twenty </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't </OVERLAP1>
+          think so          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> one-twenty-eight </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think the only </OVERLAP1>
+          thing that we keep for physics are, the textbooks.        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you have that? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> have what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no i was just talking into the mic </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh          <EVENT DESC="LAUGH"></EVENT>          um i only have the textbook i don't_ we don't have any          <OVERLAP1> folders for </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> thank you </OVERLAP1>
+       </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have a Mac? </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> could you, help me on uh making transparencies? uh, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you, do you_ have you bought them yet? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah it's uh 3-M i think it's similar to the ones you guys have. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh you have to buy the exact same ones here.          <OVERLAP1> ju- </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> do i </OVERLAP1>
+          have to?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah because people when they use 'em outside, sometimes they melt in our copier.          <OVERLAP1> so that ensures that they won't melt </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> can i see what </OVERLAP1>
+          brand it is? and then i'll show you my box?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um </U2>
+          cuz i think it's a similar one.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, i'll look. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":17" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> where are our transparency boxes? we don't have any leftover boxes?          <PAUSE DUR=":07" ></PAUSE>          i don't have our box but i'll recognize it. not it's not them.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's not that one? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ours has like a yellow and black case thing_ i don't have any boxes cuz we're out. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's four for a dollar? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> they're in the vending machine right around the corner. year, it's four d- for a dollar. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <PAUSE DUR=":45" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          there you go        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hi          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":49" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, can i have a new computer? this uh, this froze.          <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>          thanks.          <PAUSE DUR=":05" ></PAUSE>          thank you        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yep </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um i'm trying to print a P-D-F file, from a Mac but it froze how do i_ i don't know how to restart 'em </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well you can try doing,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          it's option apple escape        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> escape? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah or it might be control apple escape i can't remember it's one of these three combinations i think it's option apple escape.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          and then uh, that can force quit it if not then i'll hafta come and unfreeze it for you.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay, thanks </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> restart it. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can you uh, help me?          <PAUSE DUR=":08" ></PAUSE>          (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay uh you put a nickel in for the, copy. is this one of the things you wanna make? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. you just wanna make sure it says ready for bypass feeding, and then, good to go. oh it didn't work. why didn't it work? it said_ hm. lemme try this again. i'll, give you a nickel.          <PAUSE DUR=":15" ></PAUSE>          okay there. i don't know why it didn't work last time. i'll get you a nickel.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i can't get it to open up (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. hang on a second.          <PAUSE DUR=":16" ></PAUSE>          i need a nickel.          <EVENT DESC="LAUGH"></EVENT>         <PAUSE DUR=":04" ></PAUSE>          well it's for this other kid h- i- it ate his nickel. how do i uh, open a (xx) (graph?) do you know?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know, i think i (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um where is it supposed to be? cuz i've never used it personally. but wha- are you just clicking on it? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i mean it's there it's ju- i'm just clicking on it it's doing nothing. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay let me look at it (real quick.) where are you?          <PAUSE DUR=":21" ></PAUSE>          oh here. it's just it's_ when you click on it it's like already up here.          <OVERLAP1> so just press (xx) and i don't know what do you want a data window graph window? okay, there you go. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> hi um my computer froze and i can't restart it </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> ha- were you, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i was trying to tri- print out a P-D-F          <OVERLAP1> file </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh. </OVERLAP1>
+          uh do you need another computer?          <OVERLAP1> (xx) is frozen? okay, alright sorry about that (xx) we'll have to take care of it </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> well, i have class now so i it's alright. do you_ okay, thanks </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi is there any chance i can check out a computer but i don't have my M-Card? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, have you checked out computers here before? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          oh yeah lotsa times        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay, well um          <PAUSE DUR=":07" ></PAUSE>          what's your last name?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Sarandon S A R, A N D, O N... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> Connie? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. computer (xx)          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's all we did </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's okay </U1>
+       <PAUSE DUR="1:41" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have a computer? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yep.          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i get a computer?          <OVERLAP1> or </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yes. </OVERLAP1>
+          is P-C okay?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you know what? i guess i could just go to that little station. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <PAUSE DUR=":25" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          is P-C okay?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah it's fine.          <EVENT DUR="S2" DESC="SCANS CARD"></EVENT>          thank you...        </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have a P-C (if you have one?)          <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>          thank you.        </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          there you go        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":40" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are there any P-Cs available now...? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          have you been here before?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> not this year. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mkay          <PAUSE DUR=":15" ></PAUSE>         <EVENT DESC="SCANS CARD"></EVENT>          here you go        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have any P-Cs? no? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh no not right now.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          don't know why (i have this one aside) this one might be frozen          <EVENT DESC="SCANS CARD"></EVENT>          i don't know.          <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> just let me know </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> alright, i'll </OVERLAP1>
+          find out        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's the last one i have. </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are there no computers? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> not right now. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you can sign up though if you want </U1>
+       <PAUSE DUR=":57" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what are the mics for? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what are the mics for? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh, some linguistics study to see what kind of, English words are spoken in the, various university settings.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          for non-English students.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i don't think they're, gonna hear,) a lot of variations in this (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Andrea?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> right here </OVERLAP2>
+         </U2>
+         <OVERLAP1> is that you? </OVERLAP1>
+          i (don't have) a computer right now i have (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is there a um, a P-C in there or no?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> no. do you need a P-C? </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean they're both_ okay, no problem. </OVERLAP1>
+         <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hey how are you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> good how are you? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> not too bad          <EVENT DESC="SCANS CARD"></EVENT>          there you go.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'd like a P-C </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't have one right now.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> you can sign up </OVERLAP1>
+          for one if you want or        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright. </U1>
+       <PAUSE DUR=":17" ></PAUSE>       <EVENT DUR="1:45" DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Bryant? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have a P-C? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh, well, i'm waiting for someone          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> to </OVERLAP1>
+          get it right now_ is a Mac okay? or do you wanna wait?          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+          Mac's okay.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what's up? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Bryant.          <EVENT DESC="SCANS CARD"></EVENT>          do you need a disk drive?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um, i think just a floppy. i think...          <EVENT DESC="S2 SCANS CARD"></EVENT>          thank you.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> P-C. um </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i'm sorry could you hold on one second. Bryant... okay. </U1>
+       <PAUSE DUR=":43" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (hi) could i have the P-chem coursepack please? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what is P-chem?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> two-thirty </OVERLAP2>
+         </U2>
+         <OVERLAP1> two-thirty? </OVERLAP1>
+       </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          nope          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          close,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":27" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) hey can you get her_          <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          yeah i'm sorry          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> i mean i thought you were looking (it up) </OVERLAP2>
+         </U2>
+         <OVERLAP1> i was just, </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (looking at the) </U2>
+          i was just looking at this.        </U1>
+       <PAUSE DUR=":24" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> computer? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (yeah please)          <EVENT DESC="S2 SCANS CARD"></EVENT>          thank you.        </U1>
+       <EVENT DUR=":47" DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> or something it's not working. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't have another computer right now (Xx) </U1>
+       <EVENT DUR=":13" DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no P-Cs? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> there's nothing (right now) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh okay thanks. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's okay </U1>
+       <PAUSE DUR=":50" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey do you have any I-B-Ms open? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (yes) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> could i take some please?          <PAUSE DUR=":07" ></PAUSE>         <EVENT DESC="S2 SCANS CARD"></EVENT>          thanks.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) computers? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh actually no.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no? </U2>
+          you can sign up you'll be the first person.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay. it's not that big of a deal, i'll use this </U1>
+       <PAUSE DUR=":25" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i open another one of these? this one's missing a test...          <EVENT DESC="S2 SCANS CARD"></EVENT>         <PAUSE DUR=":09" ></PAUSE>          thanks...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you got any more P-Cs? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no </U1>
+       <PAUSE DUR=":35" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> David, do you need a disk drive?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (pardon) </U2>
+          do you need a disk drive?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh for the_ i need a floppy yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah that's a disk drive (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you don't have any other information about these and what tests should be in there and what shouldn't be? i mean i don't see an exam four for nineteen ninety-six in any of 'em.          <PAUSE DUR=":12" ></PAUSE>          okay... i guess. thank you.        </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <PAUSE DUR="1:53" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi thanks um do you have_ is the blue one for like over there, on that side? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay thanks. </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <PAUSE DUR=":19" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you have a P-C? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh actually wait. wait, this one doesn't have a disk drive though. (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i have a P-C please? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't have one.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mm </U2>
+          is a Mac okay?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um, well i_ nah i need to print some stuff up so, i'll just sign up. </U1>
+       <PAUSE DUR=":23" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi... what's this for? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, they're doing a study, one of the research schools are doing a study.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> oh okay um, </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+         <EVENT DESC="SCANS CARD"></EVENT>          what do you          <OVERLAP1> need? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+          computer. yeah, thank you.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> is Joy Brendan in? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yes. i don't know where she is but i just saw her. um her office is in, against the back wall, do you know where her office is? </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi, do you have a lost and find anywhere?          <OVERLAP1> for this building? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          what did you lose?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um i lost keys like a month ago.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay um we, we bring all our lost and found to the (xx) stays behind the counter for a little while. so chances are it'd be there. which is down the hallway on the left. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay thank          <OVERLAP1> you. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> this one's like slow and broken can i get a new one?          <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i check out a calculator? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> all i have is this, mini one. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay do yo- do you have your M-Card? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> something wrong with his? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> he said it's slow and broken.          <EVENT DESC="LAUGH"></EVENT>          i don't know what that means and this one's frozen.          <EVENT DESC="SCANS CARD"></EVENT>          have you been here before?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> David          <PAUSE DUR=":06" ></PAUSE>         <EVENT DESC="SCANS CARD"></EVENT>         <PAUSE DUR=":08" ></PAUSE>          David        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah hold on. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh          <PAUSE DUR=":09" ></PAUSE>         <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hi </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <PAUSE DUR=":13" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (hi) i just wanted to cancel my um subscription before, my first week (xx) or whatever. i just want to cancel (xx) </U1>
+       <PAUSE DUR=":40" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you have any P-C? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um... no there's a waitlist for a P-C. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay so a, Mac. </U1>
+       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <PAUSE DUR=":40" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have a Mac please? </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":17" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hi. Justin. okay. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have a P-C please? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um actually i don't have one. there's a waitlist for one though. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you want (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Justin. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have a, any with um disk drives. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have a Mac, yeah. </U1>
+       <PAUSE DUR=":19" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Justin </U1>
+       <PAUSE DUR=":20" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you guys have um, a phone book? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it doesn't scan. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> it doesn't scan </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (that one doesn't) </OVERLAP1>
+          scan?          <PAUSE DUR=":13" ></PAUSE>          there you go.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi i need a station (xx)          <PAUSE DUR=":05" ></PAUSE>          thank you        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have...? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> here you go          <EVENT DESC="SCANS CARD"></EVENT>          thanks          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have any P-Cs? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <EVENT WHO="S2" DESC="SCANS FOUR CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome </U1>
+       <PAUSE DUR=":43" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> could i have a P-C please? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> actually i don't have a P-C right now,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> no? </OVERLAP2>
+         </U2>
+         <OVERLAP1> is </OVERLAP1>
+          Mac okay or do you want to sign up for one?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um... i'll uh i'll use a Mac. </U1>
+       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":17" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":21" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you guys have any P-Cs? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh no,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> you </OVERLAP1>
+          can sign up for one if you want or          <OVERLAP1> (you could just have a Mac) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> uh no </OVERLAP1>
+          can i just have one of these things?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx)          <EVENT DESC="SCANS TWO CARDS"></EVENT>       </U1>
+       <PAUSE DUR=":24" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is there a pras- practice exam on reserve for bio three-oh-six? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> bio three-oh-six          <PAUSE DUR=":08" ></PAUSE>          yes, do you have your M-Card?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yep </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank          <OVERLAP1> you </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (thanks) </OVERLAP1>
+       </U1>
+       <PAUSE DUR=":23" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you need a disk drive? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh no.          <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <EVENT WHO="S2" DESC="SCANS FOUR CARDS"></EVENT>       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i'm sor-) (can i st-) can i still use a computer with like my I-D or something cuz i don't have my M-Card? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> to get on a computer_ </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> what's your last name? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh Crestfeld. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> C R E S T F E L D? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> what's your first name? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Nathaniel. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> did you check him in? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> you ever been here before? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> let's see </U1>
+       <PAUSE DUR=":14" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh this computer froze trying to print </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. do you still need to use it? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no if you could just log me out, when you get off it. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um, the telnet will load but it won't let me log on to it so i can't, log on to pine or          <OVERLAP1> telnet to it </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it won't </OVERLAP1>
+          let you to log onto it what          <OVERLAP1> do you mean? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          i- y- y- you know how it has like the little paragraph at the beginning,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> it'll </OVERLAP1>
+          put that on but it won't it won't say log in it won't go past that.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uh </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          i don't know        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um it might be the whole server i just_ i doubt just the computer. but you can try another computer          <OVERLAP1> (if you want.) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> if if that's </OVERLAP1>
+          okay yeah that'd be good.        </U1>
+       <EVENT WHO="S2" DESC="SCANS THREE CARDS"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i get a Mac? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <PAUSE DUR=":10" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <PAUSE DUR=":35" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do we have any more of the model kits out? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> excuse me? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> the model kits that you had in there or do i have to check 'em out          <OVERLAP1> now? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+          u- are they_ they're not there?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't see any in there. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> they might all be checked out. </U1>
+       <EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT : 39"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hello </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so how's your, avoiding of (grain?) you made it alive? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh, it's good actually.          <EVENT DESC="LAUGH"></EVENT>          my roommate came back today from home (xx)          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mhm </U2>
+          she brought home so much food like from_ i was over at her house on Sunday night for, for (her, dinner.) oh my god so much food we can't even close our fridge cuz my mom sent up food with my friends.          <OVERLAP1> (xx) (home) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> so, </OVERLAP1>
+          where's the problem?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there's no problem (with it) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay. you seem to be kind of disappointed. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> no there's just too much food w- for (xx) it's ridiculous. </U1>
+       <EVENT DESC="CONVERSATION 2"></EVENT>       <PAUSE DUR=":13" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> has it got some stuff in it? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh that's that's just spare parts it's not like the (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh an- any major parts in there? don't need that much. oh yeah there's plenty in there. that'll work. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> there's none of the </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i i can make that work. if i can borrow that for a little bit. that'll work no problem. okay. </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. can i help you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i get a Mac? </U1>
+       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) P-C. nope. P-C's waitlist. (xx) Mac? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah sure. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Janet? do you need a disk drive? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh no, (xx) okay </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no thanks </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this one's not working right. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> is it frozen or what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's just like_ it's not frozen but it's just not doing anything like i'll, click on something and it'll just like keep going and it won't,          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          it's          <OVERLAP1> like it's always busy </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> any P-Cs right now? or </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no if you want to sign the waitlist </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) switch (xx) </U1>
+       <EVENT DUR=":06" DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> actually, i'll just take a Mac. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <EVENT DUR=":36" DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> no i just restarted it. i'm assuming it'll be okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh, that's right.          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> did you want a cu- </U2>
+          Megan? oh she needs a P-C.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i </OVERLAP1>
+          need a P-C.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>         <EVENT DESC="SCANS TWO CARDS"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> if you need a P-C you need to sign up. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> if you need a Mac we have one. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> here </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no </OVERLAP1>
+       </U1>
+       <PAUSE DUR=":22" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> are there any more? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, (yeah) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> sorry </U1>
+       <EVENT DUR=":03" DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <EVENT DUR=":03" DESC="AUDIO DISTURBANCE"></EVENT>       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hi what do you_ no she's waiting (xx) </U1>
+       <EVENT DUR=":03" DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, do you have any P-Cs right now? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no, there's a waitlist for P-Cs. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay thanks. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is there a waitlist? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> just for P-Cs. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (mhm) </U1>
+       <PAUSE DUR=":25" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't have my M-Card can you just, use my last name? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Megan </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what's your last name? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Evald, (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> N O U,          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> N O U </U2>
+          S E A U.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> S E A U? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> first name? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Paula.          <PAUSE DUR=":06" ></PAUSE>          oh          <PAUSE DUR=":06" ></PAUSE>          thanks.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you know if there's a book in here called instrument a- analysis? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh what class is it for? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's for two-forty-two. chemistry </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you need to sign the list that's up in there.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> did </OVERLAP1>
+          you take the pen with you when you used it?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> excuse me? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> did you take the pen with you when you used it? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> nope </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay never mind </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> well if you miss- Jen there's a_ uh oh... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> just put me at_ what time is it? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i don't know. it's twenty to </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <EVENT DESC="RECORDING RELATED SPEECH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay thanks. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay well maybe these people are gone... like good old Justin. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> can i help you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm just waiting          <OVERLAP1> for the, computer. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you can share </OVERLAP1>
+          one.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> well a computer i have          <OVERLAP1> i just (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> here you get one          <U2 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> no i don't care. that's fine. </OVERLAP2>
+         </U2>
+         <OVERLAP1> i'm gonna go to the bathroom </OVERLAP1>
+          then.          <PAUSE DUR=":04" ></PAUSE>          thanks.        </U1>
+       <PAUSE DUR=":27" ></PAUSE>       <U1 WHO="S7" NSS="NNS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (uh) my computer just is stuck i guess. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> frozen? </U1>
+       <U1 WHO="S7" NSS="NNS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> frozen.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> frozen </OVERLAP2>
+         </U2>
+         <OVERLAP1> where </OVERLAP1>
+          are you          <OVERLAP1> at? </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NNS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right in that row, station          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay what computer number? </OVERLAP2>
+         </U2>
+         <OVERLAP1> seventy-one. </OVERLAP1>
+          station seventy-one.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i get a computer? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <EVENT WHO="S6" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this isn't working. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> is it frozen? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, you have to wait a second cuz i don't have any, computers right now. oh wait here's one.          <EVENT DESC="SCANS CARD"></EVENT>          can you look at this one too while you're at it?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yep </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thanks. you have to sign up on the </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you have a I-B-M, (computer?) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no, there's a waitlist.          <PAUSE DUR=":05" ></PAUSE>          you need a P-C          <OVERLAP1> too? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          yeah.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it'll probably be a while. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's gonna be a while? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well i_ the the first person on the list has been waiting a couple minutes already. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh w- well does it have um, do they have Word on it? do the Macs have Word on it? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Word? yeah all of them          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> have Word </OVERLAP1>
+          on it.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> then i'll take it then. </U1>
+       <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> w- wh- what's your_ what was your name? are you John? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Charles. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Charles okay.          <PAUSE DUR=":12" ></PAUSE>          there's a waitlist right now. if you wanna sign up... it's right here... and then if you want a M- if you want a P-C write P-C next to it.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i check out a workstation? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> actually they're all,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh they're all </U2>
+          being used right now but you can sign up if you want. if you want a Mac you'd be the first person.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mm </U2>
+          if you want a P-C there's a little bit of a wait.        </U1>
+       <PAUSE DUR=":29" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) the printer has a paper jam </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> excuse me? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> the printer has          <OVERLAP1> paper jam </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you've no computers? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> no there's a waitlist for them. </U1>
+       <PAUSE DUR=":29" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh you're gonna be next, as long as n- Justin </U1>
+       <PAUSE DUR="1:01" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Jen, and Tim. </U1>
+       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> there's a waitlist right now. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh okay. </U1>
+       <PAUSE DUR=":29" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Steven </U1>
+       <PAUSE DUR=":13" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i can't get the C-D to eject from the... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> from th- your          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> computer? </OVERLAP1>
+          um did you click on the C-D and then go up to special and eject? did you        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is that what you have to do?          <OVERLAP1> click </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          or you or you can trash it but, make sure you that you're clicked on it,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          and then go to special.        </U1>
+       <PAUSE DUR=":41" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know it should work fine, like i opened telnet and it worked so, i don't know about other programs. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Nicole </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <EVENT WHO="S2" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is this waitlist all computers or...? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> all computers. </U1>
+       <PAUSE DUR=":19" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you guys have any more single transparencies? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> no we don't have any but the tens. i can break a pack of ten i guess. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i need two more do you have change? do you guys have a five? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we definitely don't have change up here </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> no i'm just_ i'll (break 'em off here and) put 'em in the vending machine and then it,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          can sell 'em to you.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is this the waitlist for any computer? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <PAUSE DUR=":21" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) have a pair of scissors? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah we do... here you go. you're welcome. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> William, and Mary. </U1>
+       <PAUSE DUR=":16" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have any computer stations available? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no there's a waitlist right now... j- uh Jay? </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> how long's the wait (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, only, a couple people ahead of you. are you Jay? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Sanchez.          <EVENT WHO="S2" DESC="SCANS CARD"></EVENT>          uh can i get, do you guys have uh, i'm looking for two books on reserve for bio three-oh-eight?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah we have 'em </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Danielle </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh wait i sh- okay </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Danielle </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh you're right there sorry. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's okay... i just wanted to (xx) </U1>
+       <PAUSE DUR=":14" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Katy          <PAUSE DUR=":19" ></PAUSE>          Candice        </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you need a computer? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <PAUSE DUR=":13" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> did you (club) last night Candice? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh i didn't go out. i was </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) (you weren't there?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> nope </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          thank you        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> can i just walk in and (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) just need this card </OVERLAP1>
+          right?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have any P-Cs yet? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay is there anybody waiting? or </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there's one person. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh my gosh. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah... it happens every once in a while. (haven't heard it lately though) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what stops it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> someone's trying to use, water in there i guess that doesn't work or something. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> they haven't turned it off?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          maybe they left it on.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um,          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> Nadhi </OVERLAP2>
+         </U2>
+         <OVERLAP1> do you have, the, </OVERLAP1>
+          the exams for Chem two-sixteen?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> is that your name? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two-sixteen? um </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yep </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you want a P-C?          <OVERLAP1> or maybe that's, maybe that's another person </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> no i, </OVERLAP1>
+          yes.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you know where Christina Meninski would be? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um, yeah Chemistry, in the back right-hand corner of the room there's alcoves.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          like right back there,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          and she's sitting in one of those.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this computer's frozen. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's like the start-up like it's reloading and it's stopped. you know like there's that little bar that goes across? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (okay) </U1>
+       <PAUSE DUR=":17" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> someone helping you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm not sure if she checked_ um i need the Chem two-sixteen exams. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh.          <PAUSE DUR=":07" ></PAUSE>          you have your M-Card?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what's this all about? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh the microphones? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um, there's_ they're doing a research study on, the words that are being used in various university settings. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh okay </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i don't know. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i see. do you mind_ um i got like something caught in that little machine i bought some notecards and it didn't fall out. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":59" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is this computer frozen? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah she said it's frozen on the start-up. (xx) </U1>
+       <PAUSE DUR=":44" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi          <PAUSE DUR=":07" ></PAUSE>          thanks.        </U1>
+       <PAUSE DUR="1:07" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hi... Geo introductory oceanography. bet that's a fun class. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> computer goes o- classroom goes on reserve at one.          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          so we need to start finding out if, if they're gonna be here for an hour or not.        </U1>
+       <PAUSE DUR=":57" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have any open P-Cs? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> no. there's still a waitlist for the P-Cs. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um can i get a Mac with a floppy? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm.          <PAUSE DUR=":05" ></PAUSE>          will you be on longer than an hour?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh no. </U1>
+       <EVENT WHO="S5" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi. </U1>
+       <EVENT WHO="S5" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you happen to have a paper clip? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes we          <OVERLAP1> do. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> thanks. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> thank you </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> Beth </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> y- </OVERLAP1>
+          you're welcome.        </U1>
+       <PAUSE DUR=":26" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um i'll wait for a P-C. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you_ put your name down. </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have a different card (xx) this computer's (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um, will you be on longer than an hour? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh no...          <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <PAUSE DUR=":45" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> will you be on longer than an hour? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no          <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <PAUSE DUR=":23" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know it wasn't frozen when when i got there.          <PAUSE DUR=":04" ></PAUSE>          typed in the password and it booted right up.        </U1>
+       <PAUSE DUR=":25" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey uh, can i use a calculator? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> actually, i don't believe we have a calculator, and we don't. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you don't? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> sorry. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":47" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hi i need a uh, C-D for geological sciences, two-twenty-two. </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <EVENT WHO="S5" DESC="SCANS TWO CARDS"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um, i need a computer to do this (xx) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh no. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank          <OVERLAP1> you. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> mhm. </OVERLAP1>
+       </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> this computer's frozen up can i have another one? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm... i don't need your M-Card. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay </U1>
+       <PAUSE DUR=":50" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i forgot my M-Card can i just...? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i need your last name. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Brunswick B R U, N S W_ oh sorry          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> B R U </U2>
+          N S W, I C K.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> first name? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Tracy </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> are you gonna be on longer than an hour? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no.          <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thank you.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm. </U1>
+       <PAUSE DUR=":13" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> excuse me, is there a fifty-eight? cuz it says thirty-six through fifty seven          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          it's in the classroom straight back.        </U1>
+       <PAUSE DUR=":44" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi </U2>
+          um there's something wrong with the computer i'm using. i can't get my disk out now.          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> i was </OVERLAP1>
+          trying to open up a file and, it won't op- it first it took forever now, it's like frozen          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> okay (xx) </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey how's it going? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i can get your disk out for you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> nah the disk won't be ruined.          <PAUSE DUR=":20" ></PAUSE>          i'm just gonna unplug the computer (xx) restart it.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you. </U2>
+          (cuz i don't want anything to be lost on the disk.)        </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're recording.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> it's not me but... how are you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm okay. are you graduating? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah. you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you excited? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh yeah you were looking at schools (xx) right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, i don't know (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah but i'm, decided i'm either going here or Vanderbilt. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) no problem. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> good luck.          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> can she get another computer? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> cuz it's, freezing up. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> will you be on longer than an hour? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no          <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thank you.        </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you need a disk drive? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i have one) thanks. </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i had that) P-C i (just) wanna return it          <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <PAUSE DUR=":18" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have a P-C? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes          <EVENT DESC="SCANS CARD"></EVENT>          will you be on longer than an hour?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no </U1>
+       <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i forgot my M-Card can i just </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> your last name? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> F A L, D H, U R I. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> first name? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> L U M A. can i get a hard drive?          <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thank you.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh will you be l- on longer than an hour? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay. will you be on longer than an hour?          <EVENT DESC="SCANS CARD"></EVENT>          shit.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have a Mac please?          <PAUSE DUR=":09" ></PAUSE>         <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <PAUSE DUR=":20" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> will you be on longer than fifty minutes? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no.          <EVENT DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i have a station card? it's not gonna scan right.          <OVERLAP1> Koopa, Koopa </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> just gimme your last name yeah sorry </OVERLAP1>
+         <PAUSE DUR=":04" ></PAUSE>          uh what's your first name?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Sunir, S U N I R. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> this'll be reserved at one can you be off          <OVERLAP1> (by) that time? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> i'm gonna be </OVERLAP1>
+          five minutes.          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          thank you.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> is P-C okay? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, no i need a um,          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> a Mac? </U2>
+          yeah.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay you have to wait a couple of minutes. i'm sure it won't be long. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i restarted that one and it just wasn't, like reading your disk it might work now </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> is a P-C okay? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> excuse me? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> is a P-C okay? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah...          <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey, do i_ do you need my M-Card? or </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> no you're all set </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright thanks. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do need_ do you need to use the disk drive on the Mac? or just </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i need to use it. but that's alright if it doesn't have one. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> it's alright if it doesn't have a disk drive? okay then i have one that the, disk drive's not working.          <EVENT DESC="SCANS CARD"></EVENT>       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i wouldn't put your disk in the drive because the last girl got hers stuck. okay, sure.          <PAUSE DUR=":04" ></PAUSE>          dry erase one or          <OVERLAP1> a regular one? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> it doesn't matter </OVERLAP1>
+          a regular one's fine.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> cuz, like we have overhead pens.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (just a regular) (xx) </U2>
+          yeah        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> am i supposed to let you guys know if i change my office hours? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh yeah actually. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> are you changing them permanently or jus- </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no it was just for this week. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh no you don't_ no that's fine          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          you can right it on the, board up there so the people that, are looking can see that you changed it.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i get a P-C? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> thank you </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i found one of these under the keyboard. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you found one,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> underneath </OVERLAP1>
+          the computer. okay just throw it in there. thank you.        </U1>
+       <PAUSE DUR=":25" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is today's date? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> the tenth. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":39" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (hey) could i get a Mac please? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":24" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you_ um you haven't gotten any calculators back? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> we have calculators now um, they're not scientific or anything but,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh they're not </U2>
+          that's all we have.        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mm          <EVENT WHO="S9" DESC="LAUGH"></EVENT>         <PAUSE DUR=":04" ></PAUSE>          i'll try to work with it then.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> better than nothing </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> actually how many scientifics you have out? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i don't know. like fi- we used to have a lot i feel they've all been stolen or something.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> they seem to have disappeared... along with our graphing calculators. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh. thank you. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> we should look 'em up and see who has 'em.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <PAUSE DUR=":28" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":30" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> could i get P-C please? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm doing karaoke. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> really? where? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right here </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh, sweet.          <EVENT DESC="LAUGH"></EVENT>          go ahead start off.        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh i'm so hungry. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> so am i. i'm starving. </U1>
+       <PAUSE DUR="1:07" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi, i need a P-C. um not P-C, Mac. what i am doing?          <PAUSE DUR=":05" ></PAUSE>          uh can i go to the uh pink one?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i- it'll be reserved in forty-five minutes can you be off?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh yeah. </U2>
+          (in forty?)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> twenty minutes is okay, thank you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have any P-Cs? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh, yes. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR="1:12" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you have any P-Cs? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh no i don't. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay an Apple's fine. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> that's your credit card. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oops i'm sorry.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          i grabbed the          <OVERLAP1> wrong one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> thanks though. </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'll buy one. </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> it's gonna be reserved in forty-five minutes do you need longer than that?          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh no that's fine. </OVERLAP1>
+         <PAUSE DUR=":04" ></PAUSE>         <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thank you.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i can't get something to print on this one. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> can you help him? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> sure. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> n-          <EVENT DESC="LAUGH"></EVENT>          i logged off now but        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you just want to try a different computer then or do you </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> that's an odd message. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":30" ></PAUSE>       <EVENT DUR="1:03" DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's you? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's me.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> it looks so different </OVERLAP2>
+         </U2>
+         <OVERLAP1> freshman y- </OVERLAP1>
+          it's freshman year. i don't think it looks that different.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you do </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah i'm          <OVERLAP1> old. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> it's </OVERLAP1>
+          (xx) different.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'm a geezer now i'm a relic here </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what year are you? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> fourth year. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you're outta here? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> one more semester. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i think there's something you have to do, special for um P-D-Fs so,          <OVERLAP1> i'll go ask her. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> are there any P-Cs? </OVERLAP1>
+          or          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> no </OVERLAP2>
+         </U2>
+         <OVERLAP1> i'll </OVERLAP1>
+          just have any computer.          <PAUSE DUR=":07" ></PAUSE>         <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so no P-Cs? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> nope. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i get an iMac then? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes.          <PAUSE DUR=":07" ></PAUSE>          there you go.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what do we have to do to print a P-D-F file? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> P-D-F that's acrobu- acr- ac- Acrobat Reader should just automatically open it up. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> right but the other day Aar- i mean_ yeah Aaron was doing stuff because th- it wasn't, if you try to print it and it won't print. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh i don't i don't know, then. you might have to try a new computer then i don't know. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you guys are out of single transparencies? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (um) </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh it worked? </OVERLAP1>
+          okay... it worked this time.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> can you hang on a second? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what? yeah i know. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have_ i'm sorry. can i have the I-R index? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> sure. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> how many more, how many more do you need? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> well actually i, i bought one, one of these but i thought (there) was another one so (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> are you gonna use it just up front or are you gonna, check it out? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no i'll just use it right here.          <U2 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          (thank you)        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome.          <OVERLAP1> hi </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> hi </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you need a Mac? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh it doesn't matter. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> here you go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you very much. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome. hi. </U1>
+       <U1 WHO="S10" NSS="NNS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi can i have a P-C? </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> we don't have any P-Z P-Cs in right now. if you want to sign your name on the waitlist you'll be the first one. </U1>
+       <U1 WHO="S10" NSS="NNS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, okay thank you. (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (okay)          <PAUSE DUR=":06" ></PAUSE>          there you go.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> P-C is there a waitlist or something? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh yeah, we don't have any P-Cs but if you want to sign you name, then i'll get you one as soon, as i can. </U1>
+       <PAUSE DUR=":13" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what are you looking for? like uh, which experiment are you doing? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> ten. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh. okay. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> so it's different </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah totally. actually i'll be right back. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (excuse me) (xx) is there a way that we can get fifty-eight and fifty-nine? cuz these aren't acr- next to each other they're across the room. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um, lemme check for you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) how are you? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> good. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (oh wow.) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (those are) peeps. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah is that the thing that they did yesterday? what was that for? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i don't know          <OVERLAP1> they </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> someone </OVERLAP1>
+          has the station card to fifty-nine so i can't get you that one.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay maybe the one next to that. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i have fifty-eight and sixty. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh that works          <OVERLAP1> we can do that </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah, we'll </OVERLAP1>
+          take that.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have a marker i could borrow for the dry erase board?          <EVENT WHO="S9" DESC="SCANS CARD"></EVENT>          thank you.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there's (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what's her name again? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i          <OVERLAP1> can't tell who that is </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> Lauren what's up? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hello how are you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> good. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hey have you seen (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> is there an N-M-R catalog too? it exists? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah, yeah. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> does it? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, could i get that? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> get what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> the e- the N-M-R catalogue? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> here you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are you doing ten also? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um ten and eight,          <OVERLAP1> yeah. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> okay, </OVERLAP1>
+          (that's a lot.)        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> can i help you? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> computer. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> here you go. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> so this is all the transparencies we have (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there's no more. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are these books checked in? </U1>
+       <PAUSE DUR=":18" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> here you go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":11" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi. is there anyway we can get di- two computers checked out on, this? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (yeah) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> cuz i, i lost my M-Card.          <EVENT DESC="LAUGH"></EVENT>          why you guys have all these microphones?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> we're being recorded for some language, thing. </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="1" RESTRICT="NONE"> oh. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that sounds like fun. am i being recorded too? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> where's the index (if you need the...) where's the index (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> are you going to be longer than a, half hour? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> not likely. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> did you get what you wanted? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> um (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> but can we have two next to each other please? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> God i hate this. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> me too.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm so glad it's the last one. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm almost convinced that i have like_ my N-M-R is not, what my I-R is. it's so far off (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah, they are. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx)          <EVENT DESC="LAUGH"></EVENT>          sorry...          <U2 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> there you go. </OVERLAP2>
+         </U2>
+         <OVERLAP1> thank you. </OVERLAP1>
+          thank you.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> thank you. </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you're welcome. </OVERLAP1>
+         <PAUSE DUR=":04" ></PAUSE>          hi        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hi </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks... hey can i see this? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright thanks. </U1>
+       <PAUSE DUR=":21" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you need to use a disk drive? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hm? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you need to use a disk drive? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> 'm'm. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SCANS CARD"></EVENT>          here you go.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i need an I-R and an N-M-R book for_ this is </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> they have them right there. the index are you looking for or do you need_ know the number of the book? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well i just like need, like the books_ are they back there (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i have a question fifty-eight isn't working is there a way i can have sixty-one? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh no sixty-one is out of order. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> out of order, mm can i have any other one then i guess? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> even actually sixty-five will do too cuz that's right across.          <PAUSE DUR=":07" ></PAUSE>         <EVENT WHO="S9" DESC="SCANS CARD"></EVENT>          thanks.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i get a computer please? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> sure...          <EVENT DESC="SCANS CARD"></EVENT>         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> excellent thank you. </OVERLAP2>
+         </U2>
+         <OVERLAP1> there you go. you're </OVERLAP1>
+          welcome. hi.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you're welcome. </U1>
+       <PAUSE DUR=":35" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> there was somebody on that computer with a card that said station fifty-three.          <U2 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so i guess you have two,          <OVERLAP1> (of that) card. </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well i think what </OVERLAP1>
+          happened was someone, took the card and then they came back with it and just          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> (go to) </OVERLAP1>
+          the computer. cuz,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay. </U2>
+          i pulled this card this morning because we didn't have it.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hm </U2>
+          someone brought it back          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          um are you going to be longer than thirty minutes?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no.          <PAUSE DUR=":06" ></PAUSE>         <EVENT WHO="S9" DESC="SCANS CARD"></EVENT>         <OVERLAP1> thank you. </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (there you go.) </OVERLAP1>
+          you're welcome.        </U1>
+       <PAUSE DUR=":16" ></PAUSE>       <EVENT DESC="TELEPHONE RINGS"></EVENT>       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="SPEAKING ON TELEPHONE"></EVENT>          hello? science learning center. Angie. um, no Teresa's here. um she's here until one. yep. um, sure whenever she comes back. she's helping somebody with something. um i can have her give you a call if you want me too. okay. no problem. bye.          <PAUSE DUR=":11" ></PAUSE>          Aaron wants you to call him.        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (is) does that (xx) the copying machine ate twenty cents (my twenty cents) (xx) and it's </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> and i still need          <OVERLAP1> to make a, </OVERLAP1>
+         <U2 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> do you have a nickel? </OVERLAP2>
+         </U2>
+          few more (xx)        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> five cents? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i might.) </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i just need a computer. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <PAUSE DUR=":18" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i think you might have the same um, one as i do.          <OVERLAP1> how many (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> your aldehyde does </OVERLAP1>
+          not look_ nothing, i mean, it definitely is not        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one two three four five six, seven (eight nine.) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> lemme see your N-M-R. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (alright) </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is my I-R. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are you guys using both those books? like can i just check, to see where one of the </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> sure. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> which one aren't you using? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well, i w- i kind of am_ i'm using this one she's using that one so </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> the indexes are (xx) (book too) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> um i'm done using this one. </OVERLAP1>
+          but this isn't the index or anything so        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is the index? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no this is N-M-R under here. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one of these is an index. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's index. that's the one i'm using.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (oh            <OVERLAP2> okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          i mean you could check something in it if you, want to.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> there should be an index in volume two of the N-M-R. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah this is not_ that's not what an N-M-R looks like at all. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. </U1>
+       <EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT 2:20"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi. </U1>
+       <U1 WHO="S10" NSS="NNS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, can i have a P-C please? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes you can.          <EVENT DESC="SCANS CARD"></EVENT>          here you go.        </U1>
+       <U1 WHO="S10" NSS="NNS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":40" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> how you doing? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> good how are you doing? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> is that research uh, information right there?          <OVERLAP1> (asking the) </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          i_ but we're not the          <OVERLAP1> r- researchers. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> wh- what's </OVERLAP1>
+          going on here?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um, i think they're just trying to, see what kinds of language is sp- like what kind of English is spoken in various university settings (xx) non-native speakers (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> really? well i, i speak it, English that is.          <EVENT DESC="LAUGH"></EVENT>          alright. thank you.        </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what volume do you need? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, volume one for um, what is this? this is I-R i think. yeah. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi Becky. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hi (Peter Sarah) what's up. hanging in there?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hi this book's on reserve for, Bio three-oh-eight i was wondering if i could get this. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what's the microphones for? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you_ what'd you say? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what's the microphones for? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um they're doing_ someone's doing a research, uh s- s- study on, different, words that are said in, university settings. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh are those tests? okay. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah is that what you wanted? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um i'll take that too and,          <OVERLAP1> the books. yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> do you want the books? oh sorry </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <EVENT DESC="CONVERSATION 2"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> the aldehydes are (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't think this is an aldehyde though.          <OVERLAP1> if this is an al- </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> huh? </OVERLAP1>
+          no th- i'm p- i- i'm positive          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> that yours </OVERLAP1>
+          is an aldehyde?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> it's an aldehyde </OVERLAP2>
+         </U2>
+         <OVERLAP1> well </OVERLAP1>
+          my only problem is that, if it's an aldehyde why isn't it on here on my N-M-R at all?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> the way you read, N-M-R is how many hydrogens you have. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh i know but, um, i don't have a hydrogen for an aldehyde and a hydrog- uh aldehyde hydrogen on here. um, should          <OVERLAP1> i (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> so, </OVERLAP1>
+          you said yours isn't an aldehyde, or          <OVERLAP1> it is? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i i </OVERLAP1>
+          don't know how it c- well, i i first i thought that_ see i wrote aldehyde i thought that it was for sure an aldehyde and then,          <OVERLAP1> i look at </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> because yeah </OVERLAP1>
+          it has the          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> twenty-seven </OVERLAP1>
+          twenty-eight hundred dip right there        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> here's an aldehyde_ where is it? at nine-point-seven there should be, s- an absorption (xx) and i definitely don't have that. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so have you narrowed, it down to like a few? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i, i can't like i, i have no idea like, i_ all i know is it can't be a carbon chain for me. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i did i did like how many hydrogen things there are. this one has like six, but one of 'em has nine, this one has nine or something          <OVERLAP1> (i guess.) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> see i don't </OVERLAP1>
+          have any double humps in mine. i have no couple. so there's no neighbors there's no um, chemical_ do you know what i mean?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          so i can't have i can't have i can't have this i can't have this... i can't have this or this... i have no O-Hs, i think it might be,          <OVERLAP1> i think it's (maybe) one of these. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          one of these or something?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but you know for sure it's (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i mean, i- there's no absorption. so, but otherwise i thought it would be. </U1>
+       <EVENT DESC=":20 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i see, (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> C-seven, hold on i'm just gonna look at this really fast. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> I-R index. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) two days three days. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's N-M-R. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh, this is what i was gonna look at really fast. C </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> could you guys actually um, go to a, like          <OVERLAP1> check these out and go to a table? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh sure i thought you didn't </OVERLAP1>
+          want us to,          <OVERLAP1> leave this area. </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no you just have to </OVERLAP1>
+          check 'em out.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh okay.          <OVERLAP1> that's no problem. </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so i just </OVERLAP1>
+          need your M-Cards.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh what time? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i just see, this real quick? i just, need to (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no i was just on North Campus </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay, there you go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> can you check, this out to her? you want this one? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i just want this one.          <U2 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> i'll just take </OVERLAP1>
+          the N-M-R.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> doing a research, project on, linguistics or something. (i don't_) English (in different...) (xx) uh areas on campus. i think they're making (xx) like a dictionary-type thing for people that aren't native English speakers (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (oh that's) (xx) is. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> who's this for? here you go </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi can i help you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do we check these out? or </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah you have to check 'em out. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you know which one you need? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you know which one you need? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i need this one but um i          <OVERLAP1> need (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah we need your M-Card. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> this'll actually be, reserved in twenty-five minutes. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's fine i'll be done.          <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>          thank you.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> so (xx) that job. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> you got it? when'd you hear? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yesterday at four o'clock... yeah i got it. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i can't believe that.          <U2 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yep. </U2>
+          what's your what's your salary?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> twenty-four. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> that's more than you asked for. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yeah, it is. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> she got it? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> we played phone tag all day i guess she called me at like, eight-oh-nine in the morning and i was          <OVERLAP1> in the sh- </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i can't believe_ </OVERLAP1>
+          good job        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> thank you thank you (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> how how, (what a load off) </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i- g- i- u- unbelievable uh, she's like, it feels pretty good to graduate with a job in your hand doesn't it? and i was like you have no idea </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what did uh, what did, your parents say? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um, yeah they were very excited for me my dad's like well congratulations and now we can start making a budget for your car insurance payments. i was like hm you're (xx) taking all the wind out of my sails. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well it's about time you start paying for things. i've been doing it since i was twelve. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i know, i know but that's just not the </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> hi can i help you? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what's this? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> we're doing a research study on the, different words that are used in different,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh </U2>
+          areas on campus i believe. i'm not sure          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> uh, can </OVERLAP1>
+          i get a P-C?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yes you, can. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> and i don't have my I-D on me. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what's your last name </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> D A R, R E, L S O N. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> first name? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> Lars </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> can we check these out? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> volume one. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> here you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is the I-R. (xx) oh okay. </U1>
+       <PAUSE DUR=":17" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> sorry, </OVERLAP1>
+          can i check out the other volume too?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> what volume? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um of the N-M-R. the volume two. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are you done using          <OVERLAP1> the N-M-R by any chance? </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> do you mean volume one? i don't seem to </OVERLAP1>
+          have volume two. (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh then i have volume two.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay can i check this out? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> yep. do you have your M-Card with you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mhm. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i have another computer we're not_ that computer and i weren't getting along so well. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> um, it'll be reserved in twenty minutes is that okay or do          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> that's fine. </OVERLAP2>
+         </U2>
+         <OVERLAP1> you need </OVERLAP1>
+          longer than that?        </U1>
+       <EVENT WHO="S5" DESC="SCANS CARD"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thank you. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> there you go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":22" ></PAUSE>       <EVENT WHO="S9" DESC="SCANS CARD"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thanks. </U1>
+       <PAUSE DUR=":35" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay you probably want to kill me. is there a third volume of this? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> a th- of N-M-R i don't think so i think there's only two N-M-Rs. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay cuz i_ i- it says like page like fou- one-thousand four-hundred-seventy and this only goes up to like,          <OVERLAP1> one thousand </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's it's f- </OVERLAP1>
+          it's like volume one four-hundred and twenty. try that.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> the first </OVERLAP1>
+          number is the volume          <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh it </OVERLAP1>
+          is? okay.        </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) is there a wait for P-Cs? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> uh yes. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (okay) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> do you do you need to,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U2>
+          sign up? here's a waitlist.        </U1>
+       <PAUSE DUR=":21" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> this'll be reserved in twenty minutes do you need it longer than that? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> okay there you go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i get an I-B-M instead? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> actually there's a waitlist for I-B-Ms right now          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> oh really </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          put your name on (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah sure          <PAUSE DUR=":04" ></PAUSE>          well can i get another Mac then? can i differ- a different Mac?        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mm yeah. how long are you gonna be on those?          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> like </OVERLAP1>
+          ten minutes.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> (okay)          <PAUSE DUR=":08" ></PAUSE>          is something wrong with that computer?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah it wasn't starting a program for me so, (xx) yeah thanks. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm sorry can i grab (xx) volume (back here.) yeah i did.          <PAUSE DUR=":07" ></PAUSE>          thank you so much.        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey (xx) guess what? i got two more points on my exam (xx)          <PAUSE DUR=":04" ></PAUSE>          he_ well for one of 'em he marked thr- minus three when it was only mi- worth two points. and then for the other one for the type problem, i got the right type... like type one error type two error, i got the right one. type one          <PAUSE DUR=":04" ></PAUSE>          so i had a_ i didn't do that badly but... but on the (xx...) (xx)        </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

@@ -1,0 +1,1461 @@
+<TEI.2 ID="lab175su032">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Biology of Fishes Field Lab </TITLE>
+         <TITLE> Rackham Div: BS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 10617 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> LAB175SU032 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="89">             <DATE> August 7, 1998 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with one wireless and one external microphone </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Matt Murphy, Janine Ovens, Carrie Sue Kay Sulzer </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Carrie Sue Kay Sulzer </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Rodney Pratt </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Chris Frost, Amanda Jones </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Final Editing, 1/11/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">LAB</TERM>
+ <TERM TYPE="ACADDISC">175</TERM>
+ <TERM TYPE="PARTLEVEL">SU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">BS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NSO"> Native Speaker Other English </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="11"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="14"></PERSONGRP>
+         <PERSON ID="S1" LANG="NSO" ROLE="SF, Instructor" SEX="M" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="ST, MICASE Researcher" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="ST, MICASE Researcher" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Douglas Lake, University of Michigan Biological Station, Pellston MI </P>
+           <P> NOTE: Background conversations throughout recording; only instructor and MICASE researchers identified </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> last time. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right in the mouth. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> in the mouth why? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (structure) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> cuz of all the structure, all the, macrophytes there underneath the surface (the chirate) and so on. so you actually know where to find the fish. don't forget to put the new people to work.          <PAUSE DUR=":06" ></PAUSE>          wasn't too bad you're a little low in the water.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          you're going as fast as the          <EVENT DESC="LAUGH"></EVENT>          (xx)        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah, we actually could take another one if you want. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hello? </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> very weird... </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so you (assume) that Jennifer decided not to come with us? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> uh she had to go_ they they the reason they were coming up here was because they had a family wedding in Traverse City.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh </U2>
+          so she compin- combined visiting Ann Arbor, visiting the school and coming up here all in that trip.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh so she hadn't visited the U-of-M yet? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but she deferred admission but </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we have had long conversations though. a lot of um, talking. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is easy going compared to those marshes.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well it's a little like, Mismer and Prentice marsh i think. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's not_ it's softer, but it's still got a nice bottom. no i m- Prentice and McKay. had a fairly s- firm bottom. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah but it was like sandy it was different. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes it was sandy this is muckier. this is muckier. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they had more (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah this is quite a nice little marsh isn't it really?          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          it's uh, no- no typha.        </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> there's not actually that much typha in Mismer. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i'm not surprised, that Mismer marsh is fairly complete. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah it is but i'm just saying i don't think it's as, there's not as many nutrients so you don't find the          <OVERLAP1> typha (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> exactly, exactly. </OVERLAP1>
+          exactly        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah, as you do in the other ones. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> now Heather is uh getting um, i- is working down in the county offices today isn't she? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i have no idea i          <OVERLAP1> haven't seen or talked to her </OVERLAP1>
+         <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> yeah i believe so. </OVERLAP2>
+         </U2>
+          in,          <OVERLAP1> a long time. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> i'm not looking forward to her talk </OVERLAP1>
+          you coming to her talk?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah, sure.          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mm. </U2>
+          when is it?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> a Wednesday.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ahh </U2>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> sure </U2>
+          yes.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do we need my kill jars too or are we gonna go to a different spot? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i think we_ i would suggest only one set of kill jars so that we're not lugging too much gear around just make it simple whoops, leaning over here. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (alright) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> lemme see, yeah it's gone eleven. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it took a long time to get out here. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we coulda been there and back (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um, well i wanted to keep close i_ the weather is a little iffy. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no i was (xx) (up to there.) i have a bucket full. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i think we can probably make do with one kill jar. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i'll) bring the other bucket. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh okey-doke. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> isn't there a fish in there already? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't think so. oh i (guess there is.) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> there's a (pike.)          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          hm. mm.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i thought i) (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (it's alright.) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (make sure we've got) (xx) set for, for Tuesday.          <PAUSE DUR=":08" ></PAUSE>          so we have to write an exam,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (yes) </U2>
+          exams. Sarah, said, why are we bothering to have another lab exam?          <PAUSE DUR=":06" ></PAUSE>          pardon?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah, i decided that having heard that. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> there's time. um, on the, the lab exam, if we can use it to look at more process questions </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> in addition. and what th- you're not allowed to sell these secrets of the exam okay? uh and what fish are we gonna give them to (key) out? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i haven't decided yet (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> they're go- they're gonna be the unknowns. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hm? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> they're gonna be the unknowns. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i yeah, (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> find find (all of them.) and we have the (spot fins?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> how many Amia do we have? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i mean we caught a lot of 'em.) </U1>
+       <PAUSE DUR=":20" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> are you not writing field notes today Jay? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> huh? no. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> hmm. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i got mine on the boat. they're al- </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> so long as they're contemporary. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> they're already written. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so, is it okay if i just make a copy of that that map? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes, ex- absolutely since we've been here before we don't need an additional sketch map. but you probably might want to, um annotate or add to the sketch map with          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> the </OVERLAP1>
+          the the additional scirpus.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          cuz we do have more growth here,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right </U2>
+          but the major part for you today will be completing the, the the circumstances relating to the weather.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right.          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um </U2>
+          um, is it is it, the water was twenty-two and the air was twenty-one is that possible?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> s- oh absolutely. um at the moment the, oh absolutely the air temperature is is is gonna be lower than the water temperature. because of the thermal capacity of water, it's a terrific buffer.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          so as you get into the fall there'll be_ the water temperature will lag behind the air temperature, and then in the spring the water temperature, sorry the air temperature, the air temperature will be lower and the water temperature will be warmer in the spring it'll be the other way round.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          uh the, temperature of the water will take a long time to get up to the air temperature.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          temperature peaks about August. late Ju- July August.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay and the the does it like depth um, in terms of,          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes? </U2>
+          does it, matter should i,          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes. </U2>
+          (estimate?)        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> ye- no still still record the depths.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          would've been a good idea to have brought          <OVERLAP1> a meter rule, </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> the meter stick, </OVERLAP2>
+            yeah          </U2>
+          um,        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'll, uh yeah          <OVERLAP1> i'll estimate on me. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> but you know the height </OVERLAP1>
+          of your boots.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          many          <OVERLAP1> many </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i'll estimate </OVERLAP1>
+          on me and then i'll go back and          <OVERLAP1> measure (it.) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> peo- people </OVERLAP1>
+          who often work in the field will mark their boots with,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> really? </U2>
+          with ten centimeter lines,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's a good idea. </U2>
+          to to help make it easier.          <EVENT DESC="LAUGH"></EVENT>          yes... so what's the wind direction today?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um one east. (is it?) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes, yeah. probably north-east. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (north-east) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and it might be force two. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> there are certainly no, white caps yet, so it's not force three, but there are there are some, larger ripples, so it's probably force two,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          and flags are extending.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah            <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> see? </OVERLAP1>
+          and the small leaves are beginning to, move, some of the twigs are moving so it's it's it's force two i think.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          and what about the cloud cover?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, i don't remember the,          <EVENT DESC="LAUGH"></EVENT>          i was gonna_ i note it down what it looks like and then go back and          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+          (find the)        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> this kind of weather, um the, barometric pressure, is low,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U2>
+          and the cloud cover, fish tend to get into cover. it's not usually a good day for          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (for) </U2>
+          collecting fish the way we are.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> hey good job getting your notes, written up. don't forget to do some fishing as well. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i beg your pardon? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh really? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          (xx)        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> they're sluggish today. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh i was just thinking you know (xx) that a- at this time of the term that they know what to do. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> they do know what to do but they are sluggish today. it's the weather and,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          the birthday party last night. so how are they doing Luann?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well (they) (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> you don't have wet hands yet.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          how're you doing?        </U1>
+       <EVENT DUR=":19" WHO="SS" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh really?          <PAUSE DUR=":06" ></PAUSE>          ahh. smell that lovely decomposing vegetation.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i love that scent. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mm </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <SEG TYPE="SINGING"> crawdaddy, big crawdaddy (xx) </SEG>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i'd like you to do a second run and uh, teach Janine, to seine. good, good.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey, God, damn it you (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (slacker) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no we're not keeping we're gonna count them, we'll we'll yes put them in the bucket. i i would like a complete count and so on of the fish as usual in          <OVERLAP1> addition to bringing in the others. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh, you've gotta be kidding me there's nine million of (those) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> cuz do you think uh, </OVERLAP1>
+          do you think the habitat has changed, since we were here last?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> uh </OVERLAP2>
+         </U2>
+         <OVERLAP1> it </OVERLAP1>
+          the shore looks,          <OVERLAP1> it looks uh shallower. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> a little more, vegetation maybe. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> like there's less water, cuz i don't remember it being so shallow. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it is shallower, and the scirpus has grown in so there's a lot more cover. and i think you're getting a wider variety of fish. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah (and i-) but i, (like) we didn't ge- we didn't get this many small fish. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no, ah but you also didn't get as many large fish you didn't get the, the Largemouth Bass. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you get any Mudmouth last time? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Jay </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> did you bring a (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i left it on the dock.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh </U2>
+          i thought you were bringing one.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (I figure there's not sense in bringing xx) </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> are we still recording? are we still recording...? come and grab a net. come and grab a net.          <PAUSE DUR=":06" ></PAUSE>         <EVENT DESC="LAUGHING"></EVENT>         <PAUSE DUR=":43" ></PAUSE>          could you remember to keep a species list and count as we did before because, it'll also be interesting to see whether things have changed, since our, earlier vishi- uh visit seven weeks ago.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it looks different here is it different or not? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> why do you think it looks different? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't know (just) thicker? i don't know. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it is different it's shallower the water level has dropped uh, i think as much as a couple of feet.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> really?            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> and uh </OVERLAP1>
+          the scirpus has grown in more. that sand bar didn't exist last time although the shallow area was there.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> think there's some more, (some more) (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yep the macrophytes here, i think it's (kyra) is it? some of it is p- and (popomategetans) those have those have grown in, since we were here last. </U1>
+       <EVENT DUR=":17" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i think (Luann) you'll need to annotate the earlier map, and show the new features, the the shallowness here is yeah so we've got the sandbar, got much more (kyra...) look at that those uh, water lilies are, exposed. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> hm.          <PAUSE DUR=":22" ></PAUSE>          how are we doing for centrarchids?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> not very. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. good job we (xx) in the collection.          <PAUSE DUR=":05" ></PAUSE>          ooh, pardon me.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (yo- you can pick a) number? (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i think) about twenty (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Carrie do you wanna give it another go? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="1" RESTRICT="NONE"> yeah, but no yelling. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no yelling. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> could you uh teach, Carrie, to seine? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (to, what?) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> to seine. i can't remember your buddy's name. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="1" RESTRICT="NONE"> Matt? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it was Matt okay, the other one wasn't_ oh the other one was Brett that's right, that's what's confused yes, okay i'd like um you to show Matt and Brett how to seine. Matt          <EVENT DESC="LAUGH"></EVENT>          and Carrie how to seine.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="1" RESTRICT="NONE"> is that, um, skimming the water? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we're not skimming the water we're g- wanna get it into the water these these will teach you how to seine, yeah. Matt. Matt.          <PAUSE DUR=":10" ></PAUSE>          so um get get show Matt and uh, Carrie how to seine, they can          <OVERLAP1> take an end each. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh you want, (to show it) </OVERLAP1>
+          you don't wanna actually do it the first time?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no they_ you're gonna_ you can describe how to do it, and it gives you the opportunity to shout keep the (leadline) down. um (but) keep away from the private property so we need to go through there. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we haven't w- (went) through there have they? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i don't think anyone has been out onto the, island there. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> wanna go on the other side of the island? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> sure. </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> this little window here is a s- just one section that, is owned by the station, at the entrance of (xx) i keep forgetting you've, you've been up here, yes. but it's one of the best places on the, lake usually to seine (xx) because of all the cover and the weeds and getting into the entrance of (Bessel) Creek. um, there're a lot of perch in the scirpus, but we can't get them. </U1>
+       <EVENT DUR=":10" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> really? well it's (draining, draining fen) isn't it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, no it's actually (xx) (connection rather to) (xx)          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> is it? </U2>
+          yeah you can (xx)        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i didn't realize there were so many uh bulrushes in here.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah (there are) </U2>
+          yeah. probably means that the (xx) (septic) (xx) whoops...        </U1>
+       <EVENT DUR=":08" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> exactly. don't drink the water.          <PAUSE DUR=":05" ></PAUSE>          Jason and Brent. Jason and Brent. make these two work...        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          (turn 'em into fish herders.)          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (xx) are they?          <PAUSE DUR=":06" ></PAUSE>          it's a nice little island.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it is </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah.          <PAUSE DUR=":09" ></PAUSE>          look at this.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yep, it's all over. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah i hadn't noticed them earlier they when we came earlier there weren't any you see? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (sure...) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah, i hadn't seen_ noticed these before, that's huge field. we also find large numbers of centrarchid nests in uh inside (Hook) Point. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mhm yep. that's a good place there're a few, snails that occur there that it it's hard to collect in other places.          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm </U2>
+          and i always fall (into it.)          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> some of them aren't centrarchid nests but they're, upwellings. i discovered and the upwellings are very soft and you can just drop, straight into one, both feet and you're helpless... notice you see all the nests through here...? i think we're through the breeding for centrarchids. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah but </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> how are they_ how many have they got? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they're getting a lotta perch. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh great. has Janine pulled the net? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i believe so.) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> good. make these people work. keep the leadline down. let's hear it in chorus. ah, how nice. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (oh all kinds of things to reach.) </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> show Matt the correct way to hold the pole. </U1>
+       <PAUSE DUR=":22" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> come on </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright now put it all the way up on (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> nice to teach, isn't it? did you explain to Brett, why you should hold the seine that way? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> now don't let the </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Jason </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i didn't explain to him at all </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> did anyone explain to J- to Brett how you sho- why you should hold the seine in a particular way? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> there's a lot of stuff here. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yay </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well done </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> look at all those fishes (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="1" RESTRICT="NONE"> (xx) touching them they don't bite do they? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no they don't bite and you can take one home and have it bronzed in memoriam. </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i just saw this pike (scoot to here) (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh, uh well, look at the look at the forage base that's here. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh yeah. probably just having a blast out here. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mm.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          we didn't get anywhere like this when we were here last time.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright. tell me what you got. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it takes a little getting used to.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          here, can you keep it_ yeah there you go (a little higher so you don't) (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (hell of a long pole) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and what do you think they are? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (Commons maybe?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (Julie) you're stepping on the (thing.) you're stepping on it. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> some are Commons. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> there are certainly some Commons in there, terminal mouth high scales </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah those are Commons </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> textbook </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> textbook Commons. and um, binomial name? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Luxilus cornutus. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Luxilus cornutus. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i know that. why you asking me? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> family? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> um, Cyprinidae </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah, Cyprinidae. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (proper) Greek (xx) E, A </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> A-E, family names, in systematics are always A-E. in,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> what's the order? </OVERLAP2>
+         </U2>
+         <OVERLAP1> throughout the </OVERLAP1>
+          kingdom.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Perciformes, is that the order? Cypriniformes? we never learned the orders. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well you know it's not Perciformes because that's the, the order which contains the family Percidae and is the, root group for the Acanthopterygians, spiny-rayed fishes, so the soft-rayed fishes... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so they're (Acaniformes) i remember that being something </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> uh they're Malacopterygians. if you're using the cladistic structure, oh what a disgusting pile of </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah i i, i avoided that. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mm. um... </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that is disgusting yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) wearing waders </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they just went woo, (xx) can get away with it </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> this is really gross they've walked their dogs here. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'm sure it contributes to the production of the area. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> well anybody get like a guesstimate? bunch of Commons anything else? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no, i'd say like (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> just Commons? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (seems that way) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> how many have we got like fifty? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <EVENT DUR=":05" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ha- are we getting Pumpkinseeds in the (hole?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> getting a lot of bass (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we're not getting many Pumpkinseeds um, or Rock Bass as it's happened so </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so what happens to the fish when it gets shallower?          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> well </OVERLAP2>
+         </U2>
+         <OVERLAP1> where </OVERLAP1>
+          would they go?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> they'll move further offshore they'll stay in shallow water the depth is going to be the key factor. so they will, just move a larger distance away from shore but still in the shallow water. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i've heard, i've heard, that there's an association with size and depth (somewhere) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes, it is rumored.          <OVERLAP1> even here. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (isn't that) (xx) though? </OVERLAP1>
+          so, is, like where do they, they stay close enough that they could go to, protected areas? or        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well the shallow water is a protection just by virtue of its depth and, deeper predators can't move effectively in shallow water. it's also where the wave action is continually bringing up, more food because they're detritus feeders or they're eating the interstitial fauna, which is churned up. this is why if you go on the beach in Douglas Lake and wriggle your toes, the minnows will start feeding around your toes. so this area is also the (living) (xx) so it (xx) food material for them. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so how much          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> but it's exposed, </OVERLAP1>
+          in terms of being they're readily visible to predators, therefore they also, uh tend to be schooling species.          <PAUSE DUR=":06" ></PAUSE>          i'm gonna go and see uh, if they're getting tons of bass where bass is an option. did you p- i beg your pardon?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (do you want us, do you think we should) do more seining? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no i don't think you need to do more seining. if you have any, centrarchids if you could          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> nope </OVERLAP2>
+         </U2>
+         <OVERLAP1> keep </OVERLAP1>
+          those.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U2>
+          the rest um, countimate,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright </U2>
+          and return...        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> is it common to get spots on tails (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> spots are quite common on the tails of minnows. the Spottail has a very very clear spot... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what's the name of the Spottail again? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (so it would be,) hudsonius </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (notropis? mhm) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) (this one?) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> uh i don't know. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> i thought i saw one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah you see? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and it's got a little bit of a subterminal mouth, so you need to check through these they're not all Commons. okay? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (you got a Spottail in here?) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's a beautiful Spottail. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay so, you do need to sort these quickly but carefully to get a count on which minnows you've got see this one with the terminal mouth and the high scales? that's a Common. okay? so go through, uh there are Spottails amongst here so do go through the fish, and count the, numbers of each species. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) (from a) Spottail? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay the Spottail, uh i- i- is not exactly got much in the way of distinguishing characteristics, other than the very clear, definite spot.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U2>
+          now do you know, do you real- remember how a lot of the minnows we've seen have been very light and silvery?        </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> uhuh </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> these are a lot darker, than anything that we've seen for a long time. um, whether it's a local, weather, related to the weather or not i don't know. but certainly with it being darker when the when the the you know the cloud_ the the, the weather is da- is is less sunny, they tend to be lighter. uh the Spottail also has a uh a slightly overhanging mouth,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U2>
+          right? so it's got a slightly subterminal mouth.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> does it have (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i forget) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> the Bluntnose does </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah. not particularly they're fairly clean scales          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright </U2>
+          okay?          <EVENT DESC="LAUGH"></EVENT>          would you like another one?          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          don't worry we've all dropped fish. i usually drop the certificate specimen the only one caught by the entire class i- b- in the whole summer. ah good, Janine's really getting in there.          <EVENT DESC="LAUGH"></EVENT>          the other thing thinking about whether people are dark or not        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (they have a lot brighter line) right          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> (but this is) </OVERLAP1>
+          still a Spottail.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well, yes that's still a Spottail, these are a lot more pigmented, a lot more pigmented than the ones we've seen early. in fact if you noticed, the people who come up from Ann Arbor are distinguishable from the people in camp because they're a lot paler.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what animal is (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottail </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh, hey there's a Bullhead (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um those are, i think those are dogs. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are they? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i think probably the people up here have a dog, and it comes over here and runs. i think it's pretty cruddy. um how many bass have they got over there? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they said they didn't know but they were estimating about ten. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> is it enough to take bass back? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh the, the bass. uh i don't know. they got a lotta perch. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we don't have a large size range of perch though so it would be a wa- it would be a waste of material. do we have uh if we include the (Clyver Dam) and various others do we have </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) try not to bring too much stuff back </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh i agree. oh we'll leave the bass then we'll just take th- we'll just take centrarchids (xx) size range of both. did you notice the color? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> the perch have been really dark          <OVERLAP1> (you can't even find them in the water) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> everything is dark. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) it's a little dark in back (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> but out here as well. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah.          <OVERLAP1> c- could you_ </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh great. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well, neither.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> could be a Pumpkinseed </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's a baby Pumpkinseed. so that needs to go back. do we have a kill jar over here? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> there's one over there (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay do you wanna wait and see if the others_ are we getting more (Chris?) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> you've got Johnnys? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottai l </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> why? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh they're in the bottom. yeah we did. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> why are they in the bottom? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Michelle why are they in the bottom? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no, air bladder, in their body. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> but why are they bottom fish? they're negatively buoyant they lack a swim bladder </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> actually yeah we always found them in the plastic (traps) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes that's what i understood. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) so that's the one that might be, the, (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh that's so dark. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) i think it's a Johnny Darter. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) come here little Bullhead, come here. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> got a Bullhead too? good grief. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (down here) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> okay. could you, could somebody hang on to the, (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> it's the, Bullhead </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> Bullhead? </OVERLAP1>
+          alright uh everything dark or just the Johnny Darter?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> everything is dark. the Sand Shiners are, really dark. s- you know how silvery they usually are and light? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what what was our final count (Luann?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh i'm waiting for,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you got </U2>
+          two        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you got a Johnny Darter? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't, know, they don't have the (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah but, i kinda am, confused about that and the Iowa Darter. what </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, Spottail eighteen? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh i don't think these are Johnnys. no you see, see the dagger under the eye is clear and look at the          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> pigment </OVERLAP1>
+          along the body's side,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          and although they've got blotches, they they they're not all organized into clear Ws, they are blotches.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so it's a Iowa Darter? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's an Iowa.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay, one of 'em </OVERLAP2>
+         </U2>
+         <OVERLAP1> so these are two_ </OVERLAP1>
+          i'm sorry?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> some of 'em had the cl- doub- clear Ws. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay then i- if they're cle- they're clear Ws then they're they are, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they're Johnnys </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes, but these are these are these are c- uh Iowas.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          you see the color patterns, and eme- and the spots on the fins are also different.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is that, (kay) it's an Iowa. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay? i think we can make our way back to the boat. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> the Ws are Johnny Darters. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the Ws are Johnnys. they're the ones i want to rename. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> why? mm </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Webb Darters. just as i want to rename Cassiopeia remember. </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">         <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (you're a crazy guy,) but i like you.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (oh we found a Pumpki-) i can't believe (where) that little, tiny Pumpkin (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> young of the year. so, how many, annual rings do you expect to find in its scales?          <EVENT DESC="LAUGH"></EVENT>          do you expect to find its scales?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> probably none right? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> none. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) Johnny Darter? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this one_ we had a, Iowa Darter (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay if you want to uh, um Carrie, you need to s- flick the net over to make sure the, weeds and so on are emptied first... </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> good job. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> how many Iowas? </OVERLAP1>
+          two Iowas and two Johnnys?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two Iowas and wa- two Johnnys. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> how many Spottails? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> you know you've all become so professional. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the way you seined there wasn't quite the frenetic nature to the seining, that there was on the first day. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but did you hear Jason? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well          <OVERLAP1> Jason's always an exception. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) come on come on </OVERLAP1>
+          i'm like (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no it was a Pumpkinseed. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> you should give yourself a pat on the back because that was very skilled seining... a very quick class. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (what did i) (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Bullhead,          <OVERLAP1> Spottail, Iowa Darter </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> Bullhead, Spottail, </OVERLAP1>
+          Iowa Darter        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Johnny Darter </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Johnny Darter </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Pumpkinseed </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Pumpkinseed          <OVERLAP1> Common </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> Common </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i have Common (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> that's why they're called Common. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you guys want that (xx) from over here? </U1>
+       <PAUSE DUR=":30" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> so we're going back to the boat now? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes, this must make for awfully boring recording. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> I've heard some interesting stuff here </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the thing is that the, th- that this this class has been characterized by learning very fast,          <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> ah </U2>
+          and um that was very professional, seining, there's not          <U2 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> much </OVERLAP1>
+          to say.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> right          <EVENT DESC="LAUGHING"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> see what they've got over here.          <PAUSE DUR=":15" ></PAUSE>         <EVENT DESC="SINGING"></EVENT>          bumbum bubum bum bum bum bum bum bum... my love she speaks like silence...        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i know i heard all about it. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> how you doing folks? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh we got lots </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> lotsa (lotsa) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> lotsa minnows that aren't gonna make it, you know? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we'll recycle them. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we got some good Pumpkinseeds </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> good. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> we got more Rock Bass. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> and they look </OVERLAP1>
+          like babies.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we and um you brought a baby over didn't you? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah i put him in, the bucket (xx) </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh golly yes.          <PAUSE DUR=":05" ></PAUSE>          oh golly... have you still g- got it in your hand Chris?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no i put it in the bucket. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay let's try and get these into the jars and those that we're going to take back take back. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh (xx) that one. (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> ohh, it's quite alright. how many spines has it got? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i think it's (just kind of) destroyed. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's a_ yeah it looks like a stonefly to me, but what are stoneflies doing on this mucky bottom? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh they're on the on the (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right. okay do you wanna switch          <EVENT DESC="AUDIO DISTURBANCE"></EVENT>          get through those fairly quickly? um we're gonna recycle the ones we, don't take back.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> pardon? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we only want to take a range of sizes of Bluegills or not Bluegills Pumpkinseeds (and) Rock Bass. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you wanna_ wow you guys got some big ones do you wanna_ are you_ are we counting the (xx)          <EVENT DESC="AUDIO DISTURBANCE"></EVENT>          so we can um        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay what have you got here? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i got </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah okay these are, the Spottails are Common but that_ uh are here but that's a Common. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is a Common right? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah terminal mouth uh nose yes, yeah, and that's a Spottail. yes please. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is anybo- are_ is anybody wanting to count these? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes please, count. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay Spot- Spottail Common </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one Common and four Spottails </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottail </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) instead of um (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one Pumpkinseed </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh God, here's a Spottail though.          <PAUSE DUR=":08" ></PAUSE>          we're not taking perch back.          <PAUSE DUR=":06" ></PAUSE>          oh you did_ you've done well, you've done well.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two more, (Spottails) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so (did we check more for) (xx) time than we did last time? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes, way more. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (because we're better) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> that's a this is the Common (xx) yes it it's it's it's in part because you're you're much more experienced and so you're being more professional, but also, there are more fish now. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (they grew up?) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> they didn't just (grow up) but more of them migrated in from various places, the a lot of the fish will overwinter into the deeper areas, and as the water warms up productivity is crea- is, is increased, more have moved inshore, to feed </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, two perch, one Rock Bass </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we don't need to take all the fish back so if you're getting lots of Rock Bass of the same size, um throw some_ a lot of them back we just want a          <OVERLAP1> size range. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          we put back.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one Rock Bass, one Pumpkinseed, Spottail, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> ooh Mud minnow. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Common, Spottail, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, one          <OVERLAP1> Mud minnow. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          Spottail, Spottail, two Spottail three Common.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the formalin though is uh pumped, around the system and pickles them if you like from the inside. so when they're in anesthetic you don't want them to stop ventilating cuz you want the heart to, pump the, fixative round.          <PAUSE DUR=":05" ></PAUSE>          unfortunately there is some_ okay we need that one.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one perch </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> that one can go straight in. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> did you (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i beg your pardon </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> did you te- i didn't (xx) i didn't (xx) one </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> one Pumpkinseed, whoa let's take that one back. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> six uh Commons. ooh look at this </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i know </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> nice bass </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottail, Spottail </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh here's a little one too. you wanna grab that one? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Smallmouth? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Largemouth?          <EVENT DESC="LAUGH"></EVENT>          Largemouth, Smallmouth        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two perch one Largemouth </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's awesome. i've never seen one that big </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="SCREAM"></EVENT>          sorry. (xx) grab the little ones and one of 'em was (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> four Spottail </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Common </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one Rock Bass </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          that's i think we have enough of that size.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> four Spottails. do you want that one? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> whoa. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's a big one </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> do we have one of that size? okay. alright let's take another one of that size though. i think_ i'm sorry, i think we have enough young of the year. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so you want that Pumpkin? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes please. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one Pumpkinseed. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> that was a Largemouth. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah? one large </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do we want him? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottail. no more young of the year (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well put the young of the year sunfish back in now. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Pumpkinseed </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two Rock Bass </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottail Spottail </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottail </U1>
+       <EVENT DUR=":05" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two Common... four Spottail </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> one perch, three Spottails, one Rock Bass </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> don't think we have many of the young of the year Rock Bass so do still take a couple of those. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> sorry </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Common </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is_ is that a Spottail (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no it's a Common. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Common? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> characteristics of the Common? </U1>
+       <EVENT DUR=":04" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> terminal mouth </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> three Spottails two Common, is that a Pumpkinseed (there?) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Pumpkinseed </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Common, uh          <OVERLAP1> Spottail </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> Spottail </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> but Jeff has a fear of catfish </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright what are these babies of? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> centrarchid? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um, tha- it's definitely a centrarchid from the body shape, and with the bars along the side, it's going to be a a Lepomis, not a Rock Bass, and it's probably a Pumpkinseed          <OVERLAP1> the, </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> or </OVERLAP1>
+          a Bluegill        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it it's, it could be but we haven't caught any          <OVERLAP1> Bluegills. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> right. </OVERLAP1>
+          so you think it's a baby Pumpkinseed.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes, and the the Bluegills will be more spottle uh mottled. we've got m- w- we've got enough of those so you can start letting them go. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Pumpkinseed, Rock Bass, Yellow Perch. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (have you been touching that uh) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Largemouth Bass </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> la- yeah. okay Largemouth, two perch </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Common and Spottail </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> whoa, look at this one. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) (major in) fish psychology. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what's the name for a Largemouth? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Micropterus salmoides is the Largemouth Bass, and what are its characteristics? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) uh, dorsal </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's got that black streak, dotted </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes it tends to have a black line which gets less as the, fish get older and larger, and but as they get older and larger the jaw extends further behind the eye. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> are you serious? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right and the dorsal fin is deeply notched. what family is that? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um, Centrarchidae. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> correct. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) have the record. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> and it's when you pulled him out of the water did you say wow i caught a (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i did i, caught the person i was with, Janine. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> cool </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Yellow Perch, Spottail          <OVERLAP1> two Rock Bass Bullhead. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> it's not as chaotic as it looks... </OVERLAP1>
+          each class we have someone you see who, keeps track and it's their job to keep track. and this_ today it's (Vilan)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> for posterity. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes that's true. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> to immortalize our (thoughts) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> these data go into l- l- actually a long term presence and absence database in which we um are hoping that we can use to see if there are any changes over the last century. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> sort of we're sort of doing research for somebody for free. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yep. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no you're not doing it for free you've p- paid c- a considerable amount of tuition. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> right right </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we're paying them, to do their research. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (who's got the) Rock Bass? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i got a Rock Bass and a, Common. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no i don't think so. no. it's a it's a Bluegill. did you count this one? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is that (xx) or (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh we don't know what it is no. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's a Bluegill. uh sorry a Pumpkinseed. Pumpkinseed. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottail </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Pumpkinseed. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Pumpkinseed (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (and they get both) i know but i always get them mixed up. don't listen to this. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (don't get that other Bullhead out.) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> he's gonna know (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Rock Bass </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um Rock Bass          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> not so bad </OVERLAP1>
+          out here is it?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that first day was a little sticky and hot if i remember it right, wasn't it? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh yes. don't you remember? Steve went swimming,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh i lost my, (xx) </U2>
+          and you lost your glasses cuz you were in so, in such a hurry to get out of your waders and into the water. that was an amazing day if you recall.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that was a good day. one of the more memorable ones that you've had? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm. i would say that the first day with this class was the most memorable i have ever had. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> memorable days or memorable first days? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i'm sorry? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> memorable days or memorable first days? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> memorable days and memorable first days we have not had three bleeders in one day before. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> and a hospital trip. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> hospital trip yeah. glasses and someone else lost a watch didn't they i heard later?          <EVENT DUR=":05" DESC="UNINTELLIGIBLE SPEECH"></EVENT>          Spottail. g- (hey) okay (the spot) on the tai- on the caudal fin, and the slightly subterminal mouth, the deciduous nature of the scale, okay?        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> aw. </U1>
+       <EVENT DUR=":07" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> here's the spot on the tail, and the, the mouth, is um, just underneath.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U2>
+          so it's a botto- it probably feeds primarily on the bottom. the scales are deciduous.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> how can you tell? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> how can t- how can i tell the s- cuz they're coming off. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh.          <EVENT DESC="LAUGH"></EVENT>          okay.        </U1>
+       <EVENT DUR=":06" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i agree... oh... okay, the Smallmouth, i- this a Smallmouth um, the the dark line which breaks up as it gets old- older, thank you Jason, um, the jaw extends ends further back, but the jaw is a better character in the older fish than the younger fish. in the younger fish this dark line is a better character. um the tail is also orange. in the Smallmouth you tend to get better bars on the tail... it's a lovely little fish. did it_ has it been counted? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Smallmouth? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (that has a large mouth) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes that's a Largemouth. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> the Smallmouth has the (band) right? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the Small, the Smallmouth tends to have these stripes. but they also become diffuse as it gets older. and as you get older then the better character is the the size of the the jaw, in the older fish it's very clearly the Smallmouth doesn't the, the end of the maxilla doesn't go beyond the eye, and in the Largemouth the dorsal fins are deeply notched, whereas in the Smallmouth the notch between the two parts of the dorsal fin is less deeply notched. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so what that w- that wasn't a Smallmouth? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no tho- tho- that's a Largemouth Bass. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's gonna fight a lot harder pound for pound (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and the Smallmouth will fight a lot faster po- harder pound for pound. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i disagree </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh no your Largemouth will jump a little          <OVERLAP1> more but </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> pound for </OVERLAP1>
+          pound        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> gram for gram          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+          you're right they do they have the vermiculations on the, on the o- a- yes it is. okay? we are going to go back to the boat and you have all earned lunch.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yay </U2>
+          okay?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> come on, come on. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> a Johnny Darter? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Johnny Darters have the a- have the dagger right? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no this_ okay, the dagger is an Iowa, and the the and there's the dagger, and the colors are brighter and the the distribution of the spots on the tail is different, and um, the the Johnnys have dar- have um,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Ws </U2>
+          have Ws.        </U1>
+       <EVENT DUR=":06" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay? nice job folks. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh man my legs (hurt.) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> a Pumpkinseed </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> woo </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i didn't give her a choice. said i'm sorry we won't accept the different, the different people. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you're fairly dictatorial (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> you think i'm dictatorial? don't listen to this. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="1" RESTRICT="NONE"> i don't think they can hear him anymore i think our battery's probably out by now. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you're not dictatorial you just want your own way. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> he's a despot (face it.) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          yeah, pleased to meet you too.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          can you think what it would be like if you ever had me as a patient?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) is this mine?          <OVERLAP1> over there? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> um, </OVERLAP1>
+          yeah they were over there.        </U1>
+       <PAUSE DUR=":30" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> dee di dee you know it's a really tough job but, someone has to do it. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          me        </U1>
+       <PAUSE DUR=":11" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh oh </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh oh </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh oh </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="GETS THROWN IN WATER"></EVENT>          oh        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <EVENT DESC="GETS THROWN IN WATER"></EVENT>          you are dead. i am gonna kill you.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> lemme split </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh i, i bought something. i ran off and got something.          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> and i'll </OVERLAP1>
+          split it with you. (xx) or, any other one?          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> doesn't </OVERLAP1>
+          matter.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> it </OVERLAP1>
+          doesn't matter.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so is it lunch time? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's lunch time. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> in the boat? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> wherever you like. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are we going home now? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we're going via Big Shoal. here you go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> did we get an air temperature and a water temperature? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes we did. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) could you uh, recall those for me please? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i sure can. it was          <OVERLAP1> twenty-two water (temperature) twenty-one (air) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> whatever's that? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> focaccia </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah but where did you find it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh i got it, um i brought it with me from home. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mm. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> say twenty-one air? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yep. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's um, mm          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> focaccia </OVERLAP2>
+         </U2>
+         <OVERLAP1> (it's three cheese) </OVERLAP1>
+          focaccia. yep. very yummy we'll          <OVERLAP1> split it. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> hey (Brett) </OVERLAP1>
+          what kinda sandwiches you got in here?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> there's like a ham and a peanut butter and jelly (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh this is my favorite, (especially with) hummus and tomato. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> exactly. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i like (xx) though too </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> turkey there too? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> she got you didn't she? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> just          <OVERLAP1> a little </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (i just like) </OVERLAP1>
+          the hummus, tomato salt pepper lettuce.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mm. sometimes, to be a little crazy i put a little cheese on it (xx) (necessarily need it.) mm. </U1>
+       <PAUSE DUR=":20" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (that's a nice tomato...) </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> there you go... </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh. (Tony) you want half of this? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no thanks i've got (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'll have half of yours if you don't want it. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you want half of this? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh, sorry. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> now if only i had more collections upstairs i could split these sandwiches and the fishes and feed everybody. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you don't want it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh-oh now the (xx)          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> hm </U2>
+          ah there it is.        </U1>
+       <EVENT DUR=":10" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you want a chunk of this? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh i'd love to try          <OVERLAP1> a chunk. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah it </OVERLAP1>
+          tastes good. it's very good. (xx) tasty.        </U1>
+       <EVENT DESC="AUDIO DISTURBANCE"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> rubbish over onto the other boat cuz the rubbish bag will be, i think on there. </U1>
+       <PAUSE DUR=":22" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> how are the batteries doing? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> doing well </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh really? don't need my, Viagra yet then... </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so what is it exactly that you're studying? </U1>
+       <EVENT DUR=":12" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> pardon Sarah? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          (xx) we're gonna make ourselves look (bad.) (and they're) like oh yeah? (xx)        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> garbage bag? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yep. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> are you gonna compare the patterns of, other settings? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> yeah there're gonna be all sorts, we're just developing a big, corpus of a bunch of different, yeah a bunch of different,          <OVERLAP1> types of </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> what's the, </OVERLAP1>
+          what's the idea?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> just to study trends and, uh some demographics of the speakers that, compose those trends and, stuff (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) get enough to make sure that it's accurate? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> would you like some? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> thank you very much, yes.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          oh i- m- i'm sitting on the lemonade.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> just we're just gonna be, available (xx) research and stuff. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> would you like some? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> anyone else want lemonade? (hand 'em down) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> anyone else like lemonade? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'd like some </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i would </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> wow, is that long? how long (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Michelle </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can i have some water? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> water next. lemonade? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> really? no. not a big hassle. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> now what can you deduce from your database having said lemonade three times in succession? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hm, more down there i think. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'll have one then. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh you didn't get one yet. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Jason do you have something? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yes (thanks) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay then everyone's okay (for now) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> uh but you need lemonade. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. and Sarah needs water, but i'll get that. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay, lemonade for you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. (are you having) lemonade? thank you </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> lemonade for me, and, water for Sarah... hm.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          oh i see.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> here you go, thank you          <OVERLAP1> very much. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> thank you. </OVERLAP1>
+          Erica... what has happened to, Rex's, lunch box?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> has it bee- has it been kidnapped? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i think so) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> has a ransom note appeared? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no,          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> hm </U2>
+          but that that's a nice one.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i feel like,) kinda disappointed that, it's          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> that's terrible </OVERLAP2>
+         </U2>
+         <OVERLAP1> gone, </OVERLAP1>
+          (that somebody would take i- yeah.) it's          <OVERLAP1> not a funny joke. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> i hope it's been kidnapped </OVERLAP1>
+          and will be returned. have the uh slime gods been,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, one of 'em </U2>
+          kidnapped? has it come back yet?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, not yet. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="1" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> our slime gods always get kidnapped (xx)          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah </U2>
+          we have a little (xx)        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> you realize from, frolics of a while ago if one of you had volunteered stepped forward to volunteer, sacrificed to the gods we would have had fine weather today. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we were gonna prank (the other) class and we just did the fish class (xx) no (xx) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i wouldn't prank the fish class. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no i wouldn't (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> pardon? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i hate when (xx) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i don't think we should hit behavior) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> maybe we should get the insect class. there're a lot of people in that class who, (xx) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Brent Tony and i (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> are you in insects? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i'm in insects. i'm willing to (turn.) </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> hm... oh... hm... there's thirty of them. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we're stronger (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i think we're stronger. they were complaining how cold the um, the Maple River? yeah Maple River east branch was. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh that's the warmest one (though) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and you told them, you snorkeled in it. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i know i was like </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> try laying down in it. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> babies </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> wimps. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh, Carp Lake River? cold. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i'm surprised how cold Carp Lake River was. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so was i when i first got in. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mm </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> woohoo, you're awesome. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah i like_ you hear the the snorkeler          <EVENT DESC="SOUND EFFECT"></EVENT>       </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <EVENT DESC="BREAK IN RECORDING"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i was extremely oppre- impressed at Ra- uh April's ability to talk lucidly through a snorkel. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <EVENT DUR=":10" DESC="AUDIO DISTURBANCE"></EVENT>       <EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :53"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i love to snorkel in tha- i- i did a lot of snorkeling there. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> did you (xx) (with her?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no not yet. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> easy pickings. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> were you talking about (xx) for the snorkeling? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well, (xx) that's a good motivating factor (for the) scuba diving.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh </U2>
+          i love scuba diving.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you haven't got your pictures developed yet have you? </U1>
+       <EVENT DUR=":30" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <EVENT DESC="CONVERSATION 2:"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> gosh (i really love) peanut butter </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you know what's good was, ants on a log did you ever have that? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> bananas with, peanut butter and raisins on 'em. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh i always thought it was celery </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> bananas? </OVERLAP1>
+          i thought it was celery. i woulda eaten the bananas.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i used to) take off the, raisins, lick off the peanut butter and throw away the celery my mom would get so mad. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i like dates and walnuts as a sandwich. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mm. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't like dates. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i don't like dates either. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> actually i don't raisins </OVERLAP1>
+          either. i (like) prefer peanut, peanut butter and jelly.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so now we're getting better and better a banana, peanut butter and chocolate chip sand- </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) you have ice cream chocolate sauce and, whipped cream, that sounds good. (xx) a lot but i kinda like it. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do ducks eat fish? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh come here ducks. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't know. i think they mostly eat </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah, they </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ducks eat fish? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do they? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> feed on the bottom? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i think they're mostly herbivores. </U1>
+       <EVENT DESC="END OF SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> if they_ well, if they can get hold of a fish they're going to eat it, and they could be, consuming, (oh we) didn't have any mortalities over there. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no (they need to,) go over there. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you know in (Seeny) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the protein dose in a piece of fish you know they'll take it. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> in (Seeny) there's no size limit on pike cuz they uh, they've been hurting uh, the the some of the, bird populations they eat the chi- the goslings and the chicks </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> sounds good to me. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeech </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah. so you can take any size pike, outta there.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> isn't it normally forty-eight </OVERLAP2>
+         </U2>
+         <OVERLAP1> i've heard of pike doing that </OVERLAP1>
+          but i've never_ what?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is it normally forty-eight? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> thirty-six pike, twenty-four? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> there's an          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> twenty-four </OVERLAP2>
+         </U2>
+         <OVERLAP1> incredible </OVERLAP1>
+          piece of footage in a, a movie i can't remember the name of it, uh there's a, duckling swimming along on the surface and this bass just comes up, smack,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> ew </U2>
+         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> really? </U2>
+          and it's gone.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> a bass? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> a big </OVERLAP1>
+          bass        </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yuck </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah world record bass are like          <OVERLAP1> twenty-three twenty-four pounds. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> Bowfins are known </OVERLAP1>
+          to do that as well, and pike.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's a_ i mean i, i've caught i've caught you know six or seven pound bass you can just about put your fist in y- y- your fist in their mouth and, i imagine a          <OVERLAP1> twenty-three pound bass is_ take down </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> are (xx) Bowfins? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i doubt it </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> take down your,          <OVERLAP1> pet </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> they </OVERLAP1>
+          don't call 'em          <OVERLAP1> Largemouth for nothing. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> that's right you're the only ones </OVERLAP1>
+          who_ did we catch Bowfins folks?        </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> not at all. you're the only ones that caught a Bowfin. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't even know what a Bowfin looks like. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do we have a sample, i'd like to see what they look like? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah those a- they're in the collection. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they are? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> there are some in the collection. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh in the up on the          <OVERLAP1> rack? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> yes. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> they're cool looking. </OVERLAP1>
+          they look cool when they swim but, (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they have that, one fin dorsal fin, no, rays and then just </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and they they have a, uh the males have a uh, spot, orange spot or yellow spot on the dorsal_ on the caudal fin. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't suppose that's preserved in, i don't suppose that's just in life probably right? not in prese-          <OVERLAP1> preservation? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> that is correct. </OVERLAP1>
+          pres- preserved it's gone. i think it was a couple of years ago, the class caught a Bowfin like this, huge in a five-foot seine over inside Hook Point.          <U2 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> oh my gosh </U2>
+          and it became the mascot          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U2>
+          for the year so that's the T-shirt if you see class T-shirts it's got a Bowfin on it.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> cool </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they can be pretty nasty you wanna try to avoid, getting your fingers near its mouth. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah they have a (gulah plate,) that can shred, well shred other fish. you al- always should keep your f- fingers away from the mouths of large fishes. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i usually try to do that. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that would suck. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> that would do_ no it wouldn't- it wouldn't suck it would be a lot worse than that.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> bite </U2>
+          they they could go straight through to the bone, it_ just very fast.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> have you ever been bitten? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no whenever there's a large dangerous fish i uh get a student to handle it. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (that's what) Megan's for right? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> a student </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh yeah. Megan </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no a go- a big Bowfin and Megan's too small. she could go. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> there's pictures of me holding the big Bowfin. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah. was it your year that had the big Bowfin? no          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> i got a big (pic-) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it was it was Da- </OVERLAP1>
+          it was Flor- Flo Dallow's year.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no Joseph took a big picture um, Joe Bump took a picture of me holding a big Bowfin last summer. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> ah last summer. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> how big? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay let's see if we can get these boats going. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> trash. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> now we're going to Big Shoal right? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes the swimming spot. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> trash. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> if people wish to swim today,          <OVERLAP1> they're nuts. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> hey Paul </OVERLAP1>
+          do wanna take the trash bag over?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that would be a no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no way </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Erica you wanna go swimming? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> are you leaving us? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yes i decided to swim home. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (who knows?) probably could swim home too. hey we need you don't we we (Annie?) one two three four five (xx) five okay. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> don't push anybody in the deep water with their waders on. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> shallow water's fine </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> shallow water </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i'm fine thank you... i always put on weight in the summer and it's taking longer to put it_ get it off in the fall. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> really that's funny i move around so much (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i've (thought i) put on weight since i've been, eating so much. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that trash? that trash? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) pull any seines too. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Erica will you </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is this trash? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't_ yeah, i don't know. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey,          <OVERLAP1> Tony is this trash? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> Tony is this trash? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's garbage </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it it it like there's stuff in it. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> cantankerous damned thing... let's wait till everybody's on board, before we actually leave... getting cool again. </U1>
+       <EVENT DUR=":15" WHO="SU-m" DESC="WHISTLING "></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we would wait for you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> pardon me? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i said we would wait for you. who's driving today? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'll drive again if nobody wants to drive. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well i i don't mind, i don't mind. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay... okay          <PAUSE DUR=":05" ></PAUSE>          what do i do?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> nothing yet. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> remember that </U1>
+       <EVENT DESC="ENGINE STARTS"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> clear the crud out of the engine. you can probably hop in Jay. Luann though we'll leave behind. has it started? yeah good. good grief okay. um this has got a, a a when you pull it out from here it's not connected the_ it's disconnected.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U2>
+          so you need to bring it to the center, shove it in, and now you can go it would be a good idea if people          <OVERLAP1> sit down in case she slips. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> so like, what? </OVERLAP1>
+          what am i stepping on? what am i doing?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> push this forward </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh. (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and then take us down the lake.          <PAUSE DUR=":05" ></PAUSE>          so you wanna be further off shore, and it takes a while to get the hang of it you haven't driven yet.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> not this </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i see. it takes a ha- a a while this the i- it responds very fast and it so it's easy to oversteer.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          but it takes a while to get used to it.        </U1>
+       <PAUSE DUR="0:30" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) (next summer) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um i'm gonna be continuing working on um we wanna get the (xx) wrapped up. um go a little sideways and zig z- see we're going directly into the wind right now and it's a more comfortable ride, if you hit the waves at an angle like that. and we've got enough speed that we can, easily do that. um, and then um i've been actually getting um information on the warm water streams on the distribution of fishes (for some time,) and um, i need to wrap that up. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i have to do some, (diurnal) observations. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well we're gonna zig zag (her) down the bay you see. um swing through ninety degrees and sort of zig zag the other way... (you notice) something when we go directly into the waves? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uhuh </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and if you hit them at an angle, the ride gets easier. it's also safer. so what you tend to do when you're going directly into the wind or downwind is to zig zag...          <PAUSE DUR=":10" ></PAUSE>          (it's just) around that point so          <EVENT DESC="BREAK IN RECORDING"></EVENT>          wants to swim may swim. cuz we only need a couple of people to give a good haul. yes take your glasses off.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah, it was. no we we um, we we needed to go a little fa- we needed to go a little faster cuz          <OVERLAP1> we were just getting </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah you were getting </OVERLAP2>
+         </U2>
+          so wet. yeah. kay let me go and, look after these          <OVERLAP1> folks. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> hoo, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> she did it. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (you need to) watch what </OVERLAP1>
+          you're doing kid watch what you're doing.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. alright. thank you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you're welcome. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> did you get          <OVERLAP1> your, </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> whoa </OVERLAP2>
+         </U2>
+          (film) back?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> uh Jason, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> watch the end of ('em.) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) can i_ can i have one of those </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> like a ladder </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah you can </OVERLAP1>
+          have double or n- i got one for you too.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> one of what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> picture </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> of us (electroshocking)          <OVERLAP1> (Clyver Dam) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> remember when (xx) </OVERLAP1>
+         <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> ah </OVERLAP2>
+         </U2>
+          three of you sat in the water?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the three stooges. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i actually got a (shot) with everybody because i got doubles          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> (God it's truth) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh cool. </U1>
+       <EVENT DUR=":14" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i'd hit this piece first you know, nice little embayment. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you said one. we're doing more than one seine? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no i said you only need to o- have one good one, but it may not be the first one. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh. well let's (xx) </U1>
+       <EVENT DUR=":10" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> look at 'em all. </U1>
+       <EVENT DUR=":13" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we'll take a subsample. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, i- this looks lower also, i- is that like_          <OVERLAP1> i didn't think that </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> what is the best_ </OVERLAP1>
+          someone help us.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the water level, ha- is a lot lower, this year, at this time of year. </U1>
+       <EVENT DUR=":10" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is very, demanding </U1>
+       <EVENT DUR=":12" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it is </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh my (word look this is) so tiny          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes </U2>
+          (xx)        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i am_ that's interesting actually it might be a second spawning. which would be interesting. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh they're so minuscule          <OVERLAP1> oh my (lord) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+          they should be bigger.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> wow, they look like ghosts, you can hardly see them, you see their shadows more than anything. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right. (xx) </U1>
+       <EVENT DUR=":08" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Sands or Spottails, Commons (always.) i want Spottails though. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah. </U1>
+       <EVENT DUR=":40" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <EVENT DESC="SHOUTING AND SPLASHING"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> die fish die. </U1>
+       <EVENT DUR=":35" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh no i don't want to lose ('em) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't think so. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ohh no fish </U1>
+       <EVENT DUR=":11" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> you d- do you know how many fish there were along that edge? i'm afraid it's going to need another haul or three. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'll do it next          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> keep coming </OVERLAP1>
+       </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that was (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (it was) beautiful. </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> aha </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is it? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> let's go let's go out around (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well what is it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Spottail? or a Common </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> looks like a_ i think it's, a Common, but it's got this spot tail. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> subterminal_ well think of the mouth as well,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          has all the characteristics it's got a subterminal mouth, okay?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but </U2>
+          it's got a clear spot and the scales are deciduo-        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> whoa </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> nice. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and deciduous scales. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i have it written down if (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no uh we we uh- we want, i would like          <OVERLAP1> some of those. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i was pretty awesome. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it really was. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> humble          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) what do you mean by deciduous scales like just (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> falling off </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> falling off. the deciduous trees, the leaves fall off. you're cold are you now? (looks like) there's an extra windbreak. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> call number one. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> was it colder than you expected? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> a little bit. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> hm </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) all out </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so that was what (xx) about fifteen fish, (xx) one (fifteenth a fish.) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> so when you've done the analysis, we were realizing and you've got all these data, and you know about the speech patterns and those kinds of things, do you do anything else with the information? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> (xx) used for, for teaching. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> for teaching. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="ST" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="1" RESTRICT="NONE"> probably. it goes into the development of pedagogical materials, mostly.          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          it's used, for testing purposes, it's being funded by the testing          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay, so </OVERLAP2>
+         </U2>
+          be able to use the data for test items.        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> to to help people, um who are non-English speakers to, speak_ yes, i see. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="ST" SEX="F" AGE="1" RESTRICT="NONE"> and in addition to that we also have a program for international students who want to become G-S-Is          <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes,            <OVERLAP2> i see </OVERLAP2>
+         </U2>
+         <OVERLAP1> a lot of </OVERLAP1>
+          our materials can be used to train them        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah that makes sense i didn't know, what you were going to do it for.          <EVENT DESC="LAUGH"></EVENT>          it's funny the last time we were here it was eighty and        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so what are what are we attributing, the water level drop to? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um, long periods of high temperature low humidity </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> low humidity? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's been low humidity a lot of the time,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> really? </U2>
+          um little rain, and it always falls a little, as the summer goes by but this is, unusual.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> last time we were here (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh, but it di- i- i- the drop in level is still way lower, so you think the lack of snow didn't recharge the wetlands? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yep </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah i think you're right there. i had forgotten about that. not going swimming Carrie? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no i wish (i'd brought my suit.) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> talk to Janine before you do.          <PAUSE DUR=":11" ></PAUSE>          oh look at those look at that.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they're on to- are they on top? no. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> kay lift the lift the back of the net up... here put the edges in, i mean heck i've never seen anyone catch, fish before, on top of a bag. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> look at this </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah look. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh wow. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> there's some inside too (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh good you've got oh got some little tiny ones, lovely. this is what i call a good haul we will need to take these back with us. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh very nice beautiful beautiful beautiful beautiful. what is it Megan? what species? is it Spots? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> good. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> got a couple whoa </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh wow </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh we don't need to take all of these. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> big one. (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> could you take a (xx) i want little ones as well. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes... </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) there's a whole, mess of 'em in there. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i think we've got plenty let's just put_ </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you do you have any (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah we do have some. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have a um </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> get some more of these (xx) just put them to the side okay? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> here's a big one, do you want this one? </U1>
+       <EVENT DUR=":07" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh my gosh. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they all l- are they all Spottails? (cuz) most of 'em look like Spottails. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> can you try and get the s- little ones, in each um, can you get those? whoops cuz the little ones are (sticking you see?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> somebody hand me_ is there another bucket? i wanna get some more water in here. </U1>
+       <EVENT DUR=":05" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) there's a little one. oh my goodness (he's little.) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> can we take uh little ones in? yeah that's plenty. let's toss these out, and just get a couple of these little tiny ones. okay. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you have_ you guys wanna guess how many we have? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um, it looks to me like, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two hundred? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh i think it's probably two hundred and fourteen wouldn't you say? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two hundred and fourteen is that what you said? i'm like wow, you got a good eye. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay um we will take those back then the simplest thing to do would be to run those through the um, the one of the D nets and put them straight into, formalin. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i i've just uh_ uh who_ how many are there? who got closest to guessing the M-and-Ms? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Sarah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Sarah </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Sarah how many were there? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, i i would say about two hundred and fifty. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> then two hundred and fifty it will be. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> were they all Spottails? (were some) Commons? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Megan? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i only saw Spottails but i didn't pick up that many. i mean i picked up a handful but i didn't look at 'em all. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> so what's the answer? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um yeah all Spottails. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no that's not what Megan said. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> two fifty, Spottails plus minnows. (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> she s- what what it means is we'll assume you've got a cro- a sample, and we will, have a look when we get back to the lab, and determine if they are all Spottails or not. okay? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i was (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> good job. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is weird cuz it's (xx) out this was all the way open before. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah it's incredible... </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah i've n- i've never seen it this shallow... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> how would you (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is there a          <OVERLAP1> spring </OVERLAP1>
+         <U2 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> pardon? </OVERLAP2>
+         </U2>
+          (there) somewhere because it's really (xx) right next to the edge.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> how would you (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> when we uh, we we seined up here earlier, and at that time, the water was washing about oh six inches nine inches deep, across this sandbar,          <OVERLAP1> so, </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> into the pond then </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> into the pond. well it was_ it used to be a pond, then it wasn't now it is again. so the lake is a, couple of feet down, two or three feet down, two fee- feet i think probably from where it was, but that's, quite a lot, compared to previous that's an awful lot of cha- change. and this is the first time this lake has been is- this pond has been isolated now for two years... it's a lovely pond. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) keep going down. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> has it uh, hm yeah it's just getting soft. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) over there (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> that an invitation? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no. (obviously a warning.) (i had to) get pulled back out (cuz i was curious...) (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i imagine they've gone. i suspect we've ruined their reproduction this year. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> they probably after spawning, the female (xx) desert and then the male will desert a- when the school breaks up... did someone look after the fish? yes Sarah is that's good... okay. i think_ yeah b- i'm_ this is, incredible...          <OVERLAP1> have you got a spare if anybody </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> what_ do you know of anything that would make the, </OVERLAP1>
+          bucket_ or the level, drop so much?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um a combination. warm temperatures low humidity, um, little rain, little snow i'd forgotten about the snow. Luann reminded us that the snow was pretty poor this year, so, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right and normally it would be stored in the wetlands around and gradually released well, it's not been there this year. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what are these (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> they're probably the same things they_ we think they're probably Spottails. Spottail is a minnow is a schooling minnow, which is very very common on open beaches such as these. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes. Spottails do. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) oh i have a (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> make sure to wash your hands off          <OVERLAP1> in the </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> yeah... </OVERLAP1>
+          if someone has a spare sweater if they could lend it to Janine. i know that was refreshing but a bit of a shock i suspect.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah, unfortunately i don't have any sweatshirts </U1>
+       <EVENT DUR=":14" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that was a big boy in the bottom there. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> does anybody have a spare sweatshirt? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yes i have a (thing) in my backpack on the boat. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay i think uh, Janine, we've got a spare sweatshirt so hang in there. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> there's a red backpack a dark red one and there's a, waffle shirt inside (that you can wear...) red backpack. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <EVENT DUR=":16" DESC="PAUSE WHILE WALKING"></EVENT>          well you should get a special prize for that because i didn't think anyone would swim today. i usually bring spare clothes but forgot today.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> should have. </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> how we doing Matt? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh everything's great, working well. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> must be awfully dull. </U1>
+       <PAUSE DUR=":20" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> ah... the thing_ the l- idler is up </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the idle is up a little... </U1>
+       <PAUSE DUR=":28" ></PAUSE>       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's a good hat that.          <PAUSE DUR=":19" ></PAUSE>          when you give another report on the boat can you tell them that they need to wire the shackle pin on the whaler?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> wire the shackle pin? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> wire the shackle pin.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U2>
+          it fell out so they threw the anchor on board and there was no rope attached to it.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that would be really bad if we were in the middle of the lake. </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah, uh </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> can i drive the boat? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes okay. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i've never (driven before) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well. guess we'd better make him drive hadn't we? whose is this? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh, i don't          <OVERLAP1> (xx) not mine. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you get wet up there? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah you get soaked. you gotta sit up here and hold the bow down. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah sit up (xx) with Branton </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> come and drive Jason. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> don't what? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i said come and drive          <OVERLAP1> Jason. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> you want me to </OVERLAP1>
+          drive?        </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> all aboard who's going aboard </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you gotta go real fast right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah, full throttle okay buddy? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't go anything less ever. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> although you've driven a boat so many times. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> never driven a boat before. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's what i_ you said i nothing less (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i just meant in general. i stay in a full throttle. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> are we going in reverse? </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we're not going anywhere. completely in neutral. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NSO" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes we are but i want them to clear first. okay you pull this towards you, and it'll go in reverse.          <PAUSE DUR=":08" ></PAUSE>          and you push it into forward... and it'll go forward.          <PAUSE DUR=":07" ></PAUSE>          but don't change speed too rapidly. okay you're (alright) but (make sure) people are hanging on yeah.        </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

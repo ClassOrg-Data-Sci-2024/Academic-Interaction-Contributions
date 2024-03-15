@@ -1,0 +1,514 @@
+<TEI.2 ID="ofc578sg037">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Technical Communications Tutorial </TITLE>
+         <TITLE> Rackham Div: PS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 3948 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> OFC578SG037 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="25">             <DATE> September 29, 1998 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Rita Simpson </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Joanne Morgan </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Ed Filisko </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Janine Ovens </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Aaron Stark </NAME>
+               <RESP> Final Editing, 3/7/99 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">OFC</TERM>
+ <TERM TYPE="ACADDISC">578</TERM>
+ <TERM TYPE="PARTLEVEL">SG</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">PS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="2"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="2"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="JF, Instructor" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SG, Student" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Office, Engineering Programs Building </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> what about the third? oh i'm sorry (xx)          <EVENT DUR=":04" DESC="AUDIO DISTURBANCE"></EVENT>          okay that's great. that's good.          <EVENT DUR=":15" DESC="PAUSE WHILE READING UNDER BREATH"></EVENT>          so uh yeah both, both of these... wait which came first?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <SEG TYPE="READING"> both field-based, empirical models and numerical, model approaches </SEG>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <SEG TYPE="READING"> were considered </SEG>
+          but, which, which came first?          <SEG TYPE="READING"> the paper, reviewed the strengths and weaknesses </SEG>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <SEG TYPE="READING"> and weaknesses of, available models and made recommen- </SEG>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          and          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and these are            <OVERLAP2> the two </OVERLAP2>
+         </U2>
+         <OVERLAP1> the_ those </OVERLAP1>
+          are the two yeah both field-based empirical and numerical modelling approaches were the two.        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> it feels to me like this, sentence should come first... you know,          <OVERLAP1> first they considered </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> so the (xx) </OVERLAP2>
+         </U2>
+          that_ first they considered these models and then          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay that's fine, </U2>
+          they committed_ then the paper so        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> put that yeah put that (in parentheses i'll move that up too no problem) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mkay          <EVENT DUR=":05" DESC="PAUSE WHILE READING UNDER BREATH"></EVENT>          okay and then that follows this be- better too          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          okay? that just fits in there better. um          <EVENT DUR=":06" DESC="PAUSE WHILE READING"></EVENT>          they        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> the task committee? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> would you say the task          <OVERLAP1> committee? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> i would. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> the committee          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> s- something like </OVERLAP1>
+          that, organized.          <PAUSE DUR=":04" ></PAUSE>         <SEG TYPE="READING"> extremal hypothesis or geofluvial, </SEG>
+          geofluvial feels like it's an adjective geofluvial what?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> geofluvial, model. that's a type of model it's a geof- the two models are extremal hypothesis or geofluvial. so i can put the word model, after each of 'em,          <OVERLAP1> extremal model </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+            yeah          </U2>
+          extremal hypothesis model or geofluvial model, or i could say_ cuz i had, geo-        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay i got_ that's that's okay yeah          <EVENT DUR=":05" DESC="PAUSE WHILE READING"></EVENT>          mkay...          <SEG TYPE="READING"> an extremal hypothesis model is one, that, </SEG>
+          or, which whatever you like          <EVENT DUR=":12" DESC="PAUSE WHILE READING"></EVENT>         <SEG TYPE="READING"> this type of model numerical... this type of model numerical, predicts? </SEG>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> oh </U2>
+          model, numerical model predicts          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> predicts the potential for (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah, when you're r- like someti- </OVERLAP1>
+          that's one of those things when i read it i don't even read it, out of order i just write        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <SEG TYPE="READING"> potential, that does not predict the rate therefore only, an overall estimate of change is given, not how the individual links change (xx) with time this type of model is also </SEG>
+         <EVENT DUR=":08" DESC="PAUSE WHILE READING UNDER BREATH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i actually wanna change that. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> so we don't          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          we don't_ i don't need to talk about it        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and it's not as attractive because, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> with the advancement of computer capabilities allow us, (xx) cuz i mean, we don't_ the extremal hypothesis model doesn't, predict anything with time. so the computer models allow us, to predict things with time          <OVERLAP1> (so we should) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> do you say </OVERLAP1>
+          that? that the extremal hypothesis model doesn't allow          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah right here </U2>
+         <SEG TYPE="READING"> therefore only an overall estimate of change is given </SEG>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <SEG TYPE="READING"> not how the individual links change with time. </SEG>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <EVENT DUR=":18" DESC="PAUSE WHILE READING"></EVENT>          mm, um, i'm not_ i_ and it kinda seems like you could be a little more, clear on_ highlight, the pro- uh highlight more, the problem of time          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          so um, when you're talking in class this week you'll be talking about nested problem statements          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm yeah (xx)            <OVERLAP2> i know what those are </OVERLAP2>
+         </U2>
+         <OVERLAP1> so one solution </OVERLAP1>
+          is the um, extremal hypothesis model          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          it does, X Y and Z, however, you know it solved the problem by using this m- the uh extremal hypothesis model. however it doesn't work on the uh, it, it's not very good about time. so,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah            <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> now </OVERLAP1>
+          the problem becomes time, and now we have a solution to the time problem, and so that's why this isn't as uh um, as attractive          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          as it once was          <OVERLAP1> because now, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> it's also </OVERLAP2>
+            spatial too so          </U2>
+          oh it's spatial? okay.        </U1>
+       <EVENT DUR=":04" WHO="S2" DESC="PAUSE WHILE READING"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay, so, again, i think_ like i said, the lectures this week are really critical for you. um, okay now we m- move on to the geofluvial model.          <SEG TYPE="READING"> this is (xx) unlike extremal models utilize the advancement in computer tech- </SEG>
+          they becoming more sophisticated every year but          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> what does that </OVERLAP1>
+          do for me? by_ in what way, are they becoming more_ exactly what problem do they solve by becoming          <OVERLAP1> more </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> well i mean </OVERLAP1>
+          computers are getting faster i mean what do_          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> how much </OVERLAP1>
+          do you wanna go          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          in detail do you want to get into i mean Bill Gates puts out something that's faster every two weeks (xx)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah, they utilize, </OVERLAP1>
+          the advancement in computer          <OVERLAP1> technology </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> technology </OVERLAP1>
+          just, stop there or?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> um what          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> advancement, </OVERLAP1>
+          do they utilize and how does it benefit the model?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> speed. (xx) i mean just </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> speed allows the model to do          <OVERLAP1> what? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> to </OVERLAP1>
+          to actually move fa- i mean you know the model is moving faster instead of having_ it's the same problem that_ this is like a whole nother topic it's like, you know the old computers would take, four days to solve a problem new ones it's just like a calculator i mean everything's, quicker faster, i mean it's uh, a lot of it's speed a lot of it is uh, the other part of it would be, um... storage, you know modern computers have a lot larger hard disk than they used to and this is          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> this'll be </OVERLAP1>
+          extremely        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay but you're using that as a tool to get, what you want.          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          and what you want is, the speed, um, the capacity          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> allows </OVERLAP1>
+          you to get where you want to go. where is it that you wanna go?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> to a better model, i mean to a </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> to a better_ and why d- why is this a better model it gives you, something, what does it give you? what is_ is          <OVERLAP1> speed </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> more accur- </OVERLAP1>
+          i mean, these k- these uh, equations aren't even solvable on the slower computers.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          it would just you know it it's not practical to turn on a m- a computer and let it it run for a month just to get a prediction of a, of a one hundred, you know foot channel. you see_ i mean          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          so... i mean i_ it was just kind of uh, i i was thinking that most of the people_ i guess what i was thinking is that most people realize w- that_ how computers are advancing, and modelling i mean, pretty much all the professors and stuff realize that modelling is getting more sophisticated and better because of the increasing speeds and capacities of computers.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> so, </OVERLAP1>
+          i mean i didn't want to go into too much detail about that would it be better_          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> i think mo- </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean do i need </OVERLAP1>
+          to go into detail or          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> i th- well </OVERLAP2>
+         </U2>
+         <OVERLAP1> should i just throw </OVERLAP1>
+          it out completely?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> when i when i see a phrase like um,          <SEG TYPE="READING"> they utilized the advancement by becoming more sophisticated </SEG>
+          i feel like, more detail is needed right there this is just a little          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> too </OVERLAP1>
+          vague i mean it it sounds like um, spin you know it sounds like,          <OVERLAP1> sorta like </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> well what i mean </OVERLAP1>
+          what about i mean the next sentence          <SEG TYPE="READING"> increased computer speed allows the inclusion of more processors (xx) increased time steps </SEG>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> (and then) </OVERLAP1>
+          i'm going into the details.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> so </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> but still_ yeah that's the details of what? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> of how they're more sophisticated. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah but what's the end          <OVERLAP1> product? </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> (i) mean </OVERLAP2>
+         </U2>
+          the end product is a model that...        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> predicts, river bank erosion. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i mean, pretty much the the end product is a a model that will allow you to predict, river bank erosion, essentially. by including all these different processes.          <EVENT DUR=":10" DESC="READING"></EVENT>          (now) let's see          <OVERLAP1> let me read </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <EVENT DUR=":08" DESC="PAUSE WHILE READING"></EVENT>          how 'bout          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          something like this unlike extremal models geofluvial models utilize the advancement in cur- computer technology          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah            <OVERLAP2> this is </OVERLAP2>
+         </U2>
+         <OVERLAP1> the increased </OVERLAP1>
+          computer speed allows the inclusion of more processors finer grade spacing and increased time steps all of which increase the accuracy of this type of model,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          all of which increase the accuracy of this type          <OVERLAP1> of model </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> accuracy, </OVERLAP2>
+            okay          </U2>
+          thus making geofluvial the more attractive option for the future.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> is is that the main, thing is that it's more accurate? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> not just accurate it's also more uh, it's also, faster. i mean, the solution is          <OVERLAP1> faster </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> the solution </OVERLAP1>
+          comes faster but the          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          ultimate goal is that you have an accurate model?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> right i mean that's the ultimate goal </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay so so this is </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i mean a- a- accuracy is the ultimate goal i mean it_ they're willing to sacrifice time, for accuracy, but there reaches a point where, time does become an issue because you know no one wants to wait a month before seeing, the results.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          so, that's why they're becoming, more in use because now you can turn it on run it for eight hours and get a nice prediction of what happened over the course of a month.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          whereas you know maybe five ten years ago, you know what takes place in our time as a second might take place in ten seconds in computer time          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> whereas </OVERLAP1>
+          now it's opposite you know we can do ten seconds real time in one second computer time.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> that </OVERLAP1>
+          type of thing. so, well anyway, does that sound better if i just          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> get rid </OVERLAP1>
+          of the end here?          <EVENT DUR=":04" DESC="PAUSE WHILE READING UNDER BREATH"></EVENT>          now isn't this sentence too long though now?          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> no </U2>
+          (xx) we just_ no          <OVERLAP1> it's okay? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> in fact </OVERLAP1>
+          i could say_ i was gonna say you could even hook this one up there, almost. uh, but but i think a period is good. um, this this and this          <SEG TYPE="READING"> all of which increase the accurac- </SEG>
+          no i think that's a fine (sentence)          <OVERLAP1> it's not too </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> but then i have a_ </OVERLAP1>
+          i mean it continues        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> that's okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> that's alright? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay, it seems pretty long. alright. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i think it's just, fine. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> uh you could connect these two sentences with a semicolon. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> because they're_ if you wanted to but a period's fine too. um, okay i wanted to          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> keep </OVERLAP1>
+          in mind that the most important thing, about, this geofluvial model, is, the accuracy. mkay? and here we have it, right in the very last sentence at the end of the paragraph. so... a- as you're as you're in lectures this week, think about wh- uh think um, (Leslie'll) still be talking about criteria, for a          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          solution, you know what what makes          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> what i- </OVERLAP2>
+         </U2>
+         <OVERLAP1> the best </OVERLAP1>
+          solution and i may have talked to you about          <OVERLAP1> (this in previous) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> oh you took 'em from the essay </OVERLAP1>
+          what did you say about this paragraph the last time right here? i mean        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mm it's in here          <EVENT DUR=":05" DESC="LOOKING THROUGH NOTES"></EVENT>          um,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          accuracy        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> na- nothing? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> you just changed that? okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah          <PAUSE DUR=":06" ></PAUSE>          yeah... yeah anyway, r- keep keep in mind that um, that's wo- that's gonna be one of your criteria, for success          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          and so she'll be talking about that          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well </U2>
+          mkay?          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mkay </U2>
+          um now we're talking about (xx) transport. we're still geofluvial model          <EVENT DUR=":53" DESC="PAUSE WHILE READING"></EVENT>          thi- so this method, this bacterial bedload transport method,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          is what's a significant departure and included two innovative features this          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          mkay          <EVENT DUR=":11" DESC="PAUSE WHILE READING"></EVENT>          i think you need to, just period here.          <EVENT DUR=":12" DESC="PAUSE WHILE READING UNDER BREATH"></EVENT>          okay, okay. like i said we're we're gonna_ the introduction is crucial, you know it's really, the, most important part of the_ well, for your readers. it's nice to have 'em not_ a, good introduction so, i think we'll continue to rework that.          <EVENT DUR=":43" DESC="PAUSE WHILE READING"></EVENT>          so, the research objective is, to, improve on the Kovacs-Parker model?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yup </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <EVENT DUR=":16" DESC="PAUSE WHILE READING"></EVENT>          and this task force talks about        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i'm done completely with the          <OVERLAP1> task force </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          i won't mention it again.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> but they're... </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> there's actually          <OVERLAP1> a good chance </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> this is </OVERLAP1>
+          still part of it?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah b- yeah it's a g- it's part          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> so only the Kovacs </OVERLAP2>
+         </U2>
+         <OVERLAP1> of my proposal there's a good chance when i actually, </OVERLAP1>
+          there's a good chance actually when i show this to my professor he's gonna tell me to throw it all out anyway so,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh great </U2>
+          it's only partially          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah yeah, yeah, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> relevant i mean it's more of a </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay, but, uh the task committee did review this          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> this </OVERLAP1>
+          and this, and the Kovacs-Parker model was one of them that they reviewed.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yes. i i_          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mkay </U2>
+          yeah the way i had the introduction written up so far is i was trying to include, almost a time line          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          um          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah,            <OVERLAP2> that'll be helpful </OVERLAP2>
+         </U2>
+         <OVERLAP1> (in terms of you know) </OVERLAP1>
+          there is extremal p- there's_ these are the two types of models, the geofluvial model's better, um one of the geofluvial models is, Kovacs-Parker, task force likes Kovacs-Parker, that's why_ that's, one of the big reasons i am, doing this. and that's          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> what </OVERLAP1>
+          i was trying to set_ i'm trying to kinda set up, set up the fastball you know          <OVERLAP1> for the </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          yeah so, but i don't even know        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so, you know that the Kovacs-Parker, is, a, good solution. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right? but, you wanna make it better? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> oh yeah, i- i- it's deficient in quite a few ways </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so, your research objective is to improve, on, the Kovacs, Parker model </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yup </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and do you say that anywhere, exactly? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm, well          <SEG TYPE="READING"> this, this research is not intended to address all the above deficiencies in Kovacs-Parker model but would address some of the more significant ones. </SEG>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> so </U2>
+          the the the          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <SEG TYPE="READING"> this research (xx) </SEG>
+           <OVERLAP2> oh, okay, the objective of this </OVERLAP2>
+         </U2>
+         <OVERLAP1> objective is, to address, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> got it </U2>
+          some of the more significant,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> deficiencies </OVERLAP2>
+         </U2>
+         <OVERLAP1> deficiency </OVERLAP1>
+          in the Kovacs. that's what your research objective is and i feel like it's again, it's b- a little bit buried, in the last          <OVERLAP1> paragraph </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> but don't you </OVERLAP1>
+          need to set up_ okay so alright          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> well, yeah </U2>
+          i- if i put it in a small paragraph here,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          stating this          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          then i won't have addressed any of the deficiencies, and i need to talk about where it's good before i talk about its deficiencies. i i          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> could put </OVERLAP1>
+          in a small, paragraph here, setting this up,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          but i was          <OVERLAP1> just wondering </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+          basically what i did is i do a quick description of the Parker-Kovacs model here          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> based </OVERLAP1>
+          on these two paragraphs, and then say okay, this is          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> what's, </OVERLAP1>
+          where it's lacking this is what i'm gonna do          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> um, </OVERLAP1>
+          i see your p- i see your point exactly obviously but um i could put a small paragraph in here saying, um, the goal of this research is to, um, make some of the, well i was wondering about s-        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i think this is perfect the way it said it right here, is to address          <OVERLAP1> some of the </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> but then put put it up to here, </OVERLAP2>
+            or leave it there?          </U2>
+          mm, some of the more significant deficience_ u- mm, is to improve on the Kovacs-Parker model and, um        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> but i- should i_ you're s- you're, commenting on it being buried in the third paragraph          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          so...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> hm </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i mean i could move that, sentence, up here but i can't leave the rest          <OVERLAP1> of this paragraph </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> actually this is a </OVERLAP1>
+          good sentence too.        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay so how 'bout, we do something like </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> you know what?          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> this is </OVERLAP2>
+         </U2>
+         <OVERLAP1> i don't </OVERLAP1>
+          i don't think you should decide yet. i think this week is a- is perfect timing, the lectures this week are perfect timing for you and i think you should, listen on, Tuesday and Thursday          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          because i think uh i i think it'll just, really fall into place for you but, uh some of the things that i've out- um highlighted today, um... you're ready          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          you're ready. uh i wanted to talk to you about um... did you, work on your node diagram?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> oh, a little bit, not too much </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> that would be really helpful, uh whe- when is it due? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> what? the          <OVERLAP1> proposal? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> the </OVERLAP1>
+          diagram.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mm there is no diagram due. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> oh that's not? really...? hm... um okay, so          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          so there wasn't an actual assignment you just          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> no </U2>
+          discussed          <OVERLAP1> it </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yup </OVERLAP2>
+         </U2>
+          well then, i'm gonna give you some homework          <EVENT DESC="LAUGH"></EVENT>          i think it would be really, helpful and um, if you have trouble with it i think, it would be great for you to make an appointment with Professor Olsen        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> oh i don't think i'll have a problem with it it just_ i don't know there's other things i'm just working on right now. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah?          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> but </U2>
+          i think it would go_ it would, blend nicely, and really help you along this way so with the node diagram and with the two lectures this week, i think it'll really help you shake out, a nice introduction, um, okay so        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well the, the one thing i was thinking of if i go into the node diagram,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          i basically figured that i would have to throw out,          <OVERLAP1> numerous </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> no i don't </OVERLAP1>
+          mean it goes in your paper.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> oh cuz i_ cuz if i use the node diagram as an introduction then i really          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> no no no no no no </OVERLAP2>
+         </U2>
+         <OVERLAP1> have to give up all that cuz it won't </OVERLAP1>
+          flow at all.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> no all_ it's it's uh as, just, almost like an an alternative to an outline. where you, um, you see, the flow, from the problem statement, to, s- n- suggested </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well the, the problem_          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> uh, solutions </OVERLAP2>
+         </U2>
+         <OVERLAP1> the node </OVERLAP1>
+          diagram she talked about was a historical one. in terms of going back          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> well you can do it that            <OVERLAP2> way too but, it's an idea </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean that's that's the only one she talked about, it's different than uh, </OVERLAP1>
+          cuz i_ what i assume you're talking about is something more like, here's the problem          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          and then here are solutions to the problem.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          that's yeah it's a little diff- it's_ she kinda addressed that but she actually had it going back (forever) um          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> well sh- i            <OVERLAP2> think </OVERLAP2>
+         </U2>
+         <OVERLAP1> but there's </OVERLAP1>
+          more than one_ i mean, now, in terms of addressing that way the problem, isn't it really like five problems though for this, cuz i'm talking about the five deficiencies          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> well            <OVERLAP2> then, then um </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then, i mean so </OVERLAP1>
+          i mean, basically it's like, it's, it's almost like          <OVERLAP1> here's the model </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> but they all, </OVERLAP1>
+          but they all,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> stem from just, from that </OVERLAP2>
+         </U2>
+         <OVERLAP1> come stem from what's </OVERLAP1>
+          the what's the, okay,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> from the Kovacs-Parker model </OVERLAP2>
+         </U2>
+         <OVERLAP1> and the and the </OVERLAP1>
+          Kovacs-Parker. but the Kovacs-Parker is, one solution_ it's just one of many solutions to, what's the big,          <OVERLAP1> picture? what's the </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> river bank river bank erosion </OVERLAP2>
+         </U2>
+          okay        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i mean yeah you could have river bank erosion, and then there are f- the fi- i mean i could you know          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          they all would_ there's like, twelve models alone, reviewed in that paper.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm mhm over_ another_ i just wanna talk in general, um, overall, i i feel like you're, um, u- um, using different terms, for the same, thing and i feel like they're not fully defined          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          um        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well there's_ yeah that's one of the problems though, unlike a lot of other, unlike a lot of other, disciplines          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          where, steel is steel is steel,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          unfortunately in a lot of civil engineering especially what i'm getting into the_ there's so many, different terms i mean people in, the Midwest say things different than the Southeast say things_ you know there's a lot of terms for the same thing          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and now </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> and that's one            <OVERLAP2> reason </OVERLAP2>
+         </U2>
+         <OVERLAP1> and there </OVERLAP1>
+          and there's slight, there is slight,          <SIC> frequent </SIC>
+          there are slight defi- i mean there are slight differences between them          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> mhm </U2>
+          um, but i guess i was trying to encompass, mm, i don't know exactly what i wanna say but i guess i was, trying to encompass, you know address, some different terms for similar things,          <OVERLAP1> and </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> that's </OVERLAP1>
+          good,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> channel            <OVERLAP2> morphology </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's good </OVERLAP1>
+          but you kinda need to do it right          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+          up front          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> well it's </OVERLAP1>
+          kinda like channel morphology is anything that changes in the channel, anything.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          so river, bank erosion is a subset of channel morphology.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay great          <OVERLAP1> great great </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> okay? </OVERLAP1>
+          so i mean, i don't know what, ah but see that's not, no this can't be from the same tree anymore y- you're talking          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> about </OVERLAP1>
+          okay i mean well, it could be like way way up here          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> it can't </OVERLAP1>
+          be up there          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay </U2>
+          so now i don't know        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> what what are some other types of channel morphology? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> (i don't know)          <EVENT DESC="LAUGH"></EVENT>          you know there          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i            <OVERLAP2> yeah, i can't </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know the bottom_ </OVERLAP1>
+         <EVENT WHO="S1" DESC="LAUGH"></EVENT>          well i mean if you stand in a river what do you see i mean there's banks, and braided channels i mean there's yeah there's tons of 'em. i mean if you look at a river, and even a change (xx) river is a chain- is a type but i mean that's way, like you said that's way up        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> up the chain </OVERLAP2>
+         </U2>
+         <OVERLAP1> and and you're </OVERLAP1>
+          not concerned with these things? you are          <OVERLAP1> concerned with, river bank erosion </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> oh i'm mo- yeah, with river bank erosion </OVERLAP1>
+          um, i'm slightly concerned with channel morphology as well and i talk about that because we do have the uh, we do have_ i wanna in- one of the things i wanna include in the Ko- Kovacs-Parker model is changes in the longitudinal direction.          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> which is </OVERLAP1>
+          actually the riverbed changes.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> so another one that you (interested in) is longitudinal direction change. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay, and you're gonna be talking about_ and that's different than river bank erosion? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> right,          <OVERLAP1> but i- but it's gonna be yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay, so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mkay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i i would, i really would like to see you,          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> sure </U2>
+          take it back, you know and maybe, channel morphology is just one of, you know          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay </U2>
+         <OVERLAP1> a bunch of </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> now if </OVERLAP1>
+          mkay, i i can_ i have to get going like real badly          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah, oh sorry sorry </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> um, but uh, yeah but i could take it back that far i guess i um you know maybe after i do that i'll see how i might work it in can i have the, the front page, too? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> here? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yup </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> uh </U2>
+          cuz i'd like to hear what you have to say about the uh lectures, this week        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah i i might go, i mean if i can take it back there it's, uh, i don't we_ yeah i'll think about how i wanna try and do that. i have i've already thought          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i hope you'll be inspired </U2>
+          well i- i i've already thought that i've, probably put too much in on that uh, task force          <OVERLAP1> there </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> i don't_ </OVERLAP2>
+         </U2>
+          extremal models technically is not, relevant wh- or the the extremal hypothesis models that i mention in there,          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          (frankly) that's not relevant whatsoever          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> right </U2>
+          it's just, there's two ways of solving it, and so i mention the two ways and then i          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> yeah </U2>
+          kinda discard it it's really not relevant whatsoever, so that's the kinda thing where i think          <U2 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE">           <OVERLAP2> well i think we'll really take off </OVERLAP2>
+         </U2>
+         <OVERLAP1> in the end my professor </OVERLAP1>
+          might say get rid of it, you know        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> i'm hoping we'll really take off next week and i hope that, i- lectures today are inspirational just, if you think what does it have to do with me?          <U2 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> just </OVERLAP1>
+          bear with it because i want you to_ you wanna keep that?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> no i don't need it actually </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay, um... yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay, thanks a lot i appreciate it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JF" SEX="F" AGE="3" RESTRICT="NONE"> okay, see you next week. hey thanks for doing the recording thing. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> oh it's not_ no problem at all. </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

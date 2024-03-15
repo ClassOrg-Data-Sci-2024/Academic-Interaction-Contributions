@@ -1,0 +1,841 @@
+<TEI.2 ID="adv700ju023">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Honors Advising </TITLE>
+         <TITLE> Rackham Div: NA </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 9209 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> ADV700JU023 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English. Ann Arbor, MI: The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="52">             <DATE> July 7, 1998 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Carrie Sue Kay Sulzer, Matt Murphy </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Carrie Sue Kay Sulzer </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Eric Breck, Bonnie Malczewski </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> John Swales </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Rita Simpson </NAME>
+               <RESP> Final Editing, 9/21/99 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">ADV</TERM>
+ <TERM TYPE="ACADDISC">700</TERM>
+ <TERM TYPE="PARTLEVEL">JU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">NA</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="4"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="4"></PERSONGRP>
+         <PERSON ID="S1" LANG="NRN" ROLE="ST, Advisor" SEX="F" RESTRICT="NONE" AGE="4">           <FIRSTLANG> EST </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Honors Advising Office, Angell Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> so. i see that you're from Hartland Michigan          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U2>
+          this is, right up the road        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm, like forty minutes from here          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah </U2>
+          mhm        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay, and uh, you say that you're interested in prebusiness and economics </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i was i don't think that i am anymore          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay cuz you write a lot about international business. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm i wro- i w- i'm interested in the um, international aspect,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> uhuh, uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> more, of a </OVERLAP1>
+          um, of a, program or whatnot so, like the international, business i was gonna do, it's a really, you know open field, you know like all that stuff but i don't, think that that's what i wanna do anymore, so        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay so what, what changed your mind and what has it been changed to? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, i, don't know if i wanna sp- like i wanna experience like you know, cultures and and the world and and          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> everything and </OVERLAP1>
+          and business would be get me th- to these places but i don't know if i wanna spend all my time behind a desk, not really enjoying where i am, you know, like having to d- work with numbers all the time and like, not really being out, doing something a little more interesting maybe like flavorful in any case so, i thought about um, i don't know if i, i mean even if i, ugh i just don't think business is and i, i have lots of other interests like um, that are a little bit more like, paleontology or astronomy or          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh </U2>
+          international religion or uh not religion international relations, so, those things i wanna_ i think i'm gonna concentrate more on, i don't think i wanna do the business.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> have you done any digs or anything like that? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no i'm really like dinosaurs like fascinate me like that stuff fascinates me but i don't know if that's like a career choice yet but i, was looking through the course book and i know they offer like a w- half a term class or something,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> one of those </OVERLAP2>
+         </U2>
+         <OVERLAP1> that if i had </OVERLAP1>
+          space          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> geology short courses </U2>
+          mhm          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          that i could, like, take and see if i, if it was worth it that i should go into,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> you </OVERLAP1>
+          know more depth or if that was just sort of like okay, i l- i like it but i don't wanna, like study that so i don't know.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> both geology and biological anthropology, will lead you, that way.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          um, geology has got this one course called i think Dinosaurs and Other Failures          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          is that the          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> one </OVERLAP1>
+          that you noticed? yeah, so a lot of, it_ that's a very, you know_ i mean_ it's kind of a fun course actually          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          and i think, you know we're all interested in triceratopses and woolly mammoths          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          you know and so on and it talks about what, all of the various theories about why it is that they,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          you know          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          became extinct and why they no longer exist you know we've heard all of the, you know big uh, meteors coming from outer space          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          and it, becoming too cold for them and so they talk about all of these various theories about what happened to them, and biological anthropology deals more with, humanoid skeletal remains,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so, it is um, in biological anthropology it's really sort of the crest of the wave, uh work right now is being done in the whole field of is there a common ancestor or did a humanoid species, spring up or          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> exist </OVERLAP1>
+          in various places in the world,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          not just in Africa, but also in Asia, and maybe also in southern Europe          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          um, and, two of the people who adhere to this second theory, are two people who are in the biological anthropology department here at Michigan. and they have just, written a book that, you know now is, is one that's really being          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> discussed in </OVERLAP1>
+          academic circles. um, but uh, you know so, because this is kind of a, a controversial sort of          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> issue in </OVERLAP1>
+          biological anthropology right now, but a lot of that too is paleontological          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> work, </OVERLAP1>
+          archeological work,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> digging, </OVERLAP1>
+          you know now with all of the new s-          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> all of the </OVERLAP1>
+          new technology with looking at, D-N-A and so on,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          that you can, extract from something that's you know, thousands of years old to,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          to give you all sorts of clues about what, you know it might have been. um, how this creature might have lived and how it existed and, and so on it just uh, i think it's really very exciting work.          <OVERLAP1> and </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          i find it, like, absolutely fascinating and that's, one of the things i don't know if i- i wouldn't wanna be in a career or studying a major that, is not that interesting to me i'm just doing it because it's_ i could be successful, or whatever i think i'd rather, stick with something that's more, um i could be more involved in, and,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          and that's why, and and that's why_ also looking at like um, foreign relations and foreign affairs like          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> dealing with, </OVERLAP1>
+          people          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> more </OVERLAP1>
+          and um, issues that i can like be involved in and like um controversial things that, you know debatable topics not just something that's like, like doing math, like a_ you know plugging in numbers type of a thing all the time so        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> being an accountant </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i could          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          not be an accountant          <EVENT DESC="LAUGH"></EVENT>          either, never        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh dear well, now Dr Crown talked about rules and regs and degree requirements and what it is that you need to get out of here and, i don't wanna talk about, what you need to do to graduate, i wanna talk about, how your interests will translate into the courses that you wanna          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> take your </OVERLAP1>
+          first semester. so one thing you and i know is that you're going to be taking either Great Books          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> or Classical </OVERLAP1>
+          Civilization, and the other thing, we know is that by using the results of these, placement tests we will kind of decide what other courses, you need to take which other courses you want to take. uh, the first thing here, is that you placed into the Spanish two-thirty-one,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          which is the third semester of Spanish.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so, if you want to continue with Spanish it means that you are to take two more semesters of Spanish.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          and if you wanna continue with Spanish, my strong recommendation, is that you do it, now, instead of waiting until next year,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          or the year after that          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right, um </U2>
+          so that's one decision you're gonna make.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          am i gonna do Spanish, am i gonna switch to another language.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> then, uh, math and chemistry are a little bit murkier, because, if you had said to me gee you wanted pre-med, you wanted a biology concentration that's really what you wanted to do, then i would say well you gotta take math and, chemistry, because you need chemistry before you can take biology and ma- you need a year of, math if you're gonna be a biology concentrator you need two years if you're gonna be doing microbiology or something like that,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          so you'd better get started with the math right away, but, your interests to me, don't, s- don't necessarily demand,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          that you do chemistry and math right away,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          uh, you may decide you wanna do that at some point, but it's absolutely not necessary          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          especially, if you, are right now, you know you can't decide, which way you're going, and you want to be able to sample both fields          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so it probably makes more sense to you, in your first semester to sort of take something from the social sciences that might lead you toward, international relations so          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> like, </OVERLAP1>
+          you know, international, you know, politics          <OVERLAP1> or something like that </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah i saw </OVERLAP1>
+          a course like Introduction to World Politics or something          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> right </U2>
+          that,          <OVERLAP1> right </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> which is </OVERLAP1>
+          Poli Sci one-sixty        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> you know, you might wanna do that, and then you might wanna take, this biological anthro course or a beginning geology course or,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know </OVERLAP1>
+          something like that, and then if you decide you wanna do geology or, bio anthro, then you could use that, poli sci for social science distribution.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right, okay </U2>
+          and if you decide you want so- uh poli sci plus take some economics, then you take these other courses for natural science distribution          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right, okay </U2>
+          so nothing is wasted          <OVERLAP1> really </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so okay </OVERLAP1>
+          so these a- courses would all be, worth it no matter how i        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> exactly,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          exactly, no matter how you really put it together.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um, the one expectation that we have, is that you take two honors courses per term,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and, in that, orientation newsletter that you got in the mail          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          those blue sheets of paper, in the middle? they've, they have the honors, uh courses for first-year students listed in there        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay there's, two booklets that we got i'm          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no </U2>
+          no        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uh i'm referring to this </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i'm not sure if i remember that one </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh, you will, you will remember, i guarantee you </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh, yeah, okay, right, i          <OVERLAP1> did see this, yeah, oh mhm, right, yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> and, yeah, see and the two sheets there in the middle? now you see </OVERLAP1>
+          that Poli Sci one-sixty, when you leaf through it,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          uh has got an honors section. so that could be an honors course for you          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay </U2>
+          okay? so there are a lot of different ways to do an honors course you don't have to do Honors Math to do an honors course.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          you can take, all sorts of other, options for honors courses        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay, oh that would be go- that would be </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> now uh one thing i haven't asked you, is, eh- whether you took any A-P tests in May. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i did and i know the, the um, </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> the outcome? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. i got a four, on the English language one,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay </U2>
+          and whoa i bombed that chemistry test          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh okay </U2>
+          so, i did decent in the class all year got an A but, man that A-P test sure        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> so your English language A-P was a four.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          now, that will give you some credit toward graduation.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it will give me credit? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh yeah. but that will, but_ uh Dr Crown also explained how that does not mean          <OVERLAP1> that you </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i guess that means </OVERLAP1>
+          that i get out of it but i get credit, right?          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> exactly, exactly </U2>
+          and how many credits would i get th- you know? or or        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> i think you get six actually i don't remember          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> wow </U2>
+          uh, no, excuse me. you have to get, a five to get six, but you get three hours of credit.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> wow, for a four, that's good that's good and um i_ do you give any credit at all for threes?          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uh </U2>
+          cuz i_ for          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> depends </OVERLAP2>
+         </U2>
+         <OVERLAP1> European History </OVERLAP1>
+          last year i got a three.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay, in some departments threes do earn you credit in others not, so European History you have to have a four or a five </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay i wasn't sure </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uh, you can get a three in poli sci or physics if you get threes, you get credit, but not, not in history          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay,            <OVERLAP2> alright </OVERLAP2>
+         </U2>
+         <OVERLAP1> yeah, </OVERLAP1>
+          so, you haven't had the A-P Poli Sci, or          <OVERLAP1> (we- we) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no i've never had </OVERLAP1>
+          really any political science          <OVERLAP1> whatsoever </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> oh </OVERLAP1>
+          okay, well then i think it really is something that you should, think about.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um, the other thing i wanna point out to you, is that in those_ in that first-year-seminar handbook you know?          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          there it is_ there are some geology courses in here.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          um, now i don't know if they, can't remember, whether they might be exactly what you're interested in. uh Ice Ages Past and Present, and The Evolution of North America... uh... Nat- Natu- Natural Hazards, that that doesn't really, talk as          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> 'm'm </OVERLAP2>
+         </U2>
+         <OVERLAP1> much about </OVERLAP1>
+          the things that you might be interested in but... i i don't i don't know whether, these aren't as, um much paleontologica- i mean they don't really deal with, you know skeletal          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right yeah it's more </OVERLAP2>
+         </U2>
+         <OVERLAP1> remains and so on as much </OVERLAP1>
+          i'm just thinking that they are, like that's a full course,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> that would </OVERLAP1>
+          be th- a three credit course, so that could be like one of your courses but another thing that you could do is to take, is to look look at Anthropology one-sixty-one.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay, mkay </U2>
+          okay? look at Anthropology one-sixty-one, and then you could do an add-on, of the, dinosaurs course if you wanted to          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          because then you would have four credits in Great Books, if you take Spanish you'd have four credits in          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> that, </OVERLAP1>
+          you would have four credits of poli sci, you'd have four credits in, anthro, and then one credit, for the geology which is seventeen credits, um... you know which is, what people who are taking chemistry are going to be having to elect, seventeen          <OVERLAP1> credits </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> seventeen </OVERLAP2>
+            credits          </U2>
+          we usually say we want four courses, you know four          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> academic </OVERLAP1>
+          preparations, but the, geology short course is, much more of a, really, it's a course that's sort of intended, for people that just have an interest in something instead of, being a course that is for students who really know that they wanna,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          you know        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> well could i take that maybe like second semester? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> it's taught every term </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh it is,          <OVERLAP1> so </OVERLAP1>
+         <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> it's taught </OVERLAP2>
+            every term          </U2>
+          maybe if i wanted to take sixteen credits, just to see how i'm handling it,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> right </U2>
+          and then second, semester i can you know once i take different classes, i might have a better idea if i could handle like ano- an extra class on top of that.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> right, right. now do you know where you're gonna be living? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> Mo-Jo </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> Mo-Jo </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> mhm </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> okay. </OVERLAP1>
+          i was just uh, wondering whether, whether you were gonna be in South Quad.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> hm'm, no i'm not          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay </U2>
+          doing uh Honors Housing        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm, uh this evening, there is another session, with the peer advisors, at seven-thirty, in one of the computing classrooms which is right next by          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> the computing </OVERLAP1>
+          center, and that's where you're going to get on the web, and you're gonna look at, um all of the courses, you're gonna read course descriptions, you're gonna figure out what times courses meet, and, try and figure out your sections          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um, and then tomorrow morning when you come in to talk to me, you'll have pretty much a solid idea of what you're gonna be taking. i advise you actually to look at the introductory geology courses, not just the ones that are in the freshman seminar, but the ones that are in the          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> like the bulletin, </U2>
+          yeah,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that we had </U2>
+          well, have you been on the online online course guide yet?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no huh'uh </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay it's really easy i'll show you. you know you know what the web is          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          alright. so, we just get here on the Netscape Navigator click click click          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and, you'll do that tonight too          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          get on the Navigator, here we are, and this is the L-S-and-A page, homepage and we go under College Administration and Services, and we look at... oh. oh that's the wrong one. you don't want College Administration and Services do you?          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          you want student stuff. information for students... oh you don't want the bulletin. we want the course guide... and here's the course guide, it comes right up, and then you can just page, down only not quite that fast... uh, to geological sciences          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          and, now we start looking at all of these introductory courses, um, these are the ones that are, these, one, credit courses          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> that are </OVERLAP1>
+          just for half the term and they are taught every term and this is the one you were looking at here          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          uh, and then... now we're looking here Introduction to Geology, which you can take with a lab or not with a lab          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          uh, that one sounds a lot like the ones we were looking at, um, but Environmental Studies Environment People and Resources that might be more, or Physical World, Evolution of the Earth, here we go now this, oh. that those were the two sh- those were the two uh uh        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah the uh those were the,          <OVERLAP1> seminar. yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> evolution </OVERLAP1>
+          yeah uh okay Introductory Geography Water Climate and Mankind, the Planets, Di- oh.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh yeah, and i... i might even wanna, take a, astronomy course or something i,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah </U2>
+          i like, i'm not a big fan of, and that's the thing with like the geology, i'm not a fan of chemistry          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah </U2>
+          and        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> now you see this here, this is a course in paleontology          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh it is,            <OVERLAP2> i didn't </OVERLAP2>
+         </U2>
+         <OVERLAP1> but it tells </OVERLAP1>
+          you that you have to have an introductory          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> biology </OVERLAP2>
+         </U2>
+         <OVERLAP1> biology </OVERLAP1>
+          course and, Geology one-seventeen before you can take it. so... so you look and you say okay, well what is this, one-seventeen is that introductory course in geology.          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so, that's one way to look at it          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> now </OVERLAP1>
+          another way... so we can also go and look at astronomy...          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          and it tells you about the sol- you know, you've got The Solar System, you've got The Stars Galaxies and the Universe, and see some of these courses are intended for students who, are not gonna be majors and others for students who are          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          so you've got to, kind of look at that          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          and some of them have labs and some of them don't. uh, and the lab is, great fun, because you go up on the, roof of Angell Hall where they have the telescopes          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh, that would be            <OVERLAP2> fun </OVERLAP2>
+         </U2>
+         <OVERLAP1> and that's where </OVERLAP1>
+          and that's where you have your labs.          <OVERLAP1> so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that would </OVERLAP1>
+          be exciting, yeah        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uhuh, so look at those two tonight          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay,            <OVERLAP2> i will </OVERLAP2>
+         </U2>
+         <OVERLAP1> alright? </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> definitely </U2>
+          now, i'm gonna see you tomorrow morning          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          and at that point, i hope, that you've worked out four or five courses,          <U2 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          and i can um, you know we can finalize your elections, and then one of the peer advisors will help you register right in this office and you'll walk out of here with your courses in your hand        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> great </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i'm excited </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> good </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yes. okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> nice </OVERLAP1>
+          meeting you          <OVERLAP1> and i'll see you tomorrow </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> nice meeting you </OVERLAP1>
+          yes.          <OVERLAP1> eight-thirty </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> bye bye </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> bye </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> first day and a half was          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> fun </OVERLAP1>
+          it was, to be totally honest a little boring with all the le- you know the lectures and information it's just like you kind of sit there and listen and hopefully absorb,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah </U2>
+          but then the last thing with you know the peer advisors where they're throwing out the different options in classes and like where you should fit in it was like, i could fit in there, i might, i might not, i just, i have, no idea          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <EVENT DESC="LAUGH"></EVENT>            so          </U2>
+          i have no confidence in my French or chemistry placements,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh alright </U2>
+          whatsoever        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> well, uh well we can start with that.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          um          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> they're i'm            <OVERLAP2> sure they're awful </OVERLAP2>
+         </U2>
+         <OVERLAP1> the_ you </OVERLAP1>
+          you have said here, you know i was reading your essay,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and i thought to myself, this young woman is going to end up saying she wants to be a teacher, because she wants_ she likes to work with children          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          and it was no that that wasn't what you said. uh, have you ever thought about that?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i have. especially of recent i did a lot of tutoring my senior year,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> uhuh uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> lots. </OVERLAP1>
+          i tutored like, two, at least two times every week.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          and i really enjoyed it.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          i loved tutoring.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          and then... but as for being like an elementary school teacher or like a high school teacher it jus- it just doesn't really have that, much appeal for me.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          i mean despite the fact that i really do love working with kids,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          no, like teaching wasn't, maybe ultimately, this is kind of i don't know how far-fetched this is, but like ultimately i think it would be kind of fun like, in my later years you know to be like, professor, you know a teacher, but, as for like a profession, i don't know.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mm. i was thi- i i think that if i... i i really enjoyed teaching elementary language          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          because, it was something that was so, um, obvious when, eh- students had grasped something or made a breakthrough, you know what i mean?          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          even though, the concepts weren't, you know, earth-shattering, life-changing concepts you know, which which a preposition governed the dative, in German, you know that isn't really something that's gonna change your life if you, know that          <FOREIGN> aus ausser bei mit nach seit von zu </FOREIGN>
+          governed the dative          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          that's not gonna change your life, but, you could see the, you could really see someone's progress very very easily and it was very very nice, whereas my husband who grapples with, bigger questions and issues, cu- he teaches a course in Great Books, and, he says that it's sometimes, you know it's very rewarding when you have a student who, really loves it and really understands it and just wants to do more and more and more and when you have exciting class discussions, but that, it's just not as easy to measure          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          uh as it is when when you're just teaching an elementary language or if you're teaching a young child,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          how to do a particular task, which is very, easily discernible whether that task has been mastered or not, and therefore you can really see the progress and you can say uhuh, i can see i've really contributed to this and this and this and this, and that's really very nice.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, it it was wonderful, i mostly tutored in algebra,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          um, and it was nice when like by the end of doing a homework assignment like i could see obviously that one person had_ like knew finally what was going on, and i had the same teachers as like one of my,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          tutorees, and, and he said that like her grade had improved          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh yeah, mhm </U2>
+          like he could see like in her homework assignment it was a lot better, which helped her grade, and          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          you know, she may have done a little bit better on the test so, that's_ yeah, it is really rewarding,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          i can_ i did honestly feel that,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> i can </OVERLAP1>
+          see it, but, as for a, teaching i don't, i don't know,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> you don't know </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's just that, </OVERLAP1>
+          in general i do really like working with people          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah yeah </U2>
+          i mean specifically kids, are wonderful          <OVERLAP1> i love working with children </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> so why did you decide </OVERLAP1>
+          on medicine?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> why? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> now what what brought you to that? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i know it_ kind of like the corny way like a lot of kids might learn about it my father is a doctor,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uhuh </U2>
+          and so i mean like early on i, understood some things about the medical profession like, my parents' friends were all doctors i'd always like interacted with them          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> and, </OVERLAP1>
+          i really, i think i i really would enjoy that lifestyle          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          like i'm starting to volunteer at our local hospital and,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          and stuff um, i've always leaned_ i'm more of a math science person,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          definitely i've alwa- i've always leaned towards the math and science, even though, like i took a creative writing class my senior year. my senior year though, i really like, i just as soon as college hit, (it) was like as soon as college questions hit it seemed that i went from like less specific as what i always thought i wanted to be like i always thought i wanted to be a doctor but then like, my senior year, when college like confronted me it seemed like oh no but there are all these other options i want to explore,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah </U2>
+          like creative writing and, and such, but i've always leaned toward math and science. and, i've always really_ i took anatomy and biology and really enjoyed both,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          and, i don't know i just wanted to find something that combined working with people and still having like my science knowledge and stuff.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> one of the nice things about, the, requirements that you have to take, that Dr Crown talked about,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          was that that is a way for you to explore,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          everything that goes on here. you know you're gonna have to take some humanities you're going to have to take some social sciences you're going to have to take some natural sciences, that aren't in your concentration,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and, that means that, you know you get a chance to look at all of these various areas that you probably haven't taken classes in before, or that you have taken classes in before and that you're really, you know interested in,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          that you want to keep on doing, and so that's one of the reasons, why, you know we look at the, at the placement tests and say okay what is it that you need to do, and what is it that you'd like to do,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          uh and you know that you need to elect either Great Books or Classical Civilization, for your intro comp and for an honors requirement,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          and then after that, if you're pre-med you really should be taking math and science.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          and chemistry is what you should be taking for the science... because even if you took A-P,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          and even if you got a four or a five, it doesn't place you out of the organic which is what the two-ten two-eleven is, that you placed into        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh i did? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay, good. that's what, yeah that's actually what i was thinking, cuz i do have </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh no you didn't </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh i didn't? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> excuse me </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> you placed into the one-thirty.          <OVERLAP1> now </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> which is </OVERLAP1>
+          just the general?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> which is the general. now did you take the A-P Chemistry? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> no </U2>
+          i didn't. i've had one year of Honors Chemistry, which would be like the first year basically and i took that, my junior year and so everything that was on the test, i mean i could recognize the things like, i remember seeing that i'd been working with this but i, couldn't remember for the life of me like,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay </U2>
+          what to do.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> alright, well... i think probably given this score,          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          i might suggest that you do take the one-thirty        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uh, some of it is going to s- seem like repetition,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          but i think, you want a really good solid, basis in general chemistry before going on to organic. although organic isn't very much like general chemistry. but, nevertheless,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> you </OVERLAP1>
+          do need the solid basis in order to do that.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah. so i think i'd say Chemistry one thirty and i'd say either Great Books or Classical Civilization, and, your math score is real good, uh did you take A-P Ca- Calculus? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> A-B or B-C? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> A-B </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> and have you gotten your scores already? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no. i hadn't gotten them yet before i left. so </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay, so how do you think you did on that do you think? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, i wanna say i got a four.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay </U2>
+          i really think i'm pretty sure i got at least a three,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mkay </U2>
+          but i, really felt really confident afterwards, my, my fos- or my foster mis- my calculus teacher Mr Foster          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          really          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          prepared us and so we were taking we've been          <OVERLAP1> taking like </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> my foster </OVERLAP1>
+          teacher Mr calculus        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          yeah          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          i know, i got all tongue-twisted there but um, he, really prepared us for the test like we'd been taking A-P style tests,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> two </OVERLAP1>
+          months ahead of          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> the </OVERLAP1>
+          actual A-P, and by the time i got the A-P, like done and over with,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> Mr </OVERLAP1>
+          Foster's tests were so much harder than,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh </U2>
+          that one was so,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay </U2>
+          i, feel_ watch i'll probably get like a two now but, i really think i may have gotten a four,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> alright </U2>
+          four, at least three.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> well that, if you got a four that'll place you out of a first semester of, of math. of calculus. that would give you credit for Math one-fifteen, which is the first semester of calculus here, and then the issues become, oh gee should i, take Honors Calculus should i take the one-eighty-five sequence. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i do, yeah i_ that was what i was leaning towards,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          i do like math.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mm. if you like math, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i do feel, yeah </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> see i_ students who say oh well i might as well just take, Honors Math because i need another honors course, those are the students who probably shouldn't be taking Honors Math.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          the people who like math and          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> they say </OVERLAP1>
+          i like math i          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i do </U2>
+          and i really enjoy it          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and and i wanna learn more, they're the people who really should be taking Honors Math.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          so maybe you should take the one-eighty-five one-eighty-six you realize that you're going to lose the A-P credit, if you take one-eighty-five and one-eighty-six.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          but, four credits, aren't going to make you or break you.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          okay        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> you understand that? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah. you'll be you'll re- you'll be getting kind of a nasty little letter, it's not a nasty letter it's just that it's very businesslike, ruff ruff ruff          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          from the, Records Office in, October,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          if you get a four or a five on the A-B saying, you got credit for Math one-fifteen, for A-P and now you're in Math one-eighty-five so we're gonna take away your credit.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> if i did get a four or a five though, wou- would that mean should i opt to take like the two-ninety-five? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uh,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> or </U2>
+          you could opt to take the two-ninety-five your S-A-T score is very good. and if you really like math,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and then i i would, then i would talk about the two-eight_ two-ninety-five. if you want more discussion about two-ninety-five, then tomorrow morning between nine and eleven          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> we do </OVERLAP1>
+          have a math advisor who comes into the honors office to talk specifically about math issues.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um, but that's probably something you should be thinking about, but you know actually what you can do, is you can, sign up for one now, after you get your score, you can call us and ask us to put an override into the system for you for the other course, and drop the one that you're in if it's not the correct one.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i actually think i'd like to go, probably just with one-eighty-five,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay </U2>
+          i don't know        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> it's probably, it's probably safe to sign up for          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> one-eighty-five </OVERLAP2>
+         </U2>
+         <OVERLAP1> one-eighty-five, </OVERLAP1>
+          and then wait for the score and see what happens,          <OVERLAP1> you know </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> mhm... </OVERLAP1>
+          okay        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> now your Spanish placement or,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> French </OVERLAP2>
+         </U2>
+         <OVERLAP1> French, </OVERLAP1>
+          placement was one-oh-three, which is that        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh really </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah, it's that, sort of, in between the first and the second year course,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and so that means that you_ if you keep on with French you have three semesters to do of French.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> but if so this is a time that you_ you know you might think about another language, uh cuz if you started a brand new language, if there's something that you'd rather take that makes more sense to you, then you just have one additional semester of that language to do so that would be just a four-semester shot then for you. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh, i really like French.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> alright </U2>
+          i really what i was actually kind of thinking was almost majoring in French.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh, alright </U2>
+          and then eventually though do you think this might work i would love to take Latin sometime too. but i do i do like French a lot, i had a really good teacher and, i'd really like to          <OVERLAP1> continue </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> you may </OVERLAP1>
+          want to take, um what they call sort of an intensive Latin when you're a junior or senior, uh it's kind of, it's kind of the equivalent of three semesters in a year,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and it really just uh it's one-ninety-three that's the number and what you would be doing is, that gives you a real good reading knowledge, of          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> of Latin </OVERLAP2>
+         </U2>
+         <OVERLAP1> of Latin, </OVERLAP1>
+          which is all you really all, you want,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, not really spoken </U2>
+          uh you're not gonna do any time-travelling and          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right, go back to ancient Greece and, no </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay so, what we're saying is, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so like Math one-eighty-five </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> sounds to me like Math one-eighty-five, either Great Books or Classical Civilization, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> French one-oh-three and then </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> French one-oh-three          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so </U2>
+          and then Chemistry one-thirty        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> you think Chemistry one-thirty because, if i want, i did wanna be a pre-med major. so i i suppose i mean i will obviously          <OVERLAP1> have time to fit everything in </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> did you take </OVERLAP1>
+          A-P Biology?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> no </U2>
+          we didn't have an A-P Bio class, that was...          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> it's okay </U2>
+          i almost wanna say like, well no actually it's not the same thing my, my anatomy teacher was also the biology teacher          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          and, anatomy really, she was talking to us about it one day          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          and, i i really can't say that i did l- anything like A-P Biology either so, i mean it tries to continue but it it goes through the kingdoms          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          so, like to the different phylum like the animal,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          kingdom so i really don't think        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> see people who score in the seventieth percentile and better, on the chemistry placement are put into the two-ten two-eleven,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so you're not, totally out of the ballpark here i mean you know, your score isn't,          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          in the thirties          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          or you know, you know what i mean? um, so you        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> cuz i </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> you you could try </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i have no idea like how much </OVERLAP1>
+          confidence yeah i think i really think i am borderline with this,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah </U2>
+          i have no idea, like i wanna say i'm confident enough with my science skills that i could go with,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          is that organic what you're talking about?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm          <OVERLAP1> that would be the two-ten two-eleven </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that i could do organic </OVERLAP1>
+          but, at the same time, i mean i really th- i think Chemistry one-thirty would just basically like solidify whatever          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> math </OVERLAP1>
+          skills or          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> chemistry </OVERLAP1>
+          skills i had but, so          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> i don't </OVERLAP1>
+          know          <OVERLAP1> if i really want to jump into it </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> i guess maybe that's the way </OVERLAP1>
+          i feel too        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that i i should probably solidify? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah, yeah. see you've got your two honors courses with the math and the Great Books or Class Civ_ which one are you leaning toward? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> Great Books </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> Great Books. okay with math and Great Books you got your two honors courses, and you're starting on your way, with,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> my language </OVERLAP2>
+         </U2>
+         <OVERLAP1> the chemistry </OVERLAP1>
+          and          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> you're, </OVERLAP1>
+          s- beginning to finish your language so,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          that's a good          <OVERLAP1> program </OVERLAP1>
+          .        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz </OVERLAP1>
+          yeah, i just know that since i am_ if i'm pre-med, i'd have to take so, is Chemistry one-thirty_ will i just take_ i'll take care of that my first year, my          <OVERLAP1> first semester </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> chemistry firs- </OVERLAP1>
+          yeah          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> fall </U2>
+          first semester and then second semester you take two-ten two-eleven.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright oh.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          is that considered like a year then of organic right there? are they when people say like, for like pre-med requirements it's like you have a year of organic a year of inorganic          <OVERLAP1> how much is that </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> a year of </OVERLAP1>
+          organi- well, this is a semester of inorganic right here now, one one-thirty        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh really? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> and then organic would be two-ten two-eleven that's one semester and then two-fifteen two-sixteen that's the second semester. and you'd be taking two-fifteen two-sixteen in the fall term next year. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mm okay, my sophomore year, and so, this is a semester so i'm i'm taking oh gosh this is          <OVERLAP1> confusing, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> mhm, </OVERLAP1>
+          this is a semester        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i'm taking a semester of inorganic then          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          right now i          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          complete like a whole year of organic          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          which'll be two more semesters, and then like, so i i still have another, semester of, inorganic and a year of biology and a year of physics?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> right. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uh, you should look here on, on in the bulletin, when you have          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> time, </OVERLAP1>
+          on page thirty-three, they've got all the pre-med requirements in here        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh. page thirty-three you said?          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          okay. oh boy        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> and that just tells you... just exactly what all the pre-med requirements are, see and if you decide to be a biology concentrator,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          then all of the pre-med requirements are the same as the prerequisites for the biology concentration.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. ooh. alright </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> now, you're going to be meeting with, the peer advi- peer advisors again this evening, are you living in Honors Housing? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay, so you will go to a meeting with Earl at seven o'clock? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          yeah        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          you'll get to be entertained by Earl          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          for another half-hour        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i have been          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          yeah he's quite amusing        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uhuh          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and then at seven-thirty, you're all going to be meeting in one of the computer classrooms by the computer center here in Angell Hall,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and you're gonna learn to get on the web and look up all of the courses, read descriptions, figure out when courses meet what's open what's closed and when you come in to see me tomorrow morning we'll finalize your schedule.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and then you will call CRISP right from this office          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and you will register and you'll leave here with your schedule in your hand.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay. alright, thanks. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> alright? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, am i taking_ with Chem one-thirty is there like a one other something for a lab? is that </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> well there's one-twenty-five but, you don't have to take it because you've had a lab          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          in high school          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> definitely </U2>
+          so you don't need it          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so one-thirty is all you need to take.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright </U2>
+          now sometimes students like to take one-twenty-five, actually        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> because it, you know it, just reinforces what you're doing in the one_ in the lecture and the discussion and the recitation lab </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it's a completely, it's kind of a separate class though?          <OVERLAP1> basically? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> it's kind of </OVERLAP1>
+          of a separate class        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> is it, is this an overload would you think? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> 'm'm, no no </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> if i took one-twenty-five also? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> it wouldn't be an overload </OVERLAP1>
+          it wouldn't be an overload, uh'uh, that would give you seventeen credits, but anyone who takes chemistry, has got seventeen credits.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm. um, okay </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> if they're taking,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know, the lecture </OVERLAP1>
+          and the lab combination        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay is this sixteen right now? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> 'm'm </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> isn't the lab only one credit? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> it's fifteen right now </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh it's fifteen, okay </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> lab is two credits. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so i could just uh, s- even solidify and strengthen it,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          even more.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          oh, alright. okay        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> alright? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> whoo          <OVERLAP1> thanks </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> good </OVERLAP1>
+          well i'll see you tomorrow morning then.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright,          <OVERLAP1> thank you </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> it was very nice </OVERLAP1>
+          meeting you        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> you too </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> bye </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> bye bye </OVERLAP1>
+          now.          <EVENT DESC="S4 ENTERS"></EVENT>          this is all i need, drop all your, your work here.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>         </U2>
+          ohh... now i see, from your file that you're interested in biology and, and biomedical, engineering or technology or        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i want_ i was_ i'm thinking of possibly going into uh work with genetics          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uhuh </U2>
+          in genetic research        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> and how did you come to that? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i had, my first two years of high school i took two biology courses and we, were exposed to some genetics, and i thought it was pretty interesting.          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          and also like the, just the stuff that's been in the news on genetics, things like that        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm, mhm. okay, so, so you took biology and chemistry and physics in high school? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> and did you take any A-P courses? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i took, i took A-P Calculus, A-P </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> A-B or B-C? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> A-B. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> A-B.          <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> uhuh </OVERLAP1>
+          A-P Lit, and, what else A-P Psych, A-P History        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh you took a lot. now did you take tests in all of those? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> just the lit and history. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay. and, do you know your scores yet? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> history, i took that my junior year and i got a four on that, i haven't gotten          <OVERLAP1> the scores </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> is that the </OVERLAP1>
+          American History?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay. well that, American History four will give you credit for the first year's worth of American history here.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so you get four credits, and you get credit for History one-sixty and one-sixty-one, which is the freshman h- American history sequence.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so, if you wanted to take another American history course, you would have to look for, something that had that as a prerequisite.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know, </OVERLAP1>
+          so you could take a three-hundred- or, sometimes students even take a four-hundred-level American history course if they're really interested in history          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          after having had that A-P uh, you know credit. so that, works you know really pretty well for some people. and then you said you took the uh English too?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i took both the, lang and comp and lit and comp. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> and how do you feel about those? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i think i did pretty good, po- possibly fours </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> if you get fours or fives in those, then you're going to get six credits for each,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and, you know that those credits are added, are reckoned kind of toward that hundred and twenty that you need to graduate          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so, you, if you got a four or a five then that would be twelve credits plus the four for, American history that would          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> give you </OVERLAP1>
+          sixteen credits already. and what that really does for you i mean it doesn't, get you out of anything really          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          but when you go to register next for next semester, you'll already be registering with the sophomores, because those sixteen credits, plus what you take in the fall          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          will probably add up to twenty-five or more, and that's what you need to be a sophomore.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          so that, it helps you that way too you see?          <OVERLAP1> so are y- </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so </OVERLAP1>
+          what does that do for me applying with sophomore, standing?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> it means that you get an earlier CRISP date, and so you uh, some of the courses that are typically sort of first-year-student courses,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          you get a first whack at the them,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          before some other first-year students will.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          so, you know that's really pretty good.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          yeah. so, you want to do sort of a pre-med curriculum or just a free_ a pre-biology curriculum or how how have you thought about it?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, i'm not really sure which way i wanna go with that so,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mhm </U2>
+          i guess probably for now pre-biology.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> mkay. you're very very lucky because pre-med and biology prerequisites pre-med requirements          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          and biology prerequisites are identical.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          so you're really pretty lucky that way.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          um, and so, let's see now, Dr Crown explained to you about um, how there're some courses that you have to take          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and then some, there's cer- you have some choices and then you've got, particular requirements that you must meet by the time you graduate and, it's          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> better </OVERLAP1>
+          to do some early and some late and, and so on, okay, um, so your placement for chemistry was into the Chem one-thirty which is the, um, first, inorganic chemistry          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          it's the general chemistry class, um, your math placement's real good, um, and then for French you were placed into one-oh-three, which is that sort of um, mm, that course kind of between the first and the second years,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so if you decide to go on with French then you would need three semesters of French.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and, the thing to do, i don't know, sometimes i advise students to think about it, i mean is French really what you want, uh or is there another language that you're more interested in,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          what is this a Hungarian name?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uh, no, Polish </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> Polish </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay. uh, i saw that, i saw the Z          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          um, so, you know you might want to take Polish          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          because        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i was thinking about whether or not i wanted to take a different language </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah. you might wanna take Polish or you might say to yourself well gee, i want, uh you know i want biology or, or biomedical engineering i mean which languages, is that stuff being done in          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          uh and probably the answers are you know German and Russian. so you might wanna think about German and Russian.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          i mean if you really like French, there's no reason to change, but if you are thinking about, you know if you really want to start another language,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          or if you just see other languages out there that you know make more sense to you? that's something that you might think about. if you are continuing with French, i strongly advise that you do it right away.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          you know. that you sign up for French one-oh-three for the fall. if you're thinking about another language, then you can wait, a year or even two. uh cuz you need the equivalent of two years,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          and as long as you start by the beginning of your junior year, you know you're fine...          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          so uh, have you thought about, whether you're more interested in Great Books or Classical Civilization?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i, wasn't really sure what the Classical Civilization, is, about. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> Classical Civilization is really a course in, um, cultural history,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so um, oh the examples i use is, the example i always use is, you know if you look at, the Iliad, okay which is, an epic by Homer and it talks about the Trojan war which is, the assault on Troy by the Greeks led by Agamemnon and Tele- Telemachut not Telem- not Telemachus. ugh, God. i've got my, i've got my Greeks mixed up. but... and the hero, of, the Iliad, is, Achilles,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          really. he is the great warrior. and the whole, story of the Iliad really basically is, Achilles' wrath, he is angry, he is angry, at Agamemnon for having taken away his, prize of war which is a beautiful young woman.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mm </U2>
+          and, so he says i won't fight. and when he says he won- he isn't gonna fight, then the Greeks start losing, and Hector, who is the great warrior on the Trojan side, stirs up the Trojans and they win and win and win. and so the whole_ a lot of this is, why does Achilles not fight? what are these issues about? what are these themes, that are being dealt with          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> in the </OVERLAP1>
+          Iliad? what is honor? what is, responsibility? what is glory? what is anger? what is wrath? what is, mm, what really is the relationship between the warrior and his, and his leader? you know things like that, but th- you know you're talking about themes and motives, primarily, and allusions and you're talking about it as a work of art as literature. when you do the Iliad in Classical Civilization and you really have practically the same reading list in Classical Civilization as you do in, in Great Books,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          you're looking at the Iliad as a, uh, as a historica- as a as an historical document. so what does this tell us about the, governance of the Greek warrior states, city states? what does this tell us about, warfare? what does this tell us about their religion? what does this tell us about their state of technology and economics? so it,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> you </OVERLAP1>
+          know it's it's a different, um a whole,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's </OVERLAP1>
+          it's sort of a different emphasis, and that different emphasis um is the difference between studying, this as literature and studying this as history.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so, for the people who are more interested in history and maybe sociology and social concepts and so on, Class Civ makes a lot more sense.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          um, because you're still doing the same, literary works it isn't as though you're losing out on that,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          but for the people who really like literature, or who, um, even, not that they really love literature, but that they don't have that other interest,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          then Great Books might make more sense.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i think i'd probably wanna go with Great Books </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> yeah, about ninety percent of the students do.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and it's it's a, course that has a great following you know i mean everyone loves Professor Cameron, everybody likes to go,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> to </OVERLAP1>
+          the same class, and they all wake up_ are you gonna be living in Honors Housing by the way?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no i won't </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay, do you know where you're living? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i'm up on North Campus. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh, okay. so, if you do decide on Great Books and it sounds like you're going to, um tomorrow let's_ tonight in fact ask the um peer advisors          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          in the computing center to figure out uh the Bursley section of Great Books into your schedule. because there's a section of Great Books recitation,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          that is only intended for Bursley students so it'll have all the people who are in honors in Bursley,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          in there, so that'll be good, then you'll know who the other honors kids are who are living in Bursley.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> so do you have any questions for me? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, i don't know, i was wondering if, whether, like what kind of classes i should be taking should i take like math or chemistry          <OVERLAP1> the first semester </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <OVERLAP1> well you should take </OVERLAP1>
+          chemistry, you should take, French, you should take either Great Books or Class Civ, and then for math you've got some options,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          because you can dec- you can decide on whether you should take Honors, Math or non-Honors Math. your math          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> score, </OVERLAP1>
+          your A-C-T is very good, your math placement score is very good.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          to me you look like a pretty obvious candidate for Honors Math.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          so, now the question becomes one-eighty-five, or two-ninety-five. and that's where, we've gotta do some thinking, and that's where you've gotta do some thinking,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          because the one-eighty-five is pretty much a, standard kind of calculus course, with probably more theory than you've seen,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          and the two-ninety-five is a very theoretical course, intended for students who really think calculus is beautiful, and math is, wonderful.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> that's not me </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST">         <EVENT DESC="LAUGH"></EVENT>          it isn't?          <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no </OVERLAP1>
+          i'm, like i'm good, i'm pretty good at math,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> uhuh </U2>
+          but i'm not like, i don't really like it        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> oh you don't really like it. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no. i'm not really          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> ooh </U2>
+          big on it        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> alright </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. it comes pretty easy to me, but i don't know. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> (alright) well you may wanna think about whether you wanna do, Honors Math or mains- or just a regular,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          math, you know in the teens, because if you don't, i mean even for one-ninety-five, the people who are in there, i mean one-eighty-five excuse me, the people in there, really like math,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          really wanna do it. your scores say, you'd be fine, but if you're lacking that gee i love math, then that's then that's something you oughta think about.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> what about one-fifty-six? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> one-fifty-six is fine for people who have A-P credit for one-fifteen.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          so did you t- and you said you didn't take that A-P test correct?          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no </U2>
+          yeah. so i would um, i think maybe one-fifteen is a little bit too elementary for you,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and one-eighty-five is probably the right course for you, but, i don't, want to, say that you must take it, unless you want to. now tomorrow morning we're going to have a, a math advisor here between eight and eleven_ uh nine and eleven, and, you can talk to him, more about this kind of          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> bounce </OVERLAP1>
+          some ideas off him, um, i'm not a mathematician so i can't talk to you specifically          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> about </OVERLAP1>
+          you know, this function and that function and have you done this and have you done that, but he can,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and he can also sort of, talk to you about what you might be more interested in.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          alright?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so, you think i should go with like, either the Great Books or the Classical Civilization,          <U2 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> right </U2>
+          language, math and chem?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> probably,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> probably </OVERLAP1>
+          um, and then second semester, it doesn't get much different.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh. so i do the inorganic, chemistry this semester? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> right          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          and the organic next semester,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          the first semester of the organic, and um, you know if you're looking here, in the bulletin,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          i gave you yours yes, your, did i give you yours?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uh this, no </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> no, this is yours          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          um, if you're looking in the bulletin, you can look at um, pages... fifty-three... you know fifty-three through, fifty-six that describes the biology concentration, and then page thirty-three, is where the pre-med information is...        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> alright? now, this evening you're gonna go, as i said you're gonna go to the, to the computer classroom,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and then tomorrow morning you're gonna come back here, we're gonna finalize your schedule, one of the peer advisors is gonna help you register, and then you're gonna leave here with your schedule all, all ready and in your hand and all set.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> okay? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> it was very nice meeting you. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> nice meeting you too. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> good. i'll see you tomorrow </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="ST" SEX="F" AGE="4" RESTRICT="NONE" FLANG="EST"> bye bye </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> bye </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

@@ -1,0 +1,1549 @@
+<TEI.2 ID="sgr565su144">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> American Family Group Project Meeting </TITLE>
+         <TITLE> Rackham Div: SS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 13388 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> SGR565SU144 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="85">             <DATE> March 23, 2001 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Shannon Dubenion-Smith </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Amy Burke </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Amanda Jones </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Rita Simpson </NAME>
+               <RESP> Final Editing, 12/19/01 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">SGR</TERM>
+ <TERM TYPE="ACADDISC">565</TERM>
+ <TERM TYPE="PARTLEVEL">SU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">SS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="5"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="5"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="SU, Students" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Southside Cafe, South Quad </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> before i even try to, spend          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> t- more </OVERLAP1>
+          time on it        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> waste my time on it </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no. do you guys think i should email it to her today or do you think i should, run down to her office and give it to her? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i bet you could email it to her          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> email? </U2>
+          i mean that'd be easiest for,          <OVERLAP1> you </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, i bet </OVERLAP1>
+          you could        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i just </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i can give you guys, you wanna read over my section or, i don't know          <OVERLAP1> whatever </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, if you can </OVERLAP1>
+          (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and it's definitely a rough draft like, and there're spaces where, we think that like st- other stuff should go or like </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i just didn't, i didn't know if we were like, like in this part          <PAUSE DUR=":04" ></PAUSE>          i didn't know how to approach the movies and stuff that i've watched, without it being like, i like i did this i was trying to be like Wendy watched this but        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i used me </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i put me too </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah,          <OVERLAP1> i used me a lot </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay, i was </OVERLAP1>
+          like oh        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right. yeah, which is fine i mean that's something that we can totally fix          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so, i just </OVERLAP2>
+         </U2>
+         <OVERLAP1> and, </OVERLAP1>
+          you know when we're cleaning it up.          <PAUSE DUR=":06" ></PAUSE>          oh, okay i'll read this        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay, at the very end this, jumps up into here </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> this was mine i don't know if_ um, we had like a really, i got together with Rachel last night at the Fishbowl and um, we, were trying to like write it, and we were trying to go about, starting with, like the l- stuff from lit articles you know from articles and, getting the stereotypes from that but like, it was really hard cuz we, ended up both reading the same article, um, and like i didn't think that the article had a lot of, stereotypes, per say. like it just talked about it, um, e- economic disadvantage in single mothers, um, and like, that's about i- you know like it didn't have, a list of like a whole bunch of different stereotypes. where m- i mean, there're some that we can think of, just from what we know on basic knowledge but not from, our particular article, you know which was kinda hard. so then we just ended up, going through and seeing what we'd found, in the media, kind of and just kind of expand it and give examples, um, and, like she looked up some more articles so hopefully we'll be able to find more stuff. like i don't know it's gonna be hard, or it'll be funny to see how like everyone else wrote theirs compared to everyone else and like, you know cuz it most likely won't fit together,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          perfectly or something like that or like you know what we wrote might be totally different, a totally different like scale or, way that you guys wrote. so, i don't know how we wanted to put it together but, i guess          <OVERLAP1> if we have </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but i </OVERLAP1>
+          i think if each, section like if we're basically in three sections, i think if each section is written differently and maybe one or two people can oversee and_ cuz if you guys's summaries ac- really helped me, with the articles like i was able to highlight and then, kinda put it into my own phrasing so that it all flowed together. um, i don't know if two people could maybe do that for the lit review if, if we had like twenty pages available of summary f- from all parts and they could just,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> pick and choose </U2>
+          pull together what was the best and,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          make it our paper.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, </U2>
+          i don't know        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so, i don't know you guys can go through that, i'll read this, and see. i mean can you guys ha- like find it difficult to like, start writing it? like to sit down and          <OVERLAP1> like </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i </OVERLAP1>
+          i i think, i think honestly i had a little bit of an advantage because, cuz i had read everybody else's articles or their summaries at least, and i had some ideas of, other things that had been looked at in the article, and so i took, i took a ton in how i started writing about my movies and things, that i wouldn've, if i hadn'ta done that,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and then i used like, Rachel's article had a definition of what a successful, relationship is, and i thought that would be interesting to use because, it just said relationship it didn't say marriage or anything so you could, use it for child parent relationship or, husband wife relationship...        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, and then there_ there was times when, some of the stereotypes we, had were like, comparing it to moms, you know which i don't know if that is gonna be like a separate section, or you know how we're gonna, put that all together. so          <PAUSE DUR=":05" ></PAUSE>          so i don't know if you guys wanna        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you wanna move? a- are you okay          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no, it's getting better as the sun goes up like          <EVENT DESC="LAUGH"></EVENT>          if it's just taking a couple minutes.        </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <PAUSE DUR=":46" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you wanna look at my bad intro to my, potential part of the paper? it's really,          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          i'm not too proud of it but        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <PAUSE DUR=":05" ></PAUSE>          it was written on little sleep. but, and i didn't get into starting to write my movies, about them i'm sorry          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> what? </OVERLAP2>
+         </U2>
+         <OVERLAP1> i just </OVERLAP1>
+          i didn't get into like explaining my, reasoning in my movies cuz, i just didn't i'm sorry.        </U1>
+       <PAUSE DUR=":40" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i love this song. </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          poor guy we're all sitting here, polluting.        </U1>
+       <PAUSE DUR=":20" ></PAUSE>       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) paper it's on, i didn't have any other computer paper          <EVENT DESC="LAUGH"></EVENT>          besides two shades of purple.          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          so, i don't know if you guys wanna look at that i don't... it's not great.        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i wasn't, i wasn't expecting to have to write the literature review by today i was expecting to do it over the weekend so it          <EVENT WHO="S2" DESC="LAUGH"></EVENT>         <OVERLAP1> sort of, </OVERLAP1>
+          threw me off a little bit.          <PAUSE DUR="1:09" ></PAUSE>          you could maybe_ we could maybe in this part introduce the idea that uh... living with, opposite sex partner as single f- or, not partner          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um,            <OVERLAP2> parent </OVERLAP2>
+         </U2>
+         <OVERLAP1> oppo- opposite </OVERLAP1>
+          sex parent thank you.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          right. alright. is supposed to be a lot more difficult than...          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh </U2>
+          same sex          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          parent. and i have, i had some stasti- statistics about that in my paper          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          or in my article          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah            <OVERLAP2> that'd be good </OVERLAP2>
+         </U2>
+         <OVERLAP1> i don't know. do you wanna know? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> stick that in there </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> can          <OVERLAP1> i see </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> how long is </OVERLAP1>
+          yours (Wendy?) yeah i need it today.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> can i see Emily's paper? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> sure </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we, wrote it together and it's like, </OVERLAP1>
+          uh like five pages, so... but it's very rough like          <OVERLAP1> definitely </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, so it's like </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that could </OVERLAP1>
+          probably be good like if you guys could do five, and you could do five and i could do a couple and then we'd have a intro and a conclusion,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          we'd be good to go.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think, the length is not even gonna be a problem because like, i wrote three full pages and then just a little tiny bit on the fourth page and that was like, saying the bare minimum you know like i could've said          <OVERLAP1> a lot more </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> lot more </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <OVERLAP1> uh </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think </OVERLAP1>
+          the length will be fine.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> also,          <OVERLAP1> (xx) that part </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we're just gonna hafta be </OVERLAP1>
+          concise.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> or something that we found interesting was like we s- it seemed like um, you know how we talked about how, single fathers, who when the mother dies, or when the mother or like, when they're divorced, we um kinda found out that like, um there's m- more communication or like dads are more involved, with their kids when it's um, single or the moms died, and it's more like tension or whatever in, like divorced families. i don't          <OVERLAP1> know if it's </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> wait say </OVERLAP1>
+          that again        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like you know how okay, you can only have two situations, a widow, single father          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> or like </OVERLAP1>
+          a divorced single father,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          and it seems like, you know in cases in like Full House and Two of a Kind like they were always really involved with their kids and wanted to know, you know          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> about </OVERLAP1>
+          their day or just like          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          always there for them, um in the widowed, single father, household.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          but like in the divorced single father household it was definitely more like, more ruckus and like, a little        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have some statistics about that in my article too.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that would be good. </U2>
+          that it's easier,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and i don't know if, i mean mo- where mostly your media like, divorce- through divorce it wasn't necessarily like dad's dying? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (it was like) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> got married </OVERLAP1>
+          at a young age and then divorced        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> dad's </OVERLAP1>
+          being the bad guy.          <PAUSE DUR=":07" ></PAUSE>          this couch is so comfortable          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          maybe it's just right now, this early but, this is so comfortable.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i was thinking about that when i sat down here i was like maybe we shouldn't sit          <EVENT WHO="S4" DESC="LAUGH"></EVENT>          on the couches because we're all gonna be...        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we should also plan, a time for like, next weekend, to get together just,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          we have to.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah well          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> or next week </OVERLAP2>
+         </U2>
+         <OVERLAP1> i'm gonna be </OVERLAP1>
+          out of ti- yeah out of town during the weekend.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          we'll probably be back like Sunday but like, cuz my roommate's on the women's, hockey team and they have nationals so we're surprising her in Missouri, so uh but definitely during the week i can.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          i could do, during the week, way more feasibly than during the weekend.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's fine. i can do_ i usually work like Tuesday and Wednesday night, but during the day like after one i have,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, </U2>
+          (a ton of) time        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> me too. um i find it really funny that, Rachel's not here. i i just </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you just saw her last night? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah we worked on our paper in the          <OVERLAP1> Fishbowl </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and she </OVERLAP1>
+          knew it was this one? this cafe?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah yep, cuz i gave her directions on like, where she could park in the back. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do any of us have her phone number? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no, i had it written down at home but </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz this is like </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i recycled it... i almost wonder if_ i don't know.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what? </U2>
+          like i was just gonna say i almost wonder if she didn't have a purpose like, called me last night and wanted to meet with me, so that it's like, you know she (wasn't coming) today.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> did she give any hint that she wouldn't be here? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah but people do that sometimes. they'll be like oh yeah, i'm coming, i know about it i know i'm supposed to be there </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> this is dumb though          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like she m-          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i'm sorry but, </OVERLAP2>
+         </U2>
+         <OVERLAP1> like you know what i mean like </OVERLAP1>
+          sh- maybe she's like well          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> she couldn't be doing anything else right now </OVERLAP2>
+         </U2>
+         <OVERLAP1> if i meet with her tomorrow night it'll get done </OVERLAP1>
+          she'll          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> did she </OVERLAP2>
+         </U2>
+         <OVERLAP1> have a </OVERLAP1>
+          copy of it to, have there. oh i'm so evil but,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> did she miss, you know the first two meetings that we had? that... that you guys were ok- i couldn't come to cuz j- it was at ba- like bad times but, did she come to both of those? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> she was at          <OVERLAP1> both of those wasn't she? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> she was at, yeah </OVERLAP1>
+          the first o- i what was the second one where was that?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the second one was at the, UGLI right?          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> was it? </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well see </U2>
+          that i came late to?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wai- </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> every s- </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> was that the second one? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that was the          <OVERLAP1> first one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> every s- </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no i think </OVERLAP1>
+          that was the first one        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> every single one of us besides_ and then the other one was at the Union? right? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh yeah, in the Union.          <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> Lorri's </OVERLAP1>
+          been to everything so she's like, superstar.          <EVENT WHO="S3" DESC="LAUGH"></EVENT>         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i think it's </OVERLAP2>
+         </U2>
+         <OVERLAP1> but every single </OVERLAP1>
+          one of us has missed,          <U2 WHO="SS" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> one </OVERLAP2>
+         </U2>
+         <OVERLAP1> one </OVERLAP1>
+          but she's like,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> missed, three? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> came late.          <PAUSE DUR=":04" ></PAUSE>          i don't know...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and it's not like, it's not like she had this done either or anything you know what i mean?          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          it's not like she hande- like i know i can't come on Friday but here's my paper.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          well sort of but like,          <OVERLAP1> you wrote it </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i did a lot </OVERLAP1>
+          of the writing, last night like she was online looking for articles. you know.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i thought we had an overabundance of articles </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh God yeah </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (we do yeah) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah we do </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> then why did, she need to look          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> well </OVERLAP2>
+         </U2>
+         <OVERLAP1> for more? </OVERLAP1>
+          cuz they didn't apply?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well, cuz we were try- cuz n- since we had the same one,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          and like we were trying to find, m- different          <OVERLAP1> stereotypes, um </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> in the, in my paper, </OVERLAP1>
+          i did, i related the movies, like i talked about the movies a lot more than i did, the article,          <OVERLAP1> articles </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> see i think we're </OVERLAP1>
+          i think we're s-          <OVERLAP1> supposed to </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> kin- yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> supposed_ she said she wants a lot of examples </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> like i brought in the idea </OVERLAP1>
+          of the articles but yeah, every example, i have no examples like from the articles.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (right) </OVERLAP2>
+         </U2>
+         <OVERLAP1> i have </OVERLAP1>
+          the thou- the ideas from the articles, sis-          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> is that </OVERLAP1>
+          right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have some          <OVERLAP1> if like you see </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you guys can read it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yours is good. </OVERLAP1>
+          it's good yeah.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's hard to do because you've gotta be like, you know a typ- s- from a scene in da da it just          <OVERLAP1> sounds </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          cuz you have to set          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> it up so much. </OVERLAP1>
+          but at the same time if you look at it like, we read one article and we watched eight to ten hours of,          <OVERLAP1> media. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> right </OVERLAP1>
+          so in the ratio it's definitely gonna be a lot more examples from media.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and just </OVERLAP1>
+          it is... and (inside) like i don't know if we should, just have, a specific section on like this is what we found about single mothers and single fathers and        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> in our conclusion? or </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know in our c- somewhere i don't know if we should like do that so, like or just like s- scatter them u- within the, within the um, paper. you know if that would be fine like if she'll realize yeah we did some articles and here are_ i mean as long as we like say that we do (put it in,)          <OVERLAP1> i think we'll be fine. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but i don't_ i think, </OVERLAP1>
+          i think the literature, like she's gonna have the literature          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (exactly) </OVERLAP2>
+         </U2>
+         <OVERLAP1> review </OVERLAP1>
+          and i think the literature review, says everything that we've read,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          and          <OVERLAP1> there's a listing </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz like </OVERLAP1>
+          last night Rachel's like well do we hafta, explain our arti- the articles that we talk about? and i'm like n- no, like i'm assuming that's what the lit review is for and the lit review is being turned in with it.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          so, i don't think that,          <OVERLAP1> we do </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, but like and you know like Rach- or she's like well i'll do the intro and conclusion or like i'll take it to Sweetland Writing Center and get it looked over and, you know like,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i just </U2>
+          i'll do all of this stuff          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i just don't believe her </OVERLAP2>
+         </U2>
+         <OVERLAP1> but like, </OVERLAP1>
+          i don't even know if it, makes up for her not being here because like, you know?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz all of us would love to be sleeping right now.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i just don't want to, count on her for something, because i mean we only have a week left, and if we count on her for something if she doesn't do it,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what are we gonna do? </U2>
+          but then, she can't just do nothing.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> she can and i'll give her a D. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i, i'm totally not afraid          <OVERLAP1> to do that </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i know </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> i don't have a problem with it either. </OVERLAP1>
+       </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well you know how she </OVERLAP1>
+          like is like always pushing like well if someone that works a lot on the paper and doesn't talk a lot in the, presentation like, i think that's totally fine or someone talks in the presentation, and doesn't do as much on the paper i think that's fine. i mean she's like setting herself up for like,          <OVERLAP1> you know? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't </OVERLAP1>
+          think that's fine.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i yeah i do, i think it's fine_ i mean, wait what'd you say?          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i said i </U2>
+         <OVERLAP1> you don't think it's fine? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't think it's fi- </OVERLAP1>
+          i mean        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i mean </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think it's fine that she's saying because i think she's saying that just,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> to,            <OVERLAP2> get out of it. mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> as an excuse </OVERLAP1>
+          like, and that she thinks she's gonna talk during the presentation but that won't happen.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+         <OVERLAP1> you know? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah cuz </OVERLAP1>
+          she's like well          <OVERLAP1> i don't mind talking in front of people. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> she, she won't work </OVERLAP1>
+          in the paper and then she,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is saying          <OVERLAP1> that she's_ yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> won't do anything </OVERLAP1>
+          in the presentation either.        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and like if she's gonna, like put this paper together and write a intro and, conclusion, well she better get it done by the ear- early next week so that way, we can come together and look at that and make sure it's fine, you know? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you guys think_ maybe i'll just discuss what i was thinking about putting in the, and the like_ cuz i watched the movie l- i told you like r- Lorenzo's Oil          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          which was the true story and then In the Gloaming was like, almost the same thing.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          it was about a- another sick son and he was sick in a different way and he was older but he was still, sp- dying.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          and uh...        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hi          <OVERLAP1> Rachel </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'm sorry </OVERLAP1>
+          my alarm didn't go off this morning.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, i think it's really interesting to show_ like they paralleled each other exactly with how the mother acted and how the father acted. and then i'll note that's </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the two different movies? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah,          <OVERLAP1> and one was based on a true story. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that one's supposed to be, </OVERLAP1>
+          based on a true story.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so then you like,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so it </U2>
+          from an a- a- almost like from an article          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz it's like you know. </OVERLAP1>
+          that's interesting.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so you wanna include that? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know. cuz like the parents, kinda gave up their lives for a while and researched, their son's disease, and they ended up not necessarily finding a cure, but he was diagnosed when he was like three v- no he was like five or six </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Lorenzo's          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> Oil? </OVERLAP1>
+          is that what_ okay.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> he was t- he was like five or six and they told him he'd die within two years, and at the end of the movie he was fourteen and still,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> not dead </U2>
+          living cuz of his parents. not cuz of like the doctors or anything but like what f- his parents found. so i think that's like, i don't know a really strong demonstration of relationship and,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, did either of the sons die in those movies? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> in the, in the </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> In the Gloaming? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah the_ he did. he had AIDS. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh really? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh yeah that's the one where he's older right? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah he's,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> and a bachelor? </OVERLAP2>
+         </U2>
+         <OVERLAP1> he was gay. </OVERLAP1>
+          but the          <OVERLAP1> parents reacted to it s- </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i wanna see </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          these movies. are they good?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it was a good movie. um, Glenn Close was his mom. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh i've never heard of that movie. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think i've heard of Lorenzo's Oil but </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i've heard of Lorenzo's Oil </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i've heard of Lorenzo's Oil (i've seen it) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i've seen it (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it was </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> who was in Lorenzo's Oil? </OVERLAP1>
+          anybody?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is it, was it          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> was it Susan Sarandon? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no, no one's in it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i mean like, anyone famous.        </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's a black screen with some dialogue </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what's </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is that Susan Sarandon is that the mom? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah yeah she's the mom. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> she's almost nun-like in it though it's kinda weird. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> really...? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> aw, (what a) poor little kid          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <OVERLAP1> so cute </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i saw this </OVERLAP1>
+          little kid that's like downtown, who was like going to karate, he was like, couldn't even have been three years old in his little karate suit          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          it was the cutest thing and he was outside and he was like ha ha          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          i was like aw, he was so adorable.        </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> aw </U1>
+       <EVENT DUR=":13" DESC="RECORDING-RELATED CONVERSATION"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um... i don't know what you guys talked about so far, what are we gonna do with the movies then that you saw? are we gonna compare to,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          two parent families?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's what i was gonna... i feel bad that i haven't gotten to get my thoughts out because i've had so many thoughts about it but, sorry i just, i had two really full crazy days,          <EVENT WHO="S5" DESC="LAUGH"></EVENT>          um, yeah i was_ the word like sounding board came to my mind like, use the_ cuz it's stereotype that, the two parent family is the ideal illustration of how, a family should operate. and i- your article, think it was your article, with the census definition of the family,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh </U2>
+          somebody's article          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> somebody's article </OVERLAP1>
+          had a census definition of a family which, would mean that a single parent could not be_          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> single parent and child </OVERLAP1>
+          could not be a family. and uh... totally lost my train of thought...        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> sounding board </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i think like, a lotta my movies, the families, they weren't dysfunctional but they didn't function well like there was, there's not much like, sup- there was never like support going to and coming from, husband to wife. it was like, the wife was doing everything and the dad was like exercising because he was uncomfortable with the situation so he was like          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          i'm gonna take a jog.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          and, or like the dad made sure he was out of the house and the mom was, there panicking over her son twenty-four hours a day while he was sick like, and it got to be that it was a tension in their relationship so they weren't... uh, and like, When a Man Loves a Woman they ended up separating for a while and, i don't know i thin th- i think they were less successful relationships than the single parents but          <PAUSE DUR=":13" ></PAUSE>          yeah we were th- thinking like a, like a five page, five page breakdown for each part of the single parent at least, and then, maybe just a page or two about married couples cuz i it really shouldn't be the emphasis of our pap-          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i mean maybe, will we </OVERLAP2>
+         </U2>
+         <OVERLAP1> it shouldn't it shouldn't have </OVERLAP1>
+          an equal part because it's not necessarily our topic          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          it's just a comparison point.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and we can use a s- like say that we used it's a stereotype that, a lotta people think that, you know the traditional          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> two </OVERLAP1>
+          parent family is like the best or like,          <OVERLAP1> you know and that is a stereotype (within) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and then you could say yeah that's not necessarily </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and then we n- </OVERLAP1>
+          and then we need a page_ you know intro conclusion        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right. which i don't i totally don't mind doing if you guys want me to. um, i would just need, um well first of all we need to talk about what kinda thesis or how we wanna organize the introduction so that it makes sense and, i don't know we could say something like well we expected when we watched the movies to see such and such          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then in the </OVERLAP1>
+          conclusion we could say we either supported this or we didn't support, like our findings support or they don't support, um what we_ our hypothesis what we thought. um, and um i, i don't mind doing that but yeah i'd probably need it by like Tuesday or something cuz maybe if we could do a group on Wednesday i could have something for you guys to look at          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so you can tell me whether you like it or not and,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um did you have that outline, that i gave you          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> about_ </OVERLAP1>
+          the outline cuz it has outline for lit review and outline for, paper, which might help.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what'd you think? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i thought it was good. yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ho- honestly?          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          cuz you can tell me, if not cuz          <OVERLAP1> i mean </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think </OVERLAP1>
+          it's good. it discusses the findings in each of the articles and        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> she had laid it out, she had laid it out to do, the main point and then a sh- s- statement about whether it, makes sense or seemed well done, and then do the finding for the end and i thought it made more sense to do the          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> findings with </OVERLAP1>
+          each article          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> i don't </OVERLAP1>
+          know and          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (and) </OVERLAP2>
+         </U2>
+         <OVERLAP1> then </OVERLAP1>
+          i i j- i tried to make a statement of whether they made sense i think.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i mean </U2>
+          somebody's, somebody's article was i thought really well wr- written and i said that specifically about        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, i_ yeah, i think that one was_ i think it was (Off and Married.) but i'm not sure. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, yeah i n- i think that's fine cuz it's like a possible outline it's not like made in st-          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          in stone.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah yeah </U2>
+          but on the back here is a, outline for the report. i mean it's really rough and but it might just        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (okay) </U1>
+       <PAUSE DUR=":14" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you wanna look at this?          <EVENT DESC="LAUGH"></EVENT>          you're like no.        </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> magazines? i didn't realize we could (get it off them) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how would_ </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think it matters          <OVERLAP1> i just was surprised </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i looked at a magazine </OVERLAP1>
+          for two hours        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Y-M </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          like Cosmo        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> nothing wrong with Y-M </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh no. there is nothing wrong with that. um </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> nothing wrong. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it also woulda been really, good to like watch the news, to get stereotypes you know but, oh well. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> there you could </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it says, explain the process of </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you look cute. do you have a skirt on? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you have a skirt on?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <EVENT DESC="LAUGH"></EVENT>          you're cute        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and i didn't feel like i was like, i didn't know if it would be warm enough to wear sandals          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think it's          <OVERLAP1> gonna be warm out again </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's going to be warm enough. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you know what i m- </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> isn't it isn't it not going to snow anymore? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's gonna snow though. but i can't believe it's so warm out right now. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (gonna be) snow tomorrow </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's gonna snow this weekend, yeah. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you know what i          <OVERLAP1> mean? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but then </OVERLAP1>
+          Sunday it's gonna be fifty-three again.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no they'll like_ i don't know. i'm weird with the weather cuz like it's hot out but then          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> like if </OVERLAP1>
+          the wind blows          <OVERLAP1> it's cold and so </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          i've worn sandals like every day this week and          <EVENT DESC="LAUGH"></EVENT>          now i have a cold so it w- definitely wasn't warm enough to wear sandals, i just get really excited.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah it was like i'll wear a skirt but, i guess i'll wear my boots          <OVERLAP1> i don't know </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it says we need to explain the process of taking notes and coding them. um, (it says_) i didn't, i didn't really code my notes like i just          <OVERLAP1> you know </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think </OVERLAP1>
+          that means our observation          <OVERLAP1> sheets </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          i think we can just be like,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know </OVERLAP1>
+          we all had the same observation sheets          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          when we_ and like sorta          <OVERLAP1> summarize what was on our observation sheet </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> which helped us you know, pull out </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz i think all of us, </OVERLAP1>
+          didn't, all of us wrote on like other pages and then condensed onto the observation sheet right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i did. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i'd write on the back of 'em          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then </OVERLAP1>
+          turn it over and, write on the front.          <PAUSE DUR=":04" ></PAUSE>          i don't have the other sheets though that's okay isn't it? like i just          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          all my notes are, on the observation sheets now though.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah that's fine. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's fine.          <PAUSE DUR=":07" ></PAUSE>          do we wa- do we wanna introduce the section about how the parents, relate to their kids? like...          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> do you know </OVERLAP1>
+          what i'm s- the like, loving way or not or just, not worry about it        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you mean like success? (of the dad?) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like if they're seen giving loving support to their kids like, encouragement or kind_ like,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          the way they tell them they love them and        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think maybe we don't need to focus on it, just cuz we're sorta doing like, the single parents like if more of our paper's geared toward, the parents, but i think that might just be kinda random like in our paper.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          do you think? or do you think_ well we can        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> um, </OVERLAP1>
+          about the observation sheets i know i talked to Emily about it but i think that, like um, we kinda each ne- either like one total cover sheet for all the observation          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> sheets, </OVERLAP1>
+          or like a cover sheet for every person's, that kinda just lists like, you know the person and then,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (whoever's there like) </OVERLAP2>
+         </U2>
+         <OVERLAP1> the hours of </OVERLAP1>
+          media and like, the titles of the stuff that they watched, just so it's like, i- kinda like a overview of all the observation sheets so she can_ so she's not like bombarded with like,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> however many </OVERLAP1>
+          sheets. i don't know, and m- i me- i guess we could instead of putting it on, one for each, person we could just do like a, a main (look)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i wonder if, um, have you guys ever seen_ Kinko's has those like, books that have like, you know those, like page covers, that, you put like, a report in or something they have like a          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (oh yeah i know what you mean) </OVERLAP2>
+         </U2>
+         <OVERLAP1> book of 'em </OVERLAP1>
+          that's already together, it's like, however many sheets. maybe we could stick like a- the literature review and our observation sheets and our paper altogether in one of those and put like a cover page on top.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay.          <OVERLAP1> (i can get it. i work) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, i have no idea what you're talking about but it sounds good. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          you're like i don't know.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          you know those clear, plastic pa- you know that you put_ it's like already together like, it's not three hole punched for a notebook it just like, it comes in a little binder, and then there's, different sizes of num- like there's a hundred, room for a hundred pages or room for fifty pages          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          or room for twenty-five pages.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and so then you just stick you stuff in? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> stick all of the sections together in there. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and, okay i know i've asked this before, we do have to turn in the articles that we used right? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, i think so </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so last night Lorri and i          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i'm pretty sure we do </OVERLAP2>
+         </U2>
+         <OVERLAP1> found, </OVERLAP1>
+          more articles, so, um, are we gonna hafta include those in the lit review then even though we found them          <OVERLAP1> later? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well do </OVERLAP1>
+          we,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i think we're only </OVERLAP2>
+         </U2>
+         <OVERLAP1> well i mean_ i was gonna say </OVERLAP1>
+          the lit review articles are the ones that we turn in? is that,          <OVERLAP1> how it works? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          i think, i think the lit review ar- lit review is only what we, truly like read and focused on in our, like thoroughly using for our report. which only needs to be one article per person. we could list at the end other articles that we looked at,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm            <OVERLAP2> like a little </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> reference page </U2>
+          as long as we're not pulling information from it i don't        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz i'm not sure if these articles might be better suited to the topic now that we're doing stereotypes than, the udder, the other articles i had beforehand          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> s- in, </OVERLAP1>
+          i don't_ when do you have to give her the lit review?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> today. </OVERLAP2>
+         </U2>
+         <OVERLAP1> today? </OVERLAP1>
+          okay. well, if i mean i guess if it comes down to it maybe we could just um, add something in but we don't have to make a big deal          <OVERLAP1> out of it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well, </OVERLAP1>
+          if you're gonna email it to her, maybe just write her and ask her like, um, what articles do we need to include in our paper if we do need to include any? like do we just need to include the ones that we talk about in our lit review? is it okay that we use other articles as long as we cite them at the end of the paper? like maybe just ask her that and i'm sure she'll te- you know be more than happy to answer our questions about that. (if) (xx) if you could do that.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no problem. </U1>
+       <PAUSE DUR=":24" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, i'm just going through this article here. uh, it's called One Parent Households and Achievement: Economic and Behavioral Explanations of a Small Effect. um and it's talking about, how students from one parent households have significantly lower grades, and test scores. and it also, discusses, how uh, it talks about lower income and like about mother headed households. but like and i'm thinking of uh um, Anywhere but Here, does- isn't she smart?          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> she </OVERLAP2>
+         </U2>
+         <OVERLAP1> like </OVERLAP1>
+          the daughter and like she's counting_ is she?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> she goes off to Harvard          <OVERLAP1> i think </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah.          <OVERLAP1> so we can </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> or </OVERLAP1>
+          Brown or something        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, it was Brown </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that can be something to refute it. </OVERLAP1>
+          um, i don't necessarily know if i have any examples of like, a not smart kid, you know like, i'm trying to think. um        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> they do that a lot actually like i can't think of anything specifically right now but, people with like bad home lives or like, are being raised by single parents          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (that's right) </OVERLAP2>
+         </U2>
+         <OVERLAP1> in movies </OVERLAP1>
+          they always have the kids, be like child prodigy or          <OVERLAP1> something like that </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. i remember </OVERLAP1>
+          90210 Andrea Zuckerman        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> 90210          <EVENT DESC="LAUGH"></EVENT>          and like          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> didn't her parents die though? </OVERLAP2>
+         </U2>
+         <OVERLAP1> i just thought of (this other one called) </OVERLAP1>
+          Save the Last Dance like        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh i don't          <OVERLAP1> know </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah that's (righ-) that's a good one too. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wasn't she just living with her grandmother          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah that's </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz </OVERLAP1>
+          so she could go to a good school?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the districts that's right if she was living with her parents she would've had to have gone </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> to a bad school? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wow. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but even in like, maybe My Girl and stuff she wants to (take) summer course (so she could go) write poetry you know, so sh- (is a really cool one too.) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <OVERLAP1> cuz i- </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          also cuz she was in love with her teacher though        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah but she actually does like a decent job for someone her age. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz i would, you know yeah you always see like how the kids wanna do really well cuz they know they need to get a scholarship or          <OVERLAP1> etcetera </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz their </OVERLAP1>
+          parents can't afford to send them to          <OVERLAP1> college (actually) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so that could be a good one to use. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> my back needs to crack so </OVERLAP1>
+          badly. do you know how to, take an email and forward it?          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          cuz i know i'm gonna mess it up,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um </U2>
+          when i get home        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> have you ever_ oh wait you don't ha- do you have a U-MICH account? or do you just, not use it          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i don't_ i don't (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> anymore? (xx) cuz i know like if </OVERLAP1>
+          you have_ if you use your U-MICH, um email address like you can, get into um on like your, email using Mulberry, and you can, really easily put attachments. that's how i usually do it.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't use Mulberry </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but i don't </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> is that how you guys </OVERLAP1>
+          normally do it too?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i (only) (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know, ha- like i don't use Yahoo so i don't know </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> maybe i could go type it at like Angell or something and i could, ask those people those little guys in the computer center          <EVENT WHO="S2" DESC="LAUGH"></EVENT>         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> they'd know </OVERLAP1>
+          wouldn't they?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the computer guys </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah they (could know) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> maybe i'll have to go do that rather than in the comfort of my own home. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, so          <PAUSE DUR=":05" ></PAUSE>          i don't know do you want me to, give you guys a rough overview of how our paper went? like a c- the stereotypes that we used and then we can go over your guys's. can i see it actually?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um... we started out with a statistic on_ it says          <SEG TYPE="READING"> statistics show that one in five households are headed by a single parent, and one in ten of those are headed by a single father. and furthermore it has been found that more than half of all children will spend time even if only a small portion within a single parent home. </SEG>
+          which is kind of, you know          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> that kinda </OVERLAP1>
+          goes along with, how we s- when we started we were like so, who of you are from, a single parent family? and like four of us were. you know it's more common, than people actually think. you know which is a big stereotype. um,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> were you guys sta- surprised at the ratio in our group of single parents to, like me having married parents or,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i wasn't </OVERLAP2>
+         </U2>
+         <OVERLAP1> does it </OVERLAP1>
+          seem normal because,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i </OVERLAP2>
+         </U2>
+         <OVERLAP1> you guys have </OVERLAP1>
+          single parents?          <OVERLAP1> or does it just seem normal </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no i definitely was like, </OVERLAP1>
+          wow,          <EVENT DESC="LAUGH"></EVENT>          there's that many of us? you know        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think cuz i've thought about it um, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like all your friends </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> a lot of people i know (most people) even if their parents are together now, it's like a remarriage.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          like do y- like, three of my friends have like their parents, but then before they were e- born, their like mom or dad had another,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          husband or wife.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          i was talki- one of my friends last night i just found that out about him. he had like nine brothers and sisters m-          <EVENT DESC="LAUGH"></EVENT>          like        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh my god </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think it sucks.          <EVENT WHO="S5" DESC="LAUGH"></EVENT>          it's weird          <EVENT DESC="LAUGH"></EVENT>          like that four yeah.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um so the next, thing that we talk about, is how society assumes that fathers are less involved, that was our nother s- another stereotype. um, and we talk about like Disneyland dads and how, when they do, go see their k- children it's like they're doing fun things and, you know they don't necessarily, aren't involved in the everyday activities that the moms have to deal with, um </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's, that's like definitely in the stereotype like research so it's that          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> they do </OVERLAP1>
+          try to participate and they do try to help with homework a lot of times and they're no more or less likely than like nonresident mothers, to to help with like homework and participate in daily lives.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and then we, um, show that how this is revealed in one of the articles, and we talk about how, like cuz in my article it says single fathers tend to worry about losing custody of their children, and how in the media we'll always see like moms will get the custody like in a custody battle they'll always get sole custody. and that shows how like, at least we're arguing that it shows that, you know society feels that men aren't able to take care of their children it's the woman's job. um, and then we go on to talk about it in Liar Liar, um in Save the Last Dance, Big Daddy... um          <PAUSE DUR=":07" ></PAUSE>          let's see (here.)          <PAUSE DUR=":04" ></PAUSE>          and we, talk about, um... how we label that single parent fathers um, need support from outside figures. and that's related to society's views, that men you know it's also related to the view that men can't handle kids, and you talk about, talk about Two of a Kind... and that was a r- um i watched a really good episode the other day i it was like the episode where he first gets the nanny, and he was gonna, like he hired her but then he fired her cuz she seemed to          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (yeah) </OVERLAP2>
+         </U2>
+         <OVERLAP1> lenient </OVERLAP1>
+          with the girls, and then he goes up and talks to the girls and they're like, we really love Carrie you know we can talk about girl stuff with her boys clothes makeup blah blah blah, and he realizes that like, you know he needs her and he goes to her apartment and asks her back and he's like, he says um they need you i need you like, and i thought that was definitely, a good example of showing how, men need support from other people. um and we also talk about, Full House, and My Girl, um          <PAUSE DUR=":05" ></PAUSE>          and then we go into saying that... cuz in the article Disneyland Dads, n- d- Disneyland Moms, she talks about how mothers exhibit more nurturing, behaviors, and they take, primary responsibility for their children's day to day needs and have greater intimacy with children than fathers, and fathers_ they're so, like just the basic thing, fathers have a hard time, changing over to being a single father because they're us- so used to being like the breadwinner, like that's all they did so they have a hard time becoming like, the primary caregiver, and like having to deal with all those things that a mom would have to deal with, which we thought was kind of good,          <OVERLAP1> good point to make </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i have a statistic </OVERLAP1>
+          in my article that says it takes, parents two years to the uh t- to adjust to being a single parent, and that for those two years they're insufficient parents usually        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i have an article too that says like about three years. so,          <OVERLAP1> it takes a while </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah in that in that </OVERLAP1>
+          Two of a Kind episode and they say how, you know mom has been gone for three years. so, which_ and then he's finally getting someone you know? um        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> which i can imagine like, if you think about just dealing with your like boyfriend relationship or something like, i can't imagine losing that and then s- like, being like okay i still have to function          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (yeah me too) (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> and pretend everything's okay </OVERLAP1>
+          and like, like it's hard enough to deal with,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, i agree </U2>
+          like, a guy at work came in and he was like i haven't slept in five days. and i was like oh i thought he was just studying he was like yeah my girlfriend broke up with me.          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (oh) </OVERLAP2>
+         </U2>
+         <OVERLAP1> and like, </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          yeah, like, what if he had two kids or some- you know like, and then if you're in a marriage too it's supposed to be more committed than like, just a b-        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's weird </OVERLAP1>
+          though because like when i think about it when my parents split up,          <EVENT DESC="LAUGH"></EVENT>          cuz i was a freshman in high school so i knew what was going on, but i didn't ev- it didn't even seem like my mom was upset or anything. like i'm sure she was but it's so weird, to think about it.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but then, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> obviously she was </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i guess it depends on why maybe you get a divorce.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U2>
+          like if it's a sudden thing like oh you had an affair, or if it's been like building like,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right            <OVERLAP2> yeah i see </OVERLAP2>
+         </U2>
+         <OVERLAP1> growing apart </OVERLAP1>
+          or something        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um and then we talk about economic status, being a big stereotype. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> aw, there's my boyfriend.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          hey boyfriend.          <EVENT WHO="S1" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and, but it seems like s- we were having a hard time like i said, trying to, single out like father stereotypes and, cuz the economic status definitely          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i (i guess that) </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know is </OVERLAP1>
+          is something that, deals with both and so, you know i just don't know how we're gonna, put it all together and and talk about that. or i guess we could just talk about it within our separate sections and then, at the end just say like we saw similarities between the two kinds of parents,          <OVERLAP1> here here and here </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> what did you guys </OVERLAP1>
+          get on the single mother families though, how were they doing economically?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> they were always yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that, they were always, </OVERLAP1>
+          always like          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> poor </U2>
+         <OVERLAP1> (xx) waitresses and, </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> they're generally poor. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> except for One Fine Day right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> factory </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> teachers, which don't make          <OVERLAP1> any money </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> did you watch that too? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> One Fine Day? yeah i've seen it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's i've seen it too, and doesn't she though even though she's doing okay economically doesn't she have more problems,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah,            <OVERLAP2> she's like </OVERLAP2>
+         </U2>
+         <OVERLAP1> with her job </OVERLAP1>
+          like she has more problems          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> like </OVERLAP1>
+          balancing the two and he doesn't seem like, doesn't he seem to take the whole day off          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> she's a workaholic that's the thing </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well i think that's something_ yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that he has a really laid back job and like </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think a lot of women feel like, they          <OVERLAP1> have to_ </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> they have </OVERLAP2>
+            to try a lot harder          </U2>
+          they have to prove that their kids aren't, gonna make them less reliable so that they won't just wanna deal with a man. cuz it's assumed the men aren't gonna worry about the kids so,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um </U2>
+          does anybody want some water?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no thanks. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> for mine i did the economic status and like the jobs they always have, bad jobs. um, and i have a statistic from my article that says, well it says something about the feminization of poverty, and that fifty percent of female headed households are living at or beneath the poverty line. um, and then i did          <PAUSE DUR=":07" ></PAUSE>          i did the stereotype that the, single mothers are always portrayed as being like, irrational, absentminded,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and i used examples all my movies actually had it. um        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you see him? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          so cute        </U1>
+       <PAUSE DUR=":14" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh and i did the stereotype with like, that's, in movies the single mothers aren't necessarily like single, and in journals like that they always have_ cuz like in all my movies they had like, their mothers or their, you know like someone else that they could          <OVERLAP1> count on </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> family or, </OVERLAP1>
+          yeah that's a good one too        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> did you watch um, One Fine Day? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh, yeah. yep. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so it's kinda interesting to see like how men, they either need like another girlfriend or like          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> a nanny </OVERLAP1>
+          but women it's always kinda like          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> family </OVERLAP2>
+         </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> family </OVERLAP2>
+         </U2>
+         <OVERLAP1> the family. </OVERLAP1>
+          a family member.          <OVERLAP1> that they're, that they're getting support from. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i know what One Fine Day was (oh it was like the cats. the cat was like shh) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah it's (xx) yeah </OVERLAP1>
+          her mom. and so does in Hope Floats.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> in One Fine Day she sort of has her mom. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh she </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like she wasn't f- there for that day but you could tell that she was like i- i'll baby-sit anytime.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> and like the, </OVERLAP2>
+         </U2>
+         <OVERLAP1> and she was </OVERLAP1>
+          also looking out for like,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> trying to hook her up and stuff </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and the guy doesn't, </OVERLAP1>
+          call anybody        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> As Good as it Gets her mom is there. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but from a family not from a sexual relationship          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> one of the other things that we thought_ maybe you remember this scene well, i thought we'd could include it in our section two was um, from One Fine Day when she's like daddy i'm hungry or whatever and he tries to like hand her um like a Lifesaver or something          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> Tic Tac </OVERLAP2>
+         </U2>
+         <OVERLAP1> he was like here eat these. </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          yeah because that was one of the other things we were talking about was just how, um,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> they handle little situations like that </OVERLAP2>
+         </U2>
+         <OVERLAP1> it goes along with, yeah </OVERLAP1>
+          like just the daily routines like they don't,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and how she pu- when they </OVERLAP1>
+          take the costumes,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> she pulls </OVERLAP1>
+          like everything out of her purse.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> and he's like where can i get a bag like that? </OVERLAP2>
+         </U2>
+         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> you know he 's like, yeah </OVERLAP1>
+          where can i get a bag like that?          <EVENT DUR="S2" DESC="LAUGH"></EVENT>          i like that movie.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> don't put_ cuz i had, i had two Michelle Pfeiffer movies and i had, Meg Ry- i don't know. i feel like i was watching her a lot. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i love When a Man Loves a Woman. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i know i          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i cry          <EVENT DESC="LAUGH"></EVENT>          every time i see that movie.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh... (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's funny too cuz i, i was watching and then, i got, had to go somewhere or something, and it was right at like the huge like climax like when you usually start crying. and so i didn't think i would cuz like,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          i just came back, another day and sat down and started watching it and then i was still like          <EVENT WHO="S5" DESC="LAUGH"></EVENT>          whoa.        </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz those little girls are so          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh my god </OVERLAP2>
+         </U2>
+         <OVERLAP1> cute </OVERLAP1>
+          so when they cry, it's like          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i love that movie </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then </OVERLAP1>
+          Andy Garcia cries and        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> will they (xx)          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          um, so you talked about economics, um        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> economics the like          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> s- support </U2>
+          support and, how they're seen like emotionally, and like mentally, versus, men.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what about you Tonya did you </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> me? mine's gonna be like economics too but like, my article's kinda about education also like, there's all the stereotypes that like,          <EVENT DESC="NEW MUSIC STARTS"></EVENT>          single moms they don't help their ki-          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i'm like oh i love this song </OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>         </U2>
+         <OVERLAP1> Gin Blossoms' are on </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> they what? i'm sorry </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's like, they like </OVERLAP1>
+          don't spend time with their kids or anything on their work and there's actually evidence that they actually do spend more time,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> really? </U2>
+          than like two parent families and everything, on the child's work and          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> that's good </OVERLAP2>
+         </U2>
+         <OVERLAP1> everything </OVERLAP1>
+          even though they have a limited amount of time          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> they, </OVERLAP2>
+         </U2>
+         <OVERLAP1> because </OVERLAP1>
+          of the job.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> make time to spend. (that's okay.) that's a good one to compare          <OVERLAP1> with the new like (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but so, would, would you call it like quality time </OVERLAP1>
+          or, is it just like, any time like helping with homework and stuff?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> see i don't, me myself i wouldn't consider that quality time. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you would say it is or it's not? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i s- would say it wasn't quality time cuz like when i think of quality time it's like, doing something that you both enjoy.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          i mean i don't know what kid enjoys homework,          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          but like        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but at the same time they need like, they need that, help and understanding and patience and          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> you mean when their parent is there </OVERLAP2>
+         </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> stuff that is given </OVERLAP1>
+          when their parent is helping them with their homework        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> rather than saying go do your homework </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> which shows if you're sitting there like, okay now two plus two and if you're like pulling the bananas out or whatever          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          and like helping them like it's not quality in s- in maybe enjoyment level but it's quality in like,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> y- yeah </U2>
+          they know that they're important cuz everything i'm doing is like focused on them.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> sure. </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> when, d- you have class at ten? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> when are you gonna go </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know.          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          nine fifty-three or something. um, should we like, try and write an introduction or something?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> or at least just give me the main points that you want in it, if we don't actually write it out i can write it out but just tell me what you think we need to say about </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, we could do that like if, we just say, whatever we wanna say, and then if we write a conclusion together for sure, like when all of us have our, papers like next week sometime, when we meet then we can decide that. cuz i think in the introduction          <OVERLAP1> it should say </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> should we, </OVERLAP1>
+          should we try to figure out right now, how many more meetings we can have next week, with all of our schedules and then, see what, has to get done right now, and like,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oops. cuz i know i'm gonna be a side in your thorns with my schedule next week. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="UNZIPPING BAG"></EVENT>          get out.        </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and i kn- i know she has class at ten are you guys, all leaving at ten? or </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have to go to work. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have to go to Toronto. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> where do you have to go? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Toronto </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> lucky </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ooh </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i'm going to see one of my friends i'm so excited.          <PAUSE DUR=":07" ></PAUSE>          i can meet, any day for sure, but i would work Tuesday and Wednesday        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what time? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> five. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and then </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> my nights </OVERLAP1>
+          cuz i'm i have a show, um my nights are totally filled          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> next week. </OVERLAP1>
+          starting at_ i can_ well, i don't know        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we're listening to the Empire          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> Records </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          soundtrack aren't we?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, let's see. mm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what about the two thirty slot on Tuesday? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh no_ </OVERLAP1>
+          yeah you work at five?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is_ do you get done at class at two thirty is that was that what it was? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i get done at two fifteen, but yeah          <OVERLAP1> i could come at </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> or do we wanna </OVERLAP1>
+          try and meet later in the week so that (then)        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think we need to have meeting earlier though just to make sure everything's </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> could we could we maybe have two meetings? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. so then that way like,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> cuz w- </OVERLAP2>
+         </U2>
+         <OVERLAP1> (we'll have then) </OVERLAP1>
+          a second one like we have it,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz we could have a goal for what needs to be done          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> Tuesday </OVERLAP1>
+          have a couple more days to w-          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> work </OVERLAP2>
+            on it          </U2>
+          work and then have ano- i don't know. i know it's a lot of time but        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Thursday i don't think i tutor next week i think it's cancelled, s- but Thursday i might have to go to Detroit at two thirty. that's not positive though. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what about,          <OVERLAP1> oh_ well </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so you wanna </OVERLAP1>
+          do Tuesday at two thirty?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> let's </OVERLAP1>
+          just put that in for sure.          <OVERLAP1> two </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> where </OVERLAP1>
+          do you wanna meet?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the UGLI? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> UGLI? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> is that </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> UGLI </OVERLAP1>
+          or a coffee shop whatever. (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't care. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (me neither) i mean what's close to where you guys are? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> this. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i'm at home.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i'm at, dance. i'm at the C-C-R-B dance building...          <OVERLAP1> whatever </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we can just meet at the UGLI. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (just whatever,) UGLI </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> UGLI's fine. till what time? two thirty to...          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's (fine) over there on Monday (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> four thirty? is that, or four </OVERLAP1>
+          do you, would do you need to leave at four to get to work at five? okay two thirty to four.          <PAUSE DUR=":07" ></PAUSE>          okay        </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what does, what does everyone do_ what time are you leaving Friday? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i would assume, sometime in the morning.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          i mean, probably later morning. so, i could do          <OVERLAP1> Friday morning. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> do you wanna meet, </OVERLAP1>
+          Thursday?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, when? </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz your show's at eight, isn't it? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i have to be there at six though. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> m- you were going to Detroit on Thursday? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i do on Thursdays but i think next weekend's cancelled. i'm, but i'm not positive (though.) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the_ okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i mean i can </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but i have class until one and then i have to go to Detroit at two thirty. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz um i mean i can meet Friday morning like if we did like another early morning meeting </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i cou- my parents are visiting. i guess i mean,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> are they coming Friday? </OVERLAP2>
+         </U2>
+         <OVERLAP1> i could. </OVERLAP1>
+          they're coming Thursday night,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh i see. </U2>
+          so        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we could meet Thursday during the day. i'll just plan on it being cancelled.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> this is </OVERLAP1>
+          more important than, tutoring fifth-graders.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> does that sound good with everyone else? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah what time,          <OVERLAP1> (Thursday then) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> same, same time as Tuesday? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> same time yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> two thirty? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> can you do that? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have class two to four. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (alright) </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have to work at five. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what about, what time does everyone start class on          <OVERLAP1> Thursday? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't </OVERLAP1>
+          have class.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Thursday i have class_ i have dance          <EVENT DESC="LAUGH"></EVENT>          nine to ten, and then i have a break, between ten and eleven thirty. so my next_ after ten o'clock i have one at eleven thirty.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't have class until eleven on Thursday. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have class at ten. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i have class from nine thirty to two fifteen straight. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mm </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what about the morning? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what if we met at, eight,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          on Thursday?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Thursday morning. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and like that'll basically just be the time like that, we get together and basically finalize everything. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do we wanna meet at the Fishbowl?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> at eight? </OVERLAP2>
+         </U2>
+         <OVERLAP1> at like, </OVERLAP1>
+          uh well yeah. like cuz then if we need to be on the computer and like, i don't know is is that anything that's a good idea?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's, </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that works for me </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's eight at the          <OVERLAP1> Fishbowl? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> in the compu- </OVERLAP1>
+          in the computer lab? or        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we can </OVERLAP1>
+          meet up at the top where they just have a couple of couches that way we can find one another?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, like </OVERLAP1>
+          right before you walk into all the computers you have like, a little seating area.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> eight </U2>
+          two wait eight... so that way hopefully everything is like done and we can just like put little finishing touches.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah because we probably have to have (every) (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well what do we wanna get done for Tuesday?          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah,            <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> alright. i mean </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well the introduction needs to be done. and if we_ do you guys wanna write, the conclusion and come to like the summary on Thursday? or is that pushing it is like that getting too late? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> or do you wanna have it done before that? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think that i_ that would be fine i don't really </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> to do it on Thursday? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think that's pushing it cuz somebody can do the final touches over the weekend, maybe </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and then just like, somebody could just kinda organize it so it, it um like flows like with all the headings and whatever and          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> that </OVERLAP2>
+         </U2>
+         <OVERLAP1> then just </OVERLAP1>
+          print it out? yeah        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> see </OVERLAP2>
+         </U2>
+         <OVERLAP1> next </OVERLAP1>
+          weekend, i'm supposed to do the Detroit Project          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah me too </OVERLAP2>
+         </U2>
+         <OVERLAP1> but i'm not going to </OVERLAP1>
+          so i'm not working Saturday, so i don't mind taking it and, and making it flow like i don't mind writing the paper i can do that.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> are you sure? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't mind writing papers </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          either (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz this weekend's a lot busier for me actually than next weekend, so that's not a problem. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> next weekend is busy. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay, um </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> next weekend's          <OVERLAP1> crazy, every weekend for the next </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and the_ yeah, (this) is hell </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no this is the          <OVERLAP1> worst </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> every day. </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          s- um        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so we want, an intro </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so and then, and the paper, </OVERLAP1>
+          the paper's not tec- it's not technically due till noon on Monday.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so even if something happened </OVERLAP2>
+         </U2>
+         <OVERLAP1> i don't know i have a i have an, </OVERLAP1>
+          i have an exam like right after i couldn't, i couldn't, like stay after class but, if something drastic happened maybe if someone doesn't have class they could,          <OVERLAP1> fix it before the </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i do. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i don't have class till noon on Monday and today. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i mean i wouldn't count on that          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> time, </OVERLAP1>
+          but        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> just if something happened, we still have like two hours after class... </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um so for Tuesday do we want, for sure like a          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> typed, </OVERLAP2>
+         </U2>
+         <OVERLAP1> section </OVERLAP1>
+          of your paper,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          kind of thing?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yep. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you guys think we should exchange it and revise each other's part parts? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah why don't we do that? why don't we make copies for </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Tuesday? on Tuesday? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Tuesday, and then give 'em to each other, and then for Thursday bring them back and just,          <OVERLAP1> do you wanna do that? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so are we doing five copies each or just one copy? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> five, yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well, four </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> four </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          four        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> if you can also like uh within your paper if had, cited anything, uh write like a little citation section for your paper so that way, we all know we can just put it          <OVERLAP1> in one big one at the end </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> at the very end. right. </OVERLAP1>
+          (yeah)        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and um citation-wise though, i don't know, Lorri and i were kinda confused about that last night          <OVERLAP1> if </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz </OVERLAP1>
+          a lot of the stuff, was um,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> was            <OVERLAP2> cited, </OVERLAP2>
+         </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> the author that wrote </OVERLAP1>
+          the article we were reading, had cited from someone          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> else </OVERLAP2>
+         </U2>
+         <OVERLAP1> else </OVERLAP1>
+          so i don't know how that works.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> do you cite </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you could ask her, on Monday. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think we'll probably have to use A-P-A style, i believe for this, like for the citations and like typing it up or whatever. so um,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i don't, i've never really used it. </OVERLAP2>
+         </U2>
+         <OVERLAP1> we could ask her about the format </OVERLAP1>
+          of that to do like a bibliography at the end...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, do you guys want me, to maybe not make four copies of it but make a copy of the literature review what i end up sending her?          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> like what? </OVERLAP2>
+         </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) (okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> to look at, </OVERLAP1>
+          and then you guys can edit it and maybe she'll give some comments          <OVERLAP1> and </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          the literature review        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh. yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i wonder when she'll get that back to us. sh- didn't she have some big thing to do this weekend?          <OVERLAP1> or next weekend </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah (wa-) </OVERLAP1>
+          no        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> this weekend she said she was gonna be gone. so she said get it to her today. i think </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> did she say she was gonna be gone next week too? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh but, y- </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> she said she's leaving Wednesday, until </OVERLAP1>
+          Sunday.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay </U2>
+          so, i'm assuming she'd get it back to us, Monday or Wednesday.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          or, some email (something)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yep </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and then if you get a email from her can you, send it, to us, to see what she says? i i or me i'm just curious.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> sure </U2>
+          like what she had to say about it... does anybody have to like, (change) it? or        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i totally thought one of you guys were s- singing along to the C-D i didn't realize it was the singer.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          i was like looking over to see. it's okay i'm on crack... okay. so we need a_ what we consider a final s- section of our paper for Thursday with copies, and i'll bring the f- my final copy of the lit review that i sent to her. anything else?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> intro. do you know what you're gonna write? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, just basically_ no i i don't like what do you guys think          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          should go into it? and then i'll write it (xx) i just kinda need like a thesis or something to build the intro around so then i'll be okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. maybe s- okay. so basically, we're talking about          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> stereotypes </OVERLAP2>
+         </U2>
+         <OVERLAP1> stereotypes, </OVERLAP1>
+          of single parent families both, single mothers and single fathers, and        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how they're represented in the media </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ugh </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you think i need to be, uh more specific than that? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> do we, like </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> just like throw </OVERLAP1>
+          in          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> like should we </OVERLAP1>
+          talk about how we're trying to f- see if, um the stuff that we found in the literature, if that's          <OVERLAP1> the way it's portrayed in the media? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> coincides yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's          <OVERLAP1> a little sloppy </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i have to leave i'm sorry </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> don't worry about it </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> the journals </OVERLAP1>
+          coincide with the media,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+         <EVENT WHO="S1" DESC="LAUGH"></EVENT>          but like, um (xx) (from here)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and i i know you tried to email it too so, sorry you had to          <OVERLAP1> do it again </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's so </OVERLAP1>
+          weird because, like i sent out a ton of emails on Wednesday. and i'm like going to everybody in my house and i'm like you got my email right? they're like what email?          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          and i'm like what are you talking about what email?          <EVENT DESC="LAUGH"></EVENT>          this is about ordering something they're like we never got any email. i'm like, okay, so like, nobody got my emails and i remembered like, when i was logging off like, and suddenly like all the lights went out and everything like i didn't think anything of it cuz i had like kinda closed my          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> email </OVERLAP1>
+          so i'm like oh everything went through whatever. then like i started asking people about ordering stuff and everything and they're just like i have no clue what you're talking about. and i'm like, great lemme see how many people didn't get the emails and everything from me.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i feel like any time i try to do like, a big email to like a friend that i haven't_ that i don't see very often and i try to, like i'm like do this big catch them up on everything that's going on with my life it doesn't          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> go            <OVERLAP2> through </OVERLAP2>
+         </U2>
+         <OVERLAP1> go </OVERLAP1>
+          through and i'm just like        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. um, if should we also talk about in the intro like some of the s- uh stereotypes that we found? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah (that i was saying) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well it says on here it like according to her that she wants us to talk about,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> well the, possible </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz we have to </OVERLAP1>
+          state the topic of the research which obviously          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> stereotypes </OVERLAP2>
+         </U2>
+         <OVERLAP1> is no big deal um, </OVERLAP1>
+          and tell what will be found in the report so i need to talk about main themes and aspects of the topic which will be like the stereotypes that we talked about, the types of the media which is, um like just popular,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> film and television </U2>
+          yeah. um and then it says overall conclusions did the media match or, did it not match your expectations?          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> that would be </OVERLAP2>
+         </U2>
+         <OVERLAP1> so we need </OVERLAP1>
+          to talk about that what do you guys think did it match or did it not?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't          <OVERLAP1> (feel like) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think in some ways it was, </OVERLAP1>
+          i- we had a lot of stuff that supported,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> some of </OVERLAP1>
+          the things that we found in articles, and i think that mostly it did... uh, i don't know i can't think off the top of my head right now if we found,          <OVERLAP1> stuff that didn't_ i mean i guess we did </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't know i was, i was, </OVERLAP1>
+          like i brought it up in my part of the paper even though it's bad so far, like, how movies are made like there's a certain aspect of Hollywood that you're supposed to go in and escape into a movie and it's supposed to make you feel good. so they end most movies on a happy          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> note </OVERLAP1>
+          like, When a Man Loves a Woman like they get back together and, George Clooney and          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> they end up together </OVERLAP2>
+         </U2>
+         <OVERLAP1> Michelle Pfeiffer </OVERLAP1>
+          ended up together and, where like with the divorce rate where it's at and everything like, i don't think real life is, showing that necessarily. but then i think, within the relationships that were portrayed in the movies, they seemed accurate. i don't know.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> except that they showed that the_ except that they assume that the two parent family's more successful and i didn't think that my two parent families were having successful,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          balanced relationships.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what about the f- what about the fact that like, single mothers, like the differences between the single mothers and single fathers like i is that what we expect in_ yeah i guess it is what we expect          <OVERLAP1> from our articles </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that they're supposed to be more </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (yeah but) it needs to be, probably pretty specific though like, what stereotypes did we support and what didn't we? you know what i mean?          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          like what things did we hope to find (something they need) to kind of focus it? um        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah and that's what she may list, some of the          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          big main ones like          <OVERLAP1> economic s- support </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> economic status uh, </OVERLAP1>
+          support        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so again that work of support (xx) </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, fathers being less involved was another one of ours.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          those were our three right? your        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> my last one was, the mothers were seen as like, less emot- like mentally stable.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay            <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> i don't </OVERLAP1>
+          know how you'd say that. but        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> di- is that supported? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) journals and all that </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think this is an excellent soundtrack. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> mhm. i have it in my collection. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but that's how media_ </OVERLAP1>
+          i mean that's how the the movies are (xx)        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> there might be a s- (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know if these are the ones i'm, officially gonna focus on but, the ones that i were th- i was, mostly thinking about is that, they have like a two parent family they have each other to lean on so, it's more balanced um, bec- in terms of their relationship but also the time that they spend with their kids. cuz one of them can be working and one can be w- focusing on the kids or, whatever, and then the other thing is that the little things are always taken care of. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <EVENT WHO="S5" DESC="SNEEZES"></EVENT>       <U1 WHO="SS" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> bless you. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and i think in general that a lot of them were, met. through media, observation, supported. i think a lot of_ that they were, in general supported by the media observation. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> generally </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> do you think... </OVERLAP1>
+          do you think that's a cause of, okay the articles are based on, fact,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> research </OVERLAP2>
+         </U2>
+         <OVERLAP1> that, research fact </OVERLAP1>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+          real life and that, in the movies, for as much as they're supposed to be entertainment people need to be able to jump in and relate to them, and find, characters or things going on in the movie's life that, relates to theirs so they feel that they have a, an emotional tie. so maybe, if the media wasn't portraying things fairly accurately that people, wouldn't,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i </U2>
+          participate in it as much. i don't know do you,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah, no i understand what you're saying. </OVERLAP2>
+         </U2>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah or like um, </OVERLAP2>
+         </U2>
+         <OVERLAP1> do you follow what i'm saying? like, </OVERLAP1>
+          i don't know if that makes any sense.        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think i understand what you're saying... um </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i do feel like this is coming, together more than i thought it, could, doing a f- a fifteen page group paper. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's just hard cuz all of our segments are kinda disjointed at first and we're like all working on them separately so it's hard to, but i          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> but i felt like </OVERLAP2>
+         </U2>
+         <OVERLAP1> think it's gonna (work_) </OVERLAP1>
+          be okay.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know hopefully you'll find it_ i honestly felt when you guys, gave me, cuz i- like, a detailed summary, um i felt like i could easily put it into, a structure that all flowed together          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah i don't think it'll be </OVERLAP2>
+         </U2>
+         <OVERLAP1> keeping the_ </OVERLAP1>
+          i don't know, did y- did you guys feel like          <OVERLAP1> that was (xx) way it would be? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it seems to me obviously we all know </OVERLAP1>
+          how to write so i don't think getting_ like when i do it, (i'm gonna do it)        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think it'll just be putting it together, and just making it flow and it's like we have all the little pieces. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> can one of you, or, do you think that, i don't know how does that intro, sound? like </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> are you hot? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah it is (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'm hot. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) (i'm dying) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i wonder if we_ should we move back there? well i guess we're not gonna be here too much longer are we? </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i yeah i do feel okay with the intro i just um... well i mean i'll give it to you guys to see like i wish i was able to read what you guys had all written, because that would (kind of) help me          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i th- </OVERLAP2>
+         </U2>
+         <OVERLAP1> put it </OVERLAP1>
+          together in the intro.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think we could_ i don't know. what do you guys feel about including in the intro, maybe stereotypes that we've, come upon in our life not necessarily from our re- from the articles or from, the movies but, what we thought we would've gotten, initially just from, when you think about single parents? i don't know. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah like cuz i was gonna say we </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz i think we all, we all came in with like, a load on our back of what we were assuming,          <OVERLAP1> i mean i know a l- </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (we uh) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i mean </OVERLAP1>
+          what was our expectation? i mean did we think that the media was gonna end up supporting, a lot of the stereotypes that we were coming up with? like, you know like          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> you said </OVERLAP1>
+          like,          <OVERLAP1> you know </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well what_ </OVERLAP1>
+          first of all, what were your preconceived stereotypes?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what were the what? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what were your s- like what stereotypes did you think of before          <OVERLAP1> when you thought of single parents? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> see like i do, </OVERLAP1>
+          like i i would've thought like, that most dads aren't          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yep </OVERLAP2>
+         </U2>
+         <OVERLAP1> involved </OVERLAP1>
+          and don't care to be involved and, i feel and i_ a lot of the single moms that i know... like t- like my best friend and then um, my boyfriend like his mom, like i he's out-of-state tuition and she makes, less a year than_ if she took her whole salary and gave it to tuition, it's not enough... like        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i woulda thought all the things we know. the, i don't think the stereotypes are very shocking.          <OVERLAP1> but </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          because they, they do come from somewhere, even if they're not fully,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          they do come from some sort of, truth, even if they're not          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (there's a) </OVERLAP2>
+         </U2>
+         <OVERLAP1> always fully </OVERLAP1>
+          (prepared) there's something from it usually.        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and i guess </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no i agree i feel_ i think um, maybe it's like the causes that we have like, incorrect like the (use about) like for instance like the single fathers like the reason they were talking about them being less involved a lotta times is because, they just at first they don't know how to be involved in their kids lives like they haven't          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> been trained </OVERLAP1>
+          they've let the mother take over that role.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz society assumes that that's the          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> woman's </OVERLAP1>
+          instinct.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and so then because he's pretty much been the breadwinner and he's let her do that, like he's let her just kinda control that area, that like when it comes down to it he only knows like to do recreational things with the kids because, that's all, that that's all he knows. or like for mothers' like psychological well-being if you're already making a lot less money than, you know what i mean if you're having trouble like s- financially supporting yourself plus          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> you have </OVERLAP1>
+          the strain of, like dealing with children and balancing a job then, that could account for why        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> plus, um with dads i mean if moms are generally awarded sole custody like, even if the dads wanna be involved that's harder for them to be involved in the kid's life like,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          and i don't        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think it's because society like applies that preconceived notion that dads won't be as good as a parent so (like) (xx) almost always award custody to the mom instead. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think with being less involved i think a lotta times society, assumes that the dad doesn't wanna be there.          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          where it's just that they don't, or you know that they don't wanna take the time to be involved, but it's like you know it's the breadwinner thing like they don't know how.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz like in the movies i watched where the, the wife died, the father did a really good job as being like the single parent you know what i mean like, he took over that role very well but when it was just when they were just divorced, he still left a lot of things to the          <OVERLAP1> mother to take care of </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well don't you think, </OVERLAP1>
+          when the_ don't you think in the movies where a parent died, they always had a super excellent relationship? like they were this          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yes </OVERLAP2>
+         </U2>
+         <OVERLAP1> loving </OVERLAP1>
+          couple and then it was this, travesty that the other parent died, and so of course cuz they had this loving support relationship, of course they were excellent model parents. but then had they been d- like, if they were divorced, there was something like,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> dysfunctional </U2>
+          a little off about,          <OVERLAP1> both of them? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's a good </OVERLAP1>
+          stereotype actually. that's, really good.          <PAUSE DUR=":06" ></PAUSE>          that helps like at least with our section of the paper because, we          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> that's we_ that was one of the </OVERLAP2>
+         </U2>
+         <OVERLAP1> have like this conflict </OVERLAP1>
+          between, what divorced single dads look like and what like single dads who no longer really have a spouse look like.          <PAUSE DUR=":22" ></PAUSE>          well i think it's okay (about this) so if i get the intro done by Tuesday i'll just bring it and you guys can read it you guys can just, i'll bring a copy for each of you and just, revise it or tell me if          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> like </OVERLAP1>
+          if we're missing parts or whatever.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and then, maybe on Tuesday we can have someone, i don't know how i wanna i was just maybe gonna have someone take the stuff, and try to, put it all together for Thursday, but if you guys want to do that over the weekend, next weekend then you know,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> well if i mean </OVERLAP2>
+         </U2>
+         <OVERLAP1> like take, (take) all the </OVERLAP1>
+          parts and putting it together.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but if we could if if somebody has time to do it before Thursday, the more times we edit it the better the paper is gonna be the better we're gonna do. i don't know </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i could do it if you guys, email it to me like, you can either do it via attachment but um, just in case for some reason the attachment doesn't open if you could also put it in the body, of the email, just like whatever it is that you've written. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like cut and          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> wait </OVERLAP2>
+         </U2>
+         <OVERLAP1> paste </OVERLAP1>
+          it on there        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz i could start to put it together so that like we have it all on like one          <OVERLAP1> condensed </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> wait </OVERLAP1>
+          we're saying this is for, when?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> Tuesday </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i could do it for </OVERLAP1>
+          Tuesday or Thursday.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Thur- like Thursday.          <OVERLAP1> cuz then like </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> could we </OVERLAP1>
+          bring it_ wait i'm confused. somebody would take all our copies on Tuesday          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          then        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but she's saying it might be easier if you can email it to her          <OVERLAP1> because that way </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but i don't </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz then </OVERLAP1>
+          i don't have to retype it.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> she can open (it with her,) document </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you know </OVERLAP1>
+          what i mean so if you just send it to me, then i can put it all together in like one document.        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz then that way, when she opens your attachment with the email, it'll be,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's all there </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's (already) (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> a Word, and she can get </OVERLAP1>
+          into Word, and like        </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you guys wanna do that then? do you wanna email me what you've done so far? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (and i can stick) it together? </OVERLAP2>
+         </U2>
+         <OVERLAP1> just like our final, </OVERLAP1>
+          final um,          <OVERLAP1> section </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'm sorry i know i'm retarded i just </OVERLAP1>
+          asked this this is before Tuesday or after          <OVERLAP1> Tuesday? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> like we'd </OVERLAP1>
+          email it Tuesday.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like bring the          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> you want </OVERLAP2>
+         </U2>
+         <OVERLAP1> final, </OVERLAP1>
+          or bring your final section of the paper to Tuesday's meeting, and then, Rachel will do it for Thursday          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right, so either </OVERLAP2>
+         </U2>
+         <OVERLAP1> if she can, so you would email </OVERLAP1>
+          it Tuesday sometime          <OVERLAP1> yeah i would say, Tuesday at the, (xx) yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay, or whenever you get it done, </OVERLAP1>
+          in the, okay. i'm sorry i don't          <OVERLAP1> know why i'm so retarded. </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah basically whenever </OVERLAP1>
+          you get it done before Thursday that way i can bring it to Thursday's meeting. just email it to me.        </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> some </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and then </OVERLAP1>
+          Lorri i'll finish up our section i was too tired last night like when i got back i was like ah,          <OVERLAP1> i'll do it this weekend. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah that's fine </OVERLAP1>
+          i just        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, what's your email address? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> W O N T </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> W O N T </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> T E, L L, at U-MICH </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so we have... three hours? we have roughly three hours of group meetings planned for next week? </U1>
+       <PAUSE DUR=":18" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> are there any other like questions or anything...? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so is that okay with everyone then to like email it to me? does that work? (okay) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and you guys all honestly felt that the literature review_ i mean it's gonna be formalized more but, was okay? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i didn't get the chance to look at it (yet.) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> n- d- you didn't look at it? </OVERLAP1>
+          okay.          <PAUSE DUR=":06" ></PAUSE>          should we call it a day?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

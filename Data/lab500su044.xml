@@ -1,0 +1,1061 @@
+<TEI.2 ID="lab500su044">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Biopsychology Lab </TITLE>
+         <TITLE> Rackham Div: BS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 8847 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> LAB500SU044 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="52">             <DATE> October 28, 1999 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Joanne Morgan, Matt Murphy </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Rodney Pratt </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Amy Burke </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Linda Kurtz </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Rita Simpson </NAME>
+               <RESP> Final Editing, 11/7/01 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">LAB</TERM>
+ <TERM TYPE="ACADDISC">500</TERM>
+ <TERM TYPE="PARTLEVEL">SU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">BS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="22"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="9"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SG, Instructor" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-6" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="UN, Students" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="UN, Students" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Classroom Laboratory, East Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> they're gonna be posted on the Internet but like not until Monday, or something like that          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="2" RESTRICT="NONE"> really? </U2>
+          so i figured          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> when's the test? </OVERLAP1>
+          this Thurs- two weeks from next (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah, it's like a one-to-four ratio </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's gonna snow hell of a ratio Jesus </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah, (xx) or so. </OVERLAP1>
+          um the exam'll be two, Tuesdays from now.          <OVERLAP1> and the review will be next_ </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="2" RESTRICT="NONE">         <OVERLAP1> (this Thurs-) </OVERLAP1>
+          two Thursdays?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> two Thursdays from now. and the review will be this coming Wednesday. and, i i took a lot of your criticism about the last review to heart and, i'm running it. so don't worry about it, okay? it'll be okay. uh me me and Angie are running it. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wait is Wednesday the only review? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> Wednesday is the only review session, but it's it's in class. wh- can you not make class? or what? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh in class. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> it's in class just like last time, yeah.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh, right </U2>
+          so we're gonn- we're gonna go over a lot of stuff and a lot of material. try to help y'all out a little bit.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> instead of saying, we can't answer that. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> um, okay, so,          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> shit </U2>
+          let's start.          <EVENT DESC="SIGHS"></EVENT>          this is the, like, such a cool thing if you have the right attitude about it, alright? these, the first thing to think about is that this is a mammalian brain. and, mammalian brains are fundamentally, and structurally, incredibly similar. what you are about to see is, in most ways that really matters, not very much different from what you see in in human brains. it's a lot smaller, and there's a lot of stuff that's less well uh, developed. but for the most part everything that's structured in this brain, humans have as well. they just have bigger or smaller versions of 'em. and, one of the things that you're gonna wanna do, is, one of the things- you- you're i definitely want you to see is that the cortex itself, in terms of its organization is pretty homogenous, and not very interesting. but, on the other side of the cortex, underneath the cortex, there's all this cool stuff. and that's really what you want to get at. get at it from underneath the cortex. things like the fornix, right? which is attached to the cingulate gyrus or the corpus callosum which is here. then goes underneath it's a myelinated sheath which seems to be involved in the organization of emotional, patterns. um midbrain structures, like, the hippocampus, which if you guys can find, is really really cool. i'll give ya_ i'll hel- i'll try to help you find it, but it's organized, basically underneath the temporal lobe, which is here. okay? these are all not cortical they're underneath the cortex. so, after you, do the work that's in here, think about the the the uh midbrain and the, hindbrain structures. and then all the stuff that's happening in, the brain stem, like the pons. um, the thalamus should be very easy to find. so will the inferior and superior colliculi okay? they're they're actually very very obvious. and the, the cerebellum. what i would recommend you do, is, take half your bra- you go- you got two halves of your brain right? take half your brain and take it through that step-by-step process that's on the sheet in front of you. and that will take you all the way to uh, pretty much like basically early subcortical, examination. take the other half of your brain, and dig around. try to find the stuff that that you that you think might actually be very very interesting that's actually in the book. and in particular, think about it in in terms of this context. the cortex itself, is really only about an eighth of an inch thick. okay? everything underneath the cortex is, uh connections, to other cortical areas, and midbrain hindbrain areas. so the things that you find underneath the cortex really will tell you a whole lot about how the brain's put together and how it works. wow. okay. it's gonna hafta be four to a brain. dissection sheets are over here. alright. okay. we, we've procured some incredibly high technology,          <EVENT WHO="S5" DESC="LAUGH"></EVENT>          plastic knives, nice.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> no way </U2>
+          okay, gloves are over here. okay, we have some like, really high-tech instruments designed to cut your brains up, alright? we also have some metal spat- metal spatulas, it doesn't matter. as a matter of fact, i recommend you use these, because it, it gives you a better cut, and they're lighter. it it- you- it's easier to control control the cut. um, these brains have been, uh stored in formaldehyde so they're a lot harder than they normally would be. if you took a brain like this from a sheep, you know if you were hunting down sheep one night and you, caught a sheep, and you pulled the brain out it would actually be very squishy and and very very uh, easy to damage. what happened with these, is that they were put in formaldehyde and they were soaked, so they've been basically hardened and solidified. that being said it's a very soft tissue. this is all you're gonna need. okay? this is all you're gonna need. you might wanna use two, but you should be able to do everything you need to do with fingers. and with with the butter knives. so, come on up, grab yourself a ins- implement of destruction.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> we need tweezers? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> tweezers are cool, for pulling away some of the smaller parts, and everyone's in- every group should try to have some.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> huh? </U2>
+          okay?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> now you go out and sell (underwear) again (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i know </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay... follow the, basically follow the dissection process step by step. i wanna reiterate, this is a, teaching technique, this is a pedagogical method for you guys, to learn, where, the parts of brain are. i don't care what your brain looks like at the end of this.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          i heard some chemist was telling me some story about some pig that she was dissecting all semester and if she messed up the brain she got points off. i don't care, okay? what matters to me is that you use this to help you, on the exam, which comes in two weeks because i guarantee that there's gonna be anatomical questions on the exam in two weeks, alright? just take my word for it. just count on that. so um, have some fun with this, use it to to find the parts that're in here, and then dig around a little bit. if you have questions about a particular uh, organ or nucleus, see if you can find it.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hey tell me about the pineal gland. wh- what exactly does the pineal gland what does          <OVERLAP1> (what does the pineal gland do) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> the pineal gland </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i just noticed it </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> it's right, </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's in the hindbrain,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah it's </U2>
+          or the or the midbrain.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> it's really hard to find </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> but it didn't say anything about it in the book </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> the pineal gland is it's really only interesting if you're into, uh, uh          <OVERLAP1> (property dualism, which is Cartesian) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i i don't </OVERLAP1>
+          even know what that is        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> uh it's a it's a it's a theory that that consciousness          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (oh my god a) </OVERLAP1>
+          yeah          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          why is it interesting if you you (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well because Descartes thought that consciousness can't (do anything) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well yeah that's what i mean          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          you ever see those old movies?          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          what was that movie? The Eliminator?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i think so          <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> where the </OVERLAP1>
+          guy's pineal gland, like          <EVENT WHO="S1" DESC="LAUGH"></EVENT>         <OVERLAP1> you know what i mean? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> it's cracks me up. </OVERLAP1>
+          um, one last thing. is i- are any of y'all, leaving before tomorrow? any of you guys going out go- going out of town for the weekend?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> possibly. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> possibly. is anybody else going out of town for the weekend? alright.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (i wanna leave town for the weekend.) </U2>
+          um, i didn't have, i don't have your questions yet because of a photocopy snafu.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          i'll have 'em by eight-thirty tomorrow morning on the fourth floor, outside my office. mkay? they'll be in a box. so, that's why, i'm just asking now. otherwise just get 'em, you know, get 'em tomorrow. good.        </U1>
+       <EVENT DESC="MULTIPLE CONVERSATIONS NEXT 7:20 ONLY ONE TRANSCRIBED"></EVENT>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> man i remember (seeing where you guys) (xx) you know. (xx) (specific) one of these little curves? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this whole area? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's well like uh like front- frontal lobe i          <OVERLAP1> guess </OVERLAP1>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> this whole area? </OVERLAP2>
+         </U2>
+          frontal lobe        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cuz then we can point to like a specific, thing you know? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> like temporal is temporal is uh right here          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          i don't know what the_ where this_ where the differentiation is at.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right            <OVERLAP2> occipital (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> and the </OVERLAP1>
+          occipital is, yeah that's the uh        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> somewhere up here </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's the cerebellum          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah,            <OVERLAP2> (somewhere) </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          so it- it's in the back, correct?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and then (parielesum,) up here? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and parietal up on top </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> honestly, yeah, i don't remember her showing us, i think she said it was really sketchy you know sort of between where exactly between like uh, you know parietal ends and the frontal starts. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so... alright. trying to find the central sulcus          <OVERLAP1> (xx) precentral and postcentral, </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> look at the eyes? (xx) </OVERLAP1>
+          those are the eyes you think?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh, it's possible </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> whoa it's freaky, </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (i thought there) was only one optic nerve that comes into the brain (maybe these things start here)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> when's a (xx) </OVERLAP1>
+          this seems like it's the spinal cord?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh this is the medulla? medulla and then coming up with this here the spinal cord.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          here so,        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i guess, this would would be the pons, somewhere here?          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right right </U2>
+          cerebellum, uh... you know where the central sulcus, is?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right there </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yep. pre and postcentral, gyri? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't even see where that is. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this this alright </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> nah, know where you know where the central </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we should (be able to see) it a lot better if we </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cut it open?          <OVERLAP1> oh yeah it's a </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i didn't quite </OVERLAP1>
+          make it though          <OVERLAP1> tried to bring </OVERLAP1>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> we should uh </OVERLAP2>
+         </U2>
+          her over so it'd be veteran service. well okay so we got the (xx) central sulcus. the precentral or postcentral gyri gla- no that's an external? or,        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it look li- it looks like a (xx) (and uh) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i thought that was a internal too like around a ling- like here's a, a gyri postcentral gyrus there,          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          no doubt, this is like eighth grade.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright, um... olfactory and optic nerves. olfactory looks like </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this is removed where it says removed i don't know if that's a diagram of what we were supposed to be looking at. hey Dan. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> o- is the olfactory bulb in this or not? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> is this it right here? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> um, </OVERLAP1>
+          it's doubtful.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> doubtful? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cuz it says removed on this diagram </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, it's it's usually yanked off,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah? </U2>
+          during dissection.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright </U2>
+          what you do, what you should be able to find too is, let me see, well look at that. maybe you guys do have that.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> as in, olfactory? </U2>
+          that, that looks like the olfactory bulb to me.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and what's the other one on_ the matching one on the other side?          <OVERLAP1> is that an optic nerve? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> uh well there're there're </OVERLAP1>
+          two of them. right? there're two olfactory bulbs, so there's one on each side.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh really? </U2>
+          yeah. and here's uh, now here's, here's a thinker for you (Rick.) the olfactory bulb. you know the optic chiasm is a cross-over, right? and what's happening there is that basically in the uh, the reason for that is because you know right hemisphere controls left side of brain          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, right </U2>
+          olfactory systems are not like that. olfactory systems are what you call ipsilateral.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah yeah </U2>
+          this is contralateral.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          ipsilateral. and so, when you see this, you see the way it kinda goes with the brain there.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i have a question, when, when you're looking for the occipital lobes.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> uhuh </U2>
+          does it matter, when you look at the frontal lobe. is it just an area?          <OVERLAP1> or is it like </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> it's just it's area </OVERLAP1>
+          i mean, it's supposed          <OVERLAP1> be divided (into) central sulcus </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (cuz they always in all the diagrams they always) point to </OVERLAP1>
+          a specific, area        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, i mean it's hard to find. like, the central sulcus is supposed to be right about, here. actually you can see          <OVERLAP1> it on this one really nice </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> and the sulcus </OVERLAP1>
+          that's like another just word for what? like a          <OVERLAP1> canal basically, it's not a structure it's just a differentiated </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> sulcus means, yeah sulcus is a is a um is </OVERLAP1>
+          is a is like a value.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right okay </U2>
+          yeah, and and so here's your central sulcus. here's your frontal lobe there's your parietal lobe and there's your occipital lobe back here. so this division here, should tell you what you're (xx)        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and temporal temporal parietal that difference is there something          <OVERLAP1> that separates those two? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> temporal lobe </OVERLAP1>
+          is is sort of yeah temporal lobe is sort of hard to find on sheep. but it's folded under          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          the way you think about it. think about the brain as a fist          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          and the thumb is the is the temporal lobe          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          and then you have your occipital lobe here. and the frontal lobe. so. the temporal lobe sort of folds underneath from the other cortex.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right. </U2>
+          (xx)        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> now now where's the optic nerve on there? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> and you guys it's really hard to find on this, but it would be here. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that far back? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well it kind of goes, it it shou- this is part of it right there. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this is this is actually a sheep brain right? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> that's actually a sheep brain. and so this is a really good way to tell you where it would be. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't even i don't even see. i see op- optic, chiasm optic tract, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, the optic tract is here. and what would happen is you- you would see a crossover. some of the crossovers are more clear than others. but that's like, this is the superior colliculus and so it's going right into the superior colliculus from there. this one's not. this one's been beaten up. we- we'll try to_ if you if you guys can't find certain organs, wander around a little bit and see if you can find them. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) pons and medulla (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh, this would be, (xx) see it looks like the (pondula) pulled it out          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          and this would be the pons and this would be the medulla. i mean this wo-        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well i think that little thing that we tore down (xx)          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          would be the pons.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right right right </U2>
+          cuz there's a better picture of it          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> turn the page. and then the hypothalamus </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) whose book whose book is that? that thing's gonna get nasty </OVERLAP1>
+          smellin- smelling that thing for another week in your book bag.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hypoth- hypothalamus and this is, somewhere          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we gotta open this </U2>
+          under there          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we gotta open it up and and see </U2>
+          it looks like it's (xx)        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no yeah look at it. that's what it s- that's what it says. turn the brain over again. alright it says, i- uh it, try to find the uh, cranial nerves.          <OVERLAP1> i didn't think we cou- i didn't think we could do that. </OVERLAP1>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          without the brain being (open there.) in the book it looks like it's, really really hard to find. (gotta) kind of weave in and out of this tissue.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the, cingulate, uh, gyrus? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> where is that? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i don't know. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh that's </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well if it's cingulate (xx) the cranial, (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i know i thought something was,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          leakage.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> leakage uh, (you mean) right there? the white part? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's it's a great (xx) internal (xx) (structure) from the rest of the,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          from the rest of the (xx) are connected with the (xx)        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> connected (to) the hemisphere </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, corpus callosum (xx) talking about that (xx) okay, yeah okay so you should be be, alright so you're          <OVERLAP1> at the corpus callosum </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> where's the cingulate gyrus? </OVERLAP1>
+          uh        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> now see if you get a different (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's uh          <OVERLAP1> (xx) right above the corpus callosum, it's gotta be like uh) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> so that must uh, connect the </OVERLAP1>
+          the limbic system with the uh          <OVERLAP1> (rest of the brain) </OVERLAP1>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah see yeah yeah </OVERLAP2>
+         </U2>
+          or the, or the cortical          <OVERLAP1> vestibules </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> the, right at the bulge, </OVERLAP1>
+          the uh the corpus (callosum.)          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> hm' </U2>
+          that's layer five.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i i i didn't realize it, like when i was m- meeting up there with uh, that three-seventy-whatever, two session. that everybody meets at the same time like right down the hall from each other. i saw, another girl (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what here in uh Dennison          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> two-seventy-two </U2>
+          Abnormal?          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um </U2>
+          is that Abnormal?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no Peterson, the, research class </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah yeah          <OVERLAP1> Abnormal </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah Abnormal Research yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you're in that also? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's crazy. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> we're all abnormal. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, i know you kept saying that maybe i took, yeah. the thing um, there was this girl, who's in another one. (xx) she's in my Cognitive Psych class. now </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> she has three psych classes now? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, and i got like stats too right now </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (kind of) overworked </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's a lot of work (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) (but,) it's, not so hard, so far but i'm but i'm kind of kind of lo- losing my energy because it's getting sort of like repetitive          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> and uh it's getting </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> when y'all y'all are chopping </OVERLAP1>
+          your brains up.          <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> come on (xx) </U2>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          couple things to notice about this. some of the fibers are gray and some are white,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          right? think about why that          <OVERLAP1> might be so. based on what we've talked about. </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> there's there's there's their speech class is gonna meet there, at Dennison </OVERLAP1>
+          right there, at four o'clock...        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> wow </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> how did you guys </OVERLAP1>
+          do on the test?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> which one? (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">  the (xx)          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          yeah, it was easy. i i got a sixty-one. so          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know what that is. i guess </U2>
+          it's an A (xx)        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i guess, you wanna, cut the brains in halves. anyone, wanna? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          you got the brain. you got the buzzer. you got control control of the board.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh it, sounds like you're (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <PAUSE DUR=":05" ></PAUSE>          yeah, that's a dissection there. (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <EVENT WHO="S7" DESC="LAUGH"></EVENT>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> guess it's take off. (xx) just take this off? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) yeah, cerebellum and all that </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> or we could chop it like this.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no no no don't do that. see, does it rip right out? well anyway          <OVERLAP1> is that really totally (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> nah i could </OVERLAP1>
+          i could actually cut up uh        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> pretty nasty, oh that's cool. alright, cool. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's yeah it that's a regular one... funky.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          weird.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> which one's that? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's a          <OVERLAP1> keeper </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's a </OVERLAP1>
+          keeper. that's an easy one.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> alright </U2>
+          cut,          <SEG TYPE="READING"> now carefully cut the callosum with your scalpel. </SEG>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay now find the corpus callosum. that would be (xx) type looking (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> boy it really is defined </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> where's the fornix exactly? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what the (xx) fornix? that's in a surrounded structure or something isn't it? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> surrounding (in) a, uh, (i really don't know) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what does it uh, (xx)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> part of the (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well this would be the,          <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> thalamus </U2>
+          thalamus.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the thalamus is right all the way in the middle.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          and the hyp- and the          <OVERLAP1> hypothalamus is </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> the fornix is </OVERLAP1>
+          right around it        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> whew. God that stuff stinks when it gets close to it. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> don't ask me. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> squeeze the crap out of it. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> there it is </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the fornix. a- a- all i see is          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          so it must (xx) be connected to the corpus callosum, but it's just,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh it's            <OVERLAP2> connected because </OVERLAP2>
+         </U2>
+         <OVERLAP1> like that like that little </OVERLAP1>
+          differentiation maybe right there.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i guess it's kinda down          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          yeah        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i guess it (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay there's the pin okay so that thing right there on th- on the top end riding piggyback is the pineal pineal gland          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> where is that? </U2>
+          the pineal body. it's riding piggyback right up right up on the top of the pons it's like a separate little structure.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that little that </OVERLAP1>
+          that little knobby thing        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh it's not (xx) this one is it? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think that </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh okay </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> this thing right there </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> well like this </OVERLAP2>
+         </U2>
+          that little, bulb for that. okay, what'd you say that is?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the pi- the pineal body </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what's that, where's that on the uh </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no it's not i don't think it's          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh okay </U2>
+          look on look on this one because this is an actually a sheep brain.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> he said it, he said there was no, apparent structure or i mean no, something </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's a gland so it must, release some hormone or something. tha- that's what i think it's about (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> pineal gland. now he's hurt. i don't know what exactly it does. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (where's the) (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh that's how they disattach. because remember the (xx) hangs that it hangs that it's really delicate and probably falls off or, or gets um, taken. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright what else you guys? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the cingulate gyrus.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh that's, </U2>
+          oh that's that's part of it right there.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i, i can't tell </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (a gigantic) i think it's just the first layer </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> do you have like a little piece of gray like right on top of your thalamus? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> not really no why. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz i want </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's separated. that that that </OVERLAP1>
+          that is the uh fornix there.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you think that's the fornix? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's what i think too. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cuz it, just looks li- i forget what it does but it look like, (xx) uh you know (xx) or something. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cingulate gyrus is right there? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright, hypothalamus? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hypothalamus is supposed to be underneath the uh (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> alright, guys. some of you are are taking the phrase gently separate a little too far, and pulling it to the point where i've already seen two groups rip their corpus callosum, alright?          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          just pull it wide enough so that you get a little hole where you get the knife in there, and then cut, alright? but yo- some of you guys          <OVERLAP1> go </OVERLAP1>
+         <EVENT DESC="SOUND EFFECT"></EVENT>          you know you're just ripping the brain apart.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>          worse than worse than that, i'm sure you could cut anywhere.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this would be the thalamus. this is definitely the thalamus. the the gyrus? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what do we do? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i mean this doesn't look like anything (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> I wonder what this (xx) is right here? look at this, little guy. it's like a little, like separate structure right here.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          yeah.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't have any clue </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> but that's a superior (colliculus,) it's right uh, (right there,) yeah, that's a, that's a little like, it's like a totally separate color. it's a different color, it's a different structure.          <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> is that the superior colliculus? </U2>
+          oh yeah. i wonder i don't know what that          <OVERLAP1> what that is </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> is that, is that a </OVERLAP1>
+          midbrain thing? a midbrain thing?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's a mid- that's a midbrain          <OVERLAP1> thing </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it looks like, </OVERLAP1>
+          tissue riding the lateral ventricles (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> nah it's not (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> it's the superior colliculus </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. oh look here's (another) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> see this is screwing me up cuz i'm looking at the other side of the brain </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> nah, not exactly no. actually i got the hole here ( now i actually got) (xx) i don't know, do we have it there? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you got, you got some stringy stuff coming off, comes off of the uh pons (and the) medulla </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> hey Kevin. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hey what? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> is this pineal gland here? that's uh,          <OVERLAP1> behind the pons </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i got i got </OVERLAP1>
+          pineal gland yeah        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> you got it? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> lemme see it. let's see. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we're assuming. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <SEG TYPE="READING"> pineal gland is located (behind the thalamus) </SEG>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> there it is </OVERLAP2>
+         </U2>
+         <OVERLAP1> and i think it's either that </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yep that's it </U2>
+          and we're thinking that's the superior colliculus right there.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> one of the best ways          <OVERLAP1> to see the superior colliculus is </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it starts a separate body completely </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah you got- you gotta really gotta get in there. after you, do each analysis,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          cut this area away, and and cut away the cortex and then you're gonna see the superior colliculus more easily.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i got, i got a nerve coming out          <OVERLAP1> right there </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> uhuh uhuh </OVERLAP1>
+          that's one of the cranial nerves.          <OVERLAP1> it's (part of the) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) the hypothalamus. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> the hypothalamus? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well the thalamus is,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this thing right here </U2>
+          this large object right here, so the hypothalamus is sort of a broad structure. you can see, (hey) look here. should say it right here. (it doesn't) (isn't that the hypothalamus) the hypothalamus is sort of it sorta holds the thalamus underneath right there. so it's not_ it's kinda, it's kinda hard to see as a differentiated object,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          it's real small.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> like on on this half it'd be uh,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> lemme </U2>
+          okay this is the hypothalamus right there?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (i guess let's see)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          yeah there's your there's your thalamus there.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (the) hypothalamus must be that          <OVERLAP1> coming in </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          it's not a connecting area (xx)        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what do you what do you what do you guys think (well) maybe this is a hypothalamus, it's like a separate sort of structure, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> that uh </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> or </OVERLAP2>
+         </U2>
+          is the mammillary body. if you look underneath.          <OVERLAP1> that's, well well there's the opt- there's the optic tract right? yeah </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          so what you're seeing right there is you're seeing, you're actually seeing the fib- the the cross-section of the fibers that make up the optic, tract, yeah.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so the optic tract is, there's an optic nerve, where? you mean, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> this is the optic, this is the optic nerve. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> optic, optic tract is          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> last question.          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          this part right there        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> this area here? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh yeah (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay so this is gonna be, when you pull this over, that's your superior colliculus. it's just you can't see it very well cuz it's hidden by cortex. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh, okay so that's what you were saying. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, so, after you guys do some (xx) one thing you can do is you can actually do a a horizontal slice this way and sort of see wha- actually no one's ever done that. (xx) do the horizontal slice this way. and you </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> can we uh (xx) the cortex? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, because what's happening is that the cortex is hiding, (xx) (some) meninges. the cortex is hiding all this cool stuff.          <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          so if you can peel away the cortex, a lot of you will just          <EVENT DESC="SOUND EFFECT"></EVENT>          pull it away, you'll see a lot more        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> now would this lemme a- lemme get two more questions here, we got a gra- some gray material right there. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> that's meninges. that's uh just um          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> just </U2>
+          yeah that's that's uh like the the the uh          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) matter </U2>
+          it's the membrane that protects the brain and cushions it.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and it's that far inside the          <OVERLAP1> brain (xx) structure </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah, yeah </OVERLAP1>
+          well yeah because what it does it also goes inside the,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> th- </U2>
+          this is a a_ that's a        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> a fold? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> (this is_) what'd you, what'd you say? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the fold? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> not the folds the um, (God) what the_ ventricles. these are the ventricles,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          this is a ventricle, here        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> any s- any s_ (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah those are those big_ space there? that's our, that's our ventricle. and there's a big old mama ventricle underneath. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (here) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> y- yeah exactly, and you see this white really_ this is a really tough white fiber here?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          that's actually tough fiber that separates this ventricle on the right hemisphere from the left hemisphere. when you chop through it there would be fluid inside this ventricle.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and so, the pineal gland, is there any uh, um, a hormone that it secretes?          <OVERLAP1> or, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          it secretes, i don't know what it's for,          <OVERLAP1> but it does secrete a hormone (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> purpose (xx) </OVERLAP1>
+          yeah        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah i can't just remember though off the top of my head. i'll probably remember about, in another two weeks. </U1>
+       <EVENT WHO="S7" DESC="LAUGH"></EVENT>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um, where'd he say the ventricles were? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um (lemme see) like. (in that hole) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> like spaces? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, an- anything any any of the separating areas have the ventricle because that's gonna be fluid (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right you know </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (you see these) layers </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> optic, chiasm. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you see, where we were pointing at? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i got a big old mother nerve right there. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's the (xx) brain? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah it comes underneath. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) down (over here?) is that underneath here? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) oh yeah you do. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this point right here, (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mammillary bodies? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think they're mammillary bodies but i was pointing at i thought that mighta been the hypothalamus but that's that          <OVERLAP1> right there. so, </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> how was he saying </OVERLAP1>
+          to cut it?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> he said cut it through the uh, </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> through the          <OVERLAP1> corpus? </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> through </OVERLAP1>
+          the corpus        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i wanna get through the (xx) the midbrain after that? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> look at the (xx) </OVERLAP1>
+          look over here.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, it's like, gritty man. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the dorsal surface is like, (one or two from) here. (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (that's not what he was saying about this) it's way,          <OVERLAP1> you know </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> alright </OVERLAP1>
+          you gotta pull the cortex and the cerebellum, away from the dorsal. from the dorsal brain stem?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> pons. okay so, how do we know what the pons is? (how do we know what to do with this?) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> maybe that's the mammillary body. what what'd he say (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) (over here) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh, hippo- how do you get the hippocampus? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right, it's this          <PAUSE DUR=":05" ></PAUSE>          mm, (xx) don't have it (on mine,) what is this right here? hippocampus is, underneath, but i don't have it on the chart for the, sheep brain, olfactory,        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (we're) trying to get in here to the visible (xx) what's this in here? (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> oh that's the (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (y'all) want the half the brain to work with now? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> see this in here? this (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah that's what i was looking at too. yeah. i don't know. it it's a knobby little it's a knobby little structure. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it doesn't show (anything.) </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> wow, like a little uh, section in there. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (well) that'd be amygdala. you got the nerve, (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> a separate sulcus </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i'm just gonna slice it out. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, there's like all this bullshit in the way. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we don't have an amygdala on our (tract...) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so that's a good slice. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't (if) (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this looks like nothing to me          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          i have no idea what this this thing this thing does        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> all the (definitions along there?) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> still don't          <OVERLAP1> know. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (you might) </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah (xx) oh well, (is that a) that's a          <OVERLAP1> slice, right? </OVERLAP1>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> side of that, yeah </OVERLAP2>
+         </U2>
+          so you musta sliced outside of the          <OVERLAP1> (xx) </OVERLAP1>
+          .        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> at least </OVERLAP1>
+          there'll be something in there. i dunno but i needed something.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (what does a) (xx) (do?) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> what is all this stuff? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know, i think that's the, we just got outside the limbic system. so a lotta that st- it's like all that stuff is on the outside of the brain. you know? inside_ the inside it's it's really          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> gray </U2>
+          it's really yeah that's how, people say people say, (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> it's (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> whoa. this broke right off.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think that's the top of the cere-          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> this thing? </U2>
+          the top of the cerebellum or top of the, occipital?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> seems like the smaller you get smaller and smaller little curves see how it,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          see how it gets smaller and          <OVERLAP1> smaller (xx) </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          each other.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's like a little snail. so that's, </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this is the nerve this is the optic nerve          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i-i-i- it might be </U2>
+         <OVERLAP1> (xx) optic nerve </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz the </OVERLAP1>
+          optic nerve goes back to the,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah (xx) </U2>
+          cuz the optic nerve goes right back to the, um back of the brain. back to the um, to the whatchamacallit. to uh, here. what do you call that? the occipital lobe (there.)        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <EVENT WHO="S7" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) organs (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> ( no i didn't i needed a lot on demand.) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> all those little curves </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah what is that stuff? (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) like </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> let's see (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i like the red (piculars.)          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> whew </U2>
+          this part's just done.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> whew </U2>
+          kind of falling apart.        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) take a break </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hold on a sec </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) back together again </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <SEG TYPE="READING"> take one to two brain hemispheres and pull the cortex and cerebellum away from the nerval brain stem. </SEG>
+         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> that's the brain stem </OVERLAP2>
+         </U2>
+         <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah i </OVERLAP2>
+         </U2>
+         <OVERLAP1> so that's </OVERLAP1>
+          what you were trying to do and          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it ripped </OVERLAP1>
+          okay. hey Dan?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yo... i don't know what, i can't tell y- </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> see a little bit of          <OVERLAP1> pressure </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (see it's like </OVERLAP2>
+            brain) (xx)          </U2>
+          a little bit of pressure and all this could start pulling apart.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          see they're all they're all curved slices like this one right here.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          (xx) here. cool, (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh uh, alright, so, we got one half of this this this toast          <OVERLAP1> but we </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> alright </OVERLAP2>
+         </U2>
+          gotta identify a coupla things          <OVERLAP1> (out) here </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> alright let's </OVERLAP1>
+          take a look at what we got here.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> don't look at me          <OVERLAP1> (since) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> no, this is good </OVERLAP1>
+          this is a start, okay.          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          alright.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx)          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> alright </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> you looked </OVERLAP1>
+          you looked you looked uh, blank.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> alright,          <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> look looked uh mild </U2>
+          this is yours, remember we were talking about those large objects? here's_ okay so first let me find everything. that looks like, okay. here's your superior colliculus. and your inferior colliculus,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> this this is </OVERLAP2>
+         </U2>
+         <OVERLAP1> okay? </OVERLAP1>
+          yeah.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and uh, isn't this the corpus?          <OVERLAP1> the uh </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> this is the </OVERLAP1>
+          cerebellum.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the cerebellum. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> right. now imagine like with humans, it would look like this, right? which is why we w- w- confused wi- with, animals, yeah it's like straight back so this is superior inferior colliculi. now, what you're supposed to be able to do if you cut right through the middle of this, is find the substantia nigra but i i haven't found (anybody can) do it. um okay          <EVENT WHO="S8" DESC="LAUGH"></EVENT>          you can do it, alright. so th- this is a good example. you see that the thalamus, which was, here, right? and then the hypothalamus was here. and then you have this_ this is real- i have no idea what exactly this, object right here is.          <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> red stuff? </U2>
+          no this this this big old pumping, uh nucleus right here, it's got it's got          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> a lot of veins in it (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> a lot of veins in it. it's highly innervated </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) little veins </U2>
+          yeah if you, pull away this stuff here, let me show you something. this is really tough cuz it's (hypolaminated,) but if you pull this away, you get, you see this? you see all the, you see the little stripes, the little lines there?          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah (xx) </U2>
+          that is, all fibers. that's all nerve fibers. i don't know what that is. um, i think, i think, it's like, basically, i mean this may actually be a thalamus and this may be the hypothalamus, and in which case, you know like all this crap we've been doing before is is wrong i've been told wrong all these years. it makes more sense because this is a big old object that has a whole lot of nerve fibers extending from it and there's a smaller object beneath it. but, whatever it is it's really interesting because of all the uh, all the          <OVERLAP1> nerve fibers </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (nerve fibers) </OVERLAP2>
+         </U2>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+          coming out of it. they're highly myelinated. so you guys found the superior colliculus and inferior colliculus. and then what else what else we got here? where_ oh is this colliculus?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay, this is the fornix. alright? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> wait where is- isn't the fornix right on the,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> the fornix </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) (ventral) </OVERLAP1>
+          ventral side of the ah corpus callosum?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> it's on the ventral side of the corpu- it's on the ventral side of the corpus callosum and what you need here is that, okay is this the corpus callosum here? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh, no this is,          <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> (i threw it in the parts) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+          okay. and then, okay        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> he just kinda took a cross-section and i just tried to pick it apart,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> oh, </OVERLAP1>
+          okay so this is actually goes on top like that.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't remember to be honest          <OVERLAP1> with you it was (like yeah) </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>           <OVERLAP2> and yeah that's right (it was on) that top curve (there) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it was the uh </OVERLAP1>
+          and the uh and then this is the uh, the corpus callosum and then that's the stuff below it        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay you see this little lump here? if if i understand correctly if i remember correctly this would actually go, into the temporal lobe cuz this looks like, a temporal lobe (project-) so when you cut this one open be a little more careful. try to separate, try to cut off the top of the cortex. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (this is) the other half </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> this the other half of it? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> there's a lot. (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. okay          <OVERLAP1> ooh yeah yeah </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> so try to cut off from </OVERLAP2>
+         </U2>
+          here it is, check this out. alright, now pull this away.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what's on your_ what's in your right f- between your right thumb and finger right here? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> right here? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no right up there </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> no, that's no- </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no the the, pull it back,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          what's that snail, like, that thing that kinda curves around and stuff?          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right there? </U2>
+          looks like a little knob (xx) like this right here.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i don't i don't know. i don't know what that is. this is um, this part right here is interesting because there, is the fornix. you see that? you see this, right here? this is the fornix and if you pull this away,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> peel it? </U2>
+          yeah, if you peel it away, really gently. underneath that?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> ooh </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> look at that </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the, stringy uh? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, it it's really interesting isn't it? and and underneath that, on this side, should be,          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          the hippocampus. yeah, i know be careful with that all the          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          crap that's coming outta here. but this this curves around like that and then, where's the, am i doing this the right way? oh okay. so this is frontal and this is, okay. and this_ what happened here is that, underneath this, kinda nestled in there should be the hippocampus, (and) in the temporal lobe right in here, should be, the amygdala. so if you pull the fornix away and you pu- there's another layer of fornix here, if you pull that away, you should find the hippocampus sort of nestled in the cortex          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> mkay </U2>
+          alright? yeah        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so those things are actually, you can't see 'em unless you dig          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          you really gotta dig.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so i should make should make like i should make a cut on top of the cors-          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          corpus callosum and just try and?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> cut on top and try to and try to get at it in two ways. but remember that what's gonna happen is that those bodies will separate          <OVERLAP1> away from </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right right right </OVERLAP2>
+         </U2>
+          each other. you know what i mean? but it's hard. like finding the hippocampus is really hard...        </U1>
+       <PAUSE DUR=":12" ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what is this, uh guy filming here doing? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (it's about) language (or something) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh really? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> something about second languages (or something) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> weird. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> did (you guys) get (xx) (for this?) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (i used) (xx) </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <EVENT DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <PAUSE DUR=":17" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> oh man </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> come on (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (brain parts in my book) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (yeah) you can get a real thin slice and use it as a bookmarker if you freeze-dry it.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (and then the) girl stops and (flick) open my book (in the library)          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          and then a piece of brain falls          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          (out) on the table        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) i'm not finding anything (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what's behind it? what are you looking at? is there something behind there? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) didn't he say you peel that lexical layering away (and) the hippocampus is behind there?          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um </U2>
+          but there's no_ it's not as defined is it's just like you pull away (xx) we're trying to wedge it so it just starts to break apart (xx)        </U1>
+       <EVENT DUR=":45" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (no,) it's stronger like the more you cut into it it's gotten really so (xx) in there </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i know. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <EVENT DUR=":07" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (you know how it goes) back together </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you just take really small slices in the,          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i wanna get </U2>
+         <OVERLAP1> hippocampus and the </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah i </OVERLAP1>
+          wanna get (on to-) i wanna get (all this stuff)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> that was really weird </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> see it was on TV like they took a um, forget like a a like an (xx) like a, like a serial killer, like (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh when they sliced him into like          <OVERLAP1> microscopically thin pieces  </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> sliced them into really thin pieces. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and sews him up. and no one (finds out) about it wow </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah you ca- i think you can buy that program for like on_ for your computer. the Digital Man. like it's like sixty bucks or seventy bucks and you can go to the_ the site is weird yeah they free- they freeze the pieces          <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) they slide            <OVERLAP2> 'em </OVERLAP2>
+         </U2>
+         <OVERLAP1> (then) </OVERLAP1>
+          they stain 'em, like different colors and then they, they get computer-image all of 'em.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> freaky </OVERLAP1>
+          they did that, they just did that for a woman too        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> did they? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah cuz they didn't have a woman, who was like scummy enough to wanna do that to i guess          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> aw this is cool you can, peel off this uh, this sheet thing </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh the          <OVERLAP1> outside, oh the outside, scuzz </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> the tired? (xx) yeah, </OVERLAP1>
+          yeah (xx)        </U1>
+       <EVENT DUR=":32" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you're just going to town on the (xx) ooh there's nothing left of (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> whew </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (i guess i'll watch right after) (xx) </U1>
+       <U1 WHO="SU-6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) that's a solid, that's a solid, slice </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what is that thing? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i dunno i thought that's the cingulate gyrus? or the um, yeah i think it's the cingulate gyrus. look. it's that it's that curly (curly thing.) (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh yeah. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> do do </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mkay (are these, are these just like) (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> there's (veal.)          <PAUSE DUR=":05" ></PAUSE>          alright (xx) wow that's a big motherfucking (xx)        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> look at the size of it. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (wow) that must be an artery. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (the other side of that, look at the side of this)          <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> huge </U2>
+          it's fucking huge. it's a huge, huge artery... the- these must be this guy (xx) was talking about. and this is the corona (radii.)          <SEG TYPE="READING"> you will see the large white radiation fibers that pass from the cortex through the corpus callosum to the other side. </SEG>
+          i think that's that right there          <SEG TYPE="READING"> peel gently in order to expose the hippocampus </SEG>
+          that's right here. gently my ass.        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> unless it was already (de-juiced)          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (yeah we already did that) </U2>
+         <EVENT DESC="LAUGH"></EVENT>          well those are all the radii right there. (check it out) those are the things that connect (the arc.)          <SEG TYPE="READING"> you should see large white radiation fibers that pass from the cortex through the corpus callosum to the other side. </SEG>
+          corona radiati.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we gotta keep going through them?          <OVERLAP1> (because) </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+          (there's not much) (xx)        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it says peel them gently away to expose the hippocampus so i'm just coming at the hippocampus from the other side. from what you were coming at it from. (i don't know about) gentle... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> it look- tastes like chicken </U1>
+       <EVENT DUR=":13" DESC="UNINTELLIGIBLE  SPEECH"></EVENT>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> every time it seems to (go, just go) right part, (xx) (save that shit) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we need some, we need some better tools. (xx) </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so where's the hippo- where's the hippocampus supposed to be?          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U2>
+          like on this thing?        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> should be like in in there then? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah it should be, right. right in this right in th- well look. looks like it, sh- should be right in here. right on the bottom (xx) right on the bottom (here,) of this, mm so here's my thalamus, when i'm coming from the other side. and then there's, some big meaty-ass structure. now wait a minute here, </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the hippocampus should be right up (over) here. (xx) </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i know it's not that little, dark, thing on the bottom (though.) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh, (you) got something there (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> do you think that amygdala (you think) (xx) or did he tell us          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> you know </OVERLAP1>
+          i don't know what (he told us) he said go one more layer and find (hippocampus...) (going) down another (layer) (xx)        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) i i wonder i i i found (xx) </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you might wanna pull this completely apart cuz we'll be able to identify it better </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think i toasted (my) (i can't get any further) cuz it seems like nowhere (xx) (from a different) way </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well you're almost to (the other side) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i'm not getting to the (cavity.) </U1>
+       <EVENT DESC="UNINTELLIGIBLE SPEECH :08"></EVENT>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i know, we got hashed, we got hashed now. look at that look at our brain we got hashed.        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> sorry dude. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          we were looking        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> isn't it amazing that he can like (pick) up all the little pieces and be like oh that's the (da-da-da) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i dunno. </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hafta find something (in there going go) above this cortex (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> some of those shapes? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah it's really (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i know        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so you like, pass, pass this little thing that's broken apart real nice          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          this is all like, gristly and        </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you gotta nice sec- you gotta nice section there. it's just like, (it's really fine) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> all i got all i have left is the midbrain, and the uh, a little bit of the internal structure like my, cortex is, toast. my cerebellum's toast. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (too much shit to work with) i'm telling you (xx) (let's get it) (xx) (there it is) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> where? oh, yeah. oh yeah. (xx) did you get the outside (there?) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you got the outside (of each) (though right?) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (this is) kinda dark, (i wonder) what's going on </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> oh yeah. that's general slime. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) (i'm gonna flip it over) (xx) (it says he) said the (xx) hypothalamus would be, somewhere in here </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> cool </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> gimme that </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (there's not) enough (of that) </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> gimme that </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <EVENT DUR=":04" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) before we go? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) part of this (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> wow that's really (different) i wonder if, (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you sure it's not (part of) (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah hold on i wonder what's uh, </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> wasn't that something in three-seventy-three we should (be able to list the) (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          right.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) (last night) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you didn't? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i can't believe that i          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) for the (stat) </OVERLAP1>
+          the stat shit is, didn't it? i fucked up with the multiple choice. i only got like forty-something,          <OVERLAP1> one. i got forty-one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well yeah i got (i was_ right ) </OVERLAP1>
+          that stuff that stuff i (still couldn't) figure (out at all) (xx) (like) until i got to the          <OVERLAP1> short answers </OVERLAP1>
+         <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          she gave me short answers (like) she gave me two on almost all of 'em i was like, yeah.          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah. </OVERLAP2>
+         </U2>
+         <OVERLAP1> (it was) </OVERLAP1>
+          easy.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> are you coming to se- are you coming to look? </U1>
+       <U1 WHO="SU-8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we have like (four) we have like half, now.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          our brain.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          there's not much left.        </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright. well what did you do with the, the brain stem? i mean, did you find anything? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we found a          <OVERLAP1> couple of </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          we found a couple of things, yeah        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the brains, </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well there you go, </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well no no no wait a minute i think, are you messing with my cerebellum, now? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (this is) the cerebellum yeah          <U2 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> where did you (mess,) </OVERLAP1>
+          see- look um, so, this is how the brain goes like that so there's your_ that's the cerebellum or the uh          <U2 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (that's) the cerebellum </U2>
+          this is the um, what would you call that? hindbrain?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the spinal cord? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no no spinal cord's down here. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> and that's the medulla </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay so that's the medulla, right there. and then          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> uh </U2>
+         <OVERLAP1> this the </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what's going on?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (that's it right there) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, so that right there (is the pons, it's that thing) (xx) and that's the, the, hindbrain section, the medulla with uh, um, with the midbrain. which is this stuff right in here. so, that's like the superior colliculus in here somewhere, which we found and then destroyed somehow          <U2 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            okay          </U2>
+          and then there's a there's a, inferior colliculus in here somewhere too, but i think that's probably (where it is) (though it could be that right there too) i don't know. how did you guys do with your brain? what'd you find, anything?        </U1>
+       <EVENT DESC="GLASS FALLS ON THE FLOOR"></EVENT>       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i knew that was gonna happen (xx) around on the floor </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what is that a bottle (xx) or something? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um... yeah we found it eventually, like we had to (mess with) (xx) this corpus thing. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, yeah (all this) corpus callosum, all that. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i haven't done any reading yet, so like... i'm gonna cram the last week          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U2>
+         <EVENT DESC="AUDIO DISTURBANCE"></EVENT>          this is where i work.        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (man,) i'm getting like dizzy and like, lightheaded. i mean (xx) with no food (in like) (what is it now?) </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> doesn't this look like chicken? or isn't there chicken (xx) </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it feels like a chicken. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          yeah (xx)        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no chicken no sushi... oh yeah, (the little) sacks in between 'em there. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (who's the) (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what do we got for the time? how much longer w- should we really be expected to stay here? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> whenever. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we can leave whenever? </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> like i'm, i'm getting ready, right now, right? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> thank you </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> how are y'all doing? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (oh we're doing) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) (find a time break) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we uh, we can't find the hippocampus (still) but, (i think) we we got everything else </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> i'm gonna help you guys try to find the hippocampus here (xx) watch out for, yo lea- don't get brains on the tables okay?          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          (xx) that's disgusting.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright, so, so we had that, and then this guy, comes out,          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah,            <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and then </OVERLAP1>
+          you said pull a little bit farther and uh,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> right </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> if we're done, how do we get rid of our, tissue? </OVERLAP1>
+       </U1>
+       <EVENT DESC="MULTIPLE SIMULTANEOUS CONVERSATIONS NEXT 1:12"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay, yeah this is important hold on here. alright, um, if you're finishing up, there's a, container right over here that says, well let's see (see if i can find one.) discard parts. it says parts discard, okay? only, only throw brain tissue in there don't throw gloves or snot or, tampons or any of that other stuff, just brains okay?          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <U2 WHO="SU" NSS="NS" ROLE="SU" SEX="U" AGE="0" RESTRICT="NONE"> (brains go in there?) </U2>
+          yeah, the sec- the same thing is clean up your mess.          <OVERLAP1> clean up your mess. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> why are you gonna </OVERLAP1>
+          recycle them?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> uh, tampons? </OVERLAP2>
+         </U2>
+         <OVERLAP1> no we're not gonna recycle the brain parts. </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+            good          </U2>
+          okay? don't worry about it. um, uh, wash off your utensils, and wash off your your uh, your plate, in th- in thes- in these places here. (and then)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (we have to) wash our plates off? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> what? excuse me?          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          don't wa- (xx) wash out wash out your trays and throw your gloves away in this plastic garbage bag right over here. okay?        </U1>
+       <U1 WHO="SU" NSS="NS" ROLE="SU" SEX="U" AGE="0" RESTRICT="NONE"> where do we (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> uh, give 'em to me and_ (well actually.) these go in the discard parts right here. mkay? yeah. clean up, clean up your mess in these trays up front. </U1>
+       <EVENT DESC="CONVERSATION 2"></EVENT>       <PAUSE ></PAUSE>       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's only six-thirty (xx) </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> let's see if we can (go) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm, i'm about ready.          <U2 WHO="SU-8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (let's go) </U2>
+          i wanna t- i wanna take a look at those questions (and stuff that we got just so i can really) (xx)        </U1>
+       <EVENT DUR=":15" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> it's gonna be fucking hard, (xx) </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah... </U1>
+       <EVENT DUR=":06" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) these </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> i need i need (xx) (one, question) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, (xx)          <OVERLAP1> (xx) you're right </OVERLAP1>
+         <U2 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+          you're right it's one question you're right you're right you're right. you're right.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's a lotta shit. </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <SEG TYPE="READING"> early brain development (xx) </SEG>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it'll be easier (than that stuff) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (right.) it'll be clearly marked, yeah. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) trying to find the part. </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> okay. now let m- let me take a look here and see what you got (here) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> you guys are really (cooking.) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> these are some intense questions man, these are some really, intense questions. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> they're okay,          <OVERLAP1> i mean actually, </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> they're okay? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> well, the materi- a lot of this you don't know yet, right? but, we're gonna talk about this next_ but but think about it this way, i think these are a lot more conceptually straightforward          <OVERLAP1> so, yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah there </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no i agree yeah          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          it's not          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah so </U2>
+          like, it's not as much          <U2 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          going on a limb yeah        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah there's only one (xx) right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> uhuh, right </OVERLAP1>
+       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+          (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, you, your brain is so tough, it's really hard.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> is that a, </OVERLAP1>
+          no. wait he said th- are those (clutches?) did you get those from over here?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i just wanna look at your i          <OVERLAP1> just wanna (xx) for a second </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> okay, </OVERLAP1>
+          you see this, you see this area, okay, no you see this uh, section right (there?) where it kinda curves around a little bit? alright, that's uh that's the hippocampus. right there. (xx) you push it and no wonder (xx) you ripped it all up you can't see it. (the whole) of this section right there, (is) the hippocampus. it's so hard to get at, you know?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's like it's like it's like (it formed into one) with all the uh </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> yeah, yeah. it really is. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's kinda get, a little bit on the bottom of that. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright, what was the thing that you never found? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> um, i never found the amygdala. the amygdala is nestled so deep inside there that in order to get to it you usually have to destroy it. it's it's it's underneath, all this cortex, right? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we don't have (amygdala.) </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what did, what did you say with the gloves? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> uh, put the gloves in the plastic garbage bag. actually it's due on Monday, alright, yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> when is your critique due? </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="1" RESTRICT="NONE"> Monday. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> Monday. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> Thursday. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> Monday? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> Monday i thought it was Thursday. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          critique.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="1" RESTRICT="NONE"> i thought it was Thursday. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> the the outline was due on Thursday. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="1" RESTRICT="NONE"> wait wait wait how we gonna get 'em to you? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE"> give 'em to me in class, y'all are planning to </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

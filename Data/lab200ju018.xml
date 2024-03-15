@@ -1,0 +1,1168 @@
+<TEI.2 ID="lab200ju018">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Chemistry Lab </TITLE>
+         <TITLE> Rackham Div: PS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 7511 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> LAB200JU018 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="47">             <DATE> June 9, 1998 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones and VHS Video Recorder </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Eric Breck, Matt Murphy, Rita Simpson </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Eric Breck </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Matt Murphy, Ed Filisko, Amanda Jones </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Final Editing, 2/1/02 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">LAB</TERM>
+ <TERM TYPE="ACADDISC">200</TERM>
+ <TERM TYPE="PARTLEVEL">JU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">PS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="20"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="21"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SG, Student" SEX="F" RESTRICT="NONE" AGE="3"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Student" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="UN, Student" SEX="F" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Classroom Laboratory, Chemistry Building </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so there's no </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i have no idea </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> who's doing five then? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (you) doing four?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you doing four? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah (xx) just started on it. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's a pretty (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we're stuck at the end </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (yeah it's orange juice) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> lead bromate </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> just have to be pretty much uh, (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (replace) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i think i saw your roommate. is he a large (xx) tall? kind of (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh he's he's kinda tall </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is he built like you a little? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh really? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (oh here we got started bad) what had happened was that we were getting no reaction. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (S-M-L) (xx) (maybe) in the computer room </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no reaction. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we got, what we found, is that uh, when you mix, the, sodium hydroxide and (xx) you get a white precipitate, and then just, we were just like (fixing the) (xx) and so we found we got white precipitate but then we add, the potassium (chromium) to it, the white precipitate (xx) so we_ we're guessing that uh the white precipitate (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what am i doing? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know. God only knows. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> like, is our liquid clear or is, our liquid's clear. so i guess it kinda has to be (thick) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> well let's filter it, (okay?) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> all all of these reactions </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are (you going) on four now? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> halfway the first step is you get a (queue) (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yep. what we're what we're guessing is that like (xx) is uh better (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> excuse me </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm done with mine so if you, want some help, i mean </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't have anything to do </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> um, is it right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh boy </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah, i looked </OVERLAP1>
+          it up i think it's right        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay um, well, you can, you can did you ask is Shannon done? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yea- no he's not but he's all confused and he's like, stressed out on (it.) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> aah, you could kinda chill i guess. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> and then (xx) (potassium bromate) and then when you (put it) all together you (have) (xx) result (xx) put together and got sixty percent (xx)          <OVERLAP1> is that the uh bromates (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> what are we </OVERLAP1>
+          at Nick?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> no precipitate </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> no reaction. </OVERLAP1>
+          alright, i was          <OVERLAP1> right (lordy God.) </OVERLAP1>
+          praise the lord.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> (C-S-O-four) (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> C-S-O-four plus S-N (C-O) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that should be a precipitate </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh man. okay, (you're) doing (work, right?) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> here's your uh, reagent sheet. with all the reagents          <OVERLAP1> on it (xx) (the back for the reactions) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> that (won't) do it. </OVERLAP1>
+          N-H-three makes it turn like purple with yellow polka-dots i think we've got it.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright, so add N-H-three to the end result? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so add N-H-three, t-          <OVERLAP1> as the third </OVERLAP1>
+          okay.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> yeah, to the, </OVERLAP1>
+          to the halfway mark        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey, (Ani, Ani)          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> fuck you </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> test tube do you have any test tubes (left here?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> uh, i think so. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so, we're filtering we're filtering out our precipitate </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> see the results (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so this is the same as this. right?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> just so </OVERLAP1>
+          i'm not going out of my mind. alright          <EVENT DESC="LAUGH"></EVENT>          okay identification          <OVERLAP1> of reaction products. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> i put everything (xx) </OVERLAP1>
+          it's it's all the possible solutions. all the possible (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) these in cold water </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hot_ we have to put it in, we have to put our solid in the hot water. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> wait. that, (if that's)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) soluble          <OVERLAP1> it's insoluble in cold water </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right, so it's not it so right now it's a solid. like right now we have precipitate cuz our water's cold. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i've got five molar.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> okay or if it's tin nitrate what </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) you can do it with yours </OVERLAP1>
+          and do yours in hot water i'll do mine in cold water        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (cold?) </U1>
+       <PAUSE DUR=":14" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) so, um you're saying that you saw purple with the hexate right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (yeah we did) (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so. okay no you (had to be)          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> ooh. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'm tired of counting to forty. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright if we've got five molar, how many drops do we add? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) five what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> isn't chromate C-R-two? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <SEG TYPE="SINGING"> you are the answer </SEG>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no i guess not </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) gonna be          <OVERLAP1> something (xx) </OVERLAP1>
+          in here        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (Brian?) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (we want) if we heat up the original, the original like, solution, (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> cuz one was          <OVERLAP1> soluble </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> soluble </OVERLAP2>
+         </U2>
+          in hot water and one was (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what are you guys doing with hot water and stuff? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> trying to get out a precipitate </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> ohh. i hope i don't have to go through all that. you finished um, you finished both of yours already? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is the second one. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is so not working (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh okay </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm bored outta my mind. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well go home. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you don't have anything else to do right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but i'm supposed to help, i'm supposed to help you guys right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you can,          <OVERLAP1> if you wanna stay </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> Bill you wanna heat </OVERLAP1>
+          some water for me you wanna get a, a heating thing and put some water, like a little beaker of water?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so wait. let's... (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> man we shoulda done it by section          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's what i was seriously about to say </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (we're) trying to find each (autograph) cuz from here you can (in there) (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> how do we get the hot water? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh there we go </OVERLAP1>
+          hot water        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> there's a hot water tap (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what's the charge on um sulf- sulfate? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> S-O-four minus two. </U1>
+       <EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :40"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> how do you get hot water? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> how do you get hot water? (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. thank you. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i (xx) eight has          <OVERLAP1> a charge of </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> what are you </OVERLAP1>
+          doing?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what did you just do? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> did it work? well look it's basically all in the test tube anyway as long as the water's clean it doesn't matter... right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey is this water really hot? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well it's a little warm </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that water gets hot (xx) </U1>
+       <EVENT DESC="CONVERSATION 2"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright so what were they saying? they were saying that </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> they told me it was a better Lewis base than </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> than N-A-O-H? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay. but they didn't test that, and i think th- we didn't either </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't know if we do because we know, we know what the product is. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay. true. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so i'm not sure if we need to know_ we need to um </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no there's (xx) try it. fuck it. let's kill this bitch. </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> does it really? okay hey you don't have to do that, actually. sorry. but i gave you something to do. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are you sure it gets it hot_ it gets hot enough? i mean. it probably doesn't get hot enough (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (what was that?) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it doesn't get hot enough. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well we've gotta let it run for a minute </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> into the nitrate </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> if you want to set it up we can </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh yeah.          <OVERLAP1> oh yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh this is warm. </OVERLAP1>
+          it's getting warmer.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it gets (a little bit) cloudy. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you're touching nonpotable water miss Catie S          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's not_ </OVERLAP1>
+          th- that doesn't mean it's like, poisonous, just means don't drink it.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what are you doing?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i just wonder what that is oops          <EVENT DESC="LAUGH"></EVENT>          i was wrong.        </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hm boy. (xx) (compulsory) for the hypothesis as to the (xx) okay um, hypothesis (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is not hot. okay you were right so this doesn't heat up, but (this isn't good) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (it does) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) we're heating it up </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> turning it on high man </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you need your pipettes anymore Catie? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> is it still cold? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah.          <OVERLAP1> it's like </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> is it </OVERLAP1>
+          like cold cold?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> not cold cold but it's not warm. okay it's getting warm. okay you're right it's getting warm. oh that feels kinda good. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) spilling (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have water? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> not good not good. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (so) (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> this has gotta go </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that was probably not a good idea was it? </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay i'm gonna add hot water to          <OVERLAP1> this okay? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> anyone </OVERLAP1>
+          who didn't hear (xx) the first reaction got a precipitate        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you know the F-E-two reaction?          <OVERLAP1> iron chloride </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> the first one? </OVERLAP1>
+         <OVERLAP1> no there was no reaction on it </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> did anyone get a precipitate </OVERLAP1>
+          with that?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> they're getting precipitates          <OVERLAP1> i think you have to (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no it's the water </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's the water it might be the water </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's the b- (xx) water (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah but. if your water's too basic, you're gonna get a precipitate. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) the number one reaction </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> their water sucks man. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> you know what we usually </OVERLAP1>
+          like filter our water though cuz it (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> if they're using (boxed) water, (that's why.) cuz the (boxed) water's basic. tell them to use tap water. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Henry, what'd you say two meant? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> D decomposes </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey Richard, it doesn't (clear it up) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> did you use the right (copper?) yeah forty-one? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you use the same amount </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey (i want) hot water </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay we heat up the water. you are stupid, why did you touch it? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> don't do anything yet. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay why? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> cuz it says here that, (xx) nitrate,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah? </U2>
+          decomposes. (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh, man. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it said like (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so do i need this? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't know. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well check          <OVERLAP1> what happens to the copper fluoride </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> well i </OVERLAP1>
+          could go ahead and try it and see.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey check what happens to the copper fluoride in hot water. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so, how are you, how are you doing_ you getting the f- the the precipitate, and then,          <OVERLAP1> adding to water? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> i was </OVERLAP1>
+          gonna add it to hot water.          <OVERLAP1> and what would we think would happen? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so, if that's the case it should, disappear. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right. but why is it remaining if it's in lukewarm water? just that's a property of it? i mean if it's at room temperature water it remains? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh, you know like, say like you're mixing stuff like sugar, and if you mix in really cold water it takes more time to dissolve? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay, so          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so </U2>
+          it has some property like that?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> like hot water has,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> makes it go faster </U2>
+          heat, makes the, the things go faster.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay i'm gonna add it to warm water now. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uhuh. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> ready? </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we're not gonna get all of it done (in one day) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> mix, um, (xx) i didn't i didn- (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> did it remain the same...? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um... i'm a little worried (xx) water. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's not that hot. i thought it would be, so. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> was it, it was like that before right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> and so the temperature of the water, like, doesn't affect </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay well this wasn't like boiling but it was warm. </U1>
+       <PAUSE DUR=":39" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so what do we do? we don't know what it is. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> is there (an eraser) (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> don't joke around in the lab Nick. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's just water. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah, but (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> water's (enough) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> how you guys doing (Ross?) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh, we're done with the (experimentation in) number four, and then we have now,          <OVERLAP1> um, Brian's finishing number, three i think. (xx) Brian's doing number two and, Brian's working on five. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> well we, we know that nitrate is soluble why can't we just (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> the precipitate's white. or, so, (xx)          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right (xx) </U2>
+          but, it says that water, at (xx) it holds (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but does it_ what does it exactly mean? does it mean like (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are you done Jeremy? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i thought </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey did somebody do number one? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> for, discussion you guys          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> i don't know </OVERLAP2>
+         </U2>
+          alright (xx) i have to break up one team for presentation.          <PAUSE DUR=":07" ></PAUSE>          i have to break up one team for presentation does anyone volunteer or am i gonna have to flip a coin?        </U1>
+       <PAUSE DUR=":14" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do we get extra points (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yeah (of course,) no one wants to break up their groups but it's, just for presentation.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>          just for a five minute presentation. you know or a or a three minute presentation. okay there are six teams        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'll do it for five dollars... </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i'm gonna throw three pennies. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> why don't you call like,          <OVERLAP1> one person call heads and tails, one person calls heads heads and one person calls heads tails </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> (for work) there's gonna be extra there's gonna be extra gonna be extra data sets until (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> so </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i can't throw two pennies cuz that's only </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you can throw one and throw it twice one person calls heads heads          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> i'm gonna </OVERLAP1>
+          try to pick one team to split up no one's volunteering.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so how does three pennies work? are you gonna flip three pennies and we call we each call          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> no </OVERLAP1>
+          no i'm gonna write down what i'm gonna pick and then that's it.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh. okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> up up up is one. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> why don't we have          <OVERLAP1> a mass game of rock paper scissors shoot? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> up up down is two </OVERLAP1>
+       </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you like to          <OVERLAP1> play rock paper scissors shoot? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> actually i'm going to have to do this </OVERLAP1>
+          with four pennies        </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what was the last one? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> shoot </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> why don't you just throw one and throw it twice? one person </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> because there's six teams </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you're gonna get          <OVERLAP1> picked i know you're (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> why don't you just throw </OVERLAP1>
+          them all for each of us and one of us calls like, oh really?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i don't care. it's not really a big deal </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is what is she talking about? i don't know what she's talking about </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> never mind </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um splitting up groups </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know what she's doing </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> splitting up groups (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> because there, are too many groups          <OVERLAP1> to, each do a presentation (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> alright, tell tell you what </OVERLAP1>
+          just let me do this        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so one groups has gotta split up. she should probably split up our group because we only have three people </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> team, team two call heads or tails </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> heads </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> heads? you guys are tails? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i guess so. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> alright. who's heads? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we are </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you guys won so i'm_ you guys are flipping the next (xx) (against the losers) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so we're definitely not breaking up now? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's right </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we're definitely not breaking up </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> tails </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> tails? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's beautiful </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you're heads so, you guys are heads. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so we don't have to </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> um, you          <OVERLAP1> guys </OVERLAP1>
+         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> who won? </OVERLAP2>
+         </U2>
+          called tails so i have to spin you against one of the,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> who's won? </U2>
+          heads or tails guys?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> heads or tails guys? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is just crazy. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um, tails. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> she is so cool. other people would just be like you're gonna do it. she's all trying to be fair about it </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> heads (alright with you?) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> heads. who won. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we won </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> so, whoever got heads won. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> they lost twice so </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so (once we) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> so you guys called tails </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> so you guys, so you guys (may get) split up. heads or tails guys? heads or tails? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> tails </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> tails? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's not fair to them cuz they had to go twice. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> and they had another shot (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> so you lost. okay, it's against you two guys to see (whose member's) pulled out. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (what if it's) a tie? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no no (xx) them against team number one </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> chromate was C-R-four </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we're voting tails </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you're gonna vote tails? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> chromate was C-R-four, two </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it landed on its side. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no don't do that lemme flip it again. it landed on its side i don't lie. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's ridiculous </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> let me try it again </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's tails </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's tails see </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> landed on its side again </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it's heads </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what do you mean it landed on its side? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it was tails the last time yo </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> but it was tails over there so you got one more. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what does that mean? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it was tails over there see </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> all this means is that you guys are gonna have to do presentations with another group. so what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> y'all lost to every group in here on a t- on a h- coin flip? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> alright i can't break them up because one of them commutes an hour to get here </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> are you telling me y'all just lost every coin flip to every team in the class? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah i think so </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's horrible </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i need someone to volunteer. i really do cuz there's five questions. i have_ there's only_ there's six of you. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          that makes no sense though        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> how 'bout we don't have to do it? (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no we can't do that </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you drive from Sterling Heights every day? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yep </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> even though he commutes an hour a day it doesn't make any difference </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i know it doesn't matter </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you don't </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey (Diann) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you don't need (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> the fact that he commutes an hour to get here doesn't mean anything. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> hold on. what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> the fact that he commutes an hour to get here doesn't actually mean anything. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> yes it does if he has to get together with a strange group. i don't wanna get together with them during their regular time. in other words he'd have to make s- different arrangements, to meet another group of people. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> well they're the same arrangements he's gotta make for other people </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i know but don't you guys already dak- meet that day or something? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah we just meet a little bit beforehand.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what does this presentation involve? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> it has to be done. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> just reading the sheet to the class? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> huh? what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (you have) to walk around and (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what does the presentation involve? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> what does it involve? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what does it involve? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you have to interpret the reaction.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay. </U2>
+          up in front of everyone.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that was my reaction. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <SEG TYPE="SINGING"> your love has lifted me </SEG>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> as much as i know it i don't, i'm not too comfortable with it. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <SEG TYPE="SINGING"> brings me to my knees </SEG>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i wanna break up a group of three anyway. cuz it's one less person to worry about. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright,          <OVERLAP1> alright </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> the only </OVERLAP1>
+          group of three i have in here is number one          <OVERLAP1> number five number six </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> five dollars. </OVERLAP1>
+          five dollars will do it.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i can break up but i won't do anything. </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'll give you my paper </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> do either of you guys mind getting getting broken up (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (Brad's) being a bitch </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what? (i'm not) a bitch </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you're a bitch </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey Richard, you did one </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you go to the (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) one person </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i need, one team </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you did one only right? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> no no no no, one person, so, one person has to go to another team. there's only five questions. unless, you know what? why don't you two g- why don't we just solve this, (we put) six of you? alright why don't you just, you two guys here,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> a megagroup </U2>
+          work on one question, each group, alright, that way i don't have to (xx) five different reactions        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no wait, why don't our two groups work together?          <OVERLAP1> since we normally work together anyway? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> yeah, they have the same reaction we do. </OVERLAP1>
+          they have_ no no, everyone is_ we have five reactions. there're gonna be five groups, presenting five reactions to both classes, so both classes, are gonna have to present, the same reactions what we're gonna do is we're gonna have people leave the room. what?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> why don't we just put our two groups together? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> cuz that's like seven people. i (xx) what i'm gonna do is put these two groups together with six people (xx) alright so you guys alright with that? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          alright        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> whatever </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> that's (xx) what i'm gonna figure out right now. does everyone want me to just randomly assign questions? cuz that's the only way i'm gonna be able to do this. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> K-R (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> alright? i'm gonna write le- i'm gonna write numbers down and everyone from each group can pick a number out of a hat. give me that hat. actually no wait wait wait, Ross, i want your hat </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you know why i want his hat? cuz it's a Silicon Graphics hat. S-G-I. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you wouldn't want this hat, (xx) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <EVENT WHO="SU-f" DESC="SINGING"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> um, did everyone get this review sheet? (a few) people did </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) don't have that (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> who did the last one? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> my hair's all messed up. </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you guys have any of you guys done five? </U1>
+       <EVENT WHO="SU-m" DESC="SINGING"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) singing </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> well i'll do five again </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Richard </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i didn't do five. let's go. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> i'm done with this lab oh no </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> (xx) only </OVERLAP1>
+          did one        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i wanna wear the gray thing with my little filter </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (how many) have i finished? two three four </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you guys finished too? </U1>
+       <EVENT DESC=":06 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> alright, one, everybody from each group come up and, wait wait wait wait          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> everybody from each group </U2>
+          come up now i wan- just just everyone come up who's gonna be doing it for either group.        </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> everyone come up who's          <OVERLAP1> gonna be doing for either group </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> okay. are there five people here yet? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> (there are) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> (sure i can do it) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i got it </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> alright. just reach in and take one. you guys everyone (who takes it, who takes first?) </U1>
+       <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is, what's the letter number? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (who got) one </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> letter, or number? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay, (next) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay we're done </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> wait          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> we've </OVERLAP1>
+          got the          <OVERLAP1> answer </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> fifty-four, </OVERLAP1>
+          eighty-three        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> is that the easiest one? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh oh easy (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> numbers </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i have one left over who hasn't had a number? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we don't... we don't </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's this one </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's the one you spent like the whole time on (xx) </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we don't need          <OVERLAP1> a number three </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+       </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we're not getting (resul-) we're not getting (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so good </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no it's not </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> professional professional </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's all i (had too) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> Ross. thank you thank you. i got to use your hat </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's awesome.          <OVERLAP1> i really need it back </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> wait (number three) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is this? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we have to do number three </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what does (five) mean? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> didn't you hear me calling you? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yes i did but i was focused </U1>
+       <EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT 1:50"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> can everyone be quiet for me cuz i'm gonna explain what's going on with the presentations cuz there seems to be some confusion which is understandable... perfectly understandable </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (i don't really get it) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you are </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) no uh'uh          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> by yourself </U2>
+          just you. no one's gonna be doing (this together) except the last two groups (because i couldn't break them up) (xx) once you get your reaction (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) available (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> alright. guys. alright. what you need to do, is, alright team number one what number do you have? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> four </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> four </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you have four. you will write up every reaction except for number four. number four you keep to yourself after you write it up.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh </U2>
+          no you still need it. you still need it. don't pass it in to me today. everything has to be passed in to me today. alright? you do not pass number four in to me today you hold onto it. you're presenting it in class. okay? so you will present number four as you wrote it up in class nu- group number two, you alright with that? (xx) alright, um, Catie? do you understand what's going on? so (team) number three (xx) so, alright.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) set five? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> see this group presentation grade assignment? guys over in team five and six do you understand what you're doing today?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U2>
+          you guys i just, if you're not presenting_ what question do you have? what question do you have?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> two </U1>
+       <EVENT DESC="CONVERSATION 2"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you were supposed to grab us a different number </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i have a question          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> yes ma'am </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. now i'm testing for this. are you done? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yep. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so you're leaving aren't you? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> nah i'll wait around. i gotta be at work (later.) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. now i'm testing for this stinky stuff. okay so now what_ what's the best thing for i_ for me to do? i looked all this up in the thing. is_ what's this mean right here? it said it's soluble, or something </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> is it soluble in N-H_ in H-N-O-three? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i guess that's what that means </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> then do you have any of the solid? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i think i might.          <OVERLAP1> (i don't know) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> if you </OVERLAP1>
+          put        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> and what's... this is the melting point, so </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you can either melt it, try to dilute it,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> solid </U2>
+          put it in there,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> but you know another thing </OVERLAP2>
+         </U2>
+         <OVERLAP1> did you look at the </OVERLAP1>
+          color?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um yeah, it's the greenish powder which is what,          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright </U2>
+          this will be. but um,        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> is there any of that? is there any of, what i- what is that called? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's_ it should be_ okay in the book they only had iron-three but i thought </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> no i mean what's that called? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> it should be </OVERLAP1>
+          iron two_ iodate, iron          <OVERLAP1> iodate </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> iron </OVERLAP1>
+          iodate. is any of that up there?        </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> two. you will pass in everything to me today except number two. number two you will be presenting next Thursday. two days </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's awesome          <OVERLAP1> they're just like (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> next Thursday? </OVERLAP1>
+          oh (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) class. so finish writing it up today and then you're presenting it on overheads or however you want to prove, your interpretation of the reaction. okay? and we're gonna_ and your classmates will be grading you.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> great </U2>
+          is everyone okay with this?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh boy okay </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well my only um </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> everybody gets ten dollars </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> they're doing five that's why </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> so before you leave today i need all your sheets from you. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah we'll help you guys through the process </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> if you want you can clean up this stuff </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hm? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> if          <OVERLAP1> you want you clean up this stuff </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE">         <OVERLAP1> and before you leave please </OVERLAP1>
+          come pick up your last aci- your last acid base lab from me.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ass </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) had that </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (i don't think we got that) right </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> before you leave. yeah. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> are we gonna get that quiz today? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) correcting those </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> i had 'em (xx) Mike isn't correcting them it's Trevor </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so um like where are we supposed to do to study          <OVERLAP1> if we don't have our materials back? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> so who did who did all of number three? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> um, well you're not gonna get it today_ you're not gonna get the Lewis acid base back till Thursday. i mean just passed it in today. and the other lab you're just gonna have to, i mean the lab i'm passing back today. um, the quizzes, Mike has got and i don't know how long it's gonna take him to finish those. but, i don't know if he's correcting them now or not. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (one to three is) (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> hm? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what happened to our other thing? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Shannon is yours all done? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay... (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> nobody else wanted any others. um, why? (do you_ what) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i dunno (this stuff) (xx) (from one to three) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> you think i should have some (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you didn't write down </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Brian did you finish? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (your reactions) (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> did you finish it? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'm on i'm working on five. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> is this          <OVERLAP1> anything (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> (xx) can't leave after (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> it's the same as the front page. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well write it over don't act crazy now. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what are you talking about it's the same thing? they just put your extra space. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no (xx) i'm saying write it over. (xx) since i          <OVERLAP1> asked her </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> what're </OVERLAP1>
+          you doing?        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> what'd </OVERLAP1>
+          you write (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i just said chloride and sulfur are the reacting species because when they combine they form a white cloudy mixture with white solid precipitate </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh alri- alright then. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> cuz i asked her what i was what i was_ ooh look at this. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay. there's mine that we have to turn in. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) i don't need that one i need number one. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i need your one. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is number one </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> who (all) did number three? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i did... believe me i know all about it now. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what did yours turn out to be was it like impossibly hard or what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (mine,) yeah. i'm glad we didn't have to do it. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh. </U1>
+       <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> bitch. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> ours was cuz, ours was wrong cuz everybody's looking up the wrong thing in the C-R-C, which is like, threw everybody off, so it was kind of a          <OVERLAP1> waste of time. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> so does that, </OVERLAP1>
+          mean you're presenting?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. i          <OVERLAP1> got it. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> you want_ </OVERLAP1>
+          that alright?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so do we need to meet or anything or are we just, all set? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you need to what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we don't need to meet or anything then right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (Jenna) will you please write this up (xx) sample i gave you </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> here, (xx) i'll do it </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> don't write, go and handle your business please </U1>
+       <EVENT DUR=":15" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey (xx) what </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what'd you say? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what'd you get from the C-R-C? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> um, a yellow precipitate. </U1>
+       <EVENT DUR=":30" DESC="UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no C-U-C-L-two is (xx) C-U-C-L </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> K-two-S-L-four </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh okay </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> wait what did you have? is it C-U-C-L-three, right? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) makes sense and then the C-U-N-O-three is definitely (xx) C-U-C-L </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but it's like, um... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> plus another C-L-one (is three) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> like that's just associated (xx)          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U2>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> but you see where this, well basically this is_          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> wait </U2>
+          this is already (xx)          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> but (xx) </U2>
+         <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> right </U2>
+          because this is already soluble. and this is soluble        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh okay i see </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey wait this contradicts that (theory) because it says that um, </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no this is aqueous </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> right then S-O-four, so you said that the (xx) should have gotten the reaction (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> let's see </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well i know that it is, if i'm testing for this Catie right? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> uhuh </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> so how does this work to make our presentations and we have our final? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> then my solution should turn, </OVERLAP1>
+          purple if i put, hexane in it, right?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> wait say that again? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> if i'm testing to see if this is a product          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          my solution should turn purple if i put hexane in it cuz it has iodine in it        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> but it has to uh purp- the hexane'll turn purple if it's I-two. not if it's io- that's iodate </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :20"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you get number five? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what number do you have? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> four </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you get all of 'em </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no not her two. (xx) </U1>
+       <EVENT DESC="CONVERSATION 2"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't really know what to do for a test of this </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> did you look it up in the C-R-C? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i did          <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so you </OVERLAP1>
+          know what i- what it is basically and you just need a test to prove it?        </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah i need a test to prove that </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so you shou- in the C-R-C </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> this, is what, this is </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> did, did you look? </OVERLAP1>
+          cuz sometimes in the C-R-C it'll show, like it dissolves in if you add hydrochloric acid or something          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah            <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> like that </OVERLAP1>
+          did you look for that?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah, it dissolves in H-N-O-three </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so d- add H-N-O-three to it. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> to this? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <OVERLAP1> and if it </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> my </OVERLAP1>
+          s- my entire solution or to just this?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> whatever you think your product is </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i think my product is this. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> and that's what you looked up in the C-R-C, right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah but what_ what sense does that make i know that this dissolves in H-N-O-three already          <OVERLAP1> cuz </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+          it's in the C-R-C. so shouldn't i        </U1>
+       <EVENT DESC="SIMULTANEOUS CONVERSATIONS NEXT :18"></EVENT>       <EVENT DESC="CONVERSATION 1"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> but if you were to do that if you were to add that to the H-N-O-three and it does dissolve then that proves          <OVERLAP1> that that's </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> but this is my_ </OVERLAP1>
+          this is my whole thing so if, i add this to the H-N-O-three then, if this dissolves, dissolves? how do you know if it dissolves? we need solid don't we?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. did you look it up in the liquid form? </U1>
+       <EVENT DESC="CONVERSATION 2"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> does somebody have the iron sulfate? alright does anyone know what the iron sulfate looks like? (xx) iron sulfate looks like? it's got a red top on or something? </U1>
+       <EVENT DESC="END SIMULTANEOUS CONVERSATIONS"></EVENT>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know how to look it up in the liquid form </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> ask Shannon. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Shannon. Shannon (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> ask the smart boy </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um. i wanna know if i did this properly looking it up in the uh thing so, if you wouldn't mind, escorting me over to the C-R-C,          <EVENT DESC="LAUGH"></EVENT>          then we could talk about this thing.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey guys do we have to do the paper we have to (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that wasn't my voice. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <SEG TYPE="SINGING"> cuz i'm </SEG>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          you just looked at me and said hon that was um, Brad.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we got a lot of sorting to do tomor- i mean Thursday. with          <OVERLAP1> the whole </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> a lotta </OVERLAP2>
+            what?          </U2>
+          sorting people's equipment.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh yeah. yep </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i'm not staying here so </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we can say uh, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's gonna take you fifteen minutes? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we can say uh, yeah it shouldn't take me that long </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's gonna take you fifteen more minutes? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it shouldn't take me much longer than that.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it's gonna take you fifteen more minutes? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright what </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> bye-bye to our wonderful presentation of today </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> man that was fun that was like, not even any problems we sounded like we know exact- see_ i_ you always learn it right before you go up there like it'll_ you get this image of clarity. did it sound like i knew what i was talking about? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh why thank you </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah you said tons of stuff that i didn't understand </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well good </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> perfect. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yours was very clear, quite coherent. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (that wasn't proved to me, that that's what this is) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> cuz i talk really slowly and (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i was gonna start out with a joke just to loosen up the crowd and then i          <OVERLAP1> was like no. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh for this one </OVERLAP1>
+          i'm gonna say that we sacrificed something to the god of tennis shoes.          <OVERLAP1> after after </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> ours is just </OVERLAP1>
+          the entire class was clueless as to this how to use the C-R-C so, after a trip to the library, due to our connections in the other room we were able to determine what it was. in a brief moment of clarity.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) this or that? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) this </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> where's my hat? i'm stupid </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> aw i don't even know what to do. i don't know          <OVERLAP1> what to do the um, testing. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> man this was it </OVERLAP1>
+          no more. no more late (xx)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> cuz i mean look at it up          <OVERLAP1> close (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> cuz we won't be, </OVERLAP1>
+          working till five o'clock on Thursday you know. like the exam_ when is the exam? like at two? so the exam is not...          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U2>
+          i hope, i'm gonna r- i wonder what's on T-V at Thursday in the middle of the afternoon?          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you know it            <OVERLAP2> can't be (xx) </OVERLAP2>
+         </U2>
+          that's what it's gonna turn into.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) i'm going for a bike ride </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you're going for a boat ride? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> a bike ride </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh. i wanna go on a boat, damn it. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> well come to New York, i've got a boat </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh yeah with your swimming pool and all that. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah my boat's in the swimming pool </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no but we get Shannon we get to use his swimming pool whenever we want. we're gonna have a, chemistry reunion at his at his pool. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Shannon's pool what is it_ where is it? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> North Campus he works at the one on North Campus so i- he          <OVERLAP1> like, he's in charge of everything </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> oh really? i've never been in that place </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i've never been in that place </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> me neither. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> the N-C-R-B </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no it's not that, okay this </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no it's not that one it's like a, </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i know it's not (it's) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh really the um, the Northwood place? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah something like that </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> that's cool. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> and there's not even a lifeguard so we can do crazy and kooky things and endanger our lives and (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> he's not the lifeguard? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no he just lets people in, so that's how_ why we can get in without really.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ah </U2>
+          uh oh now that's all i care (about play first)        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i work right next to that place i work on the northmost part of North Campus </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well you should come to our chemistry reunion. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we can test the chlorine content of the water.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ya ha </U2>
+          add hexane you know like a thin layer above the water.          <EVENT DESC="LAUGH"></EVENT>          wear a body glove.        </U1>
+       <PAUSE DUR=":27" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you want something else to do? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> not really.          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh </U2>
+          what do you want me do?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> get a test tube from up there. you can use my_ i broke one today so it's two-eighteen-B. just pick_ uh just </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh shit </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i broke like two things. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i wrote something in my book. he wrote something in his. you wrote something in yours. you wrote something in yours (xx) right? </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> do you have everything that's supposed to be in your drawer? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no we haven't sorted it but i know in_ that i (xx) test tubes cuz i broke it </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> damn what did i break that one day? </U1>
+       <PAUSE DUR=":19" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey Ross, are you gonna be here after this semester? are you leaving after (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'm gonna be here until next year </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (so) you're not going home at all? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no. well i'm going home </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> for a visit but not like </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah this this at the end of this month i'm going home for like ten days. for a highs- </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> me too. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> for a graduation </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> actually i'm going at the beginning of uh, of July, to go home, for ten days. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah to see all my friends graduate. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> all your friends are in high school? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> if you want your exa- if you want your          <OVERLAP1> last labs there here. you may wanna wait </OVERLAP1>
+          till after class.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> all my friends that are in high school </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you have friends i'm so proud. no i'm just kidding. uh it was just a joke. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) i i'm your buddy </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you didn't, you're not my buddy (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> there's only two possible (counters) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i didn't say it was (anything personal) but          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey baby wanna (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> asking me to help on clean up </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright you're in a hole </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are you          <OVERLAP1> withholding information? </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> is there another, </OVERLAP1>
+          is this_ wait what is this? (like five?)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> he is, he's trying to. no, that's not part C, i need part C. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you're_ i like how you're like, not rushing your pace you're just like i'm not there yet. so relaxed, so collected... </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) presentation? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> this is number two </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they make these things (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> they do. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what do you call those? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> arms. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) three-point-seven-five </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (it's called,) silver nitrate </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> does anyone object if i leave? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um, i_ i object. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> sustained. just kidding i wouldn't do that. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i should go to law school. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so that was a joke you don't object? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> huh? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> so that was really a joke and you don't object...? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we're all leaving so          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh alright </U2>
+          (xx) gonna hafta, we'll wait for you, well, all the nice people will.          <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>          bye Shannon          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> why don't i just turn it all in for everybody </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> this one? yeah </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are you really almost done? i mean like if you got a lot to </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i have to do part C </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> do you wanna see mine? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what is, that's prove it </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's uh, identification of the reaction products. it shouldn't take (you) too long to do it (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mine mine wasn't a reaction product. but the next thing i did, (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> here's some presents for you. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> man, i hate drying_ i'm </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> don't          <OVERLAP1> dry 'em. we're never gonna use 'em again </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> ah, i've </OVERLAP1>
+          stained my fingers again, damn it.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> never gonna use it again don't dry it just leave it </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh well that won't happen anymore.          <PAUSE DUR=":06" ></PAUSE>          i really need to stop doing that. rocks are so much better than this kind of stuff.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> rocks? what? oh rocks,          <OVERLAP1> like geology rocks. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> but you're but you're doing the experiment so you know </OVERLAP1>
+          what's going on        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> huh? seriously geology is fun, like </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> alright, i'll talk, you can tell me what happens...          <OVERLAP1> are you gonna write it down? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> hey it's all going in my drawer </OVERLAP1>
+          though        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you don't mind (then) we're not gonna tell you </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> alright.          <PAUSE DUR=":08" ></PAUSE>          i'll see y'all Thursday. sorry i'm leaving.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> see you. no you're not, but, have fun. no you're not, you're not like sorry you're leaving. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i'm_ well i'm not happy, i'm_ i hafta go to work so it's not like i'm leaving for a,          <OVERLAP1> better place </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no no we're saying </OVERLAP1>
+          it's okay like, i- we can see the pain in your eyes        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh yeah we sure can </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> don't cry. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> how happy you are          <OVERLAP1> to leave </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> we'll write </OVERLAP2>
+         </U2>
+          and this is our last lab        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> aw we should have taken_ brought a camera and taken pictures </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> we should have had like a chem shot man, a large group </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> well this has all been videotaped. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah that's          <OVERLAP1> true. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> can we </OVERLAP1>
+          have copies? send them        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> Catie this is your part. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> oh no? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yay oh wait out of how many? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> out of sixty </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> are you laughing at me? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> my conclusion was inappropriate, apparently </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> hey Brian did you (xx) the reference point then looking up the thing in the C-R-C? and i'll look (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> point-one molar. </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (Honeyann) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (yes) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey Ann, what did you do for the next part (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we correctly identified our thing that we didn't know that we were here for so long with. we were like, i can't do that but there's nothing else you          <OVERLAP1> can do. </OVERLAP1>
+         <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">           <OVERLAP2> hey Richard </OVERLAP2>
+         </U2>
+          hey that's cool.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh (i think it's iron salt) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> can you help me for a minute? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> why do they never like our presentations? i don't understand. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> are you guys working on number five? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you guys (xx) </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you guys are doing (you're doing) five? they are. what are you guys doing for an experimental test? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> yeah them they over there </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> what? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> what are you guys doing for your experimental test? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh we're just (mixing) like, (xx) compounds (xx) </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> you know what i think i'm gonna go home and do some calculus, that'll be fun. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> fifty-seven </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh yeah fifty-seven plus fifty-five (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> ahh </U1>
+       <PAUSE DUR=":15" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i need to study this </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hey Diann? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yes? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> um. we may get out of here late (xx) what is your office (xx) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> wasn't Catie (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> about what? </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> identifying your um products. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> well mine was easier because, the C-R-C, like i had a white solid precipitate and the C-R-C said that it was a white solid precipitate so that matched right up, and then it said  (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well i don't i don't get a precipitate. where is (my solid?) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah so, um,          <U2 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> where'd i put it? </U2>
+          if you do the reverse reacti- like if you would add something to that do you know what would happen? like if you do a reverse reaction you know how if you add more base or something it will change color or something like, to prove it        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> where did it where did it go? did somebody move my stuff? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> somebody probably washed it out </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> don't say that happened. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> pretty sure it did </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> man, i wasn't finished, it was like, it looked kinda like this, somebody (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, there's something (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i appreciate people trying to help but, now i'm frustrated about it. somebody_ what happens_ somebody washed out our tube alright. one of y'all people </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> sorry i think i got          <OVERLAP1> a little overeager. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> that's okay. </OVERLAP1>
+          that's okay. you don't have to worry about it...          <OVERLAP1> that just means i have to do it again </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> is Brian not helping you? </OVERLAP1>
+          well do you if you just yeah        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay Catie          <OVERLAP1> well i'm gonna leave our packet, here </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> well no (i mean) if i'm gonna add something </OVERLAP1>
+          (and all that) (xx)        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> so you just put hers on the bottom and, staple it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mine? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> hers. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> hers okay. um, do, what about the, do it with the </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> he's acting, you know how he is, i can't talk to him          <EVENT DESC="LAUGH"></EVENT>          where did he go anyway? he ran over there somewhere (xx) (unless) you talk to him then you find out you come back and tell me        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> but he's gotta get (two in though) is he_ what_ how many experiments is he doing? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know what he's doing. he's_ but he's doing this one right now </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so he should be (xx) you right? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't know why it's taking me so long to do this i guess cuz i started one and then i had to restart or something i don't know, i'm just slow. that's all that it is that's the bottom line </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> hey Brad </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yes? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i don't wanna have to go through (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> can you s- do you have some information for us? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> (skew) some information </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) can i help you, what do you want me to do? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> we need to know, what's up, on part C.          <OVERLAP1> for um number five </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> Brian is (xx) </OVERLAP2>
+         </U2>
+          he's acting kinda funny        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> you know how that is, between the two (of us) </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> oh (xx) i already did that one </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> no but he's doing it right now </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i didn't get that one. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> thanks for your help though. that's cool. why did you do that? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> to clean the set. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay... well... </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it wasn't obvious </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> is that slow or what? in other words you were saying talk to Brian and find out you know what i mean? he was like well i didn't do that one... idiot          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> so i guess we have to it again huh? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> that's what i have to do, one again, one more time </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay i know it's not K-two-S-O-four because K-two-S-O-four did not react.          <OVERLAP1> it was (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and what did </OVERLAP1>
+          you find in the C-R-C? it told you nothing?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> it told me_ all it said was like what, what temperature the solid melted under. and i don't know where the liquids are i really don't know how to use the C-R-C </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay now let me see (that one) </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> i didn't get a precipitate that's the thing, i just got, a color, change. that's it. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SG" SEX="F" AGE="3" RESTRICT="NONE"> Lindsay, none of my groups wanted to grade (xx) discussion so          <OVERLAP1> what i did, is i put three, these three together for the last one. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE">         <OVERLAP1> so it wasn't like i could maybe i looked it up incorrectly, you know? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so... </OVERLAP1>
+          um        </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> uh, what </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i guess let's mix it again </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> boy. okay. one more again, H-two-S-O-four two drops </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i like pretty (xx) </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> this is just so cool </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> did you guys get iron sulfate? you guys get it? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> no i can't handle it </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i have lots. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <SEG TYPE="SINGING">  fa la la la la la la </SEG>
+       </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> hm </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="UN" SEX="F" AGE="0" RESTRICT="NONE"> well this is mine...          <EVENT DESC="LAUGH"></EVENT>          well i may as well just mix this (xx)        </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

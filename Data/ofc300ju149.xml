@@ -1,0 +1,670 @@
+<TEI.2 ID="ofc300ju149">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Intro to Poetry Office Hours </TITLE>
+         <TITLE> Rackham Div: HA </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 11638 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> OFC300JU149 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales. (1999) The Michigan Corpus of Academic Spoken English. Ann Arbor, MI: The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="88">             <DATE> April 11, 2001 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Janine Ovens, Rita Simpson </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Darell Tibbles </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Amanda Jones </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Rita Simpson </NAME>
+               <RESP> Final Editing, 12/10/01 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">OFC</TERM>
+ <TERM TYPE="ACADDISC">300</TERM>
+ <TERM TYPE="PARTLEVEL">JU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">MI</TERM>
+ <TERM TYPE="ACADDIV">HA</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: MI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Participants" SIZE="4"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="4"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SF, Instructor" SEX="M" RESTRICT="NONE" AGE="4"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="JU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="JU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Students" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Office, Angell Hall </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> you feel th- as though you're in a lab or,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah almost </OVERLAP2>
+         </U2>
+         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> it's a little </OVERLAP1>
+          a little bit a little bit odd. okay. uh, the reason i asked you to come in is that, i- i'm looking at the grades and i'm looking at at this paper and, you're at the point where i don't want you to, fall off the edge. uh and and get a grade that's not gonna be, supportive. it seems to me that you know that you've been in touch with things in the class and that i, i liked what you did with your poem to change it which wasn't_ which must have involved a fair amount of work.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (i don't know) </U2>
+          to, you know to get that in a different order and to get the system ba- was it a lot of work?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mm, it wasn't too much it didn't take me too long to just, use the same word i just, i'd say the hardest part yeah was changing the sentences. trying to make 'em all fit again.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          but it wasn't too bad.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. but the rhythm seemed to work right and,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          it it really did, come out to be a sus- sestina and one of the effects of the sestina is that, since you're using those words over and over again they they tend to acquire different meanings they tend to to just, they sound different in different combinations          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          and they mean something. but let's look at this          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> kay </OVERLAP2>
+         </U2>
+         <OVERLAP1> um, </OVERLAP1>
+          because i think that that part of what's happening here, is that is that you're using a lot of words where few words would work. where you don't really need that that many words to say what you want to to say. and there are some cases where you're where you're looking, or where you seem to be saying something um, and i think i know what i know what you want to say, but because you've sort of, you've given me more than than i need you're really disguising the meaning          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mkay </OVERLAP2>
+         </U2>
+         <OVERLAP1> rather </OVERLAP1>
+          than bringing the meaning out. so that, if y- if you look at this sentence and if you just r- read that sentence aloud.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <SEG TYPE="READING"> poetry is the best representation of the elegy for the fact that, in times of mourning everyone needs a way to es- a way to escape when the burden of loss becomes too huge to manage. </SEG>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. now, part of part of what you need to do is to look back at the beginning of this and say, w- how are you using the word elegy? and how can poetry be a          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (representation) </OVERLAP2>
+         </U2>
+         <OVERLAP1> representation </OVERLAP1>
+          of the elegy? it, we can talk about, the feelings that are associated with an elegy or we can talk about mourning or we can talk about a lament for for the dead. but, by definition an elegy is          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> is a poetry, form of poetry. yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> a poetry is a is a p- a form of poetry right. </OVERLAP1>
+          um, and so, um, what do you what do you think you were trying to get at there?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> i was figuring i mean, it's a form of it cuz i mean it represents it, because it is, i mean it's not a short story it's not a novel,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right </U2>
+          it's poetry.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mkay, but but again if by definition an elegy is a kind of poem, then it can't then poetry can't be a          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (representation) </OVERLAP2>
+         </U2>
+         <OVERLAP1> representation </OVERLAP1>
+          of the elegy. and, if anything the, the relationship goes the other way.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> elegy would be </OVERLAP2>
+         </U2>
+         <OVERLAP1> where elegy </OVERLAP1>
+          is a kind of poem. uh, and, and and maybe, so_ i think what's happened here is that you've got too much compressed for_ into this one sentence you're trying to say two or three different things and the the one sentence just won't do it. the what, what you're really looking for is the notion that, the elegy is a is a form of poetry, uh that's used in time of mourning because okay? so that so that instead of for the fact that something like, since or because could could come in later in the sentence and, it would just it would just clarify what you're trying to to get at there. um        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mkay          <PAUSE DUR=":07" ></PAUSE>          and this had me confused i was fighting with that thing all night. the semicolon right there? cuz i kind of felt like i was explaining        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh okay where's that?          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right there, right there. yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's here? semicolon? yeah. </OVERLAP1>
+          but, if if you're if you're using a mark of punctuation to say alright i'm making a statement and then i want to explain what's in in what follows i want to explain that statement, the convention is to use a colon a full stop          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> colon </OVERLAP1>
+          and not a          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> semicolon. </OVERLAP1>
+          what what this does this mark of punctuation um, alm- almost always says, that what's here, and what's there are equivalent, sentence elements. that's a full sentence that's a full sentence. that's a clause that's a clause. sometimes even smaller sentence elements could could come into play here. but almost, almost invariably that says, this on this side this on that side are equivalent. this signals, okay i've made my formal statement now i'm gonna explain it a little bit i'm gonna clarify it, for you. so you ca- and if you do that if you do a colon, to say alright now what follows is an explanation, this has to be lower case. it can't be,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          because, that's always signalling the beginning of a new sentence. and it and it's, it's different. um, mkay, do you understand          <PAUSE DUR=":05" ></PAUSE>          this this sentence that begins with while,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          do you understand why that's not a sentence?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> because the while would make it, need more, (kind of, the) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay the wh- the while makes it dependent.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          so it's got to come it's got to be attached to something else or the the suggestion of the while, um the way it's pointing, points back to this. and so it can't start a sentence, because it's not it's never going to be a complete sentence. um          <PAUSE DUR=":04" ></PAUSE>          mkay, here again there's a case where, the words, aren't aren't really necessary you've given us more words than we need so, it's not a matter of people using the concept of poetry,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> just poetry </U2>
+          it's poetry. you don't so you don't need that, at all. um        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) again huh? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right. now th- that's perfectly alright. because, because what you've done is to make this dependent this part, is is dependent and the comma here makes a difference, but, when you say while poems are used to release this pain, they can also be used for paying respect to the dead. um, you can you can imagine, some people work uh, with the principle that's called sentence combining. when they want to when they want to get students to learn how to, to get variety into their, language and into their sentences they do sentence combining which will, give them the opportunity to reshape sentences almost endlessly. and so you could reshape this one but this is a this is a fine sentence because, you've you've said while this is true, this is also true. um, that's that's not a difficult (xx)          <PAUSE DUR=":06" ></PAUSE>          mkay and here, of course the respect paid through poetry for death, does not only have to be represented by_ you're really not talking about a representation, you're talking about, um, f- how it's focused on the the_ you're talking about the respect, and it's not the respect that's being presented by the human form, but addressed to um a human subject or focused on a human subject something something like that. because what you're what you're moving then in- from here you're moving into to grass and what Philip Larkin, does with with that poem when he's talking about these two horses.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so          <PAUSE DUR=":36" ></PAUSE>          what do you, mean by that word? i means it's          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> sound </OVERLAP2>
+         </U2>
+         <OVERLAP1> n- </OVERLAP1>
+          oh okay, okay. it's not_ so you just mean it, you just want it to mean sound?          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          okay. and, there i think, i would i would take there out and say poets can use the sounds of the poem. because this is this is a word that has a very different uh, different meaning it uh, sort of like the, the continuing sound or the,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mm </U2>
+          the, reverberations of the sound. it's not the sound itself and you're really talking about just the sounds themselves. you could you could say um... you could talk about the resonance of sounds in poetry the the the ways in in which they use um they aim for a resonant effect something like, something like that. um, what about that one? i'm, i'm really just calling attention here to, to words that are whenever i s- just say D-I-C i mean, that's not the best word          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> choice. </OVERLAP1>
+          so what do you think, here you you meant?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> it's just um, taken away not as much emphasized on, if the reader could really make uh, i mean if the writer could really make the reader feel what they saying. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay, uh can you think of another way of saying that? can you think of another word, a single word that would do that? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> taken away by the writer's ability t- </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay taken away by          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> maybe </OVERLAP2>
+         </U2>
+         <OVERLAP1> perhaps, </OVERLAP1>
+          um        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mm, hmm,          <OVERLAP1> de-emphasized? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> can_ </OVERLAP1>
+          okay, that's maybe the direction you need to to go in because again you've got one of these sentences that goes on too long for what it's saying. and i think what what you mean t- if if i were to rephrase this i would say something like, the rhyme s- the rhyme scheme or rhyme, isn't a key to the elegy uh because the m- any mood created by the rhyme scheme is, secondary, to, is less important is secondary. uh, to, to not, the writer's ability to make the writer feel what it she is feeling, but to the creation of feeling. cuz i- everything you're saying here can be summed up in in that, in that phrase to the creation of feeling. so you don't need all of that but so it's secondary to that. that's the relationship, to that. um, and here this is a just a a case, there will be some times when you wouldn't use a comma here, but you need it here just to, to make the logic clear. um but also you've got this introductory prepositional phrase with the use of line breakage and punctuation comma poets.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> because </OVERLAP1>
+          otherwise you're talking about punctuation poets.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          right.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          so it's it's, you want a separate_ you don't want anyone_ and there would be cases where, depending on that word that would be even a more outlandish kind of, of connection.          <PAUSE DUR=":23" ></PAUSE>          probably here this is just a matter of, n- not wanting to be repetitious. i mean you've already said for the reader so we don't need to say which gives the reader. and and if there you can just cut that, that phrase out altogether.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          um          <PAUSE DUR=":09" ></PAUSE>          yeah i didn't understand what you meant by, connotation. wh- what is the connotation, for you of of the word grass here?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mm, because i, i took it as_ i mean he was using, just grass but, it was mainly about horses and i figure horses eat the grass so,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm </U2>
+          that musta been what he was talking about.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> but but what do you mean by connotation...?          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> um </OVERLAP2>
+         </U2>
+         <OVERLAP1> why why </OVERLAP1>
+          is it_ i mean if if we ordinarily say, um, here is uh, here's a direct meaning or an explicit meaning of th- of the word. um, and we t- we would talk about that a- as denotation.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          and then the connotation of the word is something that that gives us, other suggestions that brings in other kinds of of meanings. so is that what you were thinking of there or were you thinking of something else?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i mean that's what i was thinking a implied meaning right?          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm </U2>
+          almost, almost          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> and and what are th- </OVERLAP2>
+         </U2>
+         <OVERLAP1> but, i mean </OVERLAP1>
+          horses don't even eat grass do they?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          they could. but but what would you think of as... as the connotation there of of grass. is i- is it just uh... probably at at, the title itself, of of this means, something like in retirement. so that that i suppose you could argue that that grass here doesn't mean just, that green stuff out there growing in a in a field, but it's it's a symbol of, the attitudes that we bring to retirement, the kinds of feelings that are associated with not having pressure anymore.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> hm? from grass? i didn't get that. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          okay but but it might be          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> a </OVERLAP1>
+          a part of of that. did you get anything other than that out of it?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> i mainly just got the animals eat the grass, that's what i was thinking so,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          i figured he was using the grass to, to um just make you think about the animals.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. okay. um... and here where, where you're talking about the simile and you see that as the major figure, then i would, then i would put the quotation in there and,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          and do that right. um, here's a case where, i think that that to begin with with that move into into the Housman poem, it's a little too, um... informal and casual for the rest of the writing um, here. uh that that maybe what you could do_ i mean here's another instance where, you could use a while transition and say, while in Larkin's poem this happens in To an Athlete Dying Young Housman uses, mkay. that that, you wanna make a distinction and you need to to do that. and again, uh, you're using you're using more words than you need to. the poem is structured by seven four-line stanzas, with a rhyme scheme. rather being represented by they're not really being represented by anything they're j- they're just          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> there </OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>         </U2>
+         <OVERLAP1> there. </OVERLAP1>
+          you know that's what that's what he's, uh, using. um, probably wouldn't, wouldn't use that word um, to to talk about recognition, uh maybe highly would be, would be one that you could substitute for it. um... just, well recognized you could say everywhere recognized, um, by his town's people um, and so on. and here you're always_ i mean that's the part of the verb that you want that, that's not, may of been may have been is what you wanted,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> to use there. </OVERLAP1>
+          um          <PAUSE DUR=":12" ></PAUSE>          can you think of a way of of, just s- um, how can i say this? of making that sentence a little more pointed? what what happens is that, i- it gets to be too long and it sort of runs out of gas. and and we need          <PAUSE DUR=":04" ></PAUSE>          and you also need to put this in the past tense. ins- have chose rather than choose.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mkay          <PAUSE DUR=":08" ></PAUSE>          (xx) okay now do this, then put the colon here and, explain it?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah, that's fine. i mean that that really does break that down otherwise it'd just_ so that if you if you put the colon in there, and say this is what i mean by what i've just said. it just sharpens it. it gets you, it seems like there's a point. whereas the sentence that you had before just drags on. and we can't really see where the where the point is is coming. um          <PAUSE DUR=":17" ></PAUSE>          mkay and here again this is not a long sentence but, once you see, words falling, one after another i mean where you're where you're getting, two words that are the same in a single sentence and those they're not doing very much work.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mkay </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think </OVERLAP1>
+          that you need to say alright, this has to be shortened. so that this the reader is given a scenario and told to go with it        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> what um, what (xx) do you need? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right. uh, or he's given a scenario that doesn't require much, in, in the way of, extensive analysis. i mean jus- get it that that short. because that's the point that, that you're making. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. i think when i be, trying to stretch the paper,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> uhuh </U2>
+          trying to make sure it's long enough,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh okay </U2>
+          that's when i really get too much stuff that i don't need.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right, right. and the way_ it seems to me that that the one thing that this paper lacks, that where you could've lengthened it without any kind of padding at all, would would have been through the use of quotations. that there're there're places here where, i'm sort of looking for the example you've given me the general description,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> but i didn't put the example in there </OVERLAP2>
+         </U2>
+         <OVERLAP1> but then you need to say </OVERLAP1>
+          this is what pins it down.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> is that is that helpful at all? (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah concrete detail. out of the text pretty much huh?          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right </U2>
+          okay.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and and then just, that that, connection between, poetry and THE elegy or the relation between poetry and elegiac poetry, is the one that just needs to be clear, all the way all the way through.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mkay </U2>
+          so we know that we're talking about a particular form of poetry that does some some useful things. i thought that, in looking back over this, what i, what i see is that in that list of, why i chose to do this, where you say i, why i took this kind of poem and, i took these two poems together, i wanted to illustrate this and i wanted to illustrate that and that and that. that's a i think a very solid part of, this, paper.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          uh, i'm not sure that that's the best place to have those as there might've been a way of putting those up in front, to say, the poet_ the poems i'm writing about i've chosen for a variety of reasons. to to do, this to illustrate that principle to raise that question whatever it is. and then go back to, to that and show us, in detail how those things,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> how those </OVERLAP1>
+          things meet. but i think part of, part of what you need to do is is find yourself a way of getting, getting back and being a little harder on yourself as a reader. cuz i think you're l- you're letting some things slide, i don't know how much time you put in on this but i think that that, it would have benefitted from a hard hard rereading and did you do that?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm. yeah. this must of been the hardest i worked on a paper, in a while. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> is it?          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          okay, okay.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            mhm          </U2>
+          what are you doing in in your other courses? are are those coming along well?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> good. mhm. English two-thirty-nine, we had like a ten page paper i got a B-plus on it. in Chinese we had about a six page paper i got a, B-plus A-minus. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so, </U2>
+          okay          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mm, </U2>
+          well i don't think          <OVERLAP1> i'm </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think </OVERLAP1>
+          it's, those classes are more like creative writing.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm </U2>
+          mm that's a lot better a lot easier for me to do.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> creative </OVERLAP1>
+          writing. i          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> don't </OVERLAP1>
+          know why.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. yeah because i don't think i don't think i'm coming down, terribly hard on this paper, uh and in fact i'm worrying about myself that i'm that i'm being too lenient a grader          <EVENT DESC="LAUGH"></EVENT>          this time around. uh, maybe all the students wouldn't think that... so do you have any other questions about this?          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mm            <OVERLAP2> d- </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          do you think_ i've got to do some some work in, getting all of you ready for the final and trying to get through, the poems that we've got set for the next little while. i don't know how we're gonna even,          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          finish what we have ahead of us. um, but i will be giving you some materials for for the final so that you won't, be just floundering as you try to, hold on to the whole          <OVERLAP1> course. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+          cuz me and (Sashu) was just talking about that,          <OVERLAP1> uh yesterday. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> oh okay. </OVERLAP1>
+          yeah. and she seems to be, in touch with the course pretty well. you know does a good, good job.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> um, </OVERLAP1>
+          do you think it would help, if i gave a review session? an an optional review session for the students. where we'd just come in and people could raise,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> questions </OVERLAP2>
+         </U2>
+         <OVERLAP1> questions </OVERLAP1>
+          about anything they want? cuz we're so late in the te- and that final is a late date          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> for </OVERLAP1>
+          the final. and it might make sense to, to take advantage of that by having a session.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i think it would help. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> a review session. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. alright, well... work away and uh, we'll see how how things go on the final. but i but i just wanted to, let you know in a more explicit way what i was, troubled with here, and why i wasn't, why the grade wasn't, maybe where you would want it to be. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay, what i could try this again? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> if you'd like that'd be great.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          i i don't ordinarily do that cuz i_ my belief usually is that it's better, to look to the future and just, take the past and say alright that's gone and, now let's use those lessons but in this case          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mm i don't know </OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>         </U2>
+         <OVERLAP1> i'd be happy to have </OVERLAP1>
+          you, reshape this a little bit.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          give me give me more details, give me at those places where i'm, wondering about why you've done something, either... don't do it i mean there're a couple of things there that you could leave out, or, give me a clearer sense of what you have in mind so that i would really want to know why, the title of of Larkin's poem          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> (okay) </OVERLAP2>
+         </U2>
+         <OVERLAP1> works </OVERLAP1>
+          the way it does. why what grass signifies what being at grass signifies and how that how that works for you. um, and then just um, i th- i think that that at, one of the things that you could touch on that you didn't touch on in in either of these cases in an explicit way, is just how these poems come to an end. because it seems to me that that since we're talking about, loss and since we're talking about this this sort of elegiac note, uh, and endings, that the ways in which the poem them- poems themselves end uh can be really key to to understanding.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          so just_ and, both of these have, uh have very strong, end resonant moments i think that that is that, the the close of the Larkin poem with the groom and the groom's boy, um entering into the picture and we haven't heard of of them before. but it's almost like_ well, you tell me what it's almost like          <EVENT DESC="LAUGH"></EVENT>          when you when you work it through again. but try to bring those two endings in. and i think that would be a help.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> good. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> would you have um, any suggestion on how i can make this better?          <PAUSE DUR=":08" ></PAUSE>          mm          <PAUSE DUR=":14" ></PAUSE>          forgot what page that was on.          <PAUSE DUR=":13" ></PAUSE>          cuz i remember i was reading about it in the book,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm </U2>
+          and then i seen the same thing, in his poem. here we go... the race place, (umpire) come home, away stay, grows rose.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right... and you were reading this, back in this section on sounds? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> um, yep... same type of thing.          <PAUSE DUR=":05" ></PAUSE>          mm          <PAUSE DUR=":08" ></PAUSE>          i shoulda marked the page i don't know why i didn't        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (mm) i think i can find it this way.          <PAUSE DUR=":12" ></PAUSE>          okay          <PAUSE DUR=":10" ></PAUSE>          probably one-eighty-seven.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+         <PAUSE DUR=":06" ></PAUSE>          where we're talking about off rhyme and, um          <PAUSE DUR=":04" ></PAUSE>          and this you're talking about, here where, those change and then the vowels, the vowels are different. and, um, in, in this case, um, the the vowels really aren't really aren't different because they're uh, if if these are the examples, then, the A in race and place they do s- they do stress that, that ending. uh, oh but i see. okay. where where stay an- and that makes a difference okay.          <PAUSE DUR=":14" ></PAUSE>          mkay. i guess that i- that i would          <PAUSE DUR=":21" ></PAUSE>          yeah, i'd do it again it_ i don't want you t- i don't want to encourage you to do this every time you get into this kind of situation,          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          one way of of doing that is just to find a formal way of, of giving us, letting us see this in the poem. so, ins- instead of um, instead of just using the words here and generally when we talk about, sounds or words as sounds or words we put 'em in quotations like that to in- to indicate that we're talking about_ but what i          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> would </OVERLAP1>
+          do here is to is to set this up with a colon and and use the quotation. so give us the whole stanza or give us the parts of the stanzas that are important to you, and then say um, in maybe in parentheses, underlining for emphasis. and then just, give the s- quotation with these sounds underlined. so we know that you're marking them i mean it's just like you're it's just like you're, a teacher at the board and you're saying look at this line im- this perfect iambic pentameter and then you'd mark out the iam- iambic pentameter. but here you would you would say, i'm gonna call attention to this instance or these instances of consonants, which is defined as and then, give me the quotation and and say, underlined for emphasis.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          i think that's, probably the most explicit way and clearest way of doing it. alright. good.          <U2 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> wonderful. </U2>
+          thanks for coming in.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> thanks for having me. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> should we listen to ourselves?          <EVENT WHO="S1" DESC="LAUGH"></EVENT>         <PAUSE DUR=":07" ></PAUSE>          hi. went a little longer than i thought we would. (but)          <PAUSE DUR=":12" ></PAUSE>          yeah and there's no press to get that in, as long as you get it in before the final.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (xx) </U1>
+       <EVENT DESC="BREAK IN RECORDING"></EVENT>       <EVENT DUR=":48" DESC="RECORDING RELATED CONVERSATION"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay, uh, the paper that i redid was the self-analysis,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right </U2>
+          and that was the one that that initially you wanted to talk about.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right </U2>
+          um, i uh        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and this is the, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> that's the          <OVERLAP1> redo. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> the </OVERLAP1>
+          second          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> version. </OVERLAP1>
+          okay.          <PAUSE DUR=":10" ></PAUSE>          okay. and then what about the          <OVERLAP1> last one? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> uh, </OVERLAP1>
+          oh the l- you mean like the fi- first round? or        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> the one that you_ that i turned back the other day. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> that that's it right here. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay how 'bout the one on,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> the previous one? </OVERLAP2>
+         </U2>
+         <OVERLAP1> the elegy? </OVERLAP1>
+          the elegy.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> the elegy. was that the most recent paper?          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm </U2>
+          yeah that's right here.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay good.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          alright... okay first, tell me wh- wh- what your experience has been in writing classes in the past?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay. um you mean from like high school? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no,          <OVERLAP1> m- mostly here </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> or just in college </OVERLAP1>
+          well i've tak-        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well where did you go to high school? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> i went to uh_ are you familiar with the area?          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm </U2>
+          i i lived in Wyandotte.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          and i went to Roosevelt High School.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> the </OVERLAP1>
+          public school so um, there wasn't uh, there was it was pretty much in high school it was just like the basic English classes. i didn't really get any farther in that cuz my my main thing was art. and uh, with all the classes i had to take is was like the English classes kinda like suffered a little bit. which i kinda regret now.          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          in college i took uh English one-twenty-five and uh, did pretty well in there, i got like a B-plus i think.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> who was the instructor? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> the instruc- it was a G-S-I uh i, don't remember her name. she was, Romanian i don't know if that really rings a bell. i don't know. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i didn't think it would but uh, it was a it was like a night class so like uh it was it was_ i just liked it it was a good class. and then uh, i needed to take uh, like in my requirement for art and design you need to take six credits of English. so right now i'm taking American Lit Intro to American Lit, and Intro to Poetry.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          and uh, that's that's pretty much like the the that's it,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> really. </OVERLAP1>
+          so i'm uh        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and how are you doing in that other course?          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh </U2>
+         <OVERLAP1> have you done much writing? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's pretty it's pretty c- it's pretty </OVERLAP1>
+          decent cuz uh i- it's really not too bad you you take i think the the grading scale is attendance is like a fifty percent of your grade and you get like these writing assignments every class, where you pretty much write like, uh three quarters to a page, um about a question that he's asked from the previous class so you pretty much you you think about it and then you write about it in class and then, uh the tests are are pretty uh, if you read the book you should know what you're doing so i think i'm doing pretty well in there.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          um, well enough to like i mean i i'd probably i'd probably have to say somewhere around a B area.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          but uh, and that that's that's pretty much pretty much the English extent          <OVERLAP1> right there. so </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> okay and </OVERLAP1>
+          who's teaching that course?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uh it's uh, it's um, Boeching or how do you s- </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Beechum </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> Beechum that's it.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          yeah.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. alright and in this class, things aren't going quite that well.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right, yeah,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> and </OVERLAP2>
+         </U2>
+         <OVERLAP1> that's, </OVERLAP1>
+          exactly. um in the beginning of the semester i i uh, i thought it was it was okay and then uh, then um, i see the_ i don't_ it's, it's not that i_ when we're in class i_ and when people are talking, i'm starting to like_ i i r- understand them now. so when like they're when like you'll go into a poem and we'll start talking about it and uh people are like well i i feel like in this line like i start to see like what they're saying.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          and uh, i really haven't had any poetry knowledge before this. i mean that seems really like hard to say i mean i've had very minimal like i mean t- for me to like_ i think i maybe had to memorize one poem in my entire life. that's why i wanted to take the class, uh to be honest with you and um, pretty much uh, at the beginning of like the semester i really didn't understand a lot, and then the poems started making some sense,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          and then uh once we started hitting the uh, uh the anthology pretty much where we started getting into the p- uh the poets it          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> seemed </OVERLAP1>
+          to be that's where i kind of, i wouldn't say i like l- think i like stopped understanding as much but it seemed like the poems got harder. it's just it seems          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> like_ </OVERLAP1>
+          they were longer and they were you know they're more in-depth and        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i think that's true. i i also wonder, because i don't usually work with a text like this so this is a bit of a surprise to me          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> as i </OVERLAP1>
+          see what's happening in the class. i think that there's something about having that structure, in the beginning, and having a a clear focus, that, here's here's our topic of the day,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          sound. here's the poem that's going to be illustrating sound. here's the poem that's going to be giving you some good examples of the way poets employ sound for particular effects. and, w- we don't have that structure          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> anymore </OVERLAP1>
+          it's just the poem itself.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          and so we have to bring, whatever is going to work here.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          to          <OVERLAP1> the poem </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> like the </OVERLAP1>
+          sound in this poem.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            right          </U2>
+          instead of like looking for the sound you have to          <OVERLAP1> that's </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> right </OVERLAP1>
+          and it maybe that that questions about sound aren't the first questions we'll ask or that there are, uh there're issues that seem more important or we're just finding that it's that it's hard to get into the poem without a handle          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> without a </OVERLAP1>
+          without a guide. anyway but part of what's happening in in your papers is not doesn't have much to do with, how you're reading poetry.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          it has a lot to with with the way you're using the language in you- in your own writing. so that you're using language sometimes i think you're stretching a little bit to to create an effect,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          and you're not using language that you would use yourself.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right to make sense          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> and i think </OVERLAP1>
+          that even if you read if you read a sentence like this,          <SEG TYPE="READING"> during the class in which Acquainted with the Night and discussing the symbolism, was a great attribute of how i read the poem. </SEG>
+          mkay. during during the class period in which Acquainted with the Night and discussing the symbolism, was a great attribute to how i read the poem. now        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right i i i'm i'm          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> you'd never </OVERLAP1>
+          say that.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right you'd more or less          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> becau- </OVERLAP2>
+         </U2>
+         <OVERLAP1> say like </OVERLAP1>
+          th- i uh one of the major helps in in the, it'd probably be a lot shorter          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          and and more to the point. you know?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. one of the great helps of understanding, Acquainted with the Night was, the time we spent discussing symbolism.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> uhuh </U2>
+          that,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> that </OVERLAP1>
+          might do it. that's not a very good sentence itself but at least it's it's a li- it's a lot clearer than than what you're saying. uh and i think that you're just, you're just forgetting where you're going. now one of the things you can do to to help yourself in this... do you proofread?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> do you </U2>
+          see, y- you know what i think my problem is? is when i when i wrote these papers i think i was trying to, i i don't want to say like i was trying to hide anything but i think i was trying to maybe, sound like i knew more than maybe like i actually did. i'm not saying i didn't know it, but just saying i wanted to sound like i,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> sure </U2>
+          was i knew everything about it. and that might have been my problem.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and almost anytime you do that you you're going to be less clear than          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> you </OVERLAP1>
+          should be you're gonna get, to the point where you're using words that you don't quite          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> understand </OVERLAP1>
+          or that are that are a little bit, off base. um, and so th- so this is happening fairly, fairly regularly i think in in this. uh... if you look at a sentence like this one... okay          <PAUSE DUR=":04" ></PAUSE>         <SEG TYPE="READING"> and in this poem, yet unpleasant was very soothing to me. </SEG>
+          now, we don't know what was          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right i see what you're saying </OVERLAP2>
+         </U2>
+         <OVERLAP1> unpleasant and it's not the </OVERLAP1>
+          whole poem it's an effect of the poem or a dimension of the poem and, in this case i think you're making you're making a good point that the, that the rain itself uh is meant to to be oppressive it's meant to be um, distorting at least, in, in the poet's or in the speaker's eyes. but when you when you talk about uh... when you say it made me feel like this gloom this stink this rain... and then, you h- you have a period and then you say the kind of rain that just soaks you and makes you feel miserable. uh, why not bring those          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> together? </OVERLAP1>
+          since y- since that still is functioning it's functioning to define the rain it's functioning to define it in a in a particular way and so you need uh, you need to bring that together you need to show us, the logic. and the logic just disappears here.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mkay </U2>
+          we just we just don't we just don't see it.          <SEG TYPE="READING"> another poem i felt greatly influenced in poetry, </SEG>
+          and, i f- where's the by?          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right right right </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know what i mean </OVERLAP1>
+          so_ now one thing i i was gonna say a minute ago one thing that you might do, to help yourself out here is, proofread the way you proofread now. f- for one, move through the through the paper going through the whole paper from beginning to end. and then, start from the back. and don't proofread, with any kind of logic in your mind that's gonna control the way you see things. just read sentence by sentence from the back to the front. and what that does for you, is, f- focus your attention on that sentence. it has to stand alone it has to make sense on its own. i- you can't be reading you can't you can't have a lapse and think oh that's logical because it follows from what i said          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> before. </OVERLAP1>
+          because it's not following from anything and and you wanna just isolate that because part of your part of what's happening here is, that sentence by sentence your prose is breaking down. it's not breaking down at the paragraph level, uh, it's not breaking down in terms of, um your not having anything to say you've got something to say, but you're not saying it in a way uh that al- that allows us, to register that. because the prose is just,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> wandering </OVERLAP1>
+          and and unfocused. um, so le- let's look at, at this one.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          i think... this is a good ch- choice and some people hurt themselves, in this assignment by making a bad choice. and they brought together poems that that um, that don't work together. okay so you introduce the poems, and then, and then you say, they're poems that are similar, and they are poems that are that are different. uh, why not something, that says that in about half the words? like,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          they're both alike and different. their similarities, give us this and this and this, uh, their differences we can find primarily here.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          so, you've set you've set something up. now, is that enough for a thesis? probably not.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right right </OVERLAP2>
+         </U2>
+         <OVERLAP1> is that enough </OVERLAP1>
+          to control something? but, you could move on from from that, to to make a kind of point and one one you might make, is th- is that we're not talking, um, we- we're talking about, someone reporting an experience here so the the aim is to, to represent an attitude toward death.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> to </OVERLAP1>
+          to give us some sense of uh, some imagined sense of h- what death might in fact be and the very fact that that Dickinson gives you this sort of courtly gentleman who stops um, because i could not stop for death he kindly stopped for me. so there's a there's this, v- very striking and and surprising, relationship to to death that she's she's describing. in Felix Randall on the other hand you're looking at someone who is who is trying to come to, to terms with death with the death of someone else. and what what he sees in Felix Randall what the speaker sees in in Felix Randall uh is this grey sort of heroic figure who's been cut down,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          by death who's been diminished. and and_ so that's where that's where i would put put the emphasis here. uh          <PAUSE DUR=":08" ></PAUSE>          can you see what's wrong with that sentence?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. i could've easily just said the rhyme scheme_ are you talking about this one right here?          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> mhm            <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> yeah </OVERLAP1>
+          i mean like she usually had an innovative rhyme scheme like kind of like i could, definitely make that more sensible.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay.            <OVERLAP2> and </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          and mainly because          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          i can pretty much you know you don't,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> get that out of there </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> right right. you could put due to her um, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah avoid due to          <OVERLAP1> but </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          okay. um, (poem) written for herself. um what i could pretty much say is because of the fact that she wrote in her journal, um, that that leads to the fact that her rhyme schemes can be, unusual. because she really wasn't meaning to write for anybody or for a specific_ you know if she had like an English class or poetry class i'm sure she'd have to follow a certain,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> rhyme </OVERLAP1>
+          scheme but if she's sitting in her in her you know her her room just writing some poetry to herself i mean really, it's uh, you do whatever you want. and i think that's that's kind of what i tried to say but, but in too many words (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay most of, someone once, pointed out that that almost all of Emily Dickinson's poems can be, um, can be, uh sung to the tune of The Yellow Rose of Texas. that that the rhyme scheme is is does duplicate itself so much, that that you could just, sing it to that tu- sing all of them to that tune. um, okay um, it, it's not logical to say that something is both unique and almost nonexistent. uh right? when you_ if if it's unique we're going to remark on it and it's gonna be significant enough that it clearly is gonna have, an existe- if you look if you look at her rhyme scheme, it is pretty regular,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> in </OVERLAP1>
+          fact. so so i think you're, you're off base there. um, okay here is just a classic uh, error where where you're saying, you open this up open the sentence up with as assigned, well what was assigned? we were not assigned, okay? as assigned we we were to compare. it's the assignment asked us to compare or the as- the assignment asked that we compare, and so on.          <OVERLAP1> um </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          we're not the assignment.          <OVERLAP1> right </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> right </OVERLAP1>
+         <PAUSE DUR=":05" ></PAUSE>          and again th- this is just wasted space if you say, as the poem comes to a close, the last line says. well the last line is the          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm, yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> close so </OVERLAP1>
+          why do you need to say that twice? th- th- the much uh, more precise way of of saying it. but i think that you just i think that you almost have to, to read aloud to yourself. maybe paragraph by paragraph and then do that proofreading from the back because you need to catch these sentences that just, uh go off in random directions that that don't that don't show us the logic of what you're doing. and you should think of you should think of punctuation if you th- if you're thinking of punctuation at all it's probably not, you know the first thing on your mind morning and night. but if you're thinking about it at all you should think of it as a system, of of signs and pointers to your reader, that that allows that person to see your logic and to anticipate your logic. so if if you're setting up a sentence uh and it's and it's going to go on for, more than a line or two you've probably got, a number of phrases in it possibly, one or two two or three uh m- clauses,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          that might be independent they need to be balanced. so if you're talking about, Dickinson here and Hopkins there, one way to to do that, is to to make an assertion about Dickinson, separate that assertion from what you're gonna say about Hopkins with a semicolon which signals, same thing on both sides same grammatical, structure on both sides, and then put that in and strive for the kind of balance. and someone was asking me, for for a project that she's doing the other day, uh, why i believe that that poetry is a good means for teaching writing and why writing is a good means for teaching poetry. and i think that poetry is a good means for teaching writing because i think if we see, the structures that poets use, if we look at the way in which they design things, uh it can help us to be          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> better </OVERLAP1>
+          writers. we can we can look at them we can look at, for example the sonnet as a form of, as a means of conducting an argument. um, it can be very instructive to us and so on. so is this helpful?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> oh yeah i i understand.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          i um, my question is though i just wanna know like what what do you want me to do with it? do you want me to like redo it?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> well, i wouldn't i wouldn't mind your sharpening, the Dickinson and Hopkins and maybe rather than redo it i'd, i'm not a, uh i think that much of the time when we ask students to go back and and do something over again um, they would be better off moving forward.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          they'd be better off, getting_ in your case getting ready for the final          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> exam </OVERLAP1>
+          reading and so on. but i think there is some utility in just, in just doing a bit of a rewrite here. i wouldn't rewrite the whole paper, but maybe i would i would take, um i would take th- this first page and the first paragraph on the second page, and, and i'd begin by saying, what do_ what's the job i want that paragraph to do?          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> mkay </U2>
+          what do i- what do i wanna do here? i i wanna state my intention. do i want the thesis right up here, in this first paragraph or can it wait, until the second paragraph? whatever i ch- i choose there is gonna determine and shape what comes after and so what do i want to do in that second paragraph? you might even tell me that. you might even rewrite these, and tell me in the margin after you've after you've printed them off, um do those three paragraphs and, scribble in the margin my intention here was X. what i wanted to do here was Y. uh this third paragraph is intended to do whatever. and just move through them in that way. and then and then i can, i can see how clearly you're understanding, what your logic is, where you're going, and then if you wanted to say a- if you wanted to say for the rest of the paper and you could just use what's here, or you can simply, put that in in a kind of outline form, in my fourth paragraph, this is going to happen fifth, sixth, seventh my conclusion is gonna go here. and n- no great need to to write that out, but do write out so i can so i can get a sense. you wanna get          <PAUSE DUR=":04" ></PAUSE>          you wanna get to the point where your writing, makes the reader see exactly what you're seeing. that's the whole point of of criticism. that that i can go back to these poems and i s- say alright, he's got a great idea here. he knows exactly what's important here. i can see that for the first time. and you've heard that in in class that students_ i've been reading these poems, you know since i was your age          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> which </OVERLAP1>
+          is a long while ago now,          <EVENT DESC="LAUGH"></EVENT>          and uh, when... it's still the case that students this term have said things about poems that are totally familiar to me, that i had never quite seen in in that way before. and there's no reason why you can't do          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> that, </OVERLAP1>
+          why you can't press on on these poems and get something, um get something out of. um, and maybe you would want to look at at these two poems a little a little differently in terms_ though you do that you do more of that as you go on in the paper that you're looking at the at the difference between, what Dickinson is trying to do with the the n- the very notion of death, and what... i guess Hopkins is trying to do with the fact of death, this sort of, of cold reality that confronts him. and and i think it's, i think it is more powerful, uh, in the case of of Felix Randall just because you have this, this smith, this blacksmith who is, sort of by himself representing,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mm </OVERLAP2>
+         </U2>
+         <OVERLAP1> masculinity </OVERLAP1>
+          and strength and power uh but who has been cut down. and who's lost who's lost everything in life. um, okay maybe that's enough.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, that          <OVERLAP1> makes sense </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> but, </OVERLAP1>
+          good.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> nice.          <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> because </OVERLAP1>
+          my, my real point in all of this is not i think i've probably said this to you before is not to, make judgements and assign grades but to get people to          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> to </OVERLAP1>
+          write a little better. and you're gonna have to do some, persuasive writing when you go out in your          <OVERLAP1> career. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> always, </OVERLAP1>
+          always. yep.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay.            <OVERLAP2> good </OVERLAP2>
+         </U2>
+         <OVERLAP1> thanks </OVERLAP1>
+          for your time i appreciate it.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> what time is it? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> how are you coming with that Larkin poem?          <OVERLAP1> have you had a chance </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> uh we actually </OVERLAP1>
+          we uh, we we got_ i think we have a good grasp on it actually.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> we're </OVERLAP1>
+          ready to go          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> okay w- </OVERLAP2>
+         </U2>
+         <OVERLAP1> so if </OVERLAP1>
+          we get to it i mean we're,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> we'll see where where we          <OVERLAP1> go today. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz i think </OVERLAP1>
+          we have what five        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i think it's a_ the first time i heard that poem i heard a friend of mine read it, in a in a reading that i had arranged at the uh, at the A-P,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> mkay </OVERLAP2>
+         </U2>
+         <OVERLAP1> meetings </OVERLAP1>
+          in the summer and this guy was a bit of an actor, and really          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right right </OVERLAP2>
+         </U2>
+         <OVERLAP1> got into </OVERLAP1>
+          to the role of this person. the part, that still seems difficult to me is the, is the          <OVERLAP1> very end of the poem. i </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah i was gonna say w- we, </OVERLAP1>
+          we actually we were in the Media Union yesterday because i had a break between class and Dan uh, had a class just ended and so we met there and we we were there for about like an hour and a half just like talking about it and, we ended up running into uh, someone we knew and she was taking a poetry class          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> oh okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> for a- </OVERLAP1>
+          another like an intro to poetry with a different teacher,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> uhuh </U2>
+          and we had her read it and she's like i understand the whole thing except that last section          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          we're like that's what we can't figure out. like we kinda under- i think we understand like the concept but i don't          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> know </OVERLAP1>
+          like it's it's difficult.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> it's it's a, it's an unusual move and you don't know whether he's trying to, to finesse the whole question          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> at the </OVERLAP1>
+          end or whether he's um, whether he's gone in an opposite dire- sometimes i think he's just taken off in a totally opposite direction, from from the one he had before.          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> but </OVERLAP1>
+          um... but if you_ do y- do you have a book of his poems?          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> no i            <OVERLAP2> don't. </OVERLAP2>
+         </U2>
+         <OVERLAP1> oh </OVERLAP1>
+          you don't have one okay.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> no i i actually found uh, i found a ton of poetry online from him.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          and i've read some other poems by him too and, uh, they- they're not too bad like to understand.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right </U2>
+          um, i actually thought this poem was a little bit harder than his other ones that he's had but        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no (well i) he's pretty direct in,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> (yeah) </U2>
+          in his language          <OVERLAP1> but, you can always </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah yeah, well he's a mod- </OVERLAP1>
+          i i think i i think it's one of the reasons why not not directly but i mean he's more of a modern poet, so he's our time you          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> know. </OVERLAP1>
+          i mean you read like Shakespeare and all those guys you know they, you have to kind of like re- like remember the language almost before you even hit the poem.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> so, </OVERLAP1>
+          that helps a little bit.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> no he's talking to you,          <U2 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          directly.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> yeah you can definitely make some sense out of it so </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> good </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> thanks          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> alright </OVERLAP2>
+         </U2>
+         <OVERLAP1> a lot. </OVERLAP1>
+          i appreciate your time.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> get yourself a drink of water before you          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> so the um, just just to remind_ like the the final is the twenty-fifth right? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE"> okay just </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i think in the afternoon          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="JU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> good </U1>
+       <EVENT DUR=":55" DESC="RECORDING RELATED CONVERSATION"></EVENT>       <EVENT DESC="BREAK IN RECORDING"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> so what are we gonna talk about? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i was hoping maybe um we could talk about, maybe you said you might have those sheets ready today? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh that's right and you're not gonna be here. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i'm not gonna be here on um, on Tuesday i'm going to Florida.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          with my family          <OVERLAP1> for Easter. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> um... </OVERLAP1>
+          l- let me, t- why don't you take some notes? and i'll i'll sort of tell you where, where we're gonna be. we can actually work that out, here. do you have your text?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":44" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay, if you go_          <EVENT DESC="PHONE RINGS"></EVENT>          let me just, get this          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (hello) </OVERLAP2>
+         </U2>
+         <OVERLAP1> very </OVERLAP1>
+          quickly.          <EVENT DESC="ANSWERS PHONE"></EVENT>          James Hanson, hello?          <PAUSE DUR=":04" ></PAUSE>          hello?          <EVENT DESC="HANGS UP"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> prank call.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i hope they're not starting to solicit here i mean i get enough of those at home.          <EVENT WHO="S4" DESC="LAUGH"></EVENT>          um sonnet seventy-three. um, and if you wanna just check 'em off that's on page three-seventy-two. just start at the, place where it says the anthology's (beginning.)        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> three-seventy-two </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> (next page,) it's down at the bottom of the page. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> doo doo doo, sonnet_ which one? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> seventy-three. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mkay. </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> three-eighty-seven To His Coy Mistress, which we haven't read. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> Coy and His Mistress? (His Coy) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> To His Coy Mistress. page three-eighty-seven          <PAUSE DUR=":20" ></PAUSE>          page four-twenty-eight The Windhover.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> four-twenty-eight The Windhover. </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Among Schoolchildren page four-thirty-three. it's the top of the next page.          <PAUSE DUR=":10" ></PAUSE>          Prufrock down at the bottom of page four-fifty-three.          <PAUSE DUR=":19" ></PAUSE>          Elegy for Jane, four-seventy.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mm mm </U2>
+         <PAUSE DUR=":07" ></PAUSE>          One Art which is the top of the next page four-seventy-one.          <PAUSE DUR=":15" ></PAUSE>          (xx) three four five... (six... seven)          <PAUSE DUR=":04" ></PAUSE>          and then we'll work back from... from here.          <PAUSE DUR=":19" ></PAUSE>          What I Like two-seventy-nine. Alice Fulton        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> two-seventy-nine. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <EVENT DESC="TELEPHONE RINGS"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> Dov- i'm gonna answer this one more time Dover Beach on two-twenty-five. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> two-twenty-five </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <EVENT DESC="ANSWERS PHONE"></EVENT>          James Hanson          <PAUSE DUR=":05" ></PAUSE>          hello?          <EVENT DESC="HANGS UP"></EVENT>         <EVENT WHO="S4" DESC="LAUGH"></EVENT>          um          <PAUSE DUR=":07" ></PAUSE>          okay um          <PAUSE DUR=":12" ></PAUSE>          Traveling through the Dark one-twelve.          <PAUSE DUR=":18" ></PAUSE>          and Acquainted with the Night fifty-six.          <PAUSE DUR=":04" ></PAUSE>          okay. now, i think that that the the_ what i'm gonna say to people i i'll give them that list of poems, um, and say that those those poems may get special attention and you should probably be able to, um, at least, if i give you a stanza from one of those poems and ask you a question about how that stanza works in relation to the whole poem you should know the poem well enough so that you can make a point about it and make an argument about it. uh, or if i made some kind of assertion about, about a particular poem, you should be able to test that assertion, because you know the poem well enough that that you can recall some of it. uh recall its main argument recall the the chief direction it's it's it's uh, moving in. um, m- i'm i'm likely in fact i'm almost dead certain to begin the exam with fifteen to twenty minutes of just warm-up. where i'll i'll ask you to, to respond with_ do you need a pen?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> i need to get a new pen. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> here's one </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> thank you </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> um, i'll ask you to respond to some some short questions. um they may be questions drawn from the the textbook part of Western Wind, uh where i where i might say, identify, um the synecdoche in the following lines. uh, identify um, the the the guiding metaphor in this stanza. identify some other kind of poetic feature um, where i'm just asking you to, to demonstrate to me that you've got something like a critical vocabulary that you've picked up during the course (of things.) those aren't aren't usually very uh, very difficult. uh, i might even give you some lines, of poetry and ask you to identify them. but i wouldn't i wouldn't ask you to identify them ju- with no context. and the context might be, match, the following line, from the poem from which it's taken. or here are some here are some cl- here are the closing lines of five poems and, wh- match them with poems in the column to the right. where you just have to do some some recall. that's not a difficult part of what we do and it's it's not really central to to this. then i probably would would give you um, one or two short essays, that will be based on, either the poems that that we've read here or, one of those poems set over against a poem that you haven't seen, seen before. uh i might i might say, um, here's a poem by Hopkins that you haven't that you haven't seen before what are the qualities that you find in this poem that are also apparent in The Windhover? which is one of the poems i'll have asked you to review. so that so that you might have some things ready to say about almost any poem that we've we've done. then my typical, final question is an hour long essay where i give you two poems and i ask you to to, in some way bring those poems together. they might be poems, about a similar subject, uh they might be poems uh from the beginning and the end of a of a particular writer's career, uh they might be poems that that are, in the same form, but use that form differently or with greater or less success. i might_ i can imagine even saying here are, here are two sonnets uh, given what you know about the sonnet and how it can, can be used to create an argument, which of these poems is more successful in achieving in achieving_ that's a pretty narrow question it's a lot narrower than one i would, than one i would ask. um, it is much more likely to be a kind of thematic um, thematic question. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> kay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and then_ i don't know when you're coming back but when, when you come back you should check with Laura and see when i'm doing the review session.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright </U2>
+          you know if you wanna be involved in that.          <OVERLAP1> and i- </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah i'll be </OVERLAP1>
+          back after the twenty-second.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay.          <PAUSE DUR=":04" ></PAUSE>          and it's likely that i'll that i'll do the review session on... well the twenty-second is Sunday right?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> so it's likely that i might do the review session on the twenty-third. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright. and with the um the beginning with the short response (at the end with,) the um you know the given the i_ lines to identify and match do you think it's gonna be uh, with the checked poems or those gonna be with different poems          <OVERLAP1> do you think? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> that'll be </OVERLAP1>
+          with different poems. it may use some of the checked poems but, it's it's gonna be over the whole range of things that we've read.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+         <PAUSE DUR=":05" ></PAUSE>          but again you can, you can sort of look, back over the course and see where where i've put the emphasis. i'm not gonna, be asking you for poems that we haven't,          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> hardly </OVERLAP1>
+          touched on (and so)        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright. well that's, that's good to know.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          do you think there's anything else i should know for the final maybe?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> i don't think so. i think that that_ so long you know you've been keeping up, right along and, doing the work as we've we've moved through it, so there shouldn't be any surprises. there shouldn't be any surprises in in terms of the kinds of things i'm, i'm looking for. if you imagine yourself, conducting one of these discussions and conducting it in, in the way that seem has seemed most successful to you, then that's where (we'll be.)          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          good.          <OVERLAP1> alright </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> would you mind um, </OVERLAP1>
+          i wrote a poem, not too long          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> ago </OVERLAP1>
+          would you mind maybe hearing it? it's kinda long but,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> sure </U2>
+          alright. it's actually has like a bunch of different parts to it so, (xx) you know i was just wondering what you think about it cuz i took a creative writing class and, it's just really nice to like hear what everybody has to think,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> right right </OVERLAP2>
+         </U2>
+         <OVERLAP1> about like what you write. </OVERLAP1>
+          okay,          <SEG TYPE="READING"> reality. what's going on. listing my journey our journey, through our days our world, thoughts beats past future all come down to now. when does the worst stop? why where how does it go? the mind the first story, thoughts of the worst fill my head, family's pain secrets worms Christmas, Uncle Paul made me wear that dress. it's hard to forget the mind. the mind needs to talk, to heal. energy the second story, who said seances are for kids? fields of energy between two people. what to do with an expression of the worst? positive clue positive answer. share, help sorrow my friend, show my friend, disturbing, he makes orange man with a Rolling Rock belly and a hole tearing out of his heart. help sorrow, share energy, live not alone, remembrance the third story. my mother remembers garden party gypsy dog night the tears were not for her bloody lip, the man in the wheelchair, let's go kick his ass to prove with her children what did his mother do? mother, get out of the bathroom get out of my house you remind me of my mother. bog island down river the fourth story. the worst, the nastiest dirt, mechanisms everywhere, buildings for building. she from the boat waves fast says nothing. they brush it off with a sip of beer and a dumb joke, a joyride through the Allied Chemical factory. dirt in the air choke my brain, the boat docks, we leave, in my dream i can't scream, the park the fifth story. loud park. planes storage facilities industry, Michigan Avenue and Telegraph Road. summer's over, we make him nervous as he wanders. lost wandering, follows the little girls, place remembers its past, rape and murder past breeds future... we swing he wanders, isn't he strange? she asks. she remembers. she only three houses away, the painting the sixth story. children are precious, aren't they the best? God bless the children. fear confusion disgust, to throw a can of worms in her face, hand and smile give the okay, on Warren and Woodward, peaks and troughs he told me, as if the T-V show had prepared him for me. God bless the children. butter the seventh story. he freaks out about butter falling on the floor as i freak out about Grand River and Telegraph. dark glass on second floor apartment buildings i think the worst. is someone calling me to get out of the car to knock on all the doors? tears hidden from the driver, my brother saved by a call, called to say that he was freaked out about butter falling on the floor. alligator the eighth story. chomp chomp in the swamp swamp how could someone do the worst? if i don't throw up it will stay inside i can do anything i want keep it all inside chomp my way to anywhere i want to go. clouds will give me answers as i pray my hardest ever, the morning after the transformation pray for them. the Pope had the same idea turn two thousand and i felt like, it was the end how can i throw up if i can't even shit, i just keep dancing. keep it all inside chomp chomp in the swamp swamp. </SEG>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i think that,          <EVENT WHO="S4" DESC="LAUGH"></EVENT>          th- i think the weakest section is the last one.          <EVENT WHO="S4" DESC="LAUGH"></EVENT>          that that, that somehow, um the you need to find a way of, getting back to that tone of of really strong personal feeling that that came earlier because it seems to me that, um, that to end on on that note of just, chomping.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> the humor            <EVENT DESC="LAUGH"></EVENT>         </U2>
+          uh of humor um, doesn't doesn't leave us with something that resonates that something that something that continues to ring in our ears that gives a feeling that uh... that yeah this, this series of stories has, is more than just, a disconnected number of stories but that they they come together in a significant way. now this is, this is my, uh i suppose obsession          <EVENT DESC="LAUGH"></EVENT>          that i that i need that kind of order i need that final shaping not everybody does. and not everybody would, probably fasten on on just that. but there're a lot of good things in, in what you've done there. uh, and one of the ways that that it was clear to me that that things were working well is that... i was waiting for the next story as i was waiting to hear what the next story would be and how you would open it up and how, how that connected with the stories that you, that you told before. the other thing that you do really well on a couple maybe more than a couple of of occasions is to, is to use words in surprising ways so that they, they really are new for us. and to bring together, matters that are usually not brought together. so that there's this, collision, uh of, that, i don't know that we even have an expectation that's a settled expec- expectation but, but there's something about bringing unlike things together, that surprises us and, and tells us that, that you're looking at the world in a way that not everybody looks at the world. and i think for me, that's one of the things that, that i think poets, people who who have a creative streak, really have and and they don't_ i don't think it's something that's learned i don't think that you can teach it, but i remember years ago a a, student uh who was who was someone i liked a great deal and who, who really had um, who was who was sort of cynical i think her her main attitude was a cynical attitude. but she had this this gift for metaphor where she could just bring things together in a in a surprising way. and it wasn't it wasn't anything that that you would ever have read before in a poem or in a piece of fiction it was just her own, vision of the world that let her s- let her see things. so i th- i think that's, an impressive part of what's what's going on. i also think that that you do_ maybe there's one point where this doesn't quite work. but i think you do, a wonderful job of of giving us, some things that are relatively um, abstract and sometimes u- universal and then rooting all that in a particular place and a particular_ and the and the place names work well here in what you're what you're doing so that there's something really, really solid um, that allows you to anchor what you're saying in, in something that_ and it doesn't seem to mat- i i probably don't know the geography of the Detroit area as well as i should after all the years that i've spent here. but i don't think it particularly matters whether you know that geography in detail or not. for someone who does know it, probably um there's a greater resonance from, um, you know street names and park names and that kind of that kind of thing. but this is good i like_ did did you use this in your poetry class?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> mm no i actually i um, i actually did a performance at the um museum, it was like uh, this last weekend and this was actually a part of like my performance          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> oh okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> that i </OVERLAP1>
+          put on.          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay </U2>
+          like i didn't really go through all the stories this was just kind of like um, like helping my thought process of          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">           <OVERLAP2> uhuh </OVERLAP2>
+         </U2>
+         <OVERLAP1> like </OVERLAP1>
+          maybe what i wanted to say.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh okay, okay </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> (more than anything) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and who taught that course? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> it was uh Olabayo Olaniyi a, traveling artist from Nigeria. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh okay sure. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah,          <U2 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> oh </U2>
+          it was a very, very good class.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> that's good. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah it was          <OVERLAP1> amazing. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE">         <OVERLAP1> and </OVERLAP1>
+          did you take that, through L-S-and-A or          <OVERLAP1> through, </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> through </OVERLAP1>
+          the Art School        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> through the Art          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mhm </OVERLAP2>
+         </U2>
+         <OVERLAP1> School. yeah. </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          that's good. okay well i'm glad you let me, hear that.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, i'm not sure where it's gonna go but          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          alright well thanks for um, helping me out a little bit here.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> okay. happy to do it.          <U2 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          good.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> well you have a nice weekend a good happy Easter.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> yes thank you. oh i should_ well (xx) should i have you fill out a, an evaluation form? we'll skip          <OVERLAP1> it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no, </OVERLAP1>
+          no.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> and i'll (xx) i'll do it later. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> alright </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JU" SEX="F" AGE="1" RESTRICT="NONE"> thank you. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SF" SEX="M" AGE="4" RESTRICT="NONE"> good </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+    </TEI.2>

@@ -1,0 +1,483 @@
+<TEI.2 ID="lab205su045">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Hydraulics Problem Solving Lab </TITLE>
+         <TITLE> Rackham Div: PS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 9457 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> LAB205SU045 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales. (1999)  The Michigan Corpus of Academic Spoken English. Ann Arbor, MI: The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="78">             <DATE> November 3, 1998 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones; VHS Camcorder </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Janine Ovens, Rita Simpson </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Brooke Mays </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Rita Simpson </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Linda Kurtz </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Rita Simpson </NAME>
+               <RESP> Final Editing, 1/10/00 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">LAB</TERM>
+ <TERM TYPE="ACADDISC">205</TERM>
+ <TERM TYPE="PARTLEVEL">SU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">MI</TERM>
+ <TERM TYPE="ACADDIV">PS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: MI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+         <LANGUAGE ID="NRN"> Near-native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="12"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="10"></PERSONGRP>
+         <PERSON ID="S1" LANG="NRN" ROLE="SG, Graduate Student Instructor" SEX="M" RESTRICT="NONE" AGE="2">           <FIRSTLANG> TUR </FIRSTLANG>
+         </PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="JG, Student" SEX="M" RESTRICT="NONE" AGE="2"></PERSON>
+         <PERSON ID="S5" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S6" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S7" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S8" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S9" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S10" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-f" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="UN, Student" SEX="M" RESTRICT="NONE" AGE="0"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="UN, Unknown" SEX="U" RESTRICT="NONE" AGE="0"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Classroom, CEE Building </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> so everybody, everybody got a handout? (xx) no. you didn't get one? okay, so today we'll be talking about, uh flows and plant lines. and vent losses and exit losses and entrance losses and valve losses and this and that, and, it's going to be an individual assignment, so you'll have to do it, all by yourselves of course you are allowed to discuss with partners how to do it, but i would like to see your own work, i'd like to see, uh, your own set-up, and your own solution and your own discussions. and um, couple other things as well, that i would like to see in the assignments that you hand in. and let me just quickly, tell you what those are going to be.          <EVENT DESC="FLIPPING PAPERS"></EVENT>          well first of all, all of us are familiar now, i really don't want us to, uh, i don't want you to give me, Excel spreadsheet formulas. i don't want to see any of that you can give me an Excel output with the numbers in there, but i would like you in your, with your own handwriting, write down what equations you used what coefficients you use in those equations and how you came about with the solution that's really, uh the main part that i want to see, so don't refer me to again, Excel formula sheets. are we all_ makes sense right? okay, now, the other thing, since this is an involved assignment, there are little, things that you need to pay attention to, and, when you look at it the first time it may be a little, it may look like you have to, go through a lot of work but i strongly suggest that once you set up, some sort of a formulation sheet or an Excel sheet if you want to for, the first problem you can modify it for the rest of the problems. so the first work is going to be probably a little cumbersome but then, it'll, pay off later. yes?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you'd say that we should set up a, Excel sheet, for all of these problems, or? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> no no just for one of 'em. i mean i'm suggesting that you do that you can do it in multiple ways but what i would suggest is, set up an Excel sheet, cuz for instance if you look at the first problem which we'll be doing, the the way it usually do i let you read the quest- question and you ask me a question about the question. so i would like you to, well i would suggest that you set up a, some sort of a Excel workbook for this. okay you have this, Fs you have your Ds you have your discharge you have this and that, and once you have that set up you can just goal-seek for the variable that you're looking for, and then for the rest of the problems you just have this spreadsheet, everything is set up the Fs is set up the Qs the, head loss coefficients, formulas everything is set up, you just change numbers, in individual cells and you modify a little bit and do another goal-seek... makes sense doesn't it? yes? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> and that's what i would suggest but if you don't wanna go through that you can just use your calculator and, go about doing it this way too. so. now, a couple things, once you do your assignment for each problem set, for each single one of 'em, those are the things i'd like to see.          <EVENT DUR=":14" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          your energy equations, right? energy A minus energy B is equal to, H-A minus H-B minus local losses minus friction losses minus this minus that. how do you calculate these local losses these friction losses? what coefficients do you use? right i would like to see all that. what i would like to see as well is_ and in these coefficients i haven't elaborated but it's like, exit coefficients entrance coefficients valve coefficients and this and that, and, i would like to see,          <EVENT DESC="WRITING ON BOARD"></EVENT>          your F values i wanna make sure that you do it_ that you just didn't use like a zero-point-zero-two and give me an answer, so i want to make sure that hey, you used this zero-point-zero-two as an initial guess and then you went back and did, this one interpretory. so i like to see that. it'll help me see your way of approaching the problem as well and, it'll make grading a little easier too i guess. and um so these i would like to see for each, each problem that you solve. and um, in addition to that you can assume, for the rest of the problems, cuz that's not given there, that the water temperature          <EVENT DUR=":04" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          is this. so this you will need, for, what do you need this for?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> viscosity </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> why did i </OVERLAP1>
+          give you the temperature really? huh?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> nothing.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> viscosity </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> visc_ you got it. Ann you are right on the dot. exactly. you'll need to do_ well you may want to do your sample calculations right? so that's what you'll need this for. okay so, why don't we do it the way we usually do it then i would like you to read the questions, let's start with question number one, read it through, and um, ask me questions. and we'll talk about it. okay? so just question number one.          <EVENT DUR="1:14" DESC="PAUSE WHILE STUDENTS READ SILENTLY"></EVENT>         <EVENT DESC="WRITING ON BOARD"></EVENT>          don't write it down yet. just don't worry about it for now i just put it down to remind myself when i look back on the board.          <PAUSE DUR=":04" ></PAUSE>          so anybody need any more time? shall we discuss it? okay, any questions?        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what's the difference between the hydraulic and the energy grade lengths? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> good question. anybody having, an answer?          <PAUSE DUR=":04" ></PAUSE>          you look like you have an answer.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't, i could look and see if i can find one. (xx)          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay </U2>
+          (but i) don't have one.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> isn't um, the_ well the, the hydraulic energy line is just the water level, but i don't understand what that, means here. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> the, hydraulic          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> wouldn't it mean </OVERLAP2>
+         </U2>
+         <OVERLAP1> grade line </OVERLAP1>
+          what it means there?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> in_ like in an open channel isn't that what it would be? but it's not          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right </U2>
+          this is all closed so i don't know.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay, well, how do you calculate, the hydraulic grade line in an open channel? what's the formula for that? like what's_ how do you calculate the water depth...? it's P over gamma isn't it? you want me to write all this down for you.          <EVENT DESC="WRITING ON BOARD"></EVENT>          well, um, it says calculate the energy grade line. how would you calculate the energy, in a system at a particular point, at any point? how would you do it?        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> B-one-squared </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> B B-one (xx) </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> B-squared through G plus Z plus P over gamma right? the total energy equation          <EVENT DESC="WRITING ON BOARD"></EVENT>          P over gamma plus Z plus V-squared over P-G. and, in every single point in the system you will know the pressure. you will know the Z and you will know the velocity, so using this you can calculate the total energy. and the grade line that's that's made up out of this, is the total energy. okay now the_ here is the million dollar question, well how do i pull the hydraulic grade line out of this?          <PAUSE DUR=":05" ></PAUSE>          what do you think?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> isn't this that you want a, minus E-two over um...          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well yeah </U2>
+          change in X or something like that?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right but that's the energy slope. energy one minus energy two divided by the length, through which this energy drop took place that's the energy slope right? the hydraulic grade line is          <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          it's P over gamma plus E so Doug that's where this thing comes into play. we have in open channel flow we had a hydrostatic pressure distribution. we had a channel bottom, put those together, we have a hydraulic grade line. so now, in order to find the hydraulic grade line what you do is, you find the energy, subtract, the velocity from it, and velocity hey you have a discharge right? Q-squared over whatever, and you have the pipe diameter right? very easy, right? that's it... any other questions?          <PAUSE DUR=":05" ></PAUSE>          no...? yeah?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> s- say you just take individ- like you'd figure out what values of uh E, and then, a hydraulic grade line are (at) like various points on the X-axis          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> at various </OVERLAP1>
+          points right.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so when it says it's twenty meters,          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uhuh </U2>
+          is that, is that the, is that the_ is that horizontal distance or is that the angle, or is that like the length of the pipe?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> oh that's the length of the pipe. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so would you need to plot it like that or_ do you see what i'm saying? you'd plot it... you don't take into account the angle that it's at, right? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well, do you need to though? like suppose you have this reservoir here, right? and is the pipe is sticking out of here and it's going this way right, and i- it's going into another pipe and here is some expansion going on and some all kinds of stuff and you know how to deal with that by the way, right? okay, so here, at this point, you need to determine what the energy is at this point, right? and you know what the energy drop is going to be across this length of the pipe because you have everything given to you. the pipe diameter the length you have everything given so you can easily determine what the head loss is going to be through here, so you can come to this point and say okay, this energy, minus all the energies here, is going to be equal to the energy here whatever that may be. and you just, connect the two lines. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh, that's it? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> yeah.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh. </U2>
+          easy huh? but, i would like you, um... well i_ you need to be aware that, within this stretch of the pipe like within this point right before the expansion, well you have frictional losses right that's for sure, but what else do you have in here? what other kind of loss do you have in here that you probably should consider?          <PAUSE DUR=":04" ></PAUSE>          can you see?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> head loss? is there head loss in the pipe? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well that's the friction loss right? water's going through the pipe, it's getting exposed to friction, and that causes the head to drop. right? what else is there? what else is there, that causes the head in the pipe to drop...? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is it the entrance and the exits? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> exactly. very good. this thing is in the reservoir, it's entering the pipe, and of course you can (see) different types of entrance losses exit losses, you need to take that into account, right? well if this is the case, then probably a better way to represent this energy grade line would be, i need to know what the energy here is, it undergoes some drop, and you'll determine what the magnitude of that is because of the entrance, and then you have another point, because of friction, (djoo, you're gonna be right here) </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> but we don't_ you don't really ex- want us to figure out what distance that's over.          <OVERLAP1> or do you? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> what distance </OVERLAP1>
+          what is over?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> where the entrance loss is. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> this distance here? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> oh no no no.          <U2 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> just </OVERLAP2>
+         </U2>
+         <OVERLAP1> i just would </OVERLAP1>
+          like you to tell me_ well obviously here          <U2 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah. </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's </OVERLAP1>
+          an energy level, right after it enters the pipe there's a different energy level because of that loss. that's what i would like to know          <U2 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          no need for the distance or whatever        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> now let me ask you a question right here then. what is the energy of the flow right here? total energy. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> where did you point again? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right, inside the reservoir before the flow even enters the pipe. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's not (what) a Z is it? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> huh? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> whatever the Z on this </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well how about the P-over-gamma and the V-square over two-G? that we emphasized. da-dum, that's it. everybody see that...?          <OVERLAP1> (you see it?) </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> so you're saying </OVERLAP1>
+          at the surface?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> at the surface right. right here because right here you need to have some sort of energy. well okay, if the energy right there is equal to the Z whatever that may be, so what do you think Bradley what is the hydraulic grade line over there?          <PAUSE DUR=":06" ></PAUSE>          how about anybody wanting to help him?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> same thing. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> same thing. right? you all see that... okay, you got that important concept. so now, at this point the energy and the hydraulic grade lines coincide and after that it won't of, of course because the velocity changes and this and that, but you already calculated that right...? right...? okay. so any other questions then? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so when we plot it do you want u- us to plot it like, on this drawing, or do we just do it on a regular Excel? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> oh you don't have to do an Excel drawing you can just          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay. </U2>
+          you can have like a hand-drawn sketch but make one on here but, have another hand-drawn sketch, with this and just put the numbers there i don't really need to go through it like a lot of Excel calculations and drawings. yeah?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> y- you said we had a Q, but how do we get Q out of this? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> good question. how do you get a Q out of this, this thing...? how would you set up your sets of equations so that you get a Q out of this?          <PAUSE DUR=":05" ></PAUSE>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you just use your H-L equals R-Q-squared. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> you got the question, you gave the answer. right. you know what Z-one is, you know what Z-two is, at the very end of the system, well those two_ the difference between Z-one and Z-two, will have to be taken up by all the losses that this flow encounters while it's going down right? and the losses it encounters is friction losses in pipe one pipe two, expansion loss, entrance loss, exit loss, i guess there's a valve in there too right? and valve loss. and you know how to represent each one of 'em, right? so you have an equation saying, delta, Z, the head difference between the two reservoirs, will have to be, equal, to, all the losses that the syst- that the flow encounters as it goes down from, reservoir one to reservoir two right? there can't be anything else... right? does it make sense to everybody? </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so there's no velocity at the end? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uh, meaning what at the end? like this thing is_ goes like this          <EVENT DESC="WRITING ON BOARD"></EVENT>          and there was an expansion right here and... okay what is the end? here, here... is there a velocity          <OVERLAP1> here? </OVERLAP1>
+       </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i guess it hav- </OVERLAP1>
+          yeah.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right? it's still inside the pipe. but as soon as this thing exits the pipe and enters the reservoir all the velocity that it had, poof, it's gone. that's why we have an exit loss, right? and that's what you need to take into account right here, okay...? right...? any other questions?          <PAUSE DUR=":07" ></PAUSE>       </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so, to go about finding the location you would look at the energy grade line and subtract off, like V-squared,          <OVERLAP1> over </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> location </OVERLAP1>
+          of what?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i mean of_ location of maximum pressure. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> ah, okay. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so do we do the maximum on the energy grade line minus, like velocity minus elevation? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> correct. well, maximum of what? maximum of the energy right? is that what you're s- well yeah, if you do a thought experiment, since you asked this question          <EVENT DESC="SMALL OBJECT FALLS"></EVENT>          i mean you could if you wanted to, calculate the energy levels, at these individual sections_ what was this by the way?          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          things are flying all over the place.        </U1>
+       <U1 WHO="S8" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's mine. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay here we go.          <EVENT DESC="LAUGH"></EVENT>          okay, now, you have, um_ what you can do is, you can plot this grade line energy grade line you can plot the hydraulic grade line, pick the maximum point, and say well that's, the maximum pressure right? because the hydraulic grade line minus the Z-elevation that you can easily calculate because we've given you everything, like the numbers on this paper, zero three thirteen eight those are all in nearest elevations. so you know what the elevations are, using those you can calculate the pressure. you can either do that, or, before you even start doing that you can look at this equation          <EVENT DESC="WRITING ON BOARD"></EVENT>          right? and this equation will tell you, so to speak, where you should see the, maximum pressure occur right? right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> but then you'd need the velocity at every, every point right? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <EVENT DESC="WRITING ON BOARD WHILE SPEAKING"></EVENT>          well the velocity here and the velocity here and the velocity here are the same. so you need to have the_ you need to know the velocity here you need to know the velocity here. and, of course you need to know the energies right here because here you have undergone certain types of transitions right? so you know, suppose you know the energy at each, section, right before and right after some sort of a transition something that causes a head drop. you know the energy at those locations. and you would like to know, what the... maximum pressure is... so the location, that has, in order for this to be maximum, for a given energy level for this to be maximum what do these two have to be?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> as small as possible </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> as small as possible. so this doesn't necessarily mean that... where is this small, in the system? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> at the end of the run, anywhere where the, well zero. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right anywhere where this, where this          <EVENT WHO="SU-m" DESC="LAUGHS"></EVENT>          big thing starts, so you probably need to look for the maximum pressure right here somewhere, right? but the question is well, this has to be minimum but this has to be quite small too, and that's the task that you need to undertake. well where is the velocity the smallest?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> isn't it_ but didn't you already answer that, because we know at the end it's zero? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> at the very end it's_ well inside the reservoir it's zero </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> but inside the reservoir you know what the maximum pressure is. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right? so is there another place that the pressure is even higher than this? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> before the expan- the exit expansion. is that what you mean? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right here you mean? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> no i'm just, that's what you're saying, okay. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> the energy here and the energy here are different,          <U2 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> mhm </U2>
+          right? and this is what you need to take into account as well, right? so i would like you to tell me, taking the energy and the velocity into account, where this term is the biggest.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well, where are we_ how are we figuring that out to begin with to solve the energy equation? P-over-gamma. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> you know, what the energy is going to be, right? you know what the energy is going to be here, here, um, and then if this is the valve right before the valve right after the valve and right before the, entrance into th- into the reservoir and at the reservoir you know that the_ what the energy values are there. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but i thought we knew what those were          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> because </OVERLAP2>
+         </U2>
+         <OVERLAP1> because </OVERLAP1>
+          of that equation.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay let's back up here. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> alright, now, forget about the energy...          <EVENT DESC="WRITING ON BOARD"></EVENT>          you would like to calculate, the discharge through the system... how would you do it?          <PAUSE DUR=":06" ></PAUSE>          yes?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well, with the head loss equations. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <EVENT DESC="WRITING ON BOARD WHILE SPEAKING"></EVENT>          exactly. you have a delta-Z, Z-one Z-two, is equal to, all the head losses. local head losses, valve head losses, exit head losses entrance head losses friction head losses so you have an equation, that is a function, of Q it's like R times Q-square, K times Q-square and all that right? so in the end the only unknown is a Q. this is known the only unknown is a Q, you pull a Q out of it, right? you can do that easily. now you have a Q... well look at this now... you wanna calculate the, energy at this point, suppose as an example. you know what the energy at this point is, agreed? you know, that there's an entrance into the pipe so there has to be some loss associated with that, and you know how to represent that too don't you...? the hot loss, let's call this entrance... is going to be equal to what? help me out here... what is it equal to...?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> P of the entrance times Q-squared over two-G          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> exactly. </OVERLAP1>
+          well, tim- K times V-squared over two-G and you can represent this in terms of A-Q-squared G-pi-squared D over four, you can do that right? so, well, guess what? i just calculated this i know what the velocity is because i know what the discharge is i know what the pipe diameter is. i know what the velocity is agreed? well i know what the velocity is i know what K is, because of whatever type of entrance i have here, well i can easily calculate an H-L entrance, right? so this total energy, minus, this head loss, is the new energy level right here. and look at this now. what is the energy at this point? is the next question because you wanna go step by step. well what is it? how would you calculate that?          <PAUSE DUR=":04" ></PAUSE>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> minus R-Q-squared. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> R-Q-squared and R is F times L over D ti- well that's it right? F times L over D over, two-G whatever.          <U2 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah </U2>
+          so you can do that too and you have Q as well. multiply this whole R, which is a function of the pipe diameter pipe plane or whatever it is, times, the Q that you just calculated, it'll give you another H, agreed...?          <EVENT DESC="WRITING ON BOARD WHILE SPEAKING"></EVENT>          right, H friction, is equal to F times L over D times one over Q-G times V-squared. well this whole thing, you know, it's given. this you just calculated because you know what the discharge is knowing the diameter you know what the, velocity is, you have the (xx) (already.) so the energy here, minus this entire friction is going to give you a new energy level, right? right? and this_ that's basically what you do throughout the, throughout the system. once you've got Q, everything is all taken care of... are we clear so far? before i even build on this... yes? no...? now, i want to know where the maximum pressure occurs right? then i refer to this equation. in this equation as you can see i know the velocity at each single location, right? no problem. well i know what Z is it's given to me, the only thing that i don't know... is this. i know the energy as well i just calculated it right...? so i know the energy at each section, this section this section this section this section this section and here. i know the energy. i know the velocity, i know Z. only thing that i don't know is P. pull P out of it. look at the P distribution, and tell me hey, among this P distribution, this is obviously the biggest so this is the answer... right?          <PAUSE DUR=":04" ></PAUSE>          are we okay on this? are we too fast too slow?          <PAUSE DUR=":04" ></PAUSE>          yes?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> yes. okay, let me ask you a question. well before i ask you this question though, for this problem for this particular problem, in addition to what we just talked about that i would like to see, i also would like to see these here. i would like you to tell me what your delta-H is that you used for your calculations, delta-H meaning the energy difference between those two reservoirs, what energy difference did she use? i'd like to see that. i would like you to tell me what V-C-one-squared two (xx) V-two-squared over two-G-R. trivial once you have Q, and you know the diameter, of the two pipes just ratio them and give me this value... so i would like to see numerical values for these, obviously we need to see Q that's what you're asked anyways. now, i also would like to see, when you do your P calculations i don't really care if you do it in terms of P over gamma, or if you change it to P like, this_ the value that you calculate multiply it by gamma or not i don't really_ it doesn't matter to me. just gimme a P value, maximum P value... okay? i want to see those. in nice little circles or boxes right. okay, now before we move on, i would like to ask you one more question just to see that you are, um, on the same wavelength here. well it says a new commercial steel pipe. why would i bother giving you this? have they ever talked about a, pipe a steel pipe in here? </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> you have to estimate, the friction losses. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> exactly... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (what did he say?) </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> huh? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="WHISPERS"></EVENT>          friction losses          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <EVENT DESC="WHISPERS"></EVENT>          friction losses. now now so in that friction losses in the friction loss (storm) we had, this thing called K-S, equivalent roughness. now you need to know what that is otherwise how are you gonna estimate the friction loss? and this is what that is for. i would like you to pick a roughness coefficient that corresponds to a new commercial steel pipe. and the way you get that is, i think every group, maybe not every individual but every group has this book... i think it's in the other book as well. it's pretty much standard but in here it's on, i looked it up for you guys. on page three-twenty-two there is a Moody diagram and on that Moody diagram, this is the Moody diagram, we are all familiar with, and right here is the small box, and that gives all the uh coefficients that you would need but please be_ m- make sure that you keep the right unit it's meters and feet... time to move on right? unless there are any other questions...? okay... number two, so (why don't you re-) do number two.          <PAUSE DUR="1:10" ></PAUSE>          look up if you're done so that i can see... wow, everybody's done okay, anybody need any more time...? alright so any questions about number two then?          <PAUSE DUR=":05" ></PAUSE>          we just discussed it in class too i guess right so that hopefully, helps clarify the question a little more.        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so you want the discharge in each pipe section? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> very good question, yeah, like cuz the system has like three sections right? so you have three discharges which one do i wanna see? well i would like to see all of course, so          <EVENT DESC="LAUGHS"></EVENT>          but if you give me just- if you give me the discharge in branch one and discharge in branch two, that should suffice because the sum of 'em is going to be the discharge in branch three, right?          <PAUSE DUR=":04" ></PAUSE>          any other questions?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> how about figuring out initial Q, again. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> huh? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> how about figuring out          <EVENT DESC="LAUGH"></EVENT>          initial Q again. it's using the head, like the head loss of the tank or something?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well you need to_ all is based on this_ this energy equation that we just talked about right? this delta-H difference it's cu- because that is equal to, whatever head losses the flow encounters right? well... let's_ how would you write an energy difference equation for this? cuz we don't (have) two reservoirs anymore but one of the, ends is open to the atmosphere, so how would you write your energy equation...? what is E E-one? call this section one, let me just do it on the board...          <EVENT DESC="GOES TO BOARD"></EVENT>          now in order for us to be able to even solve this question again we use our energy principle E-one minus E-two is equal to all the head losses that the flow encounters, as it moves from one, to two right? okay...          <EVENT DESC="WRITING ON BOARD"></EVENT>          E-one, goes through a piping system like this, well since this is where this whole thing terminates while this is, E-two right? what is E-one Jeffrey what do you think? help me with this.        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well your Z is, one thousand. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> so E is, one thousand? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well how about_ so we know that E-one minus E-two is equal to the sum of all the head losses that this thing encounters as it moves down, in the pipe. well we just determined that E-one is equal to a thousand feet, well... what is E-two, do you think? </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> nine-twenty, nine-twenty, </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> nine-twenty, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> plus your... P over gamma term. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> very good P over gamma and? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> plus your V-squared G term. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well, since you told me this statement let me ask you a question. what is this? </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's zero isn't it? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> why? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'm not sure. </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> it's atmospheric </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> (that's) the answer. </U1>
+       <U1 WHO="SS" NSS="NS" ROLE="UN" SEX="U" AGE="0" RESTRICT="NONE"> cuz it's open to the atmosphere. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> it's open to the atmosphere. zero. and the velocity is, what is the velocity? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's Q over A </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> exactly. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what A, what A? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> w- well the A of the pipe right? right          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay then </OVERLAP2>
+         </U2>
+         <OVERLAP1> before the </OVERLAP1>
+          exits right. cuz after it exits there there's uh no pipe there's like, something something there we don't care about that. so this is the ener- this is the equation that you have, and this, did you have a question by the way Ann?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay. and this is equal to, all the head losses that the system encounters. right? now,          <EVENT DESC="WRITING ON BOARD WHILE SPEAKING"></EVENT>          this is w- if i call this one this two this three this four, right? i just want to call it that way, and this is equal to H-friction-one plus, H-friction-two, plus, H-friction-three plus, H-friction-four right...? right?          <PAUSE DUR=":06" ></PAUSE>          no          <EVENT DESC="LAUGHS"></EVENT>          fooled you all. what's, what's happening here?          <PAUSE DUR=":16" ></PAUSE>          okay, imagine a fluid particle, it's moving down right? marching down the pipe, while it's marching down the pipe it's encountering all these things in the bottom of the, of the, pipe so it's losing energy it's losing energy it's coming to this point right here. suppose it chooses path_ well it can't choose two paths right? it's just one little creature it can't divide itself into two it'll die. so (it'll) choose this path. and it goes down here it goes up, reaches the end of the pipe. how much energy has this little thing encountered? how much energy loss?        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> H-F-one plus H-F-two </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> say it again. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the H-F-one plus H-F-two. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> H-one plus H-F-two plus four. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh okay </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> that's, it. it didn't even see this pipe, right? but the particle could have also instead of choosing this path, chosen the other path, and then the energy loss we can use two sections without doing this, minus one minus three minus four it doesn't even know what's going (down) its tube, right? so this is wrong you guys, i don't wanna see this in the assignments really. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> could you just take an average, of the two? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> whoo </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> they're the same. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> jesu- </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> they're the same </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> they are the same exactly.          <EVENT DESC="LAUGH"></EVENT>          but that's good no no that's, you guys it's interesting you have this like notion of averages that seems to like oh, use an average yeah i don't know what to do use an average.          <EVENT DESC="LAUGH"></EVENT>          no no you don't wanna do that. okay so you either choose, you either choose H-one, H-three H-four, or, H-one H-two H-four, right? but since we have two discharges that we need to solve for, we need two equations. one of 'em is going to be H-one H-two H-four the other one is going to be H-one H-three H-four, using those two equations two equations two unknowns, you can calculate the Q-one and Q-two          <PAUSE DUR=":05" ></PAUSE>          right?          <PAUSE DUR=":06" ></PAUSE>          somebody looks suspicious.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it just seems like we're gonna have too many unknowns. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uh like what? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> you know the Fs </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right. </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> i mean you know </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> you can estimate what the Fs are right? cuz you have this thing called a Holland equation that says one over squared of F is equal to minus zero times seventy-nine times L and times, well i don't remember the rest, but that's (basically) what it is. so you plug in the numbers you plug in the length you plug in the type of the pipe you have, and this and that and you have an estimation for F. yes? </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so, when we solve, that equation that, E-one minus E-two equals H-F-one H-F-two plus H-F-four,          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uhuh </U2>
+          is that_ when we solve for Q is that gonna be Q of, two or final Q?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> very good question. </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (wouldn't) that be a- the Q of the two? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well, in that equation you'll have,          <EVENT DESC="WRITING ON BOARD WHILE SPEAKING"></EVENT>          if you call this, let's call this Q-one, and let's call this Q-two, right? if you (match,) if you do it this way, you have a, Q-one plus Q-two in your, equation you have a Q-one and you have a Q, -one plus Q-two. you have two Qs. so you can't really, solve that equation all by itself, because it has the other Q in it. so you need to solve, the second you need write down the second equation and solve it simultaneously, and let me tell you... once you write down the equations, E-one minus E-two is equal to, one path, E-one minus E-two is equal to the second path, and you look at the (simplifications) and you'll say, oh my god Q-one and Q-two ar- is he crazy? but then it'll dawn on you and you'll say oh my god, this term cancels out and this term cancels out ah this term cancels out too and even this term cancels out... and that'll help. but you need to write down the equation, equations          <OVERLAP1> yes? </OVERLAP1>
+       </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> um </OVERLAP1>
+          do we only look at frictional losses or do we look at, when it's entering the pipe and, splitting off?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> gr- good question. well what i would suggest, since we haven't even talked about how to deal with losses in branching pipes, negligible. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and leaving the reservoir? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uh, leaving, this one here for ex-? yeah exactly i would like it if you include the loss here because we know that there is a reservoir, but here, well, there's nothing really right? and besides, this thing here, (xx) for counting these in the equation (you have of) that too. </U1>
+       <U1 WHO="S10" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right? so, yeah.          <PAUSE DUR=":05" ></PAUSE>          any other questions?          <EVENT DESC="WRITING ON BOARD"></EVENT>          don't write this down this is just a reminder for me. cuz i i wanna talk about this stuff later. um, any questions about this? so we are moving on? moving on? one two, move on. okay, let us do number three then.          <PAUSE DUR="1:48" ></PAUSE>          anybody need more time? okay, questions.          <PAUSE DUR=":06" ></PAUSE>          oh no questions on this one huh?          <EVENT DESC="LAUGH"></EVENT>         <PAUSE DUR=":07" ></PAUSE>          no questions?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what do you mean by construct a figure? like, i don't, i don't think i exactly understand that term. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay, oh the last sentence you          <OVERLAP1> mean? </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay construct a figure it's basically plot Q versus, uh valve opening. like you have this plot here, it has valve opening in terms of percentages, in terms of C-D. what i would like you to do is replace this C-D with a Q, basically.          <PAUSE DUR=":05" ></PAUSE>          is that, does it make sense?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't get that part where the um, it says,          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> mhm </U2>
+          uh, C-D, relates the flow rate to the head loss.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> mhm, okay, um, </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> how is it? how is that? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> alright, well, let's see.          <EVENT DESC="WRITING ON BOARD THROUGHOUT UTTERANCE"></EVENT>          let's work it out together. now we have, what we would like to do ultimately, is, (xx) have a plot like this. right? that's the ultimate goal. well the problem is well how do we achieve this right? okay, well, we are given, a K-L which is one over C-D-squared minus one that's defined right? it's given to us. now this K-L, is a valve loss coefficient, meaning          <EVENT DUR=":05" DESC="PAUSE WHILE WRITING ON BOARD"></EVENT>          the head loss through the valve is equal to K-L times V-squared over two-G, and this K-L, is that K-L, right? now... by now, we are all familiar, i hope with this E-one minus E-two energy difference, and this tells you, how much, i think it tells you doesn't it? it tells you how much head difference there is, to push the flow through the system. it tells you, it gives you a length of the pipe, meaning well there is some friction in there, and there's a valve in there. okay, now, if i don't have this information, i wouldn't know, what K value to put in there, to solve my set of equations right? E-one minus E-two is equal to H-friction plus H-valve, right? if i do that, E-one minus E-two is equal to H-friction plus H-valve, i know that H-friction, is a function of Q, well H-valve, in this case is a function of Q, and... K-L. well i have, two unknowns in one equation. that doesn't work. that's why we gave you this, to eliminate, this unknown... how do you eliminate it? watch. you have, you can_ i suggest, that you construct a table. here you have valve opening. for this particular valve opening suppose you wanna start with, forty i'm just_ wild guess. for thir- forty percent valve opening, for a butterfly valve, you know what the C-D is. okay? valve opening, forty- uh forty percent, C-D value whatever that may be, well using that C-D value, you can easily calculate the K-value right? K value. using that K value... plug it into here... pull out a Q. ta-da. highlight this Q and then this valve opening, make a plot and hand that in to me... right...? everybody follow this...? Doug?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> all set. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> you are the man. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what would that K-L be plugged into? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> say it again. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that K-L we found i got plugged back into, up top there. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right. the K-L goes in here because here you have, Q unknown and K-L unknown, but this K-L, is known now, for this particular valve setting so in this whole equation the only unknown, is Q, right? pull it out... and, write it down here. for this valve opening, this is the Q i get. and repeat it for a couple more of these values so that's why i keep on suggesting, if you have a s- s- spreadsheet or some sort of a programming tool available for you, you can just plug in these numbers and just, press goal seek goal seek goal seek all the time and you'll end up (with) all the right answers. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> why do you need to use goal seek (xx) when we do it?          <OVERLAP1> (is there a loop?) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> well, </OVERLAP1>
+          uh, in here for instance it has an F in it right? and um, it has_ the Q is Q-squared here Q-squared here, well in this case, it may work out without necessarily using goal seek... but in some other cases i would imagine that since you have a Q in there, that you cannot easily pull it out if that's the case then you just use goal seek. but you don't have to necessarily if this works out without it then... sure... shall we move on? yes?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but for all of these, problems,          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uhuh </U2>
+          there's Fs involved right?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> there's Fs </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so we need to estimate our initial Fs, go through this whole, thing and then, do it again with the_ our new Fs or, how exactly does that work? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> that's certainly one way of doing it and that's why i have the star up there, but i'll talk about it once we go through the assignment though,          <U2 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          is that okay  but please remind me, cuz,          <EVENT DESC="WRITING ON BOARD"></EVENT>          uh, this, we should probably talk some more about, but um, for now we know F.          <U2 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U2>
+          but i'll get back to you. so but are there any other questions about, about, problem number three...? so we're moving on then? okay, number four. number four.          <PAUSE DUR=":26" ></PAUSE>          it's getting tiresome isn't it? three-thirty you are sitting there it's hot we are getting videotaped.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          when are we gonna get out of here?          <PAUSE DUR=":27" ></PAUSE>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> doesn't a Venturi,          <OVERLAP1> meter need, </OVERLAP1>
+         <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">           <OVERLAP2> wait </OVERLAP2>
+         </U2>
+          oh.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> let's give          <U2 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> alright i won't ask then </OVERLAP2>
+         </U2>
+         <OVERLAP1> everybody an equal </OVERLAP1>
+          chance... oops...          <EVENT DESC="TALKING TO MICASE RESEARCHER"></EVENT>          that's okay, thanks.        </U1>
+       <EVENT DESC=":49 S1 AND S4 UNINTELLIGIBLE SPEECH"></EVENT>       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uh are we ready to, entertain any questions...? yes...? okay, so, any questions? </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (i don't) really </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> i have a general </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> don't, don't understand          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> i have a general,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <OVERLAP1> i have a general question. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (i still don't understand) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> okay (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <OVERLAP1> because </OVERLAP1>
+          it dawned on me for all of these actually.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> it says eight-inch diameter pipe          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uhuh </U2>
+          steel or iron or whatever,          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uhuh </U2>
+          that's the inside diameter?        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> just for convenience? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> yeah yeah.          <U2 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">           <OVERLAP2> okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> for </OVERLAP1>
+          convenience. that's the inside diameter no hassle about_ well in a- the coming up assignment we'll give you a nominal diameter or inside diameter but for now, it's inside.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> did i hear something about not understanding the entire question?          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <EVENT DESC="WRITING ON BOARD THROUGHOUT UTTERANCE"></EVENT>          alright... well... let me tell you          <PAUSE DUR=":04" ></PAUSE>          basically thi- this question deals with, flow meters. and i personally happen to think it's a very interesting question and you know why? it combines the previous information that you have with the pipe flow information so it should_ i hope you will find it interesting too, well we'll see right? well first of all before we go into a discussion of this, it says a an eight-inch diameter steel pipe, uh, commercial steel, cuz there are different types of steel pipes so i would like you to use the commercial steel K-S, that corresponds to (it.) now there are several sections to this question, mm, one of 'em is... it says okay if you have a piping system, okay, this piping system is, this much long, the length is given the diameter is given and also the, energy difference between the two end points of the system is given to you as well, right? so, you have some sort of a system like this, and, the energies at those two, sections are given to you, um, what we wanna do is the following we would like to meter this flow. and in order to do that we need to use different devices right? that we need to, install into the system, and, that's basically what we, uh wanna do and determine, how much, discharge can we actually get through by installing different meters, because all the different meters have different head losses associated with them, and that in turn, influences the discharge going through the system. right? so, in part A, we have a, what do we have? um, sharp-edged orifice.          <EVENT DESC=" :06 PAUSE WHILE WRITING"></EVENT>          so right here, in part A, i install... a sharp-edged orifice. okay? what i would like to know is well okay the flow is going through here, it's going it's doing this right you all are familiar now what it does, well maybe i should draw it over here.          <EVENT DESC=":04 PAUSE WHILE WRITING"></EVENT>          so here it is. so the flow comes it contracts and then, it expands and turbulence is going on and this and that, and the flow is going downstream. now what we know is that as the flow goes through here, because of this effect, there's some losses associated with it agreed? we would like to determine those losses, because i wanna put that into my system and pull out a Q. right...? now, how would i calculate, the loss, associated with a sharp-edged orifice that's sitting in my system? any ideas?        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> energy equation. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> the buzzword. well it's the energy equation but uh          <EVENT DESC="LAUGH"></EVENT>          the energy equation between,          <EVENT DESC=":03 PAUSE WHILE WRITING"></EVENT>          between this point and this point, if i apply the energy equation that's equal to, uh, losses because of friction H-F, plus, losses because of the sharp-edged orifice. so i have th- a delta-E that's equal to H-F, friction plus, H in this case it's a, meter let's call it a meter. now, how, but the, the fundamental question here though is, what is this? i know how to represent this. F times N over D times V-square over two-G what's the name of this equation by that, by the way...? the F times N over D times V-squared over two-G.        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> Darcy-Weisbach </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> Darcy-Weisbach. good to know. okay now Darcy-Weisbach equation we use it in here, here we need to use some sort of an expression... that's a function of Q, and pull, the Q out of there. now, what's this? </U1>
+       <PAUSE DUR=":26" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> couldn't you just look it up?          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">           <OVERLAP2> mm </OVERLAP2>
+         </U2>
+         <OVERLAP1> there are </OVERLAP1>
+          some tables.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> there are some tables, i've_ yeah, but um, i i'm not sure if we have given you a table that, tells you what the loss is through a sharp-edged orifice... well let me, let me, direct you to a certain way of thinking. as i go down here, instead of having this, isn't this part, similar to having... a pipe like this...? right? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> yeah,          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">           <OVERLAP2> expansions losses </OVERLAP2>
+         </U2>
+         <OVERLAP1> one minus </OVERLAP1>
+          D-one over          <OVERLAP1> D-two (xx) squared, squared </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <OVERLAP1> D-one over D-two exactly. </OVERLAP1>
+         <EVENT WHO="SU-m" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> it's in your notes. but, i would like you to be, aware of something though in there, in this equation... um... what's, the one particular fundamental difference between, this, and this? can anybody see, from the sketch that i have on the board? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> flow contracts. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> flow contracts Jeffrey... if this is,          <EVENT DESC="POINTS TO BOARD"></EVENT>          how many inches is that?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> four </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> four if this is four inches... this one here, if i deal with expansion, this is not four inches. it's four inches times, the contraction. the flow doesn't expand from four inches outward. it goes from four inches into a contraction and then it starts expanding, right? does it make sense...? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no, you said it's four times, the contraction? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> contraction coefficient. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> coefficient okay. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> are we supposed to just, guess, on that? i mean, by this point we, we sort of know but </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> you sort of know exactly but, you also know that there's a table, uh, table sss- in one of the previous assignments in the back of the, assignment there was like a table, for contraction coefficients? and it's also in Alton's book in i think it's also in the other fluid mechanics book so y- you just pick, a contraction coefficient for that. and the contraction coeff- contraction coefficient is a function of the relative, ratio of the two, diameters right? right? so you use that equation but you nee- you need to make sure that you modify that, D-one, in there, by multiplying with the contraction index          <PAUSE DUR=":05" ></PAUSE>          any questions on this part...? Bradley? no...? so shall we talk about part B then...? now in part B, instead of having a sharp-edged orifice, i have, a Venturi meter. sure why not? so the system is coming, i remove the sharp-edge i put a, Venturi meter in there.          <EVENT DESC=":07 PAUSE WHILE WRITING"></EVENT>          like this, this is my Venturi meter. which is_ there used to be a sharp-edged orifice, out, this is in. the question is, okay, once i modify my system, this way... what is the head loss through here...? now there's a statement saying um, the Handbook of Hydraulics states that          <SEG TYPE="READING"> the head loss across the Venturi meter is ten to twenty percent of the piezometric head difference across, the meter. </SEG>
+          well let's elaborate on that. if, i had a U-tube right here,          <EVENT DESC=":05 PAUSE WHILE WRITING"></EVENT>          i would read a pressure differential right? right? would the pressure here be higher or lower than here...? huh?        </U1>
+       <U1 WHO="S6" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> lower. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <EVENT DESC="WRITING ON BOARD THROUGHOUT UTTERANCE"></EVENT>          yeah. speak up, you're right. it would be lower so there would be a pressure differential here. and we know, how to express a discharge through a Venturi meter given a certain pressure differential... we know that Q, is equal to A coefficient K. we know these coefficients right? times A-zero if this is A-zero, times, two-G... delta-H. we know that, right? we are familiar with this equation. now the Handbook of Hydraulics says the following...          <EVENT DESC="READING"></EVENT>          H loss... of Venturi... is equal to... ten to twenty percent... of that          <PAUSE DUR=":05" ></PAUSE>          done... you can express this in terms of Q, the unknown, A-zero which you know, and K... put this in here, multiply it by, ten or twenty percent, what value would you use Jeffrey...?        </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> fifteen. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> yeah.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          see there the average works.        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (there's) the average (thing.)          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay, zero-point-fifteen, of course not fifteen. but yeah, so you take that, and you plug this value, which is a function solely of Q, into your, energy equations. pull the Q out of there. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> but this K now is very different, right? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right. it's very different. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> sss i mean we went through, a lot of pain in a couple labs to find that. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR">         <EVENT DESC="LAUGH"></EVENT>          right. so so based on all the, pain you went through        </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> we can just guess now?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> yeah. what value would you pick? </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> mm </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> let me hear.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          that would be interesting to hear now.          <U2 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> uh </U2>
+          okay what          <U2 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> value would </OVERLAP1>
+          you guys pick? we have like done all kinds of K-value calculations.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> let me see. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> one-point-oh-two. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> one-point-oh-two somebody says.          <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE">         <OVERLAP1> one </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> zero-point-six. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> zero-point-six somebody else says. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> uh-oh. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> what else?          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          that's it...? anybody else... gain something from all the labs we have done so far?          <EVENT DESC="LAUGH"></EVENT>          well let me tell you... there are different loss coefficients. we know that. and we also know that, um, this is some sort of a loss coefficient Q for Venturis, and do we all remember, something, which is_ let me see if i can find it for you, do you all remember this graph?        </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> no? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> yeah. and this is where we pick up our K values right because i did the calculation for this can everybody see this by the way? and i think you have, a copy of this in one of the assignment sheets. so this is the K... that goes in here. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what page is that? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> that is on page, five-twenty-eight but as i said i think i, have given you a copy of this so, in one of the assignments you should have that... now, if you look at this graph, it's a function of Reynolds number, and, a diameter ratio, right? well diameter ratio fine good i know what the diameter is here the (xx) diameter i know what the pipe diameter is i can deal with that, okay, good how do you deal with a Reynolds number? there are all kinds of K values that you can pick from. the highest, seems to be... one-point-oh-two, who said that? Jeffrey? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> you man, good intuition. one-point-oh-two is the highest one and the lowest one goes to zero-point, um, sixty-three (xx) so, which one would you choose, to do your calculation? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the average, the average.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> the_          <EVENT DESC="LAUGH"></EVENT>          well, i wouldn't do that... well what would i do then? well- we- somebody said the average is there any other idea?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> do you have to calculate Reynolds number? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> huh? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> do you have to calculate Reynolds number? could you do that or not? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> you need to calculate Reynolds number but without the discharge          <PAUSE DUR=":07" ></PAUSE>          so what would you do?          <PAUSE DUR=":05" ></PAUSE>          an idea, a guess what would you do? we have to solve this problem.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> can't you figure it out from the flow rate from the previous problem? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> but it's a different meter though. it's a different meter and it's a different head loss it's gonna result in a different flow rate. but this is a different meter it's gonna have a different          <OVERLAP1> head loss </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> can you guess one </OVERLAP1>
+       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) the </OVERLAP1>
+       </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> sorry. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> huh? </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> go ahead. </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i was gonna say guess one </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> guess one what, Q? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> guess like a K and then plug, plug that into your Q and then plug that Q into the Reynolds equation and see if it works. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> very good. how what, what K would you start off your calculations with? </U1>
+       <U1 WHO="S5" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the average. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> the av-          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          okay what would you say Jeffrey?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> start off at the high end. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> at the high end. it's a high Reynolds number case. do your calculations, if the Reynolds number that you get, is greater than the high end, no matter how greater it is because after a certain point it is one, right? no matter how greater it is as long as it's greater, the K value that you assumed, is correct... i mean you can do it the way Brenda suggested too but then you would have to probably do multiple iterations because K Reynolds number probably will be moving off. but once you reach a high end, after that no matter how much bigger it is, that's the K value, no need for iteration. does this make sense...? to everybody?          <PAUSE N="`" DUR=":06" ></PAUSE>          yes?          <EVENT WHO="S9" DESC="LAUGH"></EVENT>          so shall we move on then? okay, well in part C, (oh this one's) (xx)          <EVENT WHO="S9" DESC="LAUGH"></EVENT>          in part C, what does part C say? what does the last part say...? an anubar with a negligible, head loss what would you do there?          <PAUSE DUR=":07" ></PAUSE>          an anubar with negligible head loss.        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> just ignore the, ignore the meter. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> that's it Bradley, ignore the meter cuz it's zero. so in this equation H-F plus H-meter, H-meter is zero. do your calculation again just, with H-F delta-E, is equal to H-F... and pull out a Q... okay...? yes...? yes, question? </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and delta-E is just this twenty feet, that's available right? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> exactly. exactly... any other questions on this before we move on...? yes? no? (xx) okay, number five, last question. which you talked about in class as well, imagine that. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> easy. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> easy. </U1>
+       <U1 WHO="SU-f" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right...? okay before i let you all go, this F thing here... let me tell you something about this. well, there are, certain equations, that relate F to certain values certain characteristics of the pipe the length the diameter the, the this and that whatever, and um, so which one of those equations would you use, to solve this problem? give me an equation... uh you may wanna look at your notes.          <EVENT LANG="SS" WHO="SS" DESC="LAUGH"></EVENT>          it may help. i couldn't remember the, (xx) equation.          <EVENT DESC="FLIPPING PAPERS :14"></EVENT>          yes...?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, (xx) </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> which one? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> are you talking about the one over, negative-zero-point-seven-eight-two?          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uh </U2>
+          is that the one you're looking for?          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> uh </U2>
+          no.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> would you use that? i mean i'm asking you. do you feel comfortable with that? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no but i was just giving it to you.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S9" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you use the one that's like the equivalent length, equation, that one? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> but that doesn't have an F in it. i mean, you still need to know what F is, even to use this equivalent thing.          <EVENT WHO="SU-f" DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> well since we're at high Reynolds numbers it seems we could use the one she was about to </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay, how is it? what's the equation for that? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> one over um, quantity negative zero-point-seven-eight-two times the natural log of          <U2 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> times the natural log of </U2>
+          quantity K-S over three-point-seven D, to the one-point-one-one-five.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> okay, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> that's it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's it. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> that's it... this is the Holland equation isn't it? for high Reynolds number cases. so the regular equation has a plus, a number divided by Reynolds number in here, right? the whole equation don't you have it written down too? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> six-point-nine. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> six-point-nine... now, in order for you to do your initial estimate, what you say is i assume, a high Reynolds number case... if i assume a high Reynolds number case, now look at this, K-S is given to me, the diameter is given to me, well this is like a pretty, clean equation, you can easily pull an F out of there right? right? </U1>
+       <U1 WHO="SU-m" NSS="NS" ROLE="UN" SEX="M" AGE="0" RESTRICT="NONE"> yep. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> so you use that, do your calculations, and at the end of the calculations, you have a small column, saying okay, i assumed a high Reynolds number case right? let me calculate the Reynolds number... V times D over kinematic viscosity. now if this Reynolds number is indeed greater, greater than ten to the mi- ten to the five or ten to the six, the one over it, it's gonna be like zero-point-zero-zero-zero-zero-zero-zero-zero-zero-one. and that's pretty small isn't it? so you don't even have to go back and put that in there because it's probably not gonna make that much of a difference. right? but i would like you to do that, because that is an assumption. you assume, high Reynolds number. once you are through with your calculations go back and calculate this for me. prove to me that this is the case indeed... okay...? alrighty, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> but af- after you find the F, in the back then </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> find (F) </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> after you estimate the F using this, you do your calculations, and you get a Q... and that Q is going to give you Reynolds number, right? well if that Reynolds number is bigger than ten-to-the-five or ten-to-the-six, i personally don't see any point in doing it here and modifying, F because, you're gonna have to take the one over ten-to-the-five (xx) (of that) ten-to-the-minus-five times six, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> th- that's for each problem then or? </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> the verification? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right. for any problem          <OVERLAP1> that you </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> anytime </OVERLAP1>
+          you calculate a Q using an F then we need to do that.        </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> huh? say again? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> any time you calculate a- a Q using an F then we need to do that. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> right... alright. that's all folks. so i would like to have your assignments of course, before you leave and here are, yours.          <EVENT DESC=":15 PAUSE WHILE STUDENTS START LEAVING"></EVENT>          you guys are just so good... Bradley?        </U1>
+       <U1 WHO="S7" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S1" NSS="NRN" ROLE="SG" SEX="M" AGE="2" RESTRICT="NONE" FLANG="TUR"> well i have something else for you guys.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="JG" SEX="M" AGE="2" RESTRICT="NONE"> aw come on. </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>

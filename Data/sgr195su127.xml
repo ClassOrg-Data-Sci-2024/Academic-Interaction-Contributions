@@ -1,0 +1,1988 @@
+<TEI.2 ID="sgr195su127">   <TEIHEADER>     <FILEDESC>       <TITLESTMT>         <TITLE> Chemical Engineering Group Project Meeting </TITLE>
+         <TITLE> Rackham Div: PS </TITLE>
+       </TITLESTMT>
+       <WORDCOUNT> 10386 </WORDCOUNT>
+       <PUBLICATIONSTMT>         <PUBLISHER> Michigan Corpus of Academic Spoken English, English Language Institute, University of Michigan </PUBLISHER>
+         <IDNO> SGR195SU127 </IDNO>
+         <AVAILABILITY>           <P> The MICASE project is owned by the Regents of the University of Michigan, who hold the copyright.  The database has been developed by the English Language Institute, and the web interface by Digital Library Production Services.  The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements.  The database is freely available at this website for study, teaching and research purposes, and copies of the transcripts may be distributed, as long as either this statement of availability or the citation given below appears in the text.  However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required.  Furthermore, some restrictions apply on the citation of specific portions of some of the transcripts in educational presentations and publications; all such restrictions are noted at the end of this statement.  For further information about copyright permissions, please contact Dr. Sarah Briggs at slbriggs@umich.edu. </P>
+           <P> The recommended citation for MICASE is: R. C. Simpson, S. L. Briggs, J. Ovens, and J. M. Swales.  (1999) The Michigan Corpus of Academic Spoken English.  Ann Arbor, MI:  The Regents of the University of Michigan </P>
+           <P> RESTRICTIONS ON CITATION OF EXAMPLES:  NONE </P>
+         </AVAILABILITY>
+       </PUBLICATIONSTMT>
+       <SOURCEDESC>         <RECORDINGSTMT>           <RECORDING DUR="77">             <DATE> November 12, 2000 </DATE>
+             <EQUIPMENT>               <P> TASCAM Digital Audio Tape Recorder with two external microphones </P>
+             </EQUIPMENT>
+             <RESPSTMT>               <NAME> Amy Burke </NAME>
+               <RESP> Recording </RESP>
+               <NAME> Jessica Rett </NAME>
+               <RESP> Transcribing </RESP>
+               <NAME> Amy Burke </NAME>
+               <RESP> Rechecking </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Proofreading </RESP>
+               <NAME> Chris Frost </NAME>
+               <RESP> Final Editing, 10/24/01 </RESP>
+             </RESPSTMT>
+           </RECORDING>
+         </RECORDINGSTMT>
+       </SOURCEDESC>
+     </FILEDESC>
+     <PROFILEDESC>        <KEYWORDS> <TERM TYPE="SPEECHEVENT">SGR</TERM>
+ <TERM TYPE="ACADDISC">195</TERM>
+ <TERM TYPE="PARTLEVEL">SU</TERM>
+ <TERM TYPE="PRIMDISCMODE">INT</TERM>
+ <TERM TYPE="INTERACTIVITYRATING">HI</TERM>
+ <TERM TYPE="ACADDIV">PS</TERM>
+ </KEYWORDS>
+ <LANGUSAGE>         <P> Primary Discourse Mode: INT </P>
+         <P> New Interactivity Rating: HI </P>
+         <LANGUAGE ID="NS"> Native Speaker </LANGUAGE>
+       </LANGUSAGE>
+       <PARTICDESC>         <PERSONGRP ROLE="Students" SIZE="4"></PERSONGRP>
+         <PERSONGRP ROLE="Speakers" SIZE="4"></PERSONGRP>
+         <PERSON ID="S1" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S2" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S3" LANG="NS" ROLE="SU, Student" SEX="F" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="S4" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SS" LANG="NS" ROLE="SU, Student" SEX="U" RESTRICT="NONE" AGE="1"></PERSON>
+         <PERSON ID="SU-m" LANG="NS" ROLE="SU, Student" SEX="M" RESTRICT="NONE" AGE="1"></PERSON>
+       </PARTICDESC>
+       <SETTINGDESC>         <SETTING>           <P> Computer Microlab, Shapiro Undergraduate Library </P>
+         </SETTING>
+       </SETTINGDESC>
+     </PROFILEDESC>
+   </TEIHEADER>
+   <TEXT>     <BODY>       <EVENT DUR=":24" DESC="UNINTELLIGIBLE CONVERSATION"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we want one of those.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> what is it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> one of </OVERLAP1>
+          what?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know but it's big. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          it's big        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's probably big and expensive. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well how are we doing on cost? i remember_ we didn't have a price for, water purification          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right </U2>
+          or, the fermenter right?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> correct </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you have that Zip disk? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i do. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you do, ya wanna pop it in (at least we'll,) see how we're doing, with cost? </U1>
+       <EVENT WHO="S1" DESC="GROANS"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (i think) we were up around a quarter million dollars weren't we? </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> getting </OVERLAP1>
+          up there.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> fifty thou. (shucks.) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i was just outside talking to like, who was out there, Ehon was out there and that other,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how far along            <OVERLAP2> are they? </OVERLAP2>
+         </U2>
+         <OVERLAP1> Pratik, </OVERLAP1>
+          i think,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> Pratik </OVERLAP2>
+         </U2>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> Pratik </OVERLAP2>
+         </U2>
+          is his name?          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> Pratik </OVERLAP2>
+         </U2>
+         <OVERLAP1> and, </OVERLAP1>
+          they were like oh, how are you doing? and i'm like oh we're getting there slowly but surely.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> are they outside? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <OVERLAP1> (xx) outside </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (i oughta say hello to them two) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wow </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> how far along are they? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> must be nice, </OVERLAP1>
+          like they've,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> they ain't done nothing dude </OVERLAP2>
+         </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> nothing? okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> really haven't done </OVERLAP1>
+          anything          <OVERLAP1> yet </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh ho ho </OVERLAP2>
+         </U2>
+          and we've been meeting for this          <OVERLAP1> like </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> there's a </OVERLAP1>
+          lot of people that haven't done anything          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> on this </OVERLAP1>
+          already so,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ouch, this is          <OVERLAP1> like a lot of research </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so, yeah. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i've been telling them i'm like you guys need to (give 'em)          <OVERLAP1> some time </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but if </OVERLAP1>
+          we do really bad on this like, compared to other people i'm gonna be upset, you know          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>           <OVERLAP2> i know </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz it's_ we </OVERLAP1>
+          spent time, working on          <OVERLAP1> this. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i know. </OVERLAP1>
+          are they working on it today?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no they're out there doing, Chem three-oh-two.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm hm </U2>
+          which i should be doing (because) it's due tomorrow and i have          <OVERLAP1> no clue what i'm </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> is Chem three-oh-two </OVERLAP2>
+            hard?          </U2>
+          yes.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> great i'm taking it          <OVERLAP1> next semester. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it, </OVERLAP1>
+          it's bad.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's inorganic right? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          like it just, it's not          <OVERLAP1> hard, </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> who's, </OVERLAP1>
+          who's teaching it?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Yaghi </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay then i'll, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> Yayee? </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i had Ras- i had Ras- </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you had Rasmussen? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> he was, great          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          he was_ i- well i, i mean it was easy but,          <OVERLAP1> i just liked him </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah he came, </OVERLAP1>
+          he's, lectured in our, in our section a couple times,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mkay </U2>
+          he just babbles the whole          <OVERLAP1> time about nothing and, </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i- yeah i li- i i like him i thought he was, </OVERLAP2>
+         </U2>
+          but does he write easy tests?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> y- i thought so. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah...? oh Yaghi's tests are bad... </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what do you want off this disk? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's called, um, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's an Excel          <PAUSE DUR=":04" ></PAUSE>          beer cost or something it's called? (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh it's in alphabetical order. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> usually. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (there it is i saw it.) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh brewery cost i just saw it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> brewery costs. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> right there </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh </OVERLAP1>
+          you scared me.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          (like) where is it? no... but you know like we're gonna hafta explain, where we got these numbers from.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          so, that'll be probably,          <OVERLAP1> (part of the middle) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (somewhere) in the middle </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah that's true that'll be some, </OVERLAP1>
+          okay so we need          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah we're at, that much </OVERLAP2>
+         </U2>
+         <OVERLAP1> uh materials, </OVERLAP1>
+          labor.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well, i don't know like these are just indexes like a certain percentage that you multiply that by. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> but we don't </OVERLAP1>
+          have it for ev- we don't have those indexes for everything.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no but we can probably take, you know like those average, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, they          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> ones </OVERLAP2>
+         </U2>
+         <OVERLAP1> were like </OVERLAP1>
+          in the coursepack like          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> hm, hm </OVERLAP2>
+         </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> for a tank, and for, </OVERLAP1>
+          does di- oh did anyone bring the coursepack cuz i completely forgot.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i, did </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah i got mine </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you do? okay. i wonder how many_ there was only          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i was responsible </OVERLAP2>
+         </U2>
+         <OVERLAP1> like, there was only </OVERLAP1>
+          like six or seven items, so it wasn't very many        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> was it in the economics part? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um yeah </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> no problem, i was responsible. that's right. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and it was like um, oh it's kinda tricky to find. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you wanna          <OVERLAP1> look for it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> hey what's this, </OVERLAP1>
+          what's that kettle man a hundred and eighteen?          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm </U2>
+          (can't we) find something, better          <OVERLAP1> than that? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cheaper? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cheaper          <OVERLAP1> than what? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no that was um, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> food tax. (one hundred and thirteen) that's in the that's from the book yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's from the book... </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is that just to heat stuff up in? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah basically i mean i- remember it had to be really really big? because we had to add all the solids? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't know </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah it wasn't </OVERLAP1>
+          too much bigger, maybe fifteen hundred,          <OVERLAP1> gallons or something. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh, </OVERLAP1>
+          yeah that's true.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well what all did it include i mean like,          <OVERLAP1> d- do we need all those? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it has the agitator, </OVERLAP1>
+          it has all the,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> thermal </OVERLAP2>
+         </U2>
+         <OVERLAP1> electrical </OVERLAP1>
+          and, thermometer stuff.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> here i'll look at the book.          <PAUSE DUR=":06" ></PAUSE>          see i was responsible (too and) brought my book,          <EVENT WHO="S1" DESC="LAUGH"></EVENT>          (seven thirty-one.)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hmm, ooh, we still need water purification. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Brita </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> but we can't even, i mean,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>           <OVERLAP2> includes, </OVERLAP2>
+         </U2>
+         <OVERLAP1> we can't even find a pro </OVERLAP1>
+          price for Brita.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> kettle jacket agitator thermometer well, drive and support man hole cover stuff in box, and clamps. install costs includes above installation costs,          <OVERLAP1> uh. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> what are </OVERLAP1>
+          clamps?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i guess to clamp it down? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (do we need) cast iron jacketed_is... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah would we need a, cuz          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> probably service (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz we did_ we used this line </OVERLAP1>
+          the stainless steel line. what was this stuff?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we just chose the stainless steel? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mhm. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> agitator (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wi- oh that makes it          <OVERLAP1> more expensive. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz we, </OVERLAP1>
+          we haven't looked into materials at all. i mean we've said stainless          <OVERLAP1> steel, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> stainless steel every time </OVERLAP2>
+         </U2>
+          but, i don't know i just wonder          <OVERLAP1> (with him) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> mm </OVERLAP1>
+          that makes the price go down, a little bit.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what about,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> what about, adding </OVERLAP2>
+         </U2>
+         <OVERLAP1> what's </OVERLAP1>
+          this crap? if we use, this is um, (wait) pounds per square inch that's like a force, that we can apply.          <OVERLAP1> we don't </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> pressure </OVERLAP2>
+         </U2>
+          yeah we don't need that much pressure inside the kettle do we?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i have no clue. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so that would bring our cost down to only about... well, a quarter, halfway between here and here. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well what did we choose at first? what pressure? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well we didn't even take pressure into consideration we we- we went up here,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> to, materials </OVERLAP2>
+         </U2>
+         <OVERLAP1> and took like </OVERLAP1>
+          an average one.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well let's figure out pressure. i, i've been thinking about pressure all week (especially,) thinking that, he's gonna be like, what about pressure?          <OVERLAP1> you guys are just talking about temperature. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but how are we gonna know? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't think that, it's a big deal cuz if you can, do like these little home breweries in a five gallon bucket and you know,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah, that's true </OVERLAP2>
+         </U2>
+         <OVERLAP1> you don't, you're not worrying about </OVERLAP1>
+          pressure, too much with          <OVERLAP1> that, something like that. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> has anything mentioned, </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> that's true, that's true. </OVERLAP2>
+         </U2>
+          pressure in any of our process things?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think so. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't think so. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's so- it's been,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i don't remember anything about pressures. </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think if we, like </OVERLAP1>
+          on the flow diagram draw the temperature, at every single stage what's the temperature inside          <OVERLAP1> find out the </OVERLAP1>
+          temperature in the fermenter,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U2>
+          temperature is, a big deal. i know it's a big deal (so.)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we also have different temperatures like when you're um, when you're doing the_ well that was for the fermenter, never mind... i don't_ but what about when you're mashing i think you, i think you go like to one temperature and then you raise it up to the next. has to do with the enzymes. i don't know let me get out my          <OVERLAP1> notebook. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i thought </OVERLAP1>
+          you wanted to keep it pretty high to kill the enzymes.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, but when you do w- when you're worrying about, fermentation, you actually go, like you stay at one temperature for a while to activate, one enzyme and then, raise it up to activate another. and then you like_ i don't know leave it in between i think_ w- i don't know i'll have to wait (till) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is that, is that the same even for the cold contact method? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah see i don't even think, we'd hafta worry about it if we do it, that way you know...? cuz what do you hafta wo- why do you hafta worry about enzymes that, you're not even gonna ferment. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you're not even gonna make, alcohol. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what's fifty times ten-to-the-fourth? ten-to-the-fourth is, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> fifty thousand. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay fifty thousand why don't you, bump that          <OVERLAP1> kettle down </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that 's fine </OVERLAP1>
+          fifty, fifty times ten-to-the-fourth,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> yeah </OVERLAP1>
+          that's right yeah.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> fifty thousand </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no cuz five times          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's five hundred thousand. </OVERLAP2>
+         </U2>
+         <OVERLAP1> ten-to-the-fourth </OVERLAP1>
+          it's five hundred thousand.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> for for a what? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no fifty          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> well i'm </OVERLAP2>
+         </U2>
+         <OVERLAP1> times- </OVERLAP1>
+          ten-to-the-fourth,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> fifty times ten-to-the-fourth? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> ten-to-the-fourth is ten thousand though yeah          <OVERLAP1> it's five hundred thousand. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's five hundred thousand </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right it's          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> five hundred thousand </OVERLAP2>
+         </U2>
+         <OVERLAP1> five hundred thousand </OVERLAP1>
+          i'm looking at, this different,          <EVENT WHO="S2" DESC="LAUGH"></EVENT>         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> engineers in action </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> what is, what is it? </OVERLAP2>
+         </U2>
+         <OVERLAP1> i'm looking at this different, </OVERLAP1>
+          graph          <OVERLAP1> for the kettle. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> this is high </OVERLAP1>
+          did you guys,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and i guess, </U2>
+          did you say this one was, did you write down something different?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well, this one we put about, yeah it was about a hundred thousand dollars, and then we scaled it up cuz this was in nineteen ninety, so we scaled it up for ninety, t-          <OVERLAP1> for like, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+          present,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but you did have it at a hundred thousand          <OVERLAP1> though? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> at a </OVERLAP1>
+          hundred thousand, according to this but if i go          <OVERLAP1> according to this, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh we were like up here? </OVERLAP2>
+         </U2>
+          no.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh great. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> can i see it? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is this          <OVERLAP1> too low? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> ten-to-the-fifth </OVERLAP1>
+          is a hundred thousand right?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so, it would be half that, that would be fifty thousand. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> fifty thousand sounds more reasonable. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah if i, i don't think </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> did i, did i give the wrong number, when i was looking at this? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz look at, look at this, </OVERLAP1>
+          no you,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> well i, i don't know </OVERLAP2>
+         </U2>
+         <OVERLAP1> you said it fine </OVERLAP1>
+          i'm, just look at this graph,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          and there's like four different lines for stainless steel,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U2>
+          with different pressures inside of 'em, use the lowest pressure one and then what,          <OVERLAP1> what do you get out? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> what do you get? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> Uncle Joe gave us fifty          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> for dollars </OVERLAP2>
+         </U2>
+         <OVERLAP1> thousand bucks </OVERLAP1>
+          and we're gonna spend          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> we're gonna </OVERLAP2>
+           <EVENT DESC="LAUGH"></EVENT>         </U2>
+         <OVERLAP1> five hundred </OVERLAP1>
+          on a, tank.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> how big do we          <OVERLAP1> want it? fifteen hundred gallons? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's just fifteen hundred </OVERLAP1>
+          gallons.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay. so that's a hundred thousand. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's like halfway between, ten-to-the-fourth and          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> ten-to-the- </OVERLAP1>
+          fifth, right?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so, about, about fifty thousand? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> fifty thousand? let's change that. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright. (that'll) save us some money. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what what          <OVERLAP1> pressures, (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well then </OVERLAP1>
+          you have to scale it up sti- oh you, oh i see what you're doing          <OVERLAP1> okay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          it's already, in there.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yup. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yay (xx)          <OVERLAP1> alright </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (good for us) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> word.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (stop.) </U2>
+          we're getting there we're getting there.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> save.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> just another hundred and thirty thou to go. what else can we knock down? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we          <OVERLAP1> really don't need a filter do we? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we don't need t- </OVERLAP1>
+          it doesn't need to be          <OVERLAP1> at fifty thousand anyway. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> we're not gonna use filters. </OVERLAP1>
+         <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah we can spend that much          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> we can spend, as much as we want. </OVERLAP2>
+         </U2>
+         <OVERLAP1> if we just, if we just </OVERLAP1>
+          show that we're gonna make a lot of money in the first year, then,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> d- now,            <OVERLAP2> do we f- </OVERLAP2>
+         </U2>
+          then we can convince them to give us the money and,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do we show that in the final report? it doesn't really ask for that specific, number. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> maybe if we put that in like, the conclusion just say something like,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's </U2>
+          in conclusion we think this is profitable and,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> what </OVERLAP2>
+         </U2>
+         <OVERLAP1> Uncle </OVERLAP1>
+          Joe should give us the money because,          <OVERLAP1> we're gonna we're gonna make a million, first year. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well we don't we don't hafta do that for today do we? </OVERLAP1>
+          we don't hafta do that today?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think so </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> no no no </OVERLAP1>
+          no no he just wants us to compute bare module costs, for the,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and so it's            <OVERLAP2> (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> you know </OVERLAP1>
+          we don't have to do, i don't even think we need to consider Uncle Joe right now.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> until the final report? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> mhm </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> just </OVERLAP1>
+          this is what we came up with.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> otherwise </OVERLAP1>
+          it would be like nothing to do for the final report          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> besides </OVERLAP1>
+          combine everything we've done so far.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well the final report takes some, like, codes, (and) environmental impacts, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, i forgot about          <OVERLAP1> that. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> okay, </OVERLAP1>
+          conclusions and (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> environmental </OVERLAP1>
+          impact?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you haven't been writing down all these websites. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          i've got 'em scrawled on about twenty different          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i know </OVERLAP2>
+         </U2>
+         <OVERLAP1> pieces of paper </OVERLAP1>
+          they're in here.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> references. hey do you have that, printout of um, that very last site we found, it's like twenty pages,          <OVERLAP1> and, </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> the one </OVERLAP1>
+          that had the custom (stuff)        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yes i </OVERLAP1>
+          do.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> customized </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz maybe they som- say something about, water. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that would be the day that i left this notebook at home.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright. i have, (here's the) website. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> ya know? you think you're doing so well. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> nah i don't have it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. try, W W W, oh i mean... no i can't remember if this was it. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="SOUND EFFECT"></EVENT>          come on where are my sound effects?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> brew, brew hyphen, the number four, hyphen sale. brew for sale dot com. (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh? yeah soundin- yes this is it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah what type, all this stuff. </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so i'm          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> let's see </OVERLAP2>
+         </U2>
+         <OVERLAP1> wondering if we've like </OVERLAP1>
+          forgotten anything... (yup) bottler.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what about the kegging machine do we ne- do we need a          <OVERLAP1> kegging machine? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> weren't </OVERLAP1>
+          we just gonna sell bottles?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> can we kinda pick whatever we wanna do? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (see if you can find) the water. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> most common contain- containers are barrels          <OVERLAP1> as opposed to bottles </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> there's always this, </OVERLAP1>
+          oh no that was the U-V thing.          <OVERLAP1> (but i don't know) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> heat exchanger </OVERLAP1>
+          to cool the boiling wort.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> eww </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hey </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cuz we gotta, cuz we boil it and then we cool it down to go to the fermenter, yeah we haven't,          <OVERLAP1> we haven't bottled (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we have to, </OVERLAP1>
+          we need conveyors, filling machines capping machines          <OVERLAP1> and labelers? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we g- </OVERLAP1>
+          we found the filling machine, and the conveyor and all that stuff that goes with it,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> for a </OVERLAP1>
+          price.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> with the c- you know capping and labeling          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          all that good stuff          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> really? </OVERLAP1>
+          is that          <OVERLAP1> in our, </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's just </OVERLAP1>
+          it's a bottler, yeah that's          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> thing? oh okay. </OVERLAP2>
+         </U2>
+         <OVERLAP1> in already. </OVERLAP1>
+          that was,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh that's cool </U2>
+          bottling equipment dot H T M L. like it was          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh really? </OVERLAP2>
+         </U2>
+         <OVERLAP1> really cool </OVERLAP1>
+          yeah. we got lucky.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> a caustics a caustic storage tank for caustic by-products? where is what's a          <OVERLAP1> caustic by-product? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> alright, </OVERLAP1>
+          so what have we forgotten so far we need the heat exchanger... after, after the fermenter?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um, no before the formen- fermenter,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> before            <OVERLAP2> fermenter </OVERLAP2>
+         </U2>
+         <OVERLAP1> you cool down </OVERLAP1>
+          the wort, and then that's when you do the cold contact, after that.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you mean in the fermenter, you do the cold contact. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what else have we forgotten? you were reading all that st- caustic storage tank, is that, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> whatever that is, yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah where are we gonna store all this filtered junk? all the solids that come out of our beer, is it just gonna run like down the sewer and, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          you would          <EVENT DESC="SOUND EFFECT"></EVENT>          dig a rubber tube into the dumpster out back.        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yup </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we could have a, </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz i don't think          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> a solid waste dumpster </OVERLAP2>
+         </U2>
+         <OVERLAP1> that'd be up to, F-D-A </OVERLAP1>
+          regulations          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we'll put it down the storm drain. </U1>
+       <EVENT WHO="S3" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> is the fermenter just,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> it could just be like a big, wood, </OVERLAP2>
+         </U2>
+         <OVERLAP1> the-is the fermenter just gonna be a big tank </OVERLAP1>
+          too?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> bin. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no, what does i- does it have to be? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's, i think it's like,          <OVERLAP1> s- yeah. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> a conical tank thing? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> co-          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> there were some prices of fermenters (there. well i) </OVERLAP2>
+         </U2>
+         <OVERLAP1> well, here's the thing though. </OVERLAP1>
+          cuz you n- yeah you need it, you need it shaped that funny way because of uh, yeast going to the top or the bottom so you can like, it makes it easier to separate or something like that.          <EVENT DESC="LAUGH"></EVENT>         <SEG TYPE="READING"> the cooking staff needs aprons hats hair nets etcetera </SEG>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <SEG TYPE="READING"> a roller (xx) to break the malted barley. </SEG>
+          we're just gonna buy it so it's all ready to go, right?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i suppose </U2>
+          i think so        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> filter </OVERLAP1>
+          we got, brew paddle we got, heat exchanger (xx) we got, we have the aging, carbonation.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh we haven't even          <OVERLAP1> thought of that </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> how do we, how do we carbonate it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we need t- we need, </OVERLAP1>
+          C-O-two tanks right?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i thought our, i thought the, bottler that we got it said it took care of_ it could do carbonation, and noncarbonated things. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it_ that just meant,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> do you have the web page with you? </OVERLAP2>
+         </U2>
+         <OVERLAP1> that it wouldn't </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yes </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah? </OVERLAP2>
+         </U2>
+          that it wouldn't but i think that just meant that it wouldn't lose, the carbonation, if you, like it could keep it under that pressure, s- something.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh huh it_ i thought          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> this is it. </OVERLAP2>
+         </U2>
+         <OVERLAP1> you, </OVERLAP1>
+          like put it in there when you bottled it.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that would be cool. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz i thought you had to carbonate, like          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> read it off to me </U2>
+          in bulk.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> W W W dot M E H, E E N, hyphen M F G, dot com, um slash bottling equipment, all one word, dot H T M L. that's our baby!          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          hi.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> looks kind of small. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uh' uh </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> let's see, doesn't it say carbonated,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> how many bottles do you think we can get out of the batch? </OVERLAP2>
+         </U2>
+         <OVERLAP1> and noncarbonated (fill) against (conic) pressure. </OVERLAP1>
+          (how to fill) (xx) conic pressure in C-O-two jetting,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> C-O-two jetting? </OVERLAP2>
+         </U2>
+         <OVERLAP1> (xx) </OVERLAP1>
+          for consistent fills and (xx) full.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh </OVERLAP2>
+         </U2>
+         <OVERLAP1> i think </OVERLAP1>
+          the bo- i think the bottler does it, (i'm pretty) pretty sure.        </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think that we should assume that the bottler does it          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> just assume? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and tha- with          <OVERLAP1> that price. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> um, </OVERLAP1>
+          i'm thinking, that too.        </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i think that's when you seal it i think that's when you put the carbonation          <OVERLAP1> in i think. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's when you (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> do we still </OVERLAP1>
+          need to buy like, C-O-two tanks for the bottler,          <OVERLAP1> to put, </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'd say </OVERLAP1>
+          we can rent those.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well that's not,          <OVERLAP1> that's not overhead. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well those are just, raw products like our, </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> that's like raw materials. </OVERLAP2>
+         </U2>
+          yeah.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh, oh you're right you're right. i'm sorry. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright so that's </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> get it right. next time. </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so let's not worry about this part then. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright. we got carbonation. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (alright) go back to that last website. do they give ideas for the price of the fermenters on that one? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> mm </OVERLAP1>
+          whi- oh the,          <OVERLAP1> the other one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> the the, </OVERLAP1>
+          the other one we were on, yeah this one.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh let's see. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> uh maybe another good brewing process          <OVERLAP1> if that's (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> stainless </OVERLAP1>
+          steel barrels hold thirty-one gallons, didn't you tell us thirty-six?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> um, yes. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hmm. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> ladles </OVERLAP1>
+          colanders spoons potholders,          <EVENT DESC="LAUGH"></EVENT>          spatulas,          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> why would (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          security system cash register,          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh yeah </U2>
+          that'd be          <OVERLAP1> f- </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> dinnerware </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> dinnerware </OVERLAP1>
+          dishware glasses        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> wouldn't that be funny if we put that in our, analysis          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>           <OVERLAP2> total module costs </OVERLAP2>
+         </U2>
+         <OVERLAP1> would be, cash </OVERLAP1>
+          register, costs.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          oh my        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (like) fermentation? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's just the brewing process. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> they don't, oh they don't have anything else about it? it's just, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't think so. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no that's it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> specialty holiday beers?          <EVENT DESC="LAUGH"></EVENT>          that'd be fun. make some green beer,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah            <OVERLAP2> some Saint Patrick's Day </OVERLAP2>
+         </U2>
+         <OVERLAP1> green no- green </OVERLAP1>
+          nonalcoholic beer.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what's um </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we should do that </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wouldn't that be funny? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> shouldn't we do that? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hm          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> just for fun? </OVERLAP2>
+         </U2>
+         <OVERLAP1> we could make green beer </OVERLAP1>
+          for Saint Patrick's Day.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we should </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> huh          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i don't think there is </OVERLAP2>
+         </U2>
+         <OVERLAP1> we're gonna </OVERLAP1>
+          make green beer          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think there is a green non alcoholic... we would be the, only ones.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> which one's            <OVERLAP2> what what's this </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean we would only </OVERLAP1>
+          sell it once a year but          <OVERLAP1> that's okay. </OVERLAP1>
+       </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's right. </OVERLAP1>
+          don't think we could live off of it.        </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we're on ale. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we're on ale now? oh          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh? </U2>
+          well that's good to know then.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> are we on the lagers, or the ales? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> ales </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> ales </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we are? okay. are we st- are we still planning on making porter? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay.          <PAUSE DUR=":04" ></PAUSE>          okay.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) (machine) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's i- like our,          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh that doesn't, </OVERLAP1>
+          those are just,          <OVERLAP1> (oh who cares.) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> C-O-two. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> three dollars? </U1>
+       <PAUSE DUR=":10" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> there was one in there </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no i don't think so </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> back um, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um </U1>
+       <PAUSE DUR=":14" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> a little, day by day </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> this is (cool) but then they, then they said that... yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> twenty-eight fermentation tanks at, you brew a          <OVERLAP1> thousand liters of lager, </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (yeah you brew it for a day) </OVERLAP1>
+          yeah.          <OVERLAP1> okay that's, </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> a thousand liters </OVERLAP1>
+          is how many?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's assum- this one's assuming like you, do it, a batch every day so you put one in, every day, and probably takes twenty-eight days for their,          <OVERLAP1> stuff to (do) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah their </OVERLAP1>
+          fermentation they said was like a little over a week.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so, they're figuring ten to twelve thousand dollars each and how big of a batch are they talking about? a thousand liters? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i guess, in order to brew every day. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright well can we just st- </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> wait no, you know what though? that's twenty-eight_ if they're brewing every day i bet that's twenty-eight fermentation tanks over like, seven different batches.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> you </OVERLAP1>
+          know what i mean?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah but they're probably, like letting the, alc- alcohol actually form you know? i mean so they'd be_ their stuff would be longer.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that would            <OVERLAP2> take a lot longer </OVERLAP2>
+         </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's probably (xx) twenty-eight there. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'm just trying to figure out </OVERLAP1>
+          how big that is how          <OVERLAP1> big the </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> how big </OVERLAP1>
+          of a tank?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> would, cost ten thousand bucks? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <SEG TYPE="READING"> on Wednesday you brew a thousand liters of lager but you have no place to put the beer since you purchased the standard brewing system with four fermentation tanks. </SEG>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> enough to hold... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i wouldn't think about it too hard. we can find another site          <OVERLAP1> (xx) </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh okay </OVERLAP2>
+         </U2>
+          tell us. that would be really, hard to figure out.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> ooh. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do we need a cold water tank... like to put the purified water in? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> like what? we don't really need to, store purified water well i guess yeah we do. i don't know </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> unless you're gonna like, turn it on and run it through the filter straight into the, mash tun. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know how water filters work. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think we could i </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think it, i think </OVERLAP1>
+          it totally depends on the kind          <OVERLAP1> you get. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          i think we could run it straight into the, mash tun.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> all i picture for a water filter and this might be way, oversimplifying things          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          but is like, just a little thing on a pipe.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> like </OVERLAP1>
+          you've got your pipe going from, your your tap water, to, the mash tun and you've got this, somehow thing, around the pipe that it goes through and,          <FOREIGN> voila </FOREIGN>
+          it's pure water. like,        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think i- i think it's safe enough to just do something like that for now. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i don't picture like a          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> you know </OVERLAP2>
+         </U2>
+         <OVERLAP1> big you know </OVERLAP1>
+          in and out in          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> you know </OVERLAP2>
+         </U2>
+         <OVERLAP1> and out </OVERLAP1>
+          heat exchanger or,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right. if between, </U2>
+          reverse osmosis, or        </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> if if between here and the final report we find something, you know,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> better </OVERLAP2>
+         </U2>
+         <OVERLAP1> that would, </OVERLAP1>
+          yeah sounds better,          <OVERLAP1> we go with that. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i second </OVERLAP1>
+          that motion.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright. </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well then          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> hey check this out </OVERLAP2>
+         </U2>
+         <OVERLAP1> what about, </OVERLAP1>
+          this U-V thing, that we originally found, the really cheap one for only like four hundred dollars?          <OVERLAP1> what did </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that was </OVERLAP1>
+          for          <OVERLAP1> an R-V. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that killed, </OVERLAP1>
+          that killed          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i know but what the U-V, </OVERLAP2>
+         </U2>
+         <OVERLAP1> like, microbes and stuff </OVERLAP1>
+          like that.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah it was like          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> the- </OVERLAP2>
+         </U2>
+         <OVERLAP1> just a </OVERLAP1>
+          little, microbe_ it          <OVERLAP1> didn't even, </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh, </OVERLAP1>
+          it didn't take any, taste stuff out or anything? oh. okay.          <OVERLAP1> so we're just going for taste here. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> hm, we just </OVERLAP1>
+         <EVENT DESC="ALTERED VOICE"></EVENT>          we just took the water filter off my dad's R-V and threw it in there.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's cheap there you go. </U2>
+          works just the same.          <PAUSE DUR=":04" ></PAUSE>          look at this the brewery shipped in one, forty foot by (one)          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> what? </OVERLAP2>
+         </U2>
+         <OVERLAP1> twenty foot container. </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hm? </U2>
+         <EVENT DESC="LAUGH"></EVENT>          please keep upright.        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we need to have (mugs.) </U1>
+       <PAUSE DUR=":11" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) to sit down and (enjoy a cold one.) </U1>
+       <EVENT WHO="S3" DESC="LAUGH"></EVENT>       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so, we still need fermenter information and, water purifier,          <OVERLAP1> information. </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> and the heat exchanger </OVERLAP2>
+         </U2>
+          the heat exchanger information.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we're not exchanging any heat though. we're cooling it down but we          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> that's exchanging heat </OVERLAP2>
+         </U2>
+         <OVERLAP1> don't need the, </OVERLAP1>
+          but what do we need to heat up? well i guess we could do the... but we don't have two streams, you know?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> true </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i mean the- we don't have any          <OVERLAP1> stream to cross it with </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you're not gonna have, contact </OVERLAP1>
+          and,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we we do </U2>
+          you're gonna hafta just like pump hot water through there or something but then, like how are you gonna heat up the water in the first place?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (kinda) energy </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> from where? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> electricity </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so why don't we buy, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cuz if you have, cuz we need to heat up the boiler, the mash tun,          <OVERLAP1> we could somehow, we could somehow </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> are we just assuming that the </OVERLAP1>
+          mash tun has like controls that we can, you know like, set a temperature on, just you know plug the thing in set the temperature and it's gonna remain at that temperature? we can_          <OVERLAP1> let's assume that. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i've never operated </OVERLAP1>
+          a mash          <OVERLAP1> tun. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah let's assume that then. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> let's assume          <OVERLAP1> that. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well, </OVERLAP1>
+          that's the          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> how else? </OVERLAP2>
+         </U2>
+         <OVERLAP1> same thing </OVERLAP1>
+          for, do you remember the um, the cider mill?          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          they had these cooling tanks, i swear they were like refrigerated or something.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's            <OVERLAP2> (true) </OVERLAP2>
+         </U2>
+         <OVERLAP1> weren't </OVERLAP1>
+          they remember Tighe          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> it was </OVERLAP1>
+          like, it was like yeah this, it's kept at this, this amount of degrees in this tank.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          how? you know they had no heat exchangers. it was like a cooling tank that was like        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it used electricity, it was just like a refrigerator,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> it just </OVERLAP1>
+          used electricity.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> wonderful </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> so it'd </OVERLAP1>
+          be a little bit more of an expensive cooling tank cuz it          <EVENT DESC="LAUGH"></EVENT>         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> a really big cooling tank </U2>
+          that like refrigerates or, or, something.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it'd            <OVERLAP2> require a lot of (energy) </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean </OVERLAP1>
+          those are our choices we hafta cool it in a big tank, or we hafta, run it through a heat exchanger.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> well we can't run it through the, </OVERLAP2>
+         </U2>
+         <OVERLAP1> the heat exchanger seems, </OVERLAP1>
+          yeah it,          <OVERLAP1> you'd need another stream. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz we don't have two streams. </OVERLAP1>
+          i mean, we hafta, we need to heat up, the the mash but, not at the same time that we'll be cooling down,          <OVERLAP1> uh, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah cuz </OVERLAP2>
+            everything's like step by step          </U2>
+          the mash.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's true </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we heat up the mash and we cool it down. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> can we heat it up and cool it down in the same thing? in the same mash tun? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um, i don't know. i don't see why not. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> heat it up all the way but,          <OVERLAP1> act- no you have to filter it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> no cuz you, you </OVERLAP1>
+          cool it down, we need it to be cool for the fermenter.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah we have to filter it after (leaves the) after it,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> leaves the mash tun </OVERLAP2>
+         </U2>
+         <OVERLAP1> we add the stuff in </OVERLAP1>
+          yeah.          <OVERLAP1> and the mash tun </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> then it goes to </OVERLAP1>
+          a boiler where we add the hops. that's when we heat it up. we heat up the mash,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> in the boiler though </OVERLAP2>
+         </U2>
+         <OVERLAP1> then we </OVERLAP1>
+          filter it, then we heat it up in the boiler add the hops,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> boiler </U2>
+          then we cool it down, send it to the fermenter... keep it cold.        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah so let's assume it's like the, like you said like the stuff at the cider mill,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah, </U2>
+          because,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> he never really explained it he just said it was like kept at this temperature. </OVERLAP2>
+         </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so you nee- we need to buy another cooling tank? </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's for, just for... okay yeah just for i mean just for simplicity. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> buy a cooling tank (xx) </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so, (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so, i'm sorry tell me what_ we're gonna buy a cooling tank? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah to put right before, the fermenter. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so don't we have stuff for refrigerated tanks, like in the book and in the coursepack? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh i'm sure we do. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i think so yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> just cooling tanks, we just need to know what temperature it needs to be kept at probably.          <PAUSE DUR=":04" ></PAUSE>          i'm just gonna start making a flow chart.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> refrigeration... </U1>
+       <PAUSE DUR=":23" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cost of industrial refrigeration </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i need a coffee. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i could go for that. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> for our material balance, i know we're totally, skipping (xx) do we, just wanna do like, pounds in equals pounds out, around every, process? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how we          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> for </OVERLAP2>
+         </U2>
+         <OVERLAP1> gonna, </OVERLAP1>
+          oh you mean, for the solid stuff not the liquid stuff?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> liquid stuff too </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well the liquid </OVERLAP1>
+          too.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how do you change like a volume to, a weight? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> density </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> density </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right but, just like,          <OVERLAP1> the densi- </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> with the with the sol- wi- </OVERLAP1>
+          with the solids i just do pounds, you know? like the like the mash tun you know          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> we might </OVERLAP1>
+          put a thousand pounds          <OVERLAP1> in </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well </OVERLAP1>
+          like we          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> cuz we'll have we'll have w- w- water </OVERLAP2>
+         </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> and then we're gonna, and then we're gonna pull a thousand pounds out. </OVERLAP2>
+         </U2>
+         <OVERLAP1> have pounds of, pounds of barley but we have gallons of water. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> water b- i </OVERLAP1>
+          i know water but like um,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like when we have,            <OVERLAP2> beer though. </OVERLAP2>
+         </U2>
+         <OVERLAP1> when you have like </OVERLAP1>
+          yeah beer and like the          <OVERLAP1> yeast slurry and stuff. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> how are we gonna find the density </OVERLAP1>
+          of the...          <OVERLAP1> yeast (slurry) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> we don't </OVERLAP1>
+          um, on the recipe it gives us specific gravity.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you're kidding. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah          <OVERLAP1> its density. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> of the, </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no way </U2>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> of the,            <OVERLAP2> (final) beer </OVERLAP2>
+         </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> the beer </OVERLAP2>
+         </U2>
+          of          <OVERLAP1> the beer </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> of the beer? </OVERLAP2>
+         </U2>
+          what d- what do you do for the yeast?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh our yeast slurry? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh i don't          <OVERLAP1> know about that. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we'll specify </OVERLAP1>
+          it to be something we're gonna buy this really you know specific,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>            there you go          </U2>
+          yeast (slurry)          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's gonna </OVERLAP1>
+          have this specific gravity of this we'll assume it to be something,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          like cuz that's what we're gonna buy from, somebody else.          <PAUSE DUR=":06" ></PAUSE>          so we've got pounds of barley, and pounds of water, we're gonna convert it from gallons to pounds. um, it comes out of the mash tun          <OVERLAP1> and goes, </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> then we're gonna hafta convert it            <OVERLAP2> at the end, too? </OVERLAP2>
+         </U2>
+         <OVERLAP1> it goes </OVERLAP1>
+          to a filter, after the mash tun?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (where we have) yeast </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> final gravity baby. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what's final gravity? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> are you sure that's what that means? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh. final gra- i've never heard of that          <OVERLAP1> before. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> what's </OVERLAP1>
+          O-G?          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> hm </OVERLAP2>
+         </U2>
+         <OVERLAP1> original </OVERLAP1>
+          gravity?        </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> original gravity. no i'm serious. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh probably because          <OVERLAP1> the, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's how </OVERLAP1>
+          they, that's how they          <OVERLAP1> rate beers. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no isn't that </OVERLAP1>
+          it? specific gravity?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's during the boil. specific gravity somewhere          <OVERLAP1> between original and final </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> it sits right in between. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i'm i'm serious. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          really?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's how you, that's one of the ways you determine like how, thick your beer is          <OVERLAP1> how heavy (it'd be) </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh is that what all, </OVERLAP1>
+          wait O-G,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> original gravity. </U1>
+       <EVENT WHO="S3" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's strange. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> interesting. okay. what are these numbers? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> color. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> I-B-U units oh.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> (bitterness) units </OVERLAP2>
+         </U2>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i'm not sure. </OVERLAP2>
+         </U2>
+          I-B-U.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> bitterness units. </U2>
+          hm. and initial bitterness units maybe?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> probably.          <OVERLAP1> something. </OVERLAP1>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>           <OVERLAP2> just making it up </OVERLAP2>
+         </U2>
+          we're just          <OVERLAP1> making it up. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> international </OVERLAP1>
+          bitterness          <OVERLAP1> units. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> international. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          international. who knows?          <OVERLAP1> who knows? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> ideal </OVERLAP1>
+          bitterness units.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ideal          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          it's something bitterness units. it's bitterness units anyway.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) we're gonna filter it to the,          <OVERLAP1> kettle. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> this might be, </OVERLAP1>
+          quadruple X porter.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> which then goes to the          <OVERLAP1> cooling tanks </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's </OVERLAP1>
+          quintuple or however... that's like...        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i wonder, do you_ you don't still have that book, do you? we can like look up what, i- this gravity stuff is. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i doubt that i could find it. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that was way too... that book was really really complicated.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mm, really </U2>
+          it was talking about like viscosities of beer and shear stress and, like, really          <OVERLAP1> complicated </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> shear </OVERLAP1>
+          stress?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah.          <PAUSE DUR=":05" ></PAUSE>          carbonation (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> you, </OVERLAP1>
+          use it if you're using kegging and (or) bottle opener.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh wow.          <PAUSE DUR=":12" ></PAUSE>          where does it go after the, fermenter? oh wait we need to add,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hops? </U2>
+          this is, the yeast slurry that we add in the kettle right? or no we add hops. i'm confused.          <PAUSE DUR=":07" ></PAUSE>          (trying to) revise our, i know we add hops here, but where do we add that, yeast slurry?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> didn't he say it comes in right before the, in the fermenter? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> in the fermenter? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> excuse me. it comes into the fermenter. oh i gotta wake up. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it goes on to the fermenter and goes to, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> the centrifugal filter. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> the aging tanks right? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mhm </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> aging tank, we only have one. and then, the bottler right? (xx) bottler? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright here's my question.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i (need um) </U2>
+          if we need to do a mass balance on, the water the alcohol and other, is our only source of alcohol right here?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mkay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so like we're gonna have, alcohol in, this, equals alcohol out here? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yup. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but i thought our, our yeast slurry was gonna have an alcohol level of like, two percent. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah well we_ the yeast slurry will have the alcohol content,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> of beer </OVERLAP2>
+         </U2>
+         <OVERLAP1> of the beer </OVERLAP1>
+          that it's sitting in.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> which is          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> like, </OVERLAP1>
+          six five six percent?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh that's right i- from the recipe. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's like fourteen percent, yeast, eighty-six percent, beer. it's gonna be          <OVERLAP1> that, it's gonna be that </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and the eighty-six percent </OVERLAP1>
+          beer is gonna have that          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> it's gonna have the alcohol level yeah. </OVERLAP2>
+         </U2>
+         <OVERLAP1> five percent alcohol level. </OVERLAP1>
+          so do we add another stream some place to water it down or, are we, are we just adding, the right amount of this, to ours, to make it end up as, point-five percent alcohol?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's actually gonna be, we worked we worked          <OVERLAP1> backwards, </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's right </OVERLAP1>
+          we worked backwards to figure out how much          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> of this, </OVERLAP1>
+          to add.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          okay. that's good.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah so we've got that            <OVERLAP2> all sorted out. </OVERLAP2>
+         </U2>
+         <OVERLAP1> so coming </OVERLAP1>
+          out of the bottler we're gonna have, our certain alcohol content, that we need.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          it'll be, it'll be point, five percent, of, (your) stuff.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so is this really the cold contact method? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's actually the fake cold contact method.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's            <OVERLAP2> our method </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's the impostor </OVERLAP1>
+          cold contact        </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> from that patent like i don't think, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah it is it is. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. this just seems like cheating to me you know? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> why? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> like we bought someone else's beer and we're just watering ours down with theirs. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we're not watering it down we're just, distributing that alcohol. we're not adding it we're not watering it down. we're getting, you're getting the flavor, from, the yeast slurry,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> right </OVERLAP2>
+         </U2>
+         <OVERLAP1> of the </OVERLAP1>
+          yeast. you're getting the alcohol from the beer.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> mkay </OVERLAP2>
+         </U2>
+         <OVERLAP1> so </OVERLAP1>
+          it's like,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so we,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> you're just getting those tastes. </OVERLAP2>
+         </U2>
+         <OVERLAP1> we add the yeast </OVERLAP1>
+          for the flavor.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <SEG TYPE="READING"> (xx) scale grains extract exchieve a different_ achieve a different O-G. </SEG>
+          i need um, i need a glossary. do any of you guys have a web page like, glossary or beer terms?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> there's nothing under recipes? </U1>
+       <PAUSE DUR=":17" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> nope          <PAUSE DUR=":06" ></PAUSE>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what's that?          <PAUSE DUR=":05" ></PAUSE>          (xx) tension, no.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what's the discussion? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's a, bulletin board.          <PAUSE DUR=":07" ></PAUSE>          let's make hippi- hippity hoppity ale.          <EVENT WHO="S4" DESC="LAUGH"></EVENT>          um, yeah okay so we_          <EVENT DESC="POINTS TO BOOK"></EVENT>          aha original gravity,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          thank you.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <EVENT DESC="APPLAUDS"></EVENT>            bravo          </U2>
+          thank you.        </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> very good. i'm so glad you saw that. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what you you, doubted me.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i did </U2>
+          you          <OVERLAP1> doubted me. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> original </OVERLAP1>
+          gravity what is that?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well it's over now okay?          <OVERLAP1> i'm goin home. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> very good </OVERLAP1>
+          Tighe very good.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> think i don't know what i'm talking about. i was like that all along i was like, okay.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          um,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> wow so we have the density of our beer. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> but it's not specific gravity i mean i i think it's the same thing. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i think so to.          <OVERLAP1> it's like, </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well we could use that final gravity. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz it's we_ cuz it'd be, </OVERLAP1>
+          but why do they, why do they give the recipe as,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> in original </U2>
+          in original?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cuz, it's the recipe, and you are_ it's after you've_ they they're not brewing it yet. we're gonna buy it already brewed, right? wouldn't we wanna,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> huh? </OVERLAP2>
+         </U2>
+         <OVERLAP1> the final </OVERLAP1>
+          gravity?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we want final gravity why why would they          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i'm asking about original </OVERLAP2>
+         </U2>
+         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> why would they give us the original? </OVERLAP2>
+         </U2>
+         <OVERLAP1> why would they list these </OVERLAP1>
+          by original? i mean, what is original, before you make        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah before you, brew it maybe. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          the gravity of          <OVERLAP1> something before it's made? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> which which one's higher? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well the gravity          <OVERLAP1> of, the </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz you're gonna evaporate </OVERLAP1>
+          a bunch of water off so which one's higher?          <OVERLAP1> the final gravity should be right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> the higher, </OVERLAP1>
+          no.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> higher should be after, the water is </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right. but that's not the case          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> the (xx) </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's higher originally? </OVERLAP1>
+          yeah. let's use the original gravity.          <OVERLAP1> it seems like </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> they're so close </OVERLAP1>
+          i don't think it really matters.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> well but the </OVERLAP2>
+         </U2>
+         <OVERLAP1> and it seems like </OVERLAP1>
+          they would list that, as you know... oh. (xx)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> they're kinda different. they're pretty close though </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and then what does it say down here for,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that one's lower </U2>
+          S-G?          <PAUSE DUR=":09" ></PAUSE>          hm. oh we could use that one. just to be,          <OVERLAP1> in the middle. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> in the middle </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh, we used the number in the middle.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          cuz it was in the middle.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> just to be in the middle. what we decided. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's pretty close to water though so i bet it is specific gravity. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (wonder) what's yeah what's the difference between these two? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> if we use, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't i've i've got i have another page.          <PAUSE DUR=":13" ></PAUSE>          do do do        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> enter.          <PAUSE DUR=":09" ></PAUSE>          Tighe do you have all those numbers? from, when we calculated how much, how many gallons per batch,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i do </OVERLAP2>
+         </U2>
+         <OVERLAP1> and </OVERLAP1>
+          how many pounds of this stuff (we're gonna have?)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i do. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> can i see them please? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> maybe. i'll think about it. (xx) brewing preparations (xx) i wish i had a, glossary around here or something. um, you're gonna have a difficult time following my notes here. let's see here.          <EVENT WHO="S3" DESC="LAUGH"></EVENT>          yes?          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> yes? </OVERLAP1>
+          okay yes?          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          of course. i have it.          <EVENT DESC="LAUGH"></EVENT>          um,          <EVENT DESC="MUMBLES"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i'm, (you know,) keeping my mouth shut. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay. we have, per          <PAUSE DUR=":12" ></PAUSE>          per batch, we have, we're going to add, which is ten-forty liters. alright?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how did we figure out how big the batch was in the first place? we took the number of          <OVERLAP1> days in our cycle, </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> we said it was ten-forty, </OVERLAP1>
+          ten-forty          <OVERLAP1> gallons or, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> ten-forty </OVERLAP1>
+          gallons thank you          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> thank you. </OVERLAP1>
+          okay that's where that's what wasn't making sense. per batch which is ten-forty gallons, we are adding, nineteen-point-six-eight liters of alcohol. just keep          <OVERLAP1> keep writing this down. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> nineteen, point </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> point-six-eight liters of alcohol.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay </U2>
+          for the, with that, that is contained within, three hundred and ninety-three, point-six liters of beer...          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> mkay </U2>
+          the volume of the, slurry,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that is eighty-six percent of the total right? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think the beer is eighty-six percent. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right the volume of the slurry, everything coming in, the beer plus the alcohol. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> beer          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> whoa </OVERLAP2>
+         </U2>
+         <OVERLAP1> pl- </OVERLAP1>
+          wait you mean beer          <OVERLAP1> plus the yeast </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> plus the yeast? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> plus the yeast thank you. is,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> equals what </U2>
+          four hundred and fifty-seven, point-six-seven liters.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right and we took eighty-six percent of that and got the three-ninety-three-point-six. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> right </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="WRITING"></EVENT>          eighty-six percent is beer. okay. so that's how we figured out_ and, what percent of the beer is alcohol? five percent?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> five percent yes. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="WRITING"></EVENT>          five percent of beer... is alcohol. right?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yes that's right. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what are your um, what are your numbers for the pounds of, barley and stuff? </U1>
+       <PAUSE DUR=":14" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> quarter of a (mil) for five hundred and twenty gallons, eight eight hundred and fifty-one pounds forty-eight pounds seventy-one pounds          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> five twenty pounds </U2>
+          so half a vat.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's right. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> eight          <OVERLAP1> fifty-one forty-eight, and seventy-one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> fifty-one forty-eight and seventy-one. </OVERLAP1>
+          okay.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we have hops. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah how much hops, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this isn't_ this wasn't sc- eight ounces then right? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right this was for, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it never changed          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> five-point-five gallons. </OVERLAP2>
+         </U2>
+         <OVERLAP1> when we scaled it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it didn't change when we          <OVERLAP1> scaled it right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no... </OVERLAP1>
+          does that make sense...?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no it doesn't          <OVERLAP1> no. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> no </OVERLAP1>
+          you should hafta add more hops.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> one ounce per,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah </U2>
+          thousand gallons. a tablespoon of salt?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> for flavor </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> a little </OVERLAP1>
+          baking powder          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what does that mean with the, percent A-A? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know.          <PAUSE DUR=":09" ></PAUSE>          i don't know.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so for five-point-five gallons they added, (xx) point-three, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> can you get my bag Laura? grab a calculator. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. let's do the scale factor. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) point-three, </OVERLAP1>
+          what?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> just scale it. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> just,          <OVERLAP1> linearly scale it up? you think? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> do you think that we could sc- just, yeah. really? </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah that's what i          <OVERLAP1> was thinking. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> is that how this, </OVERLAP1>
+          happened?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> they did it </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> why don't we figure </OVERLAP1>
+          that out. i'll do that...        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> kay. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well we </OVERLAP1>
+          could figure we could, we could, take this at different, we could scale for different um,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> make a graph and then          <OVERLAP1> have a, little chart, a little (line) what'd i just say? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> make little (cleft lines) make the graph and they do a little line of, </OVERLAP1>
+          regression (and a,)          <OVERLAP1> a line of best fit yeah. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> they combine two (xx) </OVERLAP1>
+         <PAUSE DUR=":06" ></PAUSE>          well i'll,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think linear. cuz that's how you scale most recipes. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's two-sixty-five, fifty-six-point-seven fifty-six-point-seven. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> read that off again. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> say what? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> two hundred sixty-five ounces for the first one. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> of hops? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> for the, yeah.          <OVERLAP1> for the first one. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> for </OVERLAP1>
+          for the first (xx)        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yep. and the other two are, about fifty-seven. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ounces? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yep. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> is that in a five hundred twenty gallon batch or a ten-forty? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's for ten-forty. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> really that's it? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh that's for a ten-forty? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah... yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cool. </U1>
+       <PAUSE DUR=":17" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DUR=":06" DESC="HUMMING"></EVENT>          well i wonder what this value is.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> which one is that? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's the volume of our yeast slurry coming in. we took this value times          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> four-fifty-seven, </OVERLAP2>
+         </U2>
+         <OVERLAP1> one-point-two-two. </OVERLAP1>
+          this is the,        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah this is linear. cool. sorry go ahead. </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh          <OVERLAP1> what's the </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's </OVERLAP1>
+          all they did to scale it up          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> really </OVERLAP2>
+         </U2>
+         <OVERLAP1> it's just </OVERLAP1>
+          a, you know,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's thirty-nine-thirty-six minus the volume of the slurry, gives you the initial, volume of, it gives you          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> of </OVERLAP2>
+         </U2>
+         <OVERLAP1> the volume </OVERLAP1>
+          of the          <OVERLAP1> water </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> water, </OVERLAP2>
+            we have to have,          </U2>
+          and then we use this,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh okay </U2>
+          difference, times one-point-two-two to figure out, how much water we need to add.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh okay. </U2>
+          see, it's all good.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> there're sixteen ounces in a pound? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yes </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> cool.          <EVENT DESC="WRITING"></EVENT>          sixteen-point-five pounds        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how ya doing...? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i'm very tired... i'm gonna hafta run over to Rendezvous and just, chug a cup of coffee real quick. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think we'll probably need to take a, if we don't make a lot of progress take a dinner break.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> dinner? please it's only three o'clock. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't know, well i didn't eat lunch so, that was stupid on my part. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i ate a big brunch today. we went to the Gandy Dancer for breakfast.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ooh </U2>
+          very nice.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> very nice. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i had a breakfast of pizza at about five thirty          <OVERLAP1> this morning so, </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> ohh </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> why so ear- oh.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i was still up. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> still up? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> gotcha.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> gross. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> my roommates do that all the time. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> uck. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> pizza at five thirty in the morning. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah they do. four, five thirty in the morning. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it sounds good at the time          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> but then </OVERLAP1>
+          you think about it,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> as soon as you take your first bite you're like why did i just buy this. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well no we we scarfed it down in about three minutes. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> did you          <OVERLAP1> really? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh jeez. </OVERLAP1>
+          alright so our mass balance,          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          is not gonna be that hard. it's just, you know, in equals out.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> plus accumulation. </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> plus generation </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> generation </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hey have any o- have you heard          <OVERLAP1> from General Mills? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> sounds good. </OVERLAP1>
+          no. yeah, that's          <OVERLAP1> gonna suck right. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i wish they'd get </OVERLAP1>
+          on it, man.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well it usually takes, i don't know like,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i'd say two to three weeks </OVERLAP2>
+         </U2>
+         <OVERLAP1> December is an </OVERLAP1>
+          average time, yeah. but General Mills said two to three weeks which was really surprising to me.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we be waiting around for them i got so many people knocking on my door now. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          Tighe        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> you know? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          opportunities. everywhere        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i'm not gonna wait around for them. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh you wanna hear something horrible Fay got an offer from Abbott again,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> really? </OVERLAP2>
+         </U2>
+         <OVERLAP1> cuz she was </OVERLAP1>
+          there, you know last summer, has to tell them by November thirtieth.          <EVENT WHO="S1" DESC="GASPS"></EVENT>          they gave her like, these next two weeks.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no way. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> isn't that harsh? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> she had a lot of </OVERLAP1>
+          interviews too          <OVERLAP1> didn't she? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+          that is so harsh and she's, she really wants General Mills or um, who else? oh no P and G was the other big one,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> but she </OVERLAP1>
+          really (xx) for P and G. but like, i mean, with all those interviews you're not gonna hear back, before November thirtieth.          <OVERLAP1> most likely. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> no uh'uh. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> not till          <OVERLAP1> like January </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> and she </OVERLAP1>
+          has to tell them by, that's_          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> that's hard. </OVERLAP2>
+         </U2>
+         <OVERLAP1> oh. she's stressing. she's really stressing. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> well is the only one she's, is the only one she wait </OVERLAP1>
+          waiting out for General Mills?          <OVERLAP1> holding out for? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well no </OVERLAP1>
+          she interviewed with a lot of em but, i have a feeling, if she doesn't get General Mills she'll go back to Abbott. just because she knows, it was a good job and she's comfortable with it you know it's the whole comfort level thing. but,        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i hope General Mills, gets back to us. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what? </U2>
+          cuz that would really suck if th- you know General Mills doesn't come around until December she already said yes, and then, you know          <OVERLAP1> if by some chance </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'd email General </OVERLAP1>
+          Mills.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you guys send thank you letters? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i did </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> for interviews?          <OVERLAP1> you did? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i try </OVERLAP1>
+          to.          <OVERLAP1> i send thank you emails generally. </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> cuz i, </OVERLAP2>
+            emails?            <OVERLAP2> okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> not letters. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i sent a letter. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it's nice to send a letter but i never          <OVERLAP1> heard of </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> this is the only one i've ever </OVERLAP1>
+          sent though.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i've never had an address. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i didn't, i don't know. i haven't, and like, does it really make a difference or, is it just a courtesy thing? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think it's probably just a courtesy          <OVERLAP1> thing </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah, </OVERLAP1>
+          like do they, not get a thank you letter from you and then they're like oh,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we're not gonna </U2>
+          mhm.          <OVERLAP1> no offer for you. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't think they're gonna like </OVERLAP1>
+          shun you because you didn't, send them a letter. hopefully they'll look at more than that you know.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that'd be pretty shallow. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah it would. alright </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i just don't really see the need. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> alright so we still need, we still need,          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> sorry </U2>
+          water purification.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> water purification and,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we still need,            <OVERLAP2> coffee manufacturing. </OVERLAP2>
+         </U2>
+         <OVERLAP1> now we need the price of a cooling tank. </OVERLAP1>
+          did you find anything?          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> i haven't, seen any at all. </OVERLAP2>
+         </U2>
+         <OVERLAP1> no? you haven't been looking </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> ach we need a cooling tank? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah we need a cooling tank.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> how about if we just, </OVERLAP2>
+         </U2>
+         <OVERLAP1> instead of the </OVERLAP1>
+          heat exchanger.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> put some ice cubes in there. </U2>
+       </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we got our,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that could screw up our            <OVERLAP2> mass balance (xx) </OVERLAP2>
+         </U2>
+          our weekly ice supply and, hey, wha- we'll just buy ice cubes and use that to like account for water loss,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> and we'll </OVERLAP1>
+          cool it down at the same time. or we'll make our own ice.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we'll just like, i don't know, treat the kettle as a big giant, refrigerator.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's right. </U2>
+          so why don't you add a line in there before fermenter, for the cooling tank.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> why no </OVERLAP1>
+          right click. why no          <OVERLAP1> right click? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> what...? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="MUMBLING WHILE READING"></EVENT>         <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ooh </U2>
+          okay so cooling tank...        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how come that's the only one capitalized Tighe? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> sorry. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          he starts all over.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) it's in the one that's (xx) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah (without the) those          <SIC> indexes </SIC>
+          .        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mm (i don't) mm alright i think we need to come up with something for, the water system. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          Tighe's obsessed with the water.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i got we gotta          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> water water water </OVERLAP2>
+         </U2>
+         <OVERLAP1> get this water thing going. </OVERLAP1>
+          that's what the- that's what he critiqued us on. he was like          <EVENT DESC="ALTERED VOICE"></EVENT>          have (the) hot water (xx)        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> really? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. in this hold on let's see about... gravity          <PAUSE DUR=":07" ></PAUSE>       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know if this is something to talk about it cuz it's just for, our little home brewery. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think Ann Arbor water is just fine. i don't think it's (gonna fail.) </U1>
+       <PAUSE DUR=":33" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> describe ranges for physical attributes like original and final gravity, okay. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> look at that. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> but it still doesn't say, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> I-B-Us </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> are we, going to assume... um that the, specific gravit- our yeast slurry, that we're gonna add, how are we gonna get the specific gravity of that? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> right, of like,          <OVERLAP1> he was it's </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> we know a volume. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we know a volume but we need_ our whole mass balance is in pounds. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i thought we were going to assume one. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh that's right. we were just gonna assume like a certain,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+         <OVERLAP1> O-G. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'd do, </OVERLAP1>
+          i'd do volume,          <OVERLAP1> can we do volume? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> for the whole, </OVERLAP1>
+          a mass          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> then we'd get what then. </OVERLAP2>
+         </U2>
+         <OVERLAP1> balance is a mass balance </OVERLAP1>
+          though.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> not a volume balance          <OVERLAP1> is it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> right </OVERLAP1>
+          right.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oops we did a volume balance </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think volume is conserved. from, in a fermenter          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> neither created </OVERLAP1>
+          nor destroyed.        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so we c- okay we'll assume          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> so i would assume a mass of, </OVERLAP2>
+         </U2>
+         <OVERLAP1> that O-G of, </OVERLAP1>
+          well we know liters, and we'll assume, O-G, equals one-point-zero, five.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well... zero-five-one, final zero-one-three. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and that's just of the beer. so wouldn't we_ with the yeast in it do you think it would be like more dense? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ohh </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well i think you should just just assume, just assume the yeast without i mean, to be e- just the yeast i mean we've got like, twenty liters of just yeast,          <OVERLAP1> we're doing mass. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we're- </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> how much does </OVERLAP1>
+          twenty liters of yeast weigh?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+          that's what we need to know.        </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we were talking about this last time like a hundred pound sack, you know like if we came up with some kinda, you know. go to,          <OVERLAP1> Home Depot or whatever and get a, thing of grass seed. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> let's go buy, let's go buy some of those little yeast packets. </OVERLAP1>
+          let's see how much it weighs and then          <OVERLAP1> multiply it. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but those are so light </OVERLAP1>
+          though aren't they?        </U1>
+       <EVENT WHO="S4" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> it's okay. </OVERLAP1>
+          just need a we just need a, sensitive balance.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          and just multiply it.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> how mu- do we know what the weight of our          <OVERLAP1> yeast needs to be? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> use a, use a </OVERLAP1>
+          little          <SIC> least, </SIC>
+          yeast package,        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do we know what our weight of our yeast needs to be? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> we know what our,          <OVERLAP1> volume of it needs to be. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no we know what our </OVERLAP1>
+          volume is.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> ooh </U2>
+          we don't know our weight.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and we don't know a density of yeast so,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah </U2>
+          it's not really gonna help us.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well, we'd mass the yeast, and then we calculate its volume. </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> should i just assume, an O-G of the entire yeast slurry? to be like one-point, two, ish? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well, but then you have, a whole lotta of beer, a whole lotta of yeast.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> there's really not that much, yeast in there. </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean i don't i don't kn- i think, </OVERLAP1>
+          but i think if you add, twenty liters of yeast to what do you have four hundred liters of, beer? i don't know twenty liters of yeast, that yeast is gonna be heavy compared to the beer.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> you think? </OVERLAP2>
+         </U2>
+         <OVERLAP1> the, </OVERLAP1>
+          think about drinking a liter of yeast and, drinking a liter of beer.          <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> the yeast is gonna be (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> but is that how much we have or is that, </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well, water, water and beer </OVERLAP1>
+          is pretty heavy. like if i think of carrying a five gallon bucket of beer, i would think that's gonna be heavier than a five gallon bucket of yeast.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah i would think the          <SIC> least </SIC>
+          would be or yeast'd be.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it would be          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> it'd be lighter. </OVERLAP2>
+         </U2>
+         <OVERLAP1> lighter. </OVERLAP1>
+         <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> mkay. </U2>
+          don't ya think?          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> so w- but they ha- </OVERLAP2>
+         </U2>
+         <OVERLAP1> but then again like a, a </OVERLAP1>
+          pound of shu- like a bag of sugar's pretty heavy so,          <OVERLAP1> i mean i don't know. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> but what, </OVERLAP1>
+          what what value would you use,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <EVENT DESC="LAUGH"></EVENT>           <OVERLAP2> i don't know i was gonna guess </OVERLAP2>
+         </U2>
+         <OVERLAP1> i mean, </OVERLAP1>
+          yeast is lighter than water but, we don't really know.        </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hm </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um, you know what we need we need um, some sort of web page that gives us,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> all kinds of densities </U2>
+          of food.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hey          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i bet we can find it. </U2>
+          our book. you think we'd have the density of yeast? they've got the density of like,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i doubt it </U2>
+          apples.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and (that,) i'm like </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> have you seen that? </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> in our three-forty-three </OVERLAP1>
+          book yeah in the back.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah in the blue book. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah you're right. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i doubt it'd have yeast though do you think? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you never know. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (should) we go find somebody outside?          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i don't (have) my book. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> where where were um, Ehon and Pratik? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> they're, over by the windows          <OVERLAP1> right there. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i saw some, </OVERLAP1>
+          i won- they were working on three-oh-two though.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i'm just gonna go run and ask 'em. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> who else was working on three-oh-two? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i saw some girls,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's worth a look </U2>
+          over at those computers back there that,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          in our class i don't know what they're working on          <OVERLAP1> though. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> see i'm </OVERLAP1>
+          hoping people kinda stick around to work on three-oh-two cuz i really need,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> for help? </U2>
+          help. this homework's really hard.        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you know of anyone taking it next semester? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> probably a bunch of people. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> think so...? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> our class_ i would say a little less than half, is taking it right now so probably the other half will take it, next semester. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> are you in it right now, Dave? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no i,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> you            <OVERLAP2> took it </OVERLAP2>
+         </U2>
+         <OVERLAP1> took it </OVERLAP1>
+          some uh it was some time last year.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> last year? </U2>
+          maybe f- i think first semester.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> these homeworks, the G-S-Is write the homeworks and they're just like ridiculous, homeworks they're so hard.          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> huh </U2>
+          it would be cool if i could go to office hours you know like our homeworks are always so hard but then you go to office hours and you're like, hmm okay, but        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> bad timing? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah i can't, make it to office hours ever. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah we had a pr- ours we had a pretty small class, i bet there was only forty people in it or something          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> really? </OVERLAP2>
+         </U2>
+         <OVERLAP1> like that </OVERLAP1>
+          is it, a lot bigger now?          <OVERLAP1> like the one you're in it? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (there are) about, </OVERLAP1>
+          seventy          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> oh okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> eighty, </OVERLAP1>
+          i would say.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hm. yeah i, i (don't know) Rasmussen must have been easy or something cuz, it wasn't too hard for, for us. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> let's hope you get her.          <EVENT WHO="S4" DESC="LAUGH"></EVENT>          hopefully... alright.        </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> so i don't know what kind of filter we need. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> filter? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. i mean we just </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh water? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah, can we just, have something like that on th- like you said just something on the line going out? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          that's what i would love to do just say          <FOREIGN> voila </FOREIGN>
+          poof. um, (xx) i don't do any, searches in um... (they're real broad.) it's all auctions.          <PAUSE DUR=":32" ></PAUSE>          course not.        </U1>
+       <EVENT WHO="S4" DESC="LAUGH"></EVENT>       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> mm nope </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (he's back) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no it's not in there? or no they don't have the book. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> n- it's not in there. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (do you know what) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> get outta my seat. punk. did we did we search? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i just searched, i was gonna look for m- water purifiers, </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay hold on let's see if we can find density of, see if we can find density of yeast.          <EVENT WHO="SS" DESC="LAUGH"></EVENT>          what?          <EVENT DESC="READING WEBSITE"></EVENT>          i'm an H-I-V positive (xx) i don't think that's the right yeast density.        </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> say, say stop. (xx) </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's, (well here.) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (go ahead.)          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="READING WEBSITE"></EVENT>          yeast spoilage (xx)        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="READING WEBSITE"></EVENT>          yeast (is it there?)          <OVERLAP1> yeast researchers. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeast researchers </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> could be, (think.) </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i think it's,          <OVERLAP1> (probably helped on the) </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="READING WEBSITE"></EVENT>         <OVERLAP1> biotech fermentation </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="READING WEBSITE"></EVENT>         <OVERLAP1> (do i have) a </OVERLAP1>
+          yeast problem?          <EVENT DESC="LAUGH"></EVENT>          no, no we don't.          <EVENT WHO="S3" DESC="LAUGH"></EVENT>         <PAUSE DUR=":10" ></PAUSE>          hmm.          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U2>
+          what's going on?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> use a different search engine. that's annoying. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <EVENT WHO="S3" DESC="LAUGH"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh (why)          <EVENT WHO="SS" DESC="LAUGH"></EVENT>         <EVENT DUR=":13" DESC="PAUSE WHILE TYPING"></EVENT>          ts- oh we were on Lycos weren't we?          <EVENT DESC="LAUGH"></EVENT>          i thought we were          <OVERLAP1> at Alta Vista. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> hm? we were at Alta Vista. </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> we were. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh. </U1>
+       <PAUSE DUR=":07" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeast (xx) </U1>
+       <PAUSE DUR=":11" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> whoa whoa whoa. (that one) over there. </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> good call. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> um, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that doesn't look like it's gonna have something </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> how about how about </U1>
+       <PAUSE DUR=":20" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (although i see it) (xx) </U1>
+       <PAUSE DUR=":04" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> hm </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (oh that) would be dry yeast too. i don't know. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (brewing book) in the sky. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i don't know what to say. </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (i wonder about that) one on brewing that was on the page before. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> this? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <PAUSE DUR=":09" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeast </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> there's a lot of different, types of yeast.          <PAUSE DUR=":08" ></PAUSE>          huh i, i think this, is          <OVERLAP1> not the right way to go about doing this. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> no way. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> look at this.          <EVENT DESC="READING WEBSITE"></EVENT>          i am a chemical engineer working on a project for the yeast drying plant at Coors. my project requires that i know the density of the dry brewer's yeast. (xx) how to measure density in two ways. (xx) wow.        </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's, dry yeast. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it hasn't absorbed any water. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well what about the one where she displaced it a known amount of water. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> three hundred          <OVERLAP1> and forty-four </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> one-point-three-three </OVERLAP1>
+          grams per          <OVERLAP1> mil. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> is that, </OVERLAP1>
+          pound (xx)        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh one point,          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> per mil </OVERLAP2>
+         </U2>
+         <OVERLAP1> two two, </OVERLAP1>
+          per m- per milliliter        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> okay. </U1>
+       <EVENT WHO="S1" DESC="LAUGH"></EVENT>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's the density that she gives for (th- our) yeast? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. for the dry yeast. i say we use it.          <EVENT DESC="LAUGH"></EVENT>       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> one-point-three-three          <OVERLAP1> grams per, </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> i'd use it yeah cuz you </OVERLAP1>
+          know how much yeast we have in there (and stuff)        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well it's dry yeast does that          <OVERLAP1> make a difference? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> that's pretty </OVERLAP1>
+          funny          <OVERLAP1> that she </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> well when </OVERLAP1>
+          she did_ when she packed it with dry yeast she got point-six grams per milliliter.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> when she, w- what? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> when when          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> when she </OVERLAP2>
+         </U2>
+         <OVERLAP1> it was </OVERLAP1>
+          in the water she got one-point-three-three.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh okay. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> and i- ours is gonna be in          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> in the in liquid. </OVERLAP2>
+         </U2>
+         <OVERLAP1> liquid, </OVERLAP1>
+          so.        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> oh alright, yeah. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> cool </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i would </OVERLAP1>
+          say it's gonna have a higher mass anyway.          <PAUSE DUR=":08" ></PAUSE>          but that's weird though.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah that's really_          <OVERLAP1> this is just a, </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> wait what was the </OVERLAP1>
+          response to her?        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i don't think anyone responded. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> oh </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> what's that web page? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> bio net, (i don't know) here i'll find her thing again. um,          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> some big long thing? </U2>
+          it's a-yeah it's a big, it's a um,          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> that's cool </U2>
+          bulletin board bio net,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hm </U2>
+          hypermail, yeast. people are asking questions about yeast.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> cool. alright so we got our density of yeast. </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> alright let's work on water. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> then we just need, one f- (hey) we need a filter, so. fermenter. didn't i g- didn't i have a, price for a fermenter i think i did. </U1>
+       <PAUSE DUR=":05" ></PAUSE>       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> i thought we saw, like some place where you could buy one and it was like thirty-five thousand dollars,          <OVERLAP1> and that was before we </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> thirty barrel </OVERLAP1>
+          tanks and fermenters seven thousand dollars each.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> why, </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> yeah. </OVERLAP1>
+         <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> okay </U2>
+          i remember that.        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> that's so cheap.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah            <OVERLAP2> we just wrote it down </OVERLAP2>
+         </U2>
+         <OVERLAP1> oh they were used. </OVERLAP1>
+         <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> yeah.            <OVERLAP2> they were used. </OVERLAP2>
+         </U2>
+         <OVERLAP1> they were used, </OVERLAP1>
+          that's why. yup          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> well </OVERLAP2>
+         </U2>
+         <OVERLAP1> do you, </OVERLAP1>
+          have the web page?        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yup. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hm. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> (xx) </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> Bavarian brew, brewery </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> type of yeast.          <EVENT WHO="S2" DESC="LAUGH"></EVENT>          for sale          <PAUSE DUR=":09" ></PAUSE>          whoa        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>          doh        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> duh-oh. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> (if i could) type. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> could you type? </U1>
+       <PAUSE DUR=":08" ></PAUSE>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <PAUSE DUR=":04" ></PAUSE>          sixty-nine hundred dollars each.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hm. but we're after November first so we can't use that. </U1>
+       <EVENT WHO="S3" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we are after November first? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> yeah. it's only available before November first. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> we can't buy 'em right now? </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no. price probably went up... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> let's say we got 'em on sale. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> now but don't you think that's peculiar, that the fermenters, would be the same price as the storage tank? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> a little bit </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i mean, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> maybe they're just selling them at that price, because,          <U2 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> it's the same </U2>
+          they wanna get rid of 'em.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="ALTERED VOICE"></EVENT>          the, pre-Thanksgiving sale        </U1>
+       <EVENT WHO="S2" DESC="LAUGH"></EVENT>       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> hmm... hm. </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> do you think they'll have any more, </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> why don't you use, use that six- sixty-nine hundred bucks </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what if he looks at it, and says_ why would he be that picky? </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> he's an yeah. (we got) everything else is outta the outta the book (it's) just from graphs. this is a lot more detailed than that is. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> these are used, </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> so they don't          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> that's okay </OVERLAP2>
+         </U2>
+         <OVERLAP1> have fermenters </OVERLAP1>
+          in the, book huh?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> no </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> no brewery equipment. </U1>
+       <PAUSE DUR=":06" ></PAUSE>       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i think they i mean they have like tanks and reactors but... </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> this thing is used in, pharmaceutical industry the food processing industry, for mass consumption application, it's a U-V thing, there's no price.          <U2 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">           <OVERLAP2> let's estimate </OVERLAP2>
+         </U2>
+         <OVERLAP1> there's just </OVERLAP1>
+          another like U-V, did we decide that U-V is just to get like contaminants out?        </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> biological stuff out kill,          <OVERLAP1> (microbes) </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> i don't know </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> but it says it's used in the food processing industry. so you'd probably want it to taste good. </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i wonder if water purifier isn't what we we're really looking for, cuz that's something else. </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> a water, make it taste          <SIC> gooder </SIC>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> de-          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> yeah </OVERLAP2>
+         </U2>
+         <OVERLAP1> bad </OVERLAP1>
+          taste-izer        </U1>
+       <EVENT WHO="SS" DESC="LAUGH"></EVENT>       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> well we're looking for like the, the ion exchange kind, of water purifier aren't we? where it takes out the um minerals and, i don't know          <U2 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">           <OVERLAP2> i have no idea </OVERLAP2>
+         </U2>
+         <OVERLAP1> we did something on it, </OVERLAP1>
+          while          <OVERLAP1> we were in two-thirty </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) really </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> (xx) the water </OVERLAP1>
+          purifier.        </U1>
+       <EVENT WHO="SU-m" DESC="SNEEZE"></EVENT>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> bless you. i don't know i have no idea. </U1>
+       <PAUSE DUR=":29" ></PAUSE>       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> well, can we do the um, we've got everything for the material balance now right?          <OVERLAP1> right? </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> let's try one of these </OVERLAP1>
+          yes we have everything for the material balance. (xx) water purifier.          <OVERLAP1> (xx) </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> why don't </OVERLAP1>
+          we just put an aquarium filter over the tap?        </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> what is that? </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <SEG TYPE="READING"> removes sediments chlorine, chlor- (xx) heavy metals, blah blah blah blah blah, and (xx) ions. (xx) </SEG>
+         <OVERLAP1> that's like aquarium pharmaceuticals. does that just mean, like, stuff for your aquarium? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> that wouldn't last very long. </OVERLAP1>
+       </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> why? </OVERLAP1>
+       </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> cuz i don't think it would, fit over our pipe or anything. </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> i guess. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> how big was it? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> it was just for an aquarium. </U1>
+       <U1 WHO="S4" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <OVERLAP1> oh. </OVERLAP1>
+       </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE">         <OVERLAP1> how many </OVERLAP1>
+          gallons?          <OVERLAP1> can't we just, </OVERLAP1>
+       </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE">         <EVENT DESC="LAUGH"></EVENT>         <OVERLAP1> maybe like, </OVERLAP1>
+          ten gallons, fifteen        </U1>
+       <U1 WHO="S3" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> up to three hundred gallons of pure water with a single cartridge.          <U2 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> with a single cartridge though            <OVERLAP2> we'd have to change it like </OVERLAP2>
+         </U2>
+         <OVERLAP1> we'd have a lot more than that </OVERLAP1>
+          never mind.        </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> four times? </U1>
+       <U1 WHO="S2" NSS="NS" ROLE="SU" SEX="F" AGE="1" RESTRICT="NONE"> four times a batch </U1>
+       <U1 WHO="S1" NSS="NS" ROLE="SU" SEX="M" AGE="1" RESTRICT="NONE"> four times a filling          <PAUSE DUR=":05" ></PAUSE>          um,        </U1>
+       <P> {END OF TRANSCRIPT} </P>
+     </BODY>
+   </TEXT>
+ </TEI.2>
