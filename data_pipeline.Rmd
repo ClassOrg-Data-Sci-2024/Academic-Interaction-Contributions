@@ -113,6 +113,75 @@ Indications of overlapping speech are not included in the data frame in order to
 Indications of overlaps may be added at a later time if deemed relevant enough to the analysis to be included.
 The decision to separate the utterances into two levels of utterances is based on the structure of the MICASE transcriptions where U1 nodes represent a speaker taking a full conversation turn and U2 nodes represent a speaker responding verbally without taking a full conversation turn.
 
+## Initial data cleaning
+
+Separating the two utterance levels caused "/n" strings to be created in first-level utterances at positions where second-level utterances were originally nested.
+These strings should be removed as they are not part of the data being analyzed.
+Additionally, the [MICASE Corpus Manual](https://ca.talkbank.org/access/0docs/MICASE.pdf) explains in Table 3-2 that words that were "completely unintelligible" were transcribed as two x's in parentheses.
+These will also be removed from the data, as it is difficult to quantify the conversational contribution of a word or words that are not known.
+
+```{r}
+#saving changes to a new df so that the original is still around if I need it
+micase_df_turns <- micase_df %>% 
+  #mutating across the text column to replace whitespace at the beginning and end of lines with nothing,
+  #all other whitespace with a single space, all "\n" with nothing, and all "(xx)" with nothing
+  mutate(across(text, ~ (str_replace_all(.x, c("^\\s" = "", "\\s$" = "", "\\s+" = " ", "\\n" = "", "\\(xx\\)" = "")))))
+```
+
+# Creating a word token data frame
+
+The current data frame is structured in a way that is useful to analyze turn-taking among conversational participants.
+In addition to this, a longer data frame will be created where each word token has its own cell in the data frame in order to analyze the number of words spoken by each conversation participant.
+
+```{r}
+micase_df_words <- micase_df_turns %>% 
+  #split the strings in the text column by whitespace
+  mutate(across(text, ~ (strsplit(.x, "\\s")))) %>% 
+  #unnest the column so that every word is its own cell
+  unnest(cols=c("text"))
+```
+
+## Counting instances of "non-words"
+
+The MICASE Corpus Manual lists all the transcription conventions used for hesitation and filler words, backchannel cues, exclamations, and truncated words which allows all these instances to be counted in a straightforward way.
+Getting counts of these phenomena will be helpful in guiding how the analysis handles them.
+
+```{r}
+#saving a regex string that captures all the MICASE hesitation conventions
+hesitation_regex <- "^(hm|hm’|huh|mm|mhm|uh|um|mkay)[^\\w\\s]?$"
+
+#saving a regex string that captures all the MICASE backchannel cue conventions
+backchannel_regex <- "^(okey-doke|okey-dokey|uhuh|yeah|yep|yuhuh|uh’uh|huh’uh|‘m’m|huh’uh)[^\\w\\s]?$"
+
+#saving a regex string that captures all the MICASE exclamation conventions
+exclamation_regex <- "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh’oh|whoa|yay)[^\\w\\s]?$"
+
+#saving a regex string that captures the MICASE truncated word convention
+truncated_regex <- "-[^\\w\\s]?$"
+
+#concatenating the regexs to be mapped over
+nonword_regexs <- c(hesitation_regex, backchannel_regex, exclamation_regex, truncated_regex)
+
+#saving a count of the total cells in micase_df_words
+total_word_count <- sum(micase_df_words %>% count())
+
+#creating a word counter function that takes a regex string as input
+word_counter <- function(regex_string) {
+  micase_df_words %>% 
+    #filtering micase_df_words based on cells in the text column that match the regex string
+    filter(str_detect(text, regex_string)) %>% 
+    #getting a count of the words matched
+    count() %>% 
+    #creating a column that includes the regex string that was searched
+    #and a column for the percentage of the total word count that are matched strings
+    mutate(regex_searched = regex_string, percentage_of_total = sum(n)/total_word_count)
+}
+
+#mapping the concanated regex strings over the word_counter() function
+map(nonword_regexs, ~ word_counter(.x))
+```
+
+
 # Session Info
 
 ```{r}
