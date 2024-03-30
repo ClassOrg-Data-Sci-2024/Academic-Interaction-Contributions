@@ -117,15 +117,21 @@ The decision to separate the utterances into two levels of utterances is based o
 
 Separating the two utterance levels caused "/n" strings to be created in first-level utterances at positions where second-level utterances were originally nested.
 These strings should be removed as they are not part of the data being analyzed.
-Additionally, the [MICASE Corpus Manual](https://ca.talkbank.org/access/0docs/MICASE.pdf) explains in Table 3-2 that words that were "completely unintelligible" were transcribed as two x's in parentheses.
+Additionally, the [MICASE Manual](https://ca.talkbank.org/access/0docs/MICASE.pdf) explains in Table 3-2 that words that were "completely unintelligible" were transcribed as two x's in parentheses.
 These will also be removed from the data, as it is difficult to quantify the conversational contribution of a word or words that are not known.
+It was also discovered that participants who have values "ALL" or "CITE" values in `RESTRICT` have had their speech redacted from the corpus.
+Due to this, these restricted utterances will also be removed from the dataset.
 
 ```{r}
 #saving changes to a new df so that the original is still around if I need it
 micase_df_turns <- micase_df %>% 
   #mutating across the text column to replace whitespace at the beginning and end of lines with nothing,
   #all other whitespace with a single space, all "\n" with nothing, and all "(xx)" with nothing
-  mutate(across(text, ~ (str_replace_all(.x, c("^\\s" = "", "\\s$" = "", "\\s+" = " ", "\\n" = "", "\\(xx\\)" = "")))))
+  mutate(across(text, ~ (str_replace_all(.x, c("^\\s" = "", "\\s$" = "", "\\s+" = " ", "\\n" = "", "\\(xx\\)" = ""))))) %>% 
+  #removing all text cells that contain "RESTRICTED" values
+  filter(text != "RESTRICTED") %>% 
+  #dropping the RESTRICT column because it is not informative with the "RESTRICTED" values removed
+  select(!RESTRICT)
 ```
 
 # Creating a word token data frame
@@ -143,7 +149,7 @@ micase_df_words <- micase_df_turns %>%
 
 ## Counting instances of "non-words"
 
-The MICASE Corpus Manual lists all the transcription conventions used for hesitation and filler words, backchannel cues, exclamations, and truncated words which allows all these instances to be counted in a straightforward way.
+The MICASE Manual lists all the transcription conventions used for hesitation and filler words, backchannel cues, exclamations, and truncated words which allows all these instances to be counted in a straightforward way.
 Getting counts of these phenomena will be helpful in guiding how the analysis handles them.
 
 ```{r}
@@ -181,6 +187,30 @@ word_counter <- function(regex_string) {
 map(nonword_regexs, ~ word_counter(.x))
 ```
 
+# Turn-taking analysis
+
+Examining contributions in academic interactions by the number of turns taken will be accomplished with the `micase_df_turns` dataframe that has been created.
+The MICASE Manual describes utterances tagged as second-level as "Backchannel cues from a speaker who doesn’t hold the floor and unsuccessful attempts to take the floor" (p. 14), so the initial analysis will only focus on first-level utterances which represent speakers successfully taking the floor.
+
+```{r}
+micase_df_turns %>% 
+  #filtering to just look at first-level utterances
+  filter(level == "u1") %>% 
+  #adding count column for total turns taken in event
+  add_count(file, name = "event_turn_total") %>% 
+  #using group_by to organize turns according to the file they come from and the ID value from WHO column
+  group_by(file, WHO) %>% 
+  #adding count column for all turns taken by each speaker in every file
+  add_count(name = "speaker_turns") %>% 
+  #adding column calculating the the percentage of turns contributed by each speaker in every event
+  mutate(percent_turns_contributed = speaker_turns/event_turn_total) %>% 
+  #dropping columns that aren't relevant to analysis
+  select(-c(unique_id, level, text)) %>% 
+  #using slice to select the first row of each group
+  ##essentially providing a single row for each speaker in every interaction
+  ##while still retaining the metadata information for the speaker
+  slice(1) 
+```
 
 # Session Info
 
