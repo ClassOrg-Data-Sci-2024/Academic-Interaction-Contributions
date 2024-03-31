@@ -148,7 +148,7 @@ micase_df_words <- micase_df_turns %>%
   unnest(cols=c("text"))
 ```
 
-## Counting instances of "non-words"
+## Counting instances of non-lexicals, backchannels, and exclamations
 
 The MICASE Manual lists all the transcription conventions used for hesitation and filler words, backchannel cues, exclamations, and truncated words which allows all these instances to be counted in a straightforward way.
 Getting counts of these phenomena will be helpful in guiding how the analysis handles them.
@@ -167,7 +167,7 @@ exclamation_regex <- "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh’oh|who
 truncated_regex <- "-[^\\w\\s]?$"
 
 #concatenating the regexs to be mapped over
-nonword_regexs <- c(hesitation_regex, backchannel_regex, exclamation_regex, truncated_regex)
+nonlexical_regexs <- c(hesitation_regex, backchannel_regex, exclamation_regex, truncated_regex)
 
 #saving a count of the total cells in micase_df_words
 total_word_count <- sum(micase_df_words %>% count())
@@ -185,7 +185,7 @@ word_counter <- function(regex_string) {
 }
 
 #mapping the concanated regex strings over the word_counter() function
-map(nonword_regexs, ~ word_counter(.x))
+map(nonlexical_regexs, ~ word_counter(.x))
 ```
 
 # Turn-taking analysis
