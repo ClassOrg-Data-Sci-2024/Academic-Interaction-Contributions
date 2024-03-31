@@ -210,7 +210,9 @@ micase_df_turns %>%
   #using slice to select the first row of each group
   ##essentially providing a single row for each speaker in every interaction
   ##while still retaining the metadata information for the speaker
-  slice(1) 
+  slice(1) %>% 
+  ggplot(aes(x = SEX, y = percent_turns_contributed)) + 
+  geom_count()
 ```
 
 # Session Info
