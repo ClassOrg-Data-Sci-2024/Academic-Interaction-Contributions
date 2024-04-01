@@ -211,6 +211,7 @@ micase_df_turns %>%
   ##essentially providing a single row for each speaker in every interaction
   ##while still retaining the metadata information for the speaker
   slice(1) %>% 
+  #creating geom_count() plot with SEX on the x-axis and percent_turns_contributed on the y-axis
   ggplot(aes(x = SEX, y = percent_turns_contributed)) + 
   geom_count()
 ```

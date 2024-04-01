@@ -5,6 +5,11 @@ Jack Rechsteiner
 
 - [Data overview](#data-overview)
 - [Data pipeline](#data-pipeline)
+  - [Initial data cleaning](#initial-data-cleaning)
+- [Creating a word token data frame](#creating-a-word-token-data-frame)
+  - [Counting instances of non-lexicals, backchannels, and
+    exclamations](#counting-instances-of-non-lexicals-backchannels-and-exclamations)
+- [Turn-taking analysis](#turn-taking-analysis)
 - [Session Info](#session-info)
 
 ``` r
@@ -169,6 +174,151 @@ U1 nodes represent a speaker taking a full conversation turn and U2
 nodes represent a speaker responding verbally without taking a full
 conversation turn.
 
+## Initial data cleaning
+
+Separating the two utterance levels caused “/n” strings to be created in
+first-level utterances at positions where second-level utterances were
+originally nested. These strings should be removed as they are not part
+of the data being analyzed. Additionally, the [MICASE
+Manual](https://ca.talkbank.org/access/0docs/MICASE.pdf) explains in
+Table 3-2 that words that were “completely unintelligible” were
+transcribed as two x’s in parentheses. These will also be removed from
+the data, as it is difficult to quantify the conversational contribution
+of a word or words that are not known. It was also discovered that
+participants who have values “ALL” or “CITE” values in `RESTRICT` have
+had their speech redacted from the corpus. Due to this, these restricted
+utterances will also be removed from the dataset.
+
+``` r
+#saving changes to a new df so that the original is still around if I need it
+micase_df_turns <- micase_df %>% 
+  #mutating across the text column to replace whitespace at the beginning and end of lines with nothing,
+  #all other whitespace with a single space, all "\n" with nothing, and all "(xx)" with nothing
+  mutate(across(text, ~ (str_replace_all(.x, c("^\\s" = "", "\\s$" = "", "\\s+" = " ", "\\n" = "", "\\(xx\\)" = ""))))) %>% 
+  #removing all text cells that contain "RESTRICTED" values
+  filter(text != "RESTRICTED") %>% 
+  #dropping the RESTRICT column because it is not informative with the "RESTRICTED" values removed
+  select(!RESTRICT)
+```
+
+# Creating a word token data frame
+
+The current data frame is structured in a way that is useful to analyze
+turn-taking among conversational participants. In addition to this, a
+longer data frame will be created where each word token has its own cell
+in the data frame in order to analyze the number of words spoken by each
+conversation participant.
+
+``` r
+micase_df_words <- micase_df_turns %>% 
+  #split the strings in the text column by whitespace
+  mutate(across(text, ~ (strsplit(.x, "\\s")))) %>% 
+  #unnest the column so that every word is its own cell
+  unnest(cols=c("text"))
+```
+
+## Counting instances of non-lexicals, backchannels, and exclamations
+
+The MICASE Manual lists all the transcription conventions used for
+hesitation and filler words, backchannel cues, exclamations, and
+truncated words which allows all these instances to be counted in a
+straightforward way. Getting counts of these phenomena will be helpful
+in guiding how the analysis handles them.
+
+``` r
+#saving a regex string that captures all the MICASE hesitation conventions
+hesitation_regex <- "^(hm|hm’|huh|mm|mhm|uh|um|mkay)[^\\w\\s]?$"
+
+#saving a regex string that captures all the MICASE backchannel cue conventions
+backchannel_regex <- "^(okey-doke|okey-dokey|uhuh|yeah|yep|yuhuh|uh’uh|huh’uh|‘m’m|huh’uh)[^\\w\\s]?$"
+
+#saving a regex string that captures all the MICASE exclamation conventions
+exclamation_regex <- "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh’oh|whoa|yay)[^\\w\\s]?$"
+
+#saving a regex string that captures the MICASE truncated word convention
+truncated_regex <- "-[^\\w\\s]?$"
+
+#concatenating the regexs to be mapped over
+nonlexical_regexs <- c(hesitation_regex, backchannel_regex, exclamation_regex, truncated_regex)
+
+#saving a count of the total cells in micase_df_words
+total_word_count <- sum(micase_df_words %>% count())
+
+#creating a word counter function that takes a regex string as input
+word_counter <- function(regex_string) {
+  micase_df_words %>% 
+    #filtering micase_df_words based on cells in the text column that match the regex string
+    filter(str_detect(text, regex_string)) %>% 
+    #getting a count of the words matched
+    count() %>% 
+    #creating a column that includes the regex string that was searched
+    #and a column for the percentage of the total word count that are matched strings
+    mutate(regex_searched = regex_string, percentage_of_total = sum(n)/total_word_count)
+}
+
+#mapping the concanated regex strings over the word_counter() function
+map(nonlexical_regexs, ~ word_counter(.x))
+```
+
+    [[1]]
+    # A tibble: 1 × 3
+          n regex_searched                               percentage_of_total
+      <int> <chr>                                                      <dbl>
+    1 20896 "^(hm|hm’|huh|mm|mhm|uh|um|mkay)[^\\w\\s]?$"              0.0224
+
+    [[2]]
+    # A tibble: 1 × 3
+          n regex_searched                                       percentage_of_total
+      <int> <chr>                                                              <dbl>
+    1  9426 "^(okey-doke|okey-dokey|uhuh|yeah|yep|yuhuh|uh’uh|h…              0.0101
+
+    [[3]]
+    # A tibble: 1 × 3
+          n regex_searched                                       percentage_of_total
+      <int> <chr>                                                              <dbl>
+    1  3689 "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh’…             0.00395
+
+    [[4]]
+    # A tibble: 1 × 3
+          n regex_searched percentage_of_total
+      <int> <chr>                        <dbl>
+    1 10859 "-[^\\w\\s]?$"              0.0116
+
+# Turn-taking analysis
+
+Examining contributions in academic interactions by the number of turns
+taken will be accomplished with the `micase_df_turns` dataframe that has
+been created. The MICASE Manual describes utterances tagged as
+second-level as “Backchannel cues from a speaker who doesn’t hold the
+floor and unsuccessful attempts to take the floor” (p. 14), so the
+initial analysis will only focus on first-level utterances which
+represent speakers successfully taking the floor.
+
+``` r
+micase_df_turns %>% 
+  #filtering to just look at first-level utterances
+  filter(level == "u1") %>% 
+  #adding count column for total turns taken in event
+  add_count(file, name = "event_turn_total") %>% 
+  #using group_by to organize turns according to the file they come from and the ID value from WHO column
+  group_by(file, WHO) %>% 
+  #adding count column for all turns taken by each speaker in every file
+  add_count(name = "speaker_turns") %>% 
+  #adding column calculating the the percentage of turns contributed by each speaker in every event
+  mutate(percent_turns_contributed = speaker_turns/event_turn_total) %>% 
+  #dropping columns that aren't relevant to analysis
+  select(-c(unique_id, level, text)) %>% 
+  #using slice to select the first row of each group
+  ##essentially providing a single row for each speaker in every interaction
+  ##while still retaining the metadata information for the speaker
+  slice(1) %>% 
+  #creating geom_count() plot with SEX on the x-axis and percent_turns_contributed on the y-axis
+  ggplot(aes(x = SEX, y = percent_turns_contributed)) + 
+  geom_count()
+```
+
+![](data_pipeline_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+
 # Session Info
 
 ``` r
@@ -198,12 +348,13 @@ sessionInfo()
      [9] tibble_3.2.1    ggplot2_3.4.4   tidyverse_2.0.0
 
     loaded via a namespace (and not attached):
-     [1] gtable_0.3.4      compiler_4.3.2    tidyselect_1.2.0  scales_1.3.0     
-     [5] yaml_2.3.8        fastmap_1.1.1     R6_2.5.1          generics_0.1.3   
-     [9] knitr_1.45        munsell_0.5.0     pillar_1.9.0      tzdb_0.4.0       
-    [13] rlang_1.1.3       utf8_1.2.4        stringi_1.8.3     xfun_0.42        
-    [17] timechange_0.2.0  cli_3.6.2         withr_2.5.2       magrittr_2.0.3   
-    [21] digest_0.6.35     grid_4.3.2        rstudioapi_0.15.0 hms_1.1.3        
-    [25] lifecycle_1.0.4   vctrs_0.6.5       evaluate_0.23     glue_1.7.0       
-    [29] fansi_1.0.6       colorspace_2.1-0  rmarkdown_2.26    tools_4.3.2      
-    [33] pkgconfig_2.0.3   htmltools_0.5.7  
+     [1] gtable_0.3.4      highr_0.10        compiler_4.3.2    tidyselect_1.2.0 
+     [5] scales_1.3.0      yaml_2.3.8        fastmap_1.1.1     R6_2.5.1         
+     [9] labeling_0.4.3    generics_0.1.3    knitr_1.45        munsell_0.5.0    
+    [13] pillar_1.9.0      tzdb_0.4.0        rlang_1.1.3       utf8_1.2.4       
+    [17] stringi_1.8.3     xfun_0.42         timechange_0.2.0  cli_3.6.2        
+    [21] withr_2.5.2       magrittr_2.0.3    digest_0.6.35     grid_4.3.2       
+    [25] rstudioapi_0.15.0 hms_1.1.3         lifecycle_1.0.4   vctrs_0.6.5      
+    [29] evaluate_0.23     glue_1.7.0        farver_2.1.1      fansi_1.0.6      
+    [33] colorspace_2.1-0  rmarkdown_2.26    tools_4.3.2       pkgconfig_2.0.3  
+    [37] htmltools_0.5.7  
