@@ -155,13 +155,13 @@ Getting counts of these phenomena will be helpful in guiding how the analysis ha
 
 ```{r}
 #saving a regex string that captures all the MICASE hesitation conventions
-hesitation_regex <- "^(hm|hm’|huh|mm|mhm|uh|um|mkay)[^\\w\\s]?$"
+hesitation_regex <- "^(hm|hm'|huh|mm|mhm|uh|um|mkay)[^\\w\\s]?$"
 
 #saving a regex string that captures all the MICASE backchannel cue conventions
-backchannel_regex <- "^(okey-doke|okey-dokey|uhuh|yeah|yep|yuhuh|uh’uh|huh’uh|‘m’m|huh’uh)[^\\w\\s]?$"
+backchannel_regex <- "^(okey-doke|okey-dokey|uhuh|yeah|yep|yuhuh|uh'uh|huh'uh|'m'm|huh'uh)[^\\w\\s]?$"
 
 #saving a regex string that captures all the MICASE exclamation conventions
-exclamation_regex <- "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh’oh|whoa|yay)[^\\w\\s]?$"
+exclamation_regex <- "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh'oh|whoa|yay)[^\\w\\s]?$"
 
 #saving a regex string that captures the MICASE truncated word convention
 truncated_regex <- "-[^\\w\\s]?$"
