@@ -231,12 +231,13 @@ map_dfr(nonlexical_regexs, word_counter, .id = "category")
 Based on these total counts, exclamations will be removed from the data frame because they represent less than one percent of the total data. 
 These word counts are being used as a quantifiable proxy for a speaker's level of engagement with a speech event, so truncated words, hesitations, and filler words will also be removed but backchannel cues will be retained.
 
+
 ```{r}
 micase_df_words <- micase_df_words %>% 
   #using filter() to select every row that does not match the three regex strings
-  filter(!str_detect(text, hesitation_regex),
-         !str_detect(text, exclamation_regex),
-         !str_detect(text, truncated_regex))
+  filter(!str_detect(text, nonlexical_regexs["hesitation"]),
+         !str_detect(text, nonlexical_regexs["exclamation"]),
+         !str_detect(text, nonlexical_regexs["truncated"]))
 ```
 
 
