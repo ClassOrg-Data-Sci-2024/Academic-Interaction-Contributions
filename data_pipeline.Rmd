@@ -126,7 +126,7 @@ micase_df <- micase_df %>%
                                                        "STP" = "Student Presentation",
                                                        "SVC" = "Service Encounter",
                                                        "TOU" = "Tour")))),
-         across(native_english_status, ~ (str_replace_all(.x, c("NS" = "American Speaker",
+         across(native_english_status, ~ (str_replace_all(.x, c("^NS$" = "American Speaker",
                                                                 "NSO" = "Non-American Speaker",
                                                                 "NRN" = "Near Native Speaker",
                                                                 "NNS" = "Non-Native Speaker")))),
@@ -139,11 +139,13 @@ micase_df <- micase_df %>%
                                                         "RE" = "Researcher",
                                                         "PD" = "Post-doc",
                                                         "ST" = "Staff",
-                                                        "VO" = "Visitor/Other")))),
+                                                        "VO" = "Visitor/Other",
+                                                        "UN" = "Unknown")))),
          across(age_range, ~ (str_replace_all(.x, c("^1$" = "17-23",
                                                     "^2$" = "24-30",
                                                     "^3$" = "31-50",
-                                                    "^4$" = "51+"))))
+                                                    "^4$" = "51+",
+                                                    "^0$" = "Unknown"))))
          )
 
 #Brief samples of the current data frame
@@ -179,7 +181,7 @@ micase_df_turns <- micase_df %>%
   filter(text != "RESTRICTED") %>% 
   #dropping the RESTRICT column because it is not informative with the "RESTRICTED" values removed
   select(!RESTRICT) %>% 
-  #removing all rows with WHO cells that contain "SS" values
+  #removing all rows with speaker_id cells that contain "SS" values
   filter(speaker_id != "SS")
 ```
 
@@ -247,12 +249,13 @@ Examining contributions in academic interactions by the number of turns taken wi
 The MICASE Manual describes utterances tagged as second-level as "Backchannel cues from a speaker who doesn’t hold the floor and unsuccessful attempts to take the floor" (p. 14), so the initial analysis will only focus on first-level utterances which represent speakers successfully taking the floor.
 
 ```{r}
-micase_df_turns %>% 
+#creating a new df for the analysis of the turn data
+micase_turn_analysis <- micase_df_turns %>% 
   #filtering to just look at first-level utterances
   filter(level == "u1") %>% 
   #adding count column for total turns taken in event
   add_count(file, name = "event_turn_total") %>% 
-  #using group_by to organize turns according to the file they come from and the ID value from WHO column
+  #using group_by to organize turns according to the file they come from and the speaker_id
   group_by(file, speaker_id) %>% 
   #adding count column for all turns taken by each speaker in every file
   add_count(name = "speaker_turns") %>% 
@@ -265,8 +268,12 @@ micase_df_turns %>%
   ##while still retaining the metadata information for the speaker
   slice(1) %>% 
   #filtering out speakers who contributed less than 1% of words to event
-  filter(percent_turns_contributed >= 0.01) %>% 
-  #creating geom_count() plot with SEX on the x-axis and percent_turns_contributed on the y-axis
+  filter(percent_turns_contributed >= 0.01)
+
+micase_turn_analysis %>% 
+  #filtering out speakers with unknown gender
+  filter(gender != "U") %>% 
+  #creating geom_count() plot with 'gender' on the x-axis and percent_turns_contributed on the y-axis
   ggplot(aes(x = gender, y = percent_turns_contributed)) + 
   geom_count()
 ```
@@ -275,9 +282,10 @@ micase_df_turns %>%
 # Word count analysis
 
 ```{r}
-micase_df_words %>% 
+#creating a new df for the analysis of the turn data
+micase_word_analysis <- micase_df_words %>% 
   add_count(file, name = "event_word_total") %>% 
-  #using group_by to organize turns according to the file they come from and the ID value from WHO column
+  #using group_by to organize turns according to the file they come from and the speaker_id
   group_by(file, speaker_id) %>% 
   #adding count column for all turns taken by each speaker in every file
   add_count(name = "speaker_words") %>% 
@@ -291,6 +299,11 @@ micase_df_words %>%
   slice(1) %>% 
   #filtering out speakers who contributed less than 1% of words to event
   filter(percent_words_contributed >= 0.01)
+
+micase_word_analysis %>% 
+  #creating geom_count() plot with 'gender' on the x-axis and percent_words_contributed on the y-axis
+  ggplot(aes(x = gender, y = percent_words_contributed)) + 
+  geom_count()
 ```
 
 
