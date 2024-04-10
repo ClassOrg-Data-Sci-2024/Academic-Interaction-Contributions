@@ -141,12 +141,15 @@ micase_df <- micase_df %>%
                                                         "ST" = "Staff",
                                                         "VO" = "Visitor/Other",
                                                         "UN" = "Unknown")))),
+         across(gender, ~ (str_replace_all(.x, c("F" = "Female",
+                                                 "M" = "Male",
+                                                 "U" = "Unknown")))),
          across(age_range, ~ (str_replace_all(.x, c("^1$" = "17-23",
                                                     "^2$" = "24-30",
                                                     "^3$" = "31-50",
                                                     "^4$" = "51+",
                                                     "^0$" = "Unknown"))))
-         )
+  )
 
 #Brief samples of the current data frame
 head(micase_df)
@@ -272,7 +275,7 @@ micase_turn_analysis <- micase_df_turns %>%
 
 micase_turn_analysis %>% 
   #filtering out speakers with unknown gender
-  filter(gender != "U") %>% 
+  filter(gender != "Unknown") %>% 
   #creating geom_count() plot with 'gender' on the x-axis and percent_turns_contributed on the y-axis
   ggplot(aes(x = gender, y = percent_turns_contributed)) + 
   geom_count()
