@@ -10,6 +10,7 @@ Jack Rechsteiner
   - [Counting instances of non-lexicals, backchannels, and
     exclamations](#counting-instances-of-non-lexicals-backchannels-and-exclamations)
 - [Turn-taking analysis](#turn-taking-analysis)
+- [Word count analysis](#word-count-analysis)
 - [Session Info](#session-info)
 
 ``` r
@@ -109,7 +110,7 @@ u2_speaker_text <- map(u2_speaker_list,
 ##'file' using the filename string in filename_list
 micase_df <- tibble(file = filename_list, 
                     ##'speechevent' using the speechevent string in speechevent_list
-                    speechevent = speechevent_list, 
+                    speech_event = speechevent_list, 
                     ##'level' to indicate whether it is a first-level or second-level utterance
                     level = "u1", 
                     ##'nodeset' which contains the lists of attributes for speakers
@@ -118,47 +119,101 @@ micase_df <- tibble(file = filename_list,
                     text = u1_speaker_text) %>% 
   #Using add_row() to add the data from the second-level utterances and set the level to "u2"
   add_row(file = filename_list, 
-          speechevent = speechevent_list, 
+          speech_event = speechevent_list, 
           level = "u2", 
           nodeset = u2_speaker_nodes, 
           text = u2_speaker_text) %>% 
   #Using unnest() on the columns that contain lists created by map()
-  unnest(cols = c(file, speechevent, nodeset, text)) %>% 
+  unnest(cols = c(file, speech_event, nodeset, text)) %>% 
   #Giving each entry a unique_id based on row_number()
   mutate(unique_id = row_number(), .before=1) %>% 
   #Using unnest_wider() on the nodeset lists so that the XML attribute titles become columns 
   ##which are filled with the XML attribute values
   unnest_wider(nodeset)
 
+#Renaming columns to be more transparent
+micase_df <- micase_df %>% 
+  rename(speaker_id = WHO, 
+         native_english_status = NSS, 
+         academic_role = ROLE, 
+         gender = SEX, 
+         age_range = AGE, 
+         first_language = FLANG) %>% 
+  #Replacing value codes with full value names
+  mutate(across(speech_event, ~ (str_replace_all(.x, c("ADV" = "Advising Session", 
+                                                       "COL" = "Colloquium", 
+                                                       "DEF" = "Dissertation Defense", 
+                                                       "DIS" = "Discussion Section", 
+                                                       "INT" = "Interview", 
+                                                       "LAB" = "Lab Section",
+                                                       "LEL" = "Large Lecture",
+                                                       "LES" = "Small Lecture",
+                                                       "MTG" = "Meeting",
+                                                       "OFC" = "Office Hours",
+                                                       "SEM" = "Seminar",
+                                                       "SGR" = "Study Group",
+                                                       "STP" = "Student Presentation",
+                                                       "SVC" = "Service Encounter",
+                                                       "TOU" = "Tour")))),
+         across(native_english_status, ~ (str_replace_all(.x, c("^NS$" = "American Speaker",
+                                                                "NSO" = "Non-American Speaker",
+                                                                "NRN" = "Near Native Speaker",
+                                                                "NNS" = "Non-Native Speaker")))),
+         #to simplify the categories in the eventual analysis, differences between "junior" and "senior" roles are dropped
+         ##for instance, "JU" is code for "junior undergrad" and "SU" is code for "senior undergrad",
+         ##but this analysis combines these two categories into "undergrad"
+         across(academic_role, ~ (str_replace_all(.x, c("JU" = "Undergrad",
+                                                        "SU" = "Undergrad",
+                                                        "JG" = "Grad",
+                                                        "SG" = "Grad",
+                                                        "JF" = "Faculty",
+                                                        "SF" = "Faculty",
+                                                        "RE" = "Researcher",
+                                                        "PD" = "Post-doc",
+                                                        "ST" = "Staff",
+                                                        "VO" = "Visitor/Other",
+                                                        "UN" = "Unknown")))),
+         across(gender, ~ (str_replace_all(.x, c("F" = "Female",
+                                                 "M" = "Male",
+                                                 "U" = "Unknown")))),
+         across(age_range, ~ (str_replace_all(.x, c("^1$" = "17-23",
+                                                    "^2$" = "24-30",
+                                                    "^3$" = "31-50",
+                                                    "^4$" = "51+",
+                                                    "^0$" = "Unknown"))))
+  )
+
 #Brief samples of the current data frame
 head(micase_df)
 ```
 
     # A tibble: 6 × 12
-      unique_id file  speechevent level WHO   NSS   ROLE  SEX   AGE   RESTRICT FLANG
-          <int> <chr> <chr>       <chr> <chr> <chr> <chr> <chr> <chr> <chr>    <chr>
-    1         1 adv7… ADV         u1    S1    NRN   ST    F     4     NONE     EST  
-    2         2 adv7… ADV         u1    S2    NS    JU    F     1     NONE     <NA> 
-    3         3 adv7… ADV         u1    S1    NRN   ST    F     4     NONE     EST  
-    4         4 adv7… ADV         u1    S2    NS    JU    F     1     NONE     <NA> 
-    5         5 adv7… ADV         u1    S1    NRN   ST    F     4     NONE     EST  
-    6         6 adv7… ADV         u1    S2    NS    JU    F     1     NONE     <NA> 
-    # ℹ 1 more variable: text <chr>
+      unique_id file        speech_event     level speaker_id native_english_status
+          <int> <chr>       <chr>            <chr> <chr>      <chr>                
+    1         1 adv700ju023 Advising Session u1    S1         Near Native Speaker  
+    2         2 adv700ju023 Advising Session u1    S2         American Speaker     
+    3         3 adv700ju023 Advising Session u1    S1         Near Native Speaker  
+    4         4 adv700ju023 Advising Session u1    S2         American Speaker     
+    5         5 adv700ju023 Advising Session u1    S1         Near Native Speaker  
+    6         6 adv700ju023 Advising Session u1    S2         American Speaker     
+    # ℹ 6 more variables: academic_role <chr>, gender <chr>, age_range <chr>,
+    #   RESTRICT <chr>, first_language <chr>, text <chr>
 
 ``` r
 tail(micase_df)
 ```
 
     # A tibble: 6 × 12
-      unique_id file  speechevent level WHO   NSS   ROLE  SEX   AGE   RESTRICT FLANG
-          <int> <chr> <chr>       <chr> <chr> <chr> <chr> <chr> <chr> <chr>    <chr>
-    1     53747 tou9… TOU         u2    SU-m  NS    JU    M     1     NONE     <NA> 
-    2     53748 tou9… TOU         u2    SU-m  NS    JU    M     1     NONE     <NA> 
-    3     53749 tou9… TOU         u2    SU-m  NS    JU    M     1     NONE     <NA> 
-    4     53750 tou9… TOU         u2    SU-m  NS    JU    M     1     NONE     <NA> 
-    5     53751 tou9… TOU         u2    R1    NS    SG    F     3     NONE     <NA> 
-    6     53752 tou9… TOU         u2    SU-m  NS    JU    M     1     NONE     <NA> 
-    # ℹ 1 more variable: text <chr>
+      unique_id file        speech_event level speaker_id native_english_status
+          <int> <chr>       <chr>        <chr> <chr>      <chr>                
+    1     53747 tou999ju030 Tour         u2    SU-m       American Speaker     
+    2     53748 tou999ju030 Tour         u2    SU-m       American Speaker     
+    3     53749 tou999ju030 Tour         u2    SU-m       American Speaker     
+    4     53750 tou999ju030 Tour         u2    SU-m       American Speaker     
+    5     53751 tou999ju030 Tour         u2    R1         American Speaker     
+    6     53752 tou999ju030 Tour         u2    SU-m       American Speaker     
+    # ℹ 6 more variables: academic_role <chr>, gender <chr>, age_range <chr>,
+    #   RESTRICT <chr>, first_language <chr>, text <chr>
 
 The file name is included in the data frame so that each utterance can
 be connected to the transcription that it came from. The type of speech
@@ -187,7 +242,11 @@ the data, as it is difficult to quantify the conversational contribution
 of a word or words that are not known. It was also discovered that
 participants who have values “ALL” or “CITE” values in `RESTRICT` have
 had their speech redacted from the corpus. Due to this, these restricted
-utterances will also be removed from the dataset.
+utterances will also be removed from the dataset. The MICASE manual also
+states that utterances with an “SS” value in the `WHO` column are from
+two or more speakers in unison, which makes it difficult to link these
+contributions to specific speakers. As such, these utterances will be
+removed.
 
 ``` r
 #saving changes to a new df so that the original is still around if I need it
@@ -198,7 +257,9 @@ micase_df_turns <- micase_df %>%
   #removing all text cells that contain "RESTRICTED" values
   filter(text != "RESTRICTED") %>% 
   #dropping the RESTRICT column because it is not informative with the "RESTRICTED" values removed
-  select(!RESTRICT)
+  select(!RESTRICT) %>% 
+  #removing all rows with speaker_id cells that contain "SS" values
+  filter(speaker_id != "SS")
 ```
 
 # Creating a word token data frame
@@ -214,7 +275,9 @@ micase_df_words <- micase_df_turns %>%
   #split the strings in the text column by whitespace
   mutate(across(text, ~ (strsplit(.x, "\\s")))) %>% 
   #unnest the column so that every word is its own cell
-  unnest(cols=c("text"))
+  unnest(cols=c("text")) %>% 
+  #remove any rows with empty "text" cells
+  filter(text != "")
 ```
 
 ## Counting instances of non-lexicals, backchannels, and exclamations
@@ -226,20 +289,11 @@ straightforward way. Getting counts of these phenomena will be helpful
 in guiding how the analysis handles them.
 
 ``` r
-#saving a regex string that captures all the MICASE hesitation conventions
-hesitation_regex <- "^(hm|hm’|huh|mm|mhm|uh|um|mkay)[^\\w\\s]?$"
-
-#saving a regex string that captures all the MICASE backchannel cue conventions
-backchannel_regex <- "^(okey-doke|okey-dokey|uhuh|yeah|yep|yuhuh|uh’uh|huh’uh|‘m’m|huh’uh)[^\\w\\s]?$"
-
-#saving a regex string that captures all the MICASE exclamation conventions
-exclamation_regex <- "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh’oh|whoa|yay)[^\\w\\s]?$"
-
-#saving a regex string that captures the MICASE truncated word convention
-truncated_regex <- "-[^\\w\\s]?$"
-
-#concatenating the regexs to be mapped over
-nonlexical_regexs <- c(hesitation_regex, backchannel_regex, exclamation_regex, truncated_regex)
+#concatenating the regexs to be mapped over to find hesitations, backchannels, exclamations, and truncations
+nonlexical_regexs <- c(hesitation = "^(hm|hm'|huh|mm|mhm|uh|um|mkay)[^\\w\\s]?$", 
+                       backchannel = "^(okey-doke|okey-dokey|uhuh|yeah|yep|yuhuh|uh'uh|huh'uh|'m'm|huh'uh)[^\\w\\s]?$", 
+                       exclamation = "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh'oh|whoa|yay)[^\\w\\s]?$", 
+                       truncated = "-[^\\w\\s]?$")
 
 #saving a count of the total cells in micase_df_words
 total_word_count <- sum(micase_df_words %>% count())
@@ -251,38 +305,36 @@ word_counter <- function(regex_string) {
     filter(str_detect(text, regex_string)) %>% 
     #getting a count of the words matched
     count() %>% 
-    #creating a column that includes the regex string that was searched
-    #and a column for the percentage of the total word count that are matched strings
-    mutate(regex_searched = regex_string, percentage_of_total = sum(n)/total_word_count)
+    #creating a column for the percentage of the total word count that are matched strings
+    mutate(percentage_of_total = sum(n)/total_word_count)
 }
 
-#mapping the concanated regex strings over the word_counter() function
-map(nonlexical_regexs, ~ word_counter(.x))
+#mapping the concatenated regex strings over the word_counter() function
+map_dfr(nonlexical_regexs, word_counter, .id = "category")
 ```
 
-    [[1]]
-    # A tibble: 1 × 3
-          n regex_searched                               percentage_of_total
-      <int> <chr>                                                      <dbl>
-    1 20896 "^(hm|hm’|huh|mm|mhm|uh|um|mkay)[^\\w\\s]?$"              0.0224
+    # A tibble: 4 × 3
+      category        n percentage_of_total
+      <chr>       <int>               <dbl>
+    1 hesitation  20861             0.0224 
+    2 backchannel  9413             0.0101 
+    3 exclamation  3678             0.00395
+    4 truncated   10859             0.0117 
 
-    [[2]]
-    # A tibble: 1 × 3
-          n regex_searched                                       percentage_of_total
-      <int> <chr>                                                              <dbl>
-    1  9426 "^(okey-doke|okey-dokey|uhuh|yeah|yep|yuhuh|uh’uh|h…              0.0101
+Based on these total counts, exclamations will be removed from the data
+frame because they represent less than one percent of the total data.
+These word counts are being used as a quantifiable proxy for a speaker’s
+level of engagement with a speech event, so truncated words,
+hesitations, and filler words will also be removed but backchannel cues
+will be retained.
 
-    [[3]]
-    # A tibble: 1 × 3
-          n regex_searched                                       percentage_of_total
-      <int> <chr>                                                              <dbl>
-    1  3689 "^(ach|ah|ahah|gee|jeez|oh|ooh|oop|oops|tch|ugh|uh’…             0.00395
-
-    [[4]]
-    # A tibble: 1 × 3
-          n regex_searched percentage_of_total
-      <int> <chr>                        <dbl>
-    1 10859 "-[^\\w\\s]?$"              0.0116
+``` r
+micase_df_words <- micase_df_words %>% 
+  #using filter() to select every row that does not match the three regex strings
+  filter(!str_detect(text, nonlexical_regexs["hesitation"]),
+         !str_detect(text, nonlexical_regexs["exclamation"]),
+         !str_detect(text, nonlexical_regexs["truncated"]))
+```
 
 # Turn-taking analysis
 
@@ -295,13 +347,14 @@ initial analysis will only focus on first-level utterances which
 represent speakers successfully taking the floor.
 
 ``` r
-micase_df_turns %>% 
+#creating a new df for the analysis of the turn data
+micase_turn_analysis <- micase_df_turns %>% 
   #filtering to just look at first-level utterances
   filter(level == "u1") %>% 
   #adding count column for total turns taken in event
   add_count(file, name = "event_turn_total") %>% 
-  #using group_by to organize turns according to the file they come from and the ID value from WHO column
-  group_by(file, WHO) %>% 
+  #using group_by to organize turns according to the file they come from and the speaker_id
+  group_by(file, speaker_id) %>% 
   #adding count column for all turns taken by each speaker in every file
   add_count(name = "speaker_turns") %>% 
   #adding column calculating the the percentage of turns contributed by each speaker in every event
@@ -312,12 +365,94 @@ micase_df_turns %>%
   ##essentially providing a single row for each speaker in every interaction
   ##while still retaining the metadata information for the speaker
   slice(1) %>% 
-  #creating geom_count() plot with SEX on the x-axis and percent_turns_contributed on the y-axis
-  ggplot(aes(x = SEX, y = percent_turns_contributed)) + 
+  #filtering out speakers who contributed less than 1% of words to event
+  filter(percent_turns_contributed >= 0.01)
+
+micase_turn_analysis %>% 
+  #filtering out speakers with unknown gender
+  filter(gender != "Unknown") %>% 
+  #creating geom_count() plot with 'gender' on the x-axis and percent_turns_contributed on the y-axis
+  ggplot(aes(x = gender, y = percent_turns_contributed)) + 
   geom_count()
 ```
 
-![](data_pipeline_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](data_pipeline_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+
+``` r
+#A very preliminary linear model to see the effect that speech_event has on percent_turns_contributed
+lm(percent_turns_contributed ~ speech_event, data = micase_turn_analysis) %>% 
+  summary()
+```
+
+
+    Call:
+    lm(formula = percent_turns_contributed ~ speech_event, data = micase_turn_analysis)
+
+    Residuals:
+         Min       1Q   Median       3Q      Max 
+    -0.21061 -0.07177 -0.04391  0.02968  0.63447 
+
+    Coefficients:
+                                      Estimate Std. Error t value Pr(>|t|)    
+    (Intercept)                       0.180952   0.039041   4.635 4.38e-06 ***
+    speech_eventColloquium           -0.092586   0.055212  -1.677  0.09408 .  
+    speech_eventDiscussion Section   -0.103808   0.043122  -2.407  0.01637 *  
+    speech_eventDissertation Defense -0.032088   0.048605  -0.660  0.50940    
+    speech_eventInterview             0.319048   0.065715   4.855 1.54e-06 ***
+    speech_eventLab Section          -0.009013   0.043459  -0.207  0.83578    
+    speech_eventLarge Lecture        -0.119808   0.046076  -2.600  0.00955 ** 
+    speech_eventMeeting              -0.071260   0.042901  -1.661  0.09723 .  
+    speech_eventOffice Hours         -0.037646   0.041195  -0.914  0.36116    
+    speech_eventSeminar              -0.072007   0.042833  -1.681  0.09326 .  
+    speech_eventService Encounter    -0.047151   0.053046  -0.889  0.37443    
+    speech_eventSmall Lecture        -0.095942   0.041309  -2.323  0.02054 *  
+    speech_eventStudent Presentation -0.104232   0.041383  -2.519  0.01204 *  
+    speech_eventStudy Group           0.040906   0.044608   0.917  0.35951    
+    speech_eventTour                 -0.075054   0.058198  -1.290  0.19768    
+    ---
+    Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+    Residual standard error: 0.1295 on 600 degrees of freedom
+    Multiple R-squared:  0.1637,    Adjusted R-squared:  0.1442 
+    F-statistic: 8.391 on 14 and 600 DF,  p-value: < 2.2e-16
+
+Examining the results of the linear model for the relationship between
+the percentage of turns contributed and the type of speech event shows
+potential similarities that may motivate collapsing certain categories.
+For instance, the Discussion Section category has an estimate and *p*
+value that are similar those for Student Presentation events; from a
+conceptual standpoint, it makes sense that these events are similar and
+could perhaps be combined into a category of “Student-led Class
+Session”.
+
+# Word count analysis
+
+``` r
+#creating a new df for the analysis of the turn data
+micase_word_analysis <- micase_df_words %>% 
+  add_count(file, name = "event_word_total") %>% 
+  #using group_by to organize turns according to the file they come from and the speaker_id
+  group_by(file, speaker_id) %>% 
+  #adding count column for all turns taken by each speaker in every file
+  add_count(name = "speaker_words") %>% 
+  #adding column calculating the the percentage of turns contributed by each speaker in every event
+  mutate(percent_words_contributed = speaker_words/event_word_total) %>% 
+  #dropping columns that aren't relevant to analysis
+  select(-c(unique_id, text)) %>% 
+  #using slice to select the first row of each group
+  ##essentially providing a single row for each speaker in every interaction
+  ##while still retaining the metadata information for the speaker
+  slice(1) %>% 
+  #filtering out speakers who contributed less than 1% of words to event
+  filter(percent_words_contributed >= 0.01)
+
+micase_word_analysis %>% 
+  #creating geom_count() plot with 'gender' on the x-axis and percent_words_contributed on the y-axis
+  ggplot(aes(x = gender, y = percent_words_contributed)) + 
+  geom_count()
+```
+
+![](data_pipeline_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
 # Session Info
 
