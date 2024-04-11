@@ -130,12 +130,15 @@ micase_df <- micase_df %>%
                                                                 "NSO" = "Non-American Speaker",
                                                                 "NRN" = "Near Native Speaker",
                                                                 "NNS" = "Non-Native Speaker")))),
-         across(academic_role, ~ (str_replace_all(.x, c("JU" = "Junior Undergrad",
-                                                        "SU" = "Senior Undergrad",
-                                                        "JG" = "Junior Grad",
-                                                        "SG" = "Senior Grad",
-                                                        "JF" = "Junior Faculty",
-                                                        "SF" = "Senior Faculty",
+         #to simplify the categories in the eventual analysis, differences between "junior" and "senior" roles are dropped
+         ##for instance, "JU" is code for "junior undergrad" and "SU" is code for "senior undergrad",
+         ##but this analysis combines these two categories into "undergrad"
+         across(academic_role, ~ (str_replace_all(.x, c("JU" = "Undergrad",
+                                                        "SU" = "Undergrad",
+                                                        "JG" = "Grad",
+                                                        "SG" = "Grad",
+                                                        "JF" = "Faculty",
+                                                        "SF" = "Faculty",
                                                         "RE" = "Researcher",
                                                         "PD" = "Post-doc",
                                                         "ST" = "Staff",
@@ -279,8 +282,14 @@ micase_turn_analysis %>%
   #creating geom_count() plot with 'gender' on the x-axis and percent_turns_contributed on the y-axis
   ggplot(aes(x = gender, y = percent_turns_contributed)) + 
   geom_count()
+
+#A very preliminary linear model to see the effect that speech_event has on percent_turns_contributed
+lm(percent_turns_contributed ~ speech_event, data = micase_turn_analysis) %>% 
+  summary()
 ```
 
+Examining the results of the linear model for the relationship between the percentage of turns contributed and the type of speech event shows potential similarities that may motivate collapsing certain categories. 
+For instance, the Discussion Section category has an estimate and *p* value that are similar those for Student Presentation events; from a conceptual standpoint, it makes sense that these events are similar and could perhaps be combined into a category of "Student-led Class Session".
 
 # Word count analysis
 
@@ -295,7 +304,7 @@ micase_word_analysis <- micase_df_words %>%
   #adding column calculating the the percentage of turns contributed by each speaker in every event
   mutate(percent_words_contributed = speaker_words/event_word_total) %>% 
   #dropping columns that aren't relevant to analysis
-  select(-c(unique_id, level, text)) %>% 
+  select(-c(unique_id, text)) %>% 
   #using slice to select the first row of each group
   ##essentially providing a single row for each speaker in every interaction
   ##while still retaining the metadata information for the speaker
