@@ -81,3 +81,29 @@ I chose to license this project under the GNU General Public License v3.0, as it
 It was important to me that the components of this project are able to be used, modified, and shared by other interested parties.
 However, I also wanted to prevent against the possibility of closed source versions being distributed, so that any future usage of the content presented here would remain open to others.
 The GNU General Public License v3.0 accomplishes these goals which makes it a reasonable license for this project.
+
+## 3rd Progress Report: 04/10/2024
+
+Much of the progress since [the previous report](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/progress_report.md#2nd-progress-report-03312024) has focused on resolving issues that have appeared in the course of analyzing the data and transforming the data to be more informative in the analyses.
+Working through these steps has also guided decisions on the categories to include in the analysis.
+This progress includes:
+
+- Updating the [non-lexical regex code](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/data_pipeline.md#counting-instances-of-non-lexicals-backchannels-and-exclamations) to have more precise syntax and be more transparent.
+
+- Removing hesitations, filler words, exclamations, and truncated words from [the word token dataframe](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/data_pipeline.md#creating-a-word-token-data-frame).
+
+- Removing utterances that were coded as being spoken by two or more speakers in unison.
+
+- Removing `text` cells that didn't contain any values.
+
+- Replacing [MICASE code conventions]((https://ca.talkbank.org/access/0docs/MICASE.pdf)) with full value names for clarity.
+
+- Filtering out speakers who had less than 1% of speech event contributions for both the turn-taking analysis and the word token analysis.
+
+- Creating dataframes specifically for performing analysis functions.
+
+- Combining similar academic roles into grouped categories (i.e., "Junior Faculty" and "Senior Faculty" are combined into the role of "Faculty").
+
+- Beginning to construct linear models to analyze the data.
+
+All this work has been done within the existing [data_pipeline script file](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/data_pipeline.md). The [data for this project](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/tree/main/Data) has remained unchanged since the previous progress report; all manipulations to the data have occurred solely within the R code for this project.
