@@ -194,6 +194,7 @@ The MICASE manual also states that utterances with an "SS" value in the `WHO` co
 As such, these utterances will be removed.
 During the exploration of the data, it was noticed that the file `mtg999st015` is not easily comparable to the other files in this dataset as it is a transcript of a forum for international educators that had exclusively staff participants.
 All other events in the "meeting" category are student-led events, so `mtg999st015` will be omitted from analysis so it does not skew the data for this event type.
+`ofc105su068` is also omitted from the analysis as it contains much redacted speech which strongly skews the contribution counts.
 Events in the "interview" category will also be omitted from analysis as they are also difficult to compare to the rest of the data set due to their sociolinguistic interview nature.
 
 ```{r}
@@ -210,6 +211,8 @@ micase_df_turns <- micase_df %>%
   filter(speaker_id != "SS") %>% 
   #removing data for file `mtg999st015`
   filter(file != "mtg999st015") %>% 
+  #removing data for file `ofc105su068`
+  filter(file != "ofc105su068") %>% 
   #removing interview events
   filter(speech_event != "Interview")
 ```
@@ -412,8 +415,6 @@ map_dfr(eventtypes, ~ micase_turn_analysis %>%
           as_tibble(), 
         #setting the name of the output dataframe's id column to "Event Type"
         .id = "Event Type")
-
-
 ```
 
 # Word count analysis
