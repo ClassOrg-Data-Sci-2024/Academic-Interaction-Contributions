@@ -192,9 +192,9 @@ It was also discovered that participants who have values "ALL" or "CITE" values 
 Due to this, these restricted utterances will also be removed from the dataset.
 The MICASE manual also states that utterances with an "SS" value in the `WHO` column are from two or more speakers in unison, which makes it difficult to link these contributions to specific speakers.
 As such, these utterances will be removed.
-During the exploration of the data, it was noticed that the file `mtg999st015` is an outlier for this dataset as it is a transcript of a forum for international educators that had exclusively staff participants.
+During the exploration of the data, it was noticed that the file `mtg999st015` is not easily comparable to the other files in this dataset as it is a transcript of a forum for international educators that had exclusively staff participants.
 All other events in the "meeting" category are student-led events, so `mtg999st015` will be omitted from analysis so it does not skew the data for this event type.
-Events in the "interview" category will also be omitted from analysis as they are also outliers in the data set due to their sociolinguistic interview nature.
+Events in the "interview" category will also be omitted from analysis as they are also difficult to compare to the rest of the data set due to their sociolinguistic interview nature.
 
 ```{r}
 #saving changes to a new df so that the original is still around if I need it
