@@ -10,7 +10,7 @@ This Data Science course project examines the amount of speech that is contribut
 
 ## Project Data
 
-The [data](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/tree/main/Data) used in this project comes from the [Michigan Corpus of Academic Spoken English](https://quod.lib.umich.edu/m/micase/) (MICASE).
+The [data](Data/) used in this project comes from the [Michigan Corpus of Academic Spoken English](https://quod.lib.umich.edu/m/micase/) (MICASE).
 MICASE contains transcriptions and XML files for 152 academic speech events at the University of Michigan between 1997 and 2002. 
 In addition to the transcribed speech, the XML files contain metadata tags about the speech event and the speakers.
 The data used in this project is a subset of 75 transcripts that were tagged by MICASE as "Highly interactive" or "Mostly interactive" events.
@@ -25,16 +25,16 @@ The MICASE project is owned by the Regents of the University of Michigan, who ho
 
 - **Final report**: an explanation of this project, the data, the methods, and the analysis (forthcoming).
 
-- Data pipeline ([`.Rmd`](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/data_pipeline.Rmd) and [`.md`](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/data_pipeline.md)): the code used in this project to process, manipulate, and analyze the data.
+- Data pipeline ([`.Rmd`](data_pipeline.Rmd) and [`.md`](data_pipeline.md)): the code used in this project to process, manipulate, and analyze the data.
 
-- [Data](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/tree/main/Data): the XML files used by this project.
+- [Data](Data/): the XML files used by this project.
 
-- Images: image files of the plots generated during analysis (forthcoming).
+- [Images](Images/): image files of the plots generated during analysis.
 
-- [Project presentation](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/project_presentation.pdf): a `.pdf` copy of the PowerPoint presentation for this project that was given in April 2024 for the LING 2020 course at the University of Pittsburgh. 
+- [Project presentation](project_presentation.pdf): a `.pdf` copy of the PowerPoint presentation for this project that was given in April 2024 for the LING 2020 course at the University of Pittsburgh. 
 
-- [Progress report](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/progress_report.md): details the progression of work on this project throughout the 2024 Data Science course.
+- [Progress report](progress_report.md): details the progression of work on this project throughout the 2024 Data Science course.
 
-- [Project plan](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/project_plan.md): the initial plan created for this project.
+- [Project plan](project_plan.md): the initial plan created for this project.
 
-- [LICENSE](https://github.com/ClassOrg-Data-Sci-2024/Academic-Interaction-Contributions/blob/main/LICENSE.md): a copy of the GNU General Public License v3.0 explaining the licensing terms of this project repository.
+- [LICENSE](LICENSE.md): a copy of the GNU General Public License v3.0 explaining the licensing terms of this project repository.
