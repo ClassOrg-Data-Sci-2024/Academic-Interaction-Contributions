@@ -2,7 +2,7 @@
 title: "Data-processing Pipeline"
 subtitle: "Existing and updated project script file"
 author: "Jack Rechsteiner"
-date: "03/15/2024"
+date: "04/22/2024"
 output: 
   github_document: 
     toc: TRUE
@@ -17,6 +17,10 @@ library("tidyverse")
 
 #load xml2
 library(xml2)
+
+#load lme4 and lmerTest
+library(lme4)
+library(lmerTest)
 ```
 
 # Data overview
@@ -96,8 +100,6 @@ micase_df <- tibble(file = filename_list,
           text = u2_speaker_text) %>% 
   #Using unnest() on the columns that contain lists created by map()
   unnest(cols = c(file, speech_event, nodeset, text)) %>% 
-  #Giving each entry a unique_id based on row_number()
-  mutate(unique_id = row_number(), .before=1) %>% 
   #Using unnest_wider() on the nodeset lists so that the XML attribute titles become columns 
   ##which are filled with the XML attribute values
   unnest_wider(nodeset)
@@ -281,7 +283,7 @@ Examining contributions in academic interactions by the number of turns taken wi
 The MICASE Manual describes utterances tagged as second-level as "Backchannel cues from a speaker who doesn’t hold the floor and unsuccessful attempts to take the floor" (p. 14), so the initial analysis will only focus on first-level utterances which represent speakers successfully taking the floor.
 
 ```{r}
-#creating a new df for the analysis of the turn data
+#creating a new df for the analysis of the turn data by percentages
 micase_turn_analysis <- micase_df_turns %>% 
   #filtering to just look at first-level utterances
   filter(level == "u1") %>% 
@@ -294,7 +296,7 @@ micase_turn_analysis <- micase_df_turns %>%
   #adding column calculating the the percentage of turns contributed by each speaker in every event
   mutate(percent_turns_contributed = speaker_turns/event_turn_total) %>% 
   #dropping columns that aren't relevant to analysis
-  select(-c(unique_id, level, text)) %>% 
+  select(!c(level, text)) %>% 
   #using slice to select the first row of each group
   ##essentially providing a single row for each speaker in every interaction
   ##while still retaining the metadata information for the speaker
@@ -302,6 +304,24 @@ micase_turn_analysis <- micase_df_turns %>%
   #filtering out speakers who contributed less than 1% of words to event
   filter(percent_turns_contributed >= 0.01) %>% 
   ungroup()
+
+#creating a data frame where turn contribution is a binary categorical variable for linear modelling
+micase_turn_model <- micase_turn_analysis %>% 
+  #creating unique speaker ids to use as random effect by uniting file values with speaker_id values
+  unite(unique_speaker_id, file, speaker_id) %>% 
+  #creating a column for the count of turns a speaker didn't take in the interaction
+  mutate(not_speaking = event_turn_total-speaker_turns,
+         #mapping the turns not taken to a list column with a number of 0 values equal to the turns not taken
+         not_speaking = map(not_speaking, ~ rep(0, .x)),
+         #mapping the turns taken to a list column with a number of 1 values equal to the turns taken
+         speaker_turns = map(speaker_turns, ~ rep(1, .x)),
+         #combining the two list columns into a singular list column
+         turn_taken = map2(speaker_turns, not_speaking, c)) %>%
+  #dropping all the old count columns and intermediary columns
+  select(!c(event_turn_total:not_speaking)) %>% 
+  #unnesting the turns_taken column so that speakers have multiple rows where 1 indicates they took a turn
+  #and 0 indicates that someone else took a turn
+  unnest(cols = c(turn_taken))
 ```
 
 ## Gender
@@ -340,7 +360,7 @@ micase_turn_analysis %>%
   ylim(0, 1)
 
 #linear model analysis of gender in the two event categories
-micase_turn_analysis %>% 
+micase_turn_model %>% 
   #filtering out speakers of unknown gender
   filter(gender != "Unknown") %>% 
   #replacing all speech_event strings that start with "Institute" or "Student" with "Class/Supplementary"
@@ -353,8 +373,8 @@ micase_turn_analysis %>%
     #encoding speech_event as a factor so it can be releveled with the reference level as "Class/Supplementary"
     speech_event = (factor(speech_event) %>% relevel(speech_event, ref = "Class/Supplementary"))
   ) %>% 
-  #linear model to see the effects of gender * speech_event on percent_turns_contributed
-  lm(percent_turns_contributed ~ gender * speech_event, data = .) %>% 
+  #linear model to see the effects of gender * speech_event on turn_taken with a random effect for speaker_id
+  lmer(turn_taken ~ gender * speech_event + (1|unique_speaker_id), data = .) %>% 
   summary()
 ```
 
@@ -438,7 +458,7 @@ micase_word_analysis <- micase_df_words %>%
   #adding column calculating the the percentage of turns contributed by each speaker in every event
   mutate(percent_words_contributed = speaker_words/event_word_total) %>% 
   #dropping columns that aren't relevant to analysis
-  select(-c(unique_id, text)) %>% 
+  select(!text) %>% 
   #using slice to select the first row of each group
   ##essentially providing a single row for each speaker in every interaction
   ##while still retaining the metadata information for the speaker
@@ -446,6 +466,24 @@ micase_word_analysis <- micase_df_words %>%
   #filtering out speakers who contributed less than 1% of words to event
   filter(percent_words_contributed >= 0.01) %>% 
   ungroup()
+
+#creating a data frame where word contribution is a binary categorical variable for linear modelling
+micase_word_model <- micase_word_analysis %>% 
+  #creating unique model ids to use as random effect by uniting file values with speaker_id values
+  unite(unique_speaker_id, file, speaker_id) %>% 
+  #creating a column for the count of words a speaker didn't say in the interaction
+  mutate(not_speaking = event_word_total-speaker_words,
+         #mapping the words not spoken to a list column with a number of 0 values equal to the words not spoken
+         not_speaking = map(not_speaking, ~ rep(0, .x)),
+         #mapping the words spoken to a list column with a number of 1 values equal to the words spoken
+         speaker_words = map(speaker_words, ~ rep(1, .x)),
+         #combining the two list columns into a singular list column
+         word_spoken = map2(speaker_words, not_speaking, c)) %>%
+  #dropping all the old count columns and intermediary columns
+  select(!c(event_word_total:not_speaking)) %>% 
+  #unnesting the word_spoken column so that speakers have multiple rows where 1 indicates they spoke a word
+  #and 0 indicates that someone else spoke a word
+  unnest(cols = c(word_spoken))
 ```
 
 ## Gender
@@ -484,7 +522,7 @@ micase_word_analysis %>%
   ylim(0, 1)
 
 #linear model analysis of gender in the two event categories
-micase_word_analysis %>% 
+micase_word_model %>% 
   #filtering out speakers of unknown gender
   filter(gender != "Unknown") %>% 
   #replacing all speech_event strings that start with "Institute" or "Student" with "Class/Supplementary"
@@ -497,8 +535,9 @@ micase_word_analysis %>%
     #encoding speech_event as a factor so it can be releveled with the reference level as "Class/Supplementary"
     speech_event = (factor(speech_event) %>% relevel(speech_event, ref = "Class/Supplementary"))
   ) %>% 
-  #linear model to see the effects of gender * speech_event on percent_turns_contributed
-  lm(percent_words_contributed ~ gender * speech_event, data = .) %>% 
+  #linear model to see the effects of gender * speech_event on word_spoken with a random effect for unique_speaker_id
+  ##also specifying the optimizer as bobyqa because nloptwrap was having convergence issues
+  lmer(word_spoken ~ gender * speech_event + (1|unique_speaker_id), data = ., control = lmerControl(optimizer = "bobyqa")) %>% 
   summary()
 ```
 
