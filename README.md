@@ -1,6 +1,6 @@
 # Individual Contributions to Academic Interactions
 
-Jack Rechsteiner, [jjr156@pitt.edu](mailto:jjr156@pitt.edu); last updated April 21, 2024
+Jack Rechsteiner, [jjr156@pitt.edu](mailto:jjr156@pitt.edu); last updated April 22, 2024
 
 ------------------------------------------------------------------------
 
