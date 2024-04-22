@@ -10,7 +10,7 @@ output:
 
 ```{r setup}
 ##Set knitr options (show both code and output, show output w/o leading #)
-knitr::opts_chunk$set(echo = TRUE, include = TRUE, comment=NA)
+knitr::opts_chunk$set(echo = TRUE, include = TRUE, comment=NA, fig.path = "Images/")
 
 #load tidyverse
 library("tidyverse")
@@ -306,7 +306,9 @@ micase_turn_analysis <- micase_df_turns %>%
 
 ## Gender
 
-```{r}
+This analysis of the turn-taking data will look at the effects of gender on turn contributions in interactions.
+
+```{r turn-taking gender analysis}
 #creating a plot for institute-led and student-led events by gender
 micase_turn_analysis %>% 
   #filtering out speakers with unknown gender and "Academic Event" speech events
@@ -344,7 +346,7 @@ micase_turn_analysis %>%
   #replacing all speech_event strings that start with "Institute" or "Student" with "Class/Supplementary"
   mutate(
     across(speech_event, ~ str_replace_all(.x, c("^Institute.+" = "Class/Supplementary", 
-                                          "^Student.+" = "Class/Supplementary"))
+                                                 "^Student.+" = "Class/Supplementary"))
     ),
     #encoding gender as a factor so it can be releveled with the reference level as "Male"
     gender = (factor(gender) %>% relevel(gender, ref = "Male")),
@@ -358,7 +360,9 @@ micase_turn_analysis %>%
 
 ## Age
 
-```{r}
+This analysis of the turn-taking data will look at the effects of age on turn contributions in interactions.
+
+```{r turn-taking age analysis}
 #creating plots for contributions in class/Supplementary events and academic events by age range
 micase_turn_analysis %>% 
   #filtering out speakers with unknown ages
@@ -380,7 +384,9 @@ micase_turn_analysis %>%
 
 ## Academic Role
 
-```{r}  
+This analysis of the turn-taking data will look at the effects of academic role on turn contributions in interactions.
+
+```{r turn-taking academic role analysis}  
 #creating a plot for institute-led and student-led events by academic role
 micase_turn_analysis %>% 
   #filtering out speakers with visitor roles and unknown roles, and presentations
@@ -419,6 +425,8 @@ map_dfr(eventtypes, ~ micase_turn_analysis %>%
 
 # Word count analysis
 
+Examining contributions in academic interactions by the number of words spoken will be accomplished with the `micase_df_words` dataframe that has been created.
+
 ```{r}
 #creating a new df for the analysis of the turn data
 micase_word_analysis <- micase_df_words %>% 
@@ -442,7 +450,9 @@ micase_word_analysis <- micase_df_words %>%
 
 ## Gender
 
-```{r}
+This analysis of the word count data will look at the effects of gender on word contributions in interactions.
+
+```{r word count gender analysis}
 #creating a plot for institute-led and student-led events by gender
 micase_word_analysis %>% 
   #filtering out speakers with unknown gender and "Academic Event" speech events
@@ -480,7 +490,7 @@ micase_word_analysis %>%
   #replacing all speech_event strings that start with "Institute" or "Student" with "Class/Supplementary"
   mutate(
     across(speech_event, ~ str_replace_all(.x, c("^Institute.+" = "Class/Supplementary", 
-                                          "^Student.+" = "Class/Supplementary"))
+                                                 "^Student.+" = "Class/Supplementary"))
     ),
     #encoding gender as a factor so it can be releveled with the reference level as "Male"
     gender = (factor(gender) %>% relevel(gender, ref = "Male")),
@@ -494,7 +504,9 @@ micase_word_analysis %>%
 
 ## Age
 
-```{r}
+This analysis of the word count data will look at the effects of age on word contributions in interactions.
+
+```{r word count age analysis}
 #creating plots for contributions in class/Supplementary events and academic events by age range
 micase_word_analysis %>% 
   #filtering out speakers with unknown ages
@@ -516,7 +528,9 @@ micase_word_analysis %>%
 
 ## Academic Role
 
-```{r}
+This analysis of the word count data will look at the effects of academic role on word contributions in interactions.
+
+```{r word count academic role analysis}
 #creating a plot for institute-led and student-led events
 micase_word_analysis %>% 
   #filtering out speakers with visitor roles and unknown roles, and presentations
