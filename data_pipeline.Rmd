@@ -413,8 +413,8 @@ micase_turn_analysis %>%
   filter(academic_role != "Visitor/Other", academic_role != "Unknown", speech_event != "Academic Event") %>% 
   #creating plot with 'academic_role' on the x-axis and percent_turns_contributed on the y-axis
   ggplot(aes(x = academic_role, y = percent_turns_contributed)) + 
-  #specifying plot as geom_count()
-  geom_count() +
+  #specifying plot as geom_jitter() with a width of .3
+  geom_jitter(width = .3) +
   #creating facets for each speech event and setting the direction to vertical
   facet_wrap(vars(speech_event), dir="v") +
   #changing axis labels to be more informative
@@ -575,9 +575,9 @@ micase_word_analysis %>%
   #filtering out speakers with visitor roles and unknown roles, and presentations
   filter(academic_role != "Visitor/Other", academic_role != "Unknown", speech_event != "Academic Event") %>% 
   #creating plot with 'academic_role' on the x-axis and percent_turns_contributed on the y-axis
-  ggplot(aes(x = academic_role, y = percent_words_contributed)) + 
-  #specifying plot as geom_count()
-  geom_count() +
+  ggplot(aes(x = academic_role, y = percent_words_contributed,  group = academic_role)) + 
+  #specifying plot as geom_jitter() with a width of .3
+  geom_jitter(width = .3) +
   #creating facets for each speech event and setting the direction to vertical
   facet_wrap(vars(speech_event), dir="v") +
   #changing axis labels to be nicer
