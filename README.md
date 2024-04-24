@@ -1,12 +1,13 @@
 # Individual Contributions to Academic Interactions
 
-Jack Rechsteiner, [jjr156@pitt.edu](mailto:jjr156@pitt.edu); last updated April 22, 2024
+Jack Rechsteiner, [jjr156@pitt.edu](mailto:jjr156@pitt.edu); last updated April 23, 2024
 
 ------------------------------------------------------------------------
 
 ## Project Summary
 
-This Data Science course project examines the amount of speech that is contributed by individuals participating in academic interactions and analyzes the effects that interaction type, number of participants, and participant identity/position/role have on an individual's contributions.
+This Data Science course project examines the amount of conversational contributions by individuals participating in academic interactions and analyzes the effects that institutional position and social position have on individual contribution levels.
+
 
 ## Project Data
 
@@ -23,7 +24,7 @@ The MICASE project is owned by the Regents of the University of Michigan, who ho
 
 ## Project Organization
 
-- **Final report**: an explanation of this project, the data, the methods, and the analysis (forthcoming).
+- [**Final report**](final_report.md): an explanation of this project, the data, the methods, and the analysis.
 
 - Data pipeline ([`.Rmd`](data_pipeline.Rmd) and [`.md`](data_pipeline.md)): the code used in this project to process, manipulate, and analyze the data.
 
