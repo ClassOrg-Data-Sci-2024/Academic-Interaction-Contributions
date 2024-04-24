@@ -232,6 +232,9 @@ Thanks to this project, and the experience of overcoming these difficulties, I h
 ## References
 
 Cameron, D. (2001). *Working with spoken discourse*. SAGE.
+
 Clark, H., & Schaefer, E. (1989). Contributing to discourse. *Cognitive Science, 13*(2), 259–294. 
+
 Johnstone, B. (2018). *Discourse analysis* (Third edition). John Wiley & Sons, Inc.
+
 Simpson, R., Lee, D., & Leicher, S. (2002). *MICASE Manual*. Ann Arbor, Michigan, USA; English Language Institute, The University of Michigan. 
