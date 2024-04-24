@@ -93,7 +93,7 @@ The analysis presented below looks at how turn and word contributions are separa
 
 *Contributions by academic role across events types*
 
-![](/Images/turn-taking academic role analysis-1.png)
+![](Images/turn-taking academic role analysis-1.png)
 **Figure 1**
 
 Figure 1, as seen above, shows the distribution of the percentage of turns taken in an interaction by academic role across the Institute-Led and Student-Led Class events and Supplementary events.
