@@ -93,7 +93,8 @@ The analysis presented below looks at how turn and word contributions are separa
 
 *Contributions by academic role across events types*
 
-![](Images/turn-taking%20academic%20role%20analysis-1.png)
+![Figure 1](Images/turn-taking%20academic%20role%20analysis-1.png)
+
 **Figure 1**
 
 Figure 1, as seen above, shows the distribution of the percentage of turns taken in an interaction by academic role across the Institute-Led and Student-Led Class events and Supplementary events.
@@ -103,7 +104,8 @@ University employees in the Institute-Led events overall have percentage rates b
 However, university employees in the Student-Led Class events have percentages that are more dispersed throughout the 0% to 60% range even if students are remaining in the 0% to 20% range.
 The Student-Led Supplementary events show the most equal distribution between academic roles, with all three groups being dispersed throughout the 0% to 40% range.
 
-![](/Images/word count academic role analysis-1.png)
+![Figure 2](Images/word%20count%20academic%20role%20analysis-1.png)
+
 **Figure 2**
 
 Figure 2 plots the distribution of the percentage of words spoken in an interaction, but is otherwise the same as Figure 1 in showing the percentage by academic role across the Institute-Led and Student-Led Class events and Supplementary events.
@@ -120,6 +122,7 @@ These averages are shown below in Table 1.
 | Institute-led Supplementary | 9.5%                       | 7.3%                        |
 | Student-led Supplementary   | 17.8%                      | 17.9%                       |
 | Academic Event              | 13%                        | 24.4%                       |
+
 **Table 1**
 
 The first four sets of averages show that the percentage distributions for undergraduate students seen in Figure 1 and Figure 2 are similar for the two contribution measurements.
@@ -127,13 +130,15 @@ However, there is an unexpected disparity between the measurement percentages fo
 
 *Gender differences in contributions*
 
-![](/Images/turn-taking gender analysis-1.png)
+![Figure 3](Images/turn-taking%20gender%20analysis-1.png)
+
 **Figure 3**
 
 MICASE mentions that the corpus attempted to get the same amount of speech from male and female speakers.
 This is borne out in the analysis, as seen in Figure 3, as there is little difference in the percentage of turns taken by female and male speakers in Institute-Led and Student-Led events.
 
-![](/Images/turn-taking gender analysis-2.png)
+![Figure 4](Images/turn-taking%20gender%20analysis-2.png)
+
 **Figure 4**
 
 Figure 4 appears to show male speakers having slightly higher percentages of turn taking than female speakers in Academic Events.
@@ -146,19 +151,22 @@ However, this difference was not found to be statistically significant, as seen 
 | genderFemale                             | 0.01     | 0.01        | 0.33         |
 | speech_eventAcademic Event               | 0.02     | 0.02        | 0.44         |
 | genderFemale:speech_eventAcademic Event  | -0.02    | 0.04        | 0.65         |
+
 **Table 2**
 
 A linear mixed effects model was run with amount of turns taken as the dependent variable, fixed effects for the interaction of gender and speech event type, and a random effect for participant.
 The results showed that only the intercept had a statistically significant P value.
 The formula used for the model was `lmer(turn_taken ~ gender * speech_event + (1|unique_speaker_id))`.
 
-![](/Images/word count gender analysis-1.png)
+![Figure 5](Images/word%20count%20gender%20analysis-1.png)
+
 **Figure 5**
 
 The analysis of gender effects on word contributions similarly supports the case that MICASE recorded equal amounts of speech from male and female speakers.
 Figure 5 shows very similar percentages of words spoken in an interaction for female and male speakers in Institute-Led and Student-Led events.
 
-![](/Images/word count gender analysis-2.png)
+![Figure 6](Images/word%20count%20gender%20analysis-2.png)
+
 **Figure 6**
 
 The slight difference in turn taking percentages seen in Figure 4 is not present for the word taken analysis, as shown in Figure 6.
@@ -171,6 +179,7 @@ Additionally, the statistics for the word token analysis confirm this lack of ge
 | genderFemale                             | -0.01    | 0.02        | 0.70         |
 | speech_eventAcademic Event               | 0.04     | 0.04        | 0.43         |
 | genderFemale:speech_eventAcademic Event  | -0.01    | 0.07        | 0.94         |
+
 **Table 3**
 
 A linear mixed effects model was run with number of words spoken as the dependent variable, fixed effects for the interaction of gender and speech event type, and a random effect for participant.
@@ -179,12 +188,14 @@ The formula used for the model was `lmer(word_spoken ~ gender * speech_event + (
 
 *Age differences in contributions*
 
-![](/Images/turn-taking age analysis-1.png)
+![Figure 7](Images/turn-taking%20age%20analysis-1.png)
+
 **Figure 7**
 
 Figure 7 presents the distribution of percentage of turns taken in an interaction by age range across the categories of Academic Events and Classes + Supplementary events.
 
-![](/Images/word count age analysis-1.png)
+![Figure 8](Images/word%20count%20age%20analysis-1.png)
+
 **Figure 8**
 
 Comparatively, Figure 8 presents the distribution of percentage of words spoken in an interaction by age range across the categories of Academic Events and Classes + Supplementary events.
